@@ -1,0 +1,814 @@
+Aganwada
+Kankrej	Banaskantha	GUJARAT	385555
+Agthala
+Disa	Banaskantha	GUJARAT	385535
+Akoli
+Vav	Banaskantha	GUJARAT	385566
+Alwada
+Dhanera	Banaskantha	GUJARAT	385545
+Ambaji
+Danta	Banaskantha	GUJARAT	385110
+Anapur Chhota
+Dhanera	Banaskantha	GUJARAT	385545
+Antroli
+Palanpur	Banaskantha	GUJARAT	385010
+Arkhi
+Dhanera	Banaskantha	GUJARAT	385545
+Asara
+Vav	Banaskantha	GUJARAT	385575
+Asarada
+Disa	Banaskantha	GUJARAT	385535
+Asodar
+Tharad	Banaskantha	GUJARAT	385565
+Badargadh
+Palanpur	Banaskantha	GUJARAT	385410
+Badarpura
+Vadgam	Banaskantha	GUJARAT	385520
+Baiwada
+Disa	Banaskantha	GUJARAT	385535
+Baiyak
+Vav	Banaskantha	GUJARAT	385575
+Balodhan
+Bhabhar	Banaskantha	GUJARAT	385320
+Balodhar
+Disa	Banaskantha	GUJARAT	385530
+Balundra
+Amirgadh	Banaskantha	GUJARAT	385135
+Baluntri
+Vav	Banaskantha	GUJARAT	385575
+Bamnoj
+Danta	Banaskantha	GUJARAT	385110
+Bapla
+Dhanera	Banaskantha	GUJARAT	385545
+Barwala
+Bhabhar	Banaskantha	GUJARAT	385320
+Basu
+Vadgam	Banaskantha	GUJARAT	385520
+Bavalchudi
+Vadgam	Banaskantha	GUJARAT	385210
+Benap
+Vav	Banaskantha	GUJARAT	385570
+Bevta
+Tharad	Banaskantha	GUJARAT	385565
+Bhabhar
+Bhabhar	Banaskantha	GUJARAT	385320
+Bhachali
+Vav	Banaskantha	GUJARAT	385575
+Bhachalva
+Disa	Banaskantha	GUJARAT	385535
+Bhadath
+Disa	Banaskantha	GUJARAT	385535
+Bhadli Jhat
+Dhanera	Banaskantha	GUJARAT	385545
+Bhadli kotha
+Danta	Banaskantha	GUJARAT	385505
+Bhadramali
+Disa	Banaskantha	GUJARAT	385535
+Bhadrewadi
+Kankrej	Banaskantha	GUJARAT	385560
+Bhagal J
+Palanpur	Banaskantha	GUJARAT	385001
+Bhagal P
+Palanpur	Banaskantha	GUJARAT	385001
+Bhakhari
+Danta	Banaskantha	GUJARAT	385120
+Bhakhari
+Vav	Banaskantha	GUJARAT	385566
+Bhakharmoti
+Palanpur	Banaskantha	GUJARAT	385510
+Bhakodar
+Dantiwada	Banaskantha	GUJARAT	385505
+Bhalgam
+Vadgam	Banaskantha	GUJARAT	385421
+Bhalgam
+Kankrej	Banaskantha	GUJARAT	385560
+Bhandotra
+Dhanera	Banaskantha	GUJARAT	385545
+Bhanjana
+Dhanera	Banaskantha	GUJARAT	385310
+Bharadva
+Vav	Banaskantha	GUJARAT	385570
+Bhatamal moti
+Palanpur	Banaskantha	GUJARAT	385010
+Bhatib
+Dhanera	Banaskantha	GUJARAT	385310
+Bhatram
+Dhanera	Banaskantha	GUJARAT	385545
+Bhatvar
+Vav	Banaskantha	GUJARAT	385575
+Bhesana
+Deodar	Banaskantha	GUJARAT	385330
+Bhilachal
+Dantiwada	Banaskantha	GUJARAT	385505
+Bhildi
+Disa	Banaskantha	GUJARAT	385530
+Bhordu
+Tharad	Banaskantha	GUJARAT	385565
+Bhorol
+Tharad	Banaskantha	GUJARAT	385566
+Bhoyan
+Disa	Banaskantha	GUJARAT	385535
+Bhutedi
+Palanpur	Banaskantha	GUJARAT	385010
+Bukna
+Vav	Banaskantha	GUJARAT	385575
+Bukoli
+Kankrej	Banaskantha	GUJARAT	385550
+Chadotar
+Palanpur	Banaskantha	GUJARAT	385001
+Chala
+Vav	Banaskantha	GUJARAT	385570
+Chalva
+Disa	Banaskantha	GUJARAT	385535
+Chandisar
+Palanpur	Banaskantha	GUJARAT	385510
+Changa
+Kankrej	Banaskantha	GUJARAT	385555
+Changa
+Vadgam	Banaskantha	GUJARAT	385520
+Changda
+Tharad	Banaskantha	GUJARAT	385565
+Changwada
+Vadgam	Banaskantha	GUJARAT	385520
+Charda
+Tharad	Banaskantha	GUJARAT	385565
+Chatra
+Bhabhar	Banaskantha	GUJARAT	385320
+Chekhala
+Kankrej	Banaskantha	GUJARAT	385550
+Chekra
+Disa	Banaskantha	GUJARAT	385535
+Chembuva
+Bhabhar	Banaskantha	GUJARAT	385320
+Chhaniyana
+Vadgam	Banaskantha	GUJARAT	385410
+Chhapi
+Vadgam	Banaskantha	GUJARAT	385210
+Chhatrala
+Disa	Banaskantha	GUJARAT	385530
+Chibhada
+Deodar	Banaskantha	GUJARAT	385330
+Chitrasani
+Palanpur	Banaskantha	GUJARAT	385010
+Chudmer
+Tharad	Banaskantha	GUJARAT	385565
+Chuva
+Tharad	Banaskantha	GUJARAT	385566
+Dabhela
+Shri Amirgadh	Banaskantha	GUJARAT	385130
+Daiyap
+Tharad	Banaskantha	GUJARAT	385566
+Dalpura
+Danta	Banaskantha	GUJARAT	385120
+Dalwada
+Palanpur	Banaskantha	GUJARAT	385515
+Dalwana
+Vadgam	Banaskantha	GUJARAT	385421
+Dangia
+Palanpur	Banaskantha	GUJARAT	385510
+Danta Bhavangadh
+Danta	Banaskantha	GUJARAT	385120
+Dantiwada
+Dantiwada	Banaskantha	GUJARAT	385505
+Dantiwada Colony
+Dantiwada	Banaskantha	GUJARAT	385505
+Dendava
+Vav	Banaskantha	GUJARAT	385575
+Deodar
+Deodar	Banaskantha	GUJARAT	385330
+Dethli
+Vav	Banaskantha	GUJARAT	385575
+Dhagadia
+Danta	Banaskantha	GUJARAT	385110
+Dhakha
+Dhanera	Banaskantha	GUJARAT	385310
+Dhanakwada
+Deodar	Banaskantha	GUJARAT	385330
+Dhanali
+Danta	Banaskantha	GUJARAT	385120
+Dhandha
+Palanpur	Banaskantha	GUJARAT	385001
+Dhanera
+Dhanera	Banaskantha	GUJARAT	385310
+Dhaniawada
+Dhanera	Banaskantha	GUJARAT	385545
+Dhanpura
+Amirgadh	Banaskantha	GUJARAT	385001
+Dharadhara
+Vav	Banaskantha	GUJARAT	385575
+Dharnodhar
+Dhanera	Banaskantha	GUJARAT	385310
+Dhima
+Tharad	Banaskantha	GUJARAT	385566
+Dholia
+Shriamirgadh	Banaskantha	GUJARAT	385135
+Dhota
+Vadgam	Banaskantha	GUJARAT	385421
+Dhrechana
+Bhabhar	Banaskantha	GUJARAT	385320
+Dhuva
+Disa	Banaskantha	GUJARAT	385540
+Disa Bazar
+Deesa	Banaskantha	GUJARAT	385535
+Disa M.Y. Pedal
+Deesa	Banaskantha	GUJARAT	385535
+Disa Mukhya Dak Ghar
+Disa	Banaskantha	GUJARAT	385535
+Dodgam
+Tharad	Banaskantha	GUJARAT	385565
+Duchakwada
+Deodar	Banaskantha	GUJARAT	385330
+Dudhava
+Tharad	Banaskantha	GUJARAT	385565
+Dugdol
+Dhanera	Banaskantha	GUJARAT	385310
+Dungrasan
+Kankrej	Banaskantha	GUJARAT	385550
+Duva
+Tharad	Banaskantha	GUJARAT	385310
+Edrana
+Vadgam	Banaskantha	GUJARAT	385210
+Eta
+Bhabhar	Banaskantha	GUJARAT	385320
+Forna
+Deodar	Banaskantha	GUJARAT	385330
+Gadh
+Palanpur	Banaskantha	GUJARAT	385515
+Gadsisar
+Tharad	Banaskantha	GUJARAT	385566
+Gangva
+Danta	Banaskantha	GUJARAT	385120
+Garambadi
+Bhabhar	Banaskantha	GUJARAT	385320
+Gathaman
+Palanpur	Banaskantha	GUJARAT	385001
+Ghada
+Disa	Banaskantha	GUJARAT	385535
+Ghana
+Dhanera	Banaskantha	GUJARAT	385310
+Ghodasar
+Tharad	Banaskantha	GUJARAT	385310
+Ghodiyal
+Vadgam	Banaskantha	GUJARAT	385421
+Gidasan
+Vadgam	Banaskantha	GUJARAT	385421
+Gola
+Vadgam	Banaskantha	GUJARAT	385410
+Golgam
+Vav	Banaskantha	GUJARAT	385575
+Golvi
+Deodar	Banaskantha	GUJARAT	385330
+Gorad
+Danta	Banaskantha	GUJARAT	385120
+Gundri
+Dhanera	Banaskantha	GUJARAT	385545
+Hadad
+Danta	Banaskantha	GUJARAT	385110
+Hasanpur
+Palanpur	Banaskantha	GUJARAT	385001
+Hathidra
+Palanpur	Banaskantha	GUJARAT	385001
+Hoda
+Palanpur	Banaskantha	GUJARAT	385001
+Idhata
+Tharad	Banaskantha	GUJARAT	385566
+Iqbalgadh
+Shri Amirgadh	Banaskantha	GUJARAT	385135
+Isarva
+Kankrej	Banaskantha	GUJARAT	385555
+Jada
+Deodar	Banaskantha	GUJARAT	385330
+Jadi
+Dhanera	Banaskantha	GUJARAT	385310
+Jadia
+Dhanera	Banaskantha	GUJARAT	385310
+Jadiali
+Dhanera	Banaskantha	GUJARAT	385310
+Jagana
+Palanpur	Banaskantha	GUJARAT	385001
+Jakhel
+Kankrej	Banaskantha	GUJARAT	385555
+Jalodha
+Deodar	Banaskantha	GUJARAT	385330
+Jalotra
+Vadgam	Banaskantha	GUJARAT	385001
+Jamda
+Tharad	Banaskantha	GUJARAT	385565
+Jamru
+Danta	Banaskantha	GUJARAT	385110
+Jasali
+Deodar	Banaskantha	GUJARAT	385330
+Jasanwada
+Bhabhar	Banaskantha	GUJARAT	385320
+Jasleni
+Palanpur	Banaskantha	GUJARAT	385410
+Jaswant Gadh
+NA	Banaskantha	GUJARAT	385120
+Jegol
+Dantiwada	Banaskantha	GUJARAT	385505
+Jelana
+Vav	Banaskantha	GUJARAT	385575
+Jetda
+Disa	Banaskantha	GUJARAT	385535
+Jethi
+Shri Amirgadh	Banaskantha	GUJARAT	385135
+Jhabadia
+Disa	Banaskantha	GUJARAT	385540
+Jhat
+Dhanera	Banaskantha	GUJARAT	385545
+Jherda
+Disa	Banaskantha	GUJARAT	385535
+Jitpur
+Danta	Banaskantha	GUJARAT	385120
+Jiwana
+Dhanera	Banaskantha	GUJARAT	385310
+Jodhsar
+Danta	Banaskantha	GUJARAT	385110
+Junadisa
+Disa	Banaskantha	GUJARAT	385540
+Kakar
+Kankraj	Banaskantha	GUJARAT	385550
+Kaleda
+Vadgam	Banaskantha	GUJARAT	385421
+Kamali
+Tharad	Banaskantha	GUJARAT	385565
+Kamboi
+Kankrej	Banaskantha	GUJARAT	385550
+Kanodar
+Palanpur	Banaskantha	GUJARAT	385520
+Kansari
+Disa	Banaskantha	GUJARAT	385535
+Kapasia
+Shri Amirgadh	Banaskantha	GUJARAT	385135
+Kapra mota
+Disa	Banaskantha	GUJARAT	385535
+Karbun
+Tharad	Banaskantha	GUJARAT	385566
+Karjoda
+Palanpur	Banaskantha	GUJARAT	385001
+Kasara
+Kankrej	Banaskantha	GUJARAT	385555
+Katarva
+Disa	Banaskantha	GUJARAT	385535
+Katav
+Bhabhar	Banaskantha	GUJARAT	385320
+Khandhor U
+Danta	Banaskantha	GUJARAT	385110
+Khardosan
+Disa	Banaskantha	GUJARAT	385540
+Kharia
+Kankrej	Banaskantha	GUJARAT	385555
+Khengarpura
+Tharad	Banaskantha	GUJARAT	385565
+Khentva
+Disa	Banaskantha	GUJARAT	385530
+Kherola
+Dhanera	Banaskantha	GUJARAT	385310
+Khimana
+Kankrej	Banaskantha	GUJARAT	385550
+Khimat
+Dhanera	Banaskantha	GUJARAT	385545
+Khoda
+Tharad	Banaskantha	GUJARAT	385565
+Khoda
+Kankrej	Banaskantha	GUJARAT	385550
+Khodla
+Kankrej	Banaskantha	GUJARAT	385550
+Khodla
+Palanpur	Banaskantha	GUJARAT	385510
+Kidotar
+Shri Amirgadh	Banaskantha	GUJARAT	385130
+Kodram
+Vadgam	Banaskantha	GUJARAT	385421
+Kotarwada
+Deodar	Banaskantha	GUJARAT	385330
+Kotda
+Disa	Banaskantha	GUJARAT	385535
+Koteshwar
+Danta	Banaskantha	GUJARAT	385110
+Kuchawada
+Dhanera	Banaskantha	GUJARAT	385545
+Kuda
+Disa	Banaskantha	GUJARAT	385535
+Kukadi
+Danta	Banaskantha	GUJARAT	385120
+Kumar
+Dhanera	Banaskantha	GUJARAT	385545
+Kumbhalmer
+Palanpur	Banaskantha	GUJARAT	385510
+Kumbharkha
+Vav	Banaskantha	GUJARAT	385570
+Kumbhasan
+Palanpur	Banaskantha	GUJARAT	385515
+Kundaliya.
+Vav	Banaskantha	GUJARAT	385575
+Kundel
+Danta	Banaskantha	GUJARAT	385120
+Kunvarva
+Kankrej	Banaskantha	GUJARAT	385550
+Kushkal
+Palanpur	Banaskantha	GUJARAT	385510
+Kuvala
+Bhabhar	Banaskantha	GUJARAT	385320
+Kuvarla
+Dhanera	Banaskantha	GUJARAT	385310
+Kuvarshi
+Danta	Banaskantha	GUJARAT	385120
+Lakhani
+Disa	Banaskantha	GUJARAT	385535
+Lalawada
+Palanpur	Banaskantha	GUJARAT	385001
+Lalpur
+Tharad	Banaskantha	GUJARAT	385565
+Lavana
+Disa	Banaskantha	GUJARAT	385535
+Lavara
+Dhanera	Banaskantha	GUJARAT	385310
+Laxmipura
+Kankrej	Banaskantha	GUJARAT	385550
+Limbuni
+Vav	Banaskantha	GUJARAT	385570
+Lodrani
+Vav	Banaskantha	GUJARAT	385575
+Lorwada
+Disa	Banaskantha	GUJARAT	385530
+Ludra
+Deodar	Banaskantha	GUJARAT	385330
+Lunpur
+Disa	Banaskantha	GUJARAT	385540
+Lunva
+Palanpur	Banaskantha	GUJARAT	385001
+Luvana
+Tharad	Banaskantha	GUJARAT	385565
+Madal
+Tharad	Banaskantha	GUJARAT	385565
+Madana Dangia
+Palanpur	Banaskantha	GUJARAT	385510
+Madana
+Palanpur	Banaskantha	GUJARAT	385515
+Madhpura
+Bhabhar	Banaskantha	GUJARAT	385320
+Madka
+Vav	Banaskantha	GUJARAT	385575
+Magarwada
+Vadgam	Banaskantha	GUJARAT	385410
+Mahadevia
+Disa	Banaskantha	GUJARAT	385535
+Mahi
+Vadgam	Banaskantha	GUJARAT	385210
+Majadar
+Vadgam	Banaskantha	GUJARAT	385210
+Malan
+Palanpur	Banaskantha	GUJARAT	385001
+Malana
+Palanpur	Banaskantha	GUJARAT	385001
+Malgadh
+Disa	Banaskantha	GUJARAT	385535
+Malotra
+Dhanera	Banaskantha	GUJARAT	385310
+Malupur
+Tharad	Banaskantha	GUJARAT	385565
+Mamana
+Vav	Banaskantha	GUJARAT	385570
+Mandal
+Dhanera	Banaskantha	GUJARAT	385545
+Mandla
+Kankrej	Banaskantha	GUJARAT	385560
+Mankdi
+Danta	Banaskantha	GUJARAT	385120
+Manpur
+Kankraj	Banaskantha	GUJARAT	385550
+Manpura
+Vadgam	Banaskantha	GUJARAT	385210
+Manpuria
+Shri Amirgadh	Banaskantha	GUJARAT	385135
+Mavsari
+Vav	Banaskantha	GUJARAT	385566
+Memadpur
+Vadgam	Banaskantha	GUJARAT	385421
+Meta
+Vadgam	Banaskantha	GUJARAT	385520
+Mitha
+Bhabhar	Banaskantha	GUJARAT	385320
+Moria P
+Palanpur	Banaskantha	GUJARAT	385001
+Moria N
+Danta	Banaskantha	GUJARAT	385120
+Morikha
+Vav	Banaskantha	GUJARAT	385575
+Morthal
+Tharad	Banaskantha	GUJARAT	385310
+Morwada
+Bhabhar	Banaskantha	GUJARAT	385320
+Mota
+Palanpur	Banaskantha	GUJARAT	385510
+Mota Mesra
+Tharad	Banaskantha	GUJARAT	385565
+Mota jampur
+Kankrej	Banaskantha	GUJARAT	385555
+Motasada
+Danta	Banaskantha	GUJARAT	385120
+Moti Pavad
+Tharad	Banaskantha	GUJARAT	385565
+Motimahudi
+Dhanera	Banaskantha	GUJARAT	385545
+Mudetha
+Disa	Banaskantha	GUJARAT	385530
+Mumanvas
+Danta	Banaskantha	GUJARAT	385120
+Nagfana
+Disa	Banaskantha	GUJARAT	385535
+Nandla
+Dhanera	Banaskantha	GUJARAT	385310
+Nandotra
+Vadgam	Banaskantha	GUJARAT	385421
+Nani
+Dhanera	Banaskantha	GUJARAT	385310
+Naroli
+Tharad	Banaskantha	GUJARAT	385566
+Nathpura
+Kankrej	Banaskantha	GUJARAT	385555
+Navavas
+Danta	Banaskantha	GUJARAT	385120
+Navisana
+Vadgam	Banaskantha	GUJARAT	385421
+Nenava
+Dhanera	Banaskantha	GUJARAT	385310
+Nesada juna
+Disa	Banaskantha	GUJARAT	385530
+Nokha
+Deodar	Banaskantha	GUJARAT	385330
+Odhava D
+Disa	Banaskantha	GUJARAT	385535
+Odhava
+Dantiwada	Banaskantha	GUJARAT	385505
+Padan
+Vav	Banaskantha	GUJARAT	385575
+Padar
+Kankrej	Banaskantha	GUJARAT	385560
+Padardi
+Kankraj	Banaskantha	GUJARAT	385550
+Palanpur Delhigate
+Palanpur	Banaskantha	GUJARAT	385001
+Palanpur Ganjbazar
+Palanpur	Banaskantha	GUJARAT	385001
+Palanpur
+Palanpur	Banaskantha	GUJARAT	385001
+Palanpur Kamalpura
+Palanpur	Banaskantha	GUJARAT	385001
+Palanpur Kirtistambh
+Palanpur	Banaskantha	GUJARAT	385001
+Paldi
+Deodar	Banaskantha	GUJARAT	385330
+Panchada
+Vadgam	Banaskantha	GUJARAT	385421
+Panchha
+Danta	Banaskantha	GUJARAT	385110
+Panthawada
+Dhanera	Banaskantha	GUJARAT	385545
+Pasvadal
+Vadagam	Banaskantha	GUJARAT	385210
+Patosan
+Palanpur	Banaskantha	GUJARAT	385515
+Pechhadal
+Dhanera	Banaskantha	GUJARAT	385310
+Peplu
+Disa	Banaskantha	GUJARAT	385530
+Pepol
+Vadgam	Banaskantha	GUJARAT	385421
+Pethapur
+Danta	Banaskantha	GUJARAT	385120
+Pilucha
+Vadgam	Banaskantha	GUJARAT	385421
+Piluda
+Tharad	Banaskantha	GUJARAT	385565
+Pirojpura
+Vadgam	Banaskantha	GUJARAT	385210
+Punjpur
+Danta	Banaskantha	GUJARAT	385120
+Radka
+Bhabhar	Banaskantha	GUJARAT	385320
+Radosan
+Vav	Banaskantha	GUJARAT	385570
+Rah
+Tharad	Banaskantha	GUJARAT	385310
+Raiya
+Deodar	Banaskantha	GUJARAT	385330
+Rajpur D
+Disa	Banaskantha	GUJARAT	385535
+Rampura D
+Disa	Banaskantha	GUJARAT	385535
+Rampura
+Tharad	Banaskantha	GUJARAT	385566
+Ramsan
+Dhanera	Banaskantha	GUJARAT	385310
+Ranavas
+Palanpur	Banaskantha	GUJARAT	385010
+Raner
+Kankrej	Banaskantha	GUJARAT	385550
+Rangpur
+Danta	Banaskantha	GUJARAT	385120
+Ranpur
+Danta	Banaskantha	GUJARAT	385110
+Ranpur V vas
+Disa	Banaskantha	GUJARAT	385535
+Rantila
+Disa	Banaskantha	GUJARAT	385535
+Rasana Mota
+Disa	Banaskantha	GUJARAT	385535
+Ratanpur Lokniketan
+Palanpur	Banaskantha	GUJARAT	385001
+Ravel
+Deodar	Banaskantha	GUJARAT	385330
+Raviya
+Dhanera	Banaskantha	GUJARAT	385310
+Raviyana
+Kankrej	Banaskantha	GUJARAT	385550
+Robas Moti
+Disa	Banaskantha	GUJARAT	385535
+Runi
+Bhabhar	Banaskantha	GUJARAT	385320
+Runi
+Dhanera	Banaskantha	GUJARAT	385545
+Rupal
+Vadgam	Banaskantha	GUJARAT	385421
+Ruvel
+Bhabhar	Banaskantha	GUJARAT	385320
+Sadarpur
+Palanpur	Banaskantha	GUJARAT	385001
+Saghankshetra
+Palanpur	Banaskantha	GUJARAT	385010
+Sagrosana
+Palanpur	Banaskantha	GUJARAT	385001
+Salla
+Palanpur	Banaskantha	GUJARAT	385515
+Samarvada
+Dhanera	Banaskantha	GUJARAT	385310
+Samau
+Disa	Banaskantha	GUJARAT	385535
+Samdhi
+Palanpur	Banaskantha	GUJARAT	385515
+Sanali
+Danta	Banaskantha	GUJARAT	385110
+Sanavia
+Tharad	Banaskantha	GUJARAT	385565
+Sandhosi
+Danta	Banaskantha	GUJARAT	385120
+Sangra
+Palanpur	Banaskantha	GUJARAT	385001
+Sanval
+Vav	Banaskantha	GUJARAT	385566
+Sapreda
+Vav	Banaskantha	GUJARAT	385566
+Saral
+Dhanera	Banaskantha	GUJARAT	385310
+Sardar Krishinagar
+Dantiwada	Banaskantha	GUJARAT	385506
+Sarotra
+Shri Amirgadh	Banaskantha	GUJARAT	385135
+Sasam
+Palanpur	Banaskantha	GUJARAT	385515
+Savapura
+Tharad	Banaskantha	GUJARAT	385566
+Saviyana
+Disa	Banaskantha	GUJARAT	385535
+Sembal Pani
+Danta	Banaskantha	GUJARAT	385110
+Semodra
+Vadgam	Banaskantha	GUJARAT	385410
+Sendhani
+Vadgam	Banaskantha	GUJARAT	385421
+Sherau
+Tharad	Banaskantha	GUJARAT	385566
+Shri Amirgadh
+Shri Amirgadh	Banaskantha	GUJARAT	385130
+Sia
+Dhanera	Banaskantha	GUJARAT	385310
+Sihori
+Kankrej	Banaskantha	GUJARAT	385550
+Sisrana
+Vadgam	Banaskantha	GUJARAT	385421
+Siya
+Kankrej	Banaskantha	GUJARAT	385560
+Soneth
+Bhabhar	Banaskantha	GUJARAT	385320
+Soni
+Deodar	Banaskantha	GUJARAT	385330
+Suigam
+Vav	Banaskantha	GUJARAT	385570
+Surana
+Deodar	Banaskantha	GUJARAT	385330
+Suthar Nesdi
+Bhabhar	Banaskantha	GUJARAT	385320
+Tadav
+Vav	Banaskantha	GUJARAT	385566
+Takarwada
+NA	Banaskantha	GUJARAT	385520
+Tanvad
+Bhabhar	Banaskantha	GUJARAT	385320
+Tatiyana
+Kankrej	Banaskantha	GUJARAT	385560
+Teniwada
+Vadgam	Banaskantha	GUJARAT	385210
+Terwada
+Bhabhar	Banaskantha	GUJARAT	385320
+Thara
+Kankrej	Banaskantha	GUJARAT	385555
+Tharad
+Tharad	Banaskantha	GUJARAT	385565
+Thavar
+Dhanera	Banaskantha	GUJARAT	385310
+Thervada
+Disa	Banaskantha	GUJARAT	385535
+Timbachudi
+Vadgam	Banaskantha	GUJARAT	385210
+Tintoda
+Disa	Banaskantha	GUJARAT	385535
+Tithgam
+Vav	Banaskantha	GUJARAT	385575
+Totana
+Kankrej	Banaskantha	GUJARAT	385560
+Uchosan
+Bhabhar	Banaskantha	GUJARAT	385320
+Ujjanwada
+Bhabhar	Banaskantha	GUJARAT	385320
+Umbari
+Kankrej	Banaskantha	GUJARAT	385550
+Un Banaskantha
+Kankrej	Banaskantha	GUJARAT	385560
+Undai
+Bhabhar	Banaskantha	GUJARAT	385320
+Undrana
+Tharad	Banaskantha	GUJARAT	385565
+Vachhadal
+Dhanera	Banaskantha	GUJARAT	385545
+Vachhol
+Dhanera	Banaskantha	GUJARAT	385545
+Vada
+Kankrej	Banaskantha	GUJARAT	385555
+Vadgam
+Vadgam	Banaskantha	GUJARAT	385410
+Vadgamda
+Tharad	Banaskantha	GUJARAT	385565
+Vadhana
+Palanpur	Banaskantha	GUJARAT	385001
+Vagda
+Palanpur	Banaskantha	GUJARAT	385001
+Vaghasan
+Tharad	Banaskantha	GUJARAT	385566
+Vaghrol
+Palanpur	Banaskantha	GUJARAT	385510
+Vajapur Juna
+Bhabhar	Banaskantha	GUJARAT	385320
+Vakha
+Deodar	Banaskantha	GUJARAT	385330
+Valadar
+Tharad	Banaskantha	GUJARAT	385565
+Valer
+Dhanera	Banaskantha	GUJARAT	385310
+Valpura
+Kankrej	Banaskantha	GUJARAT	385560
+Vami
+Tharad	Banaskantha	GUJARAT	385565
+Vansol
+Vadgam	Banaskantha	GUJARAT	385421
+Varasada
+Bhabhar	Banaskantha	GUJARAT	385320
+Varnoda
+Disa	Banaskantha	GUJARAT	385535
+Vasan
+Palanpur	Banaskantha	GUJARAT	385001
+Vasana Vatam
+Disa	Banaskantha	GUJARAT	385535
+Vasarda
+Vav	Banaskantha	GUJARAT	385575
+Vasi
+Danta	Banaskantha	GUJARAT	385120
+Vasna
+Disa	Banaskantha	GUJARAT	385540
+Vatam juna
+Deodar	Banaskantha	GUJARAT	385330
+Vav
+Vav	Banaskantha	GUJARAT	385575
+Vavdi
+Vav	Banaskantha	GUJARAT	385575
+Vedancha
+Palanpur	Banaskantha	GUJARAT	385510
+Velavapura
+Disa	Banaskantha	GUJARAT	385535
+Vesa
+Vadgam	Banaskantha	GUJARAT	385421
+Vijlasan
+Danta	Banaskantha	GUJARAT	385120
+Vinchhivadi
+Dhanera	Banaskantha	GUJARAT	385310
+Virampur
+NA	Banaskantha	GUJARAT	385001
+Viruna
+Dhanera	Banaskantha	GUJARAT	385545
+Vithodar
+Disa	Banaskantha	GUJARAT	385535
+Zalmor
+Kankrej	Banaskantha	GUJARAT	385550
+Zenal
+Dhanera	Banaskantha	GUJARAT	385310

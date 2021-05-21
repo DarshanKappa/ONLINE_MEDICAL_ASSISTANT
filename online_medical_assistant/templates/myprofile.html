@@ -1,0 +1,446 @@
+{% extends 'main.html' %}
+{% load static %}
+
+{% block content %}
+<style>
+    #profile {
+
+        width: 100%;
+
+    }
+
+    #profile_photo {
+
+        width: 100%;
+        background: linear-gradient(0deg, rgb(212, 212, 212), white);
+
+    }
+
+    #photo {
+
+        display: block;
+        border-radius: 10vw;
+        height: 20vw;
+        width: 20vw;
+        margin: 1vw auto 2vw auto;
+        box-shadow: 0vw .5vw 1vw 0vw rgb(68, 65, 65);
+
+        background-image:url('{{userprofile.photo.url}}');
+
+
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    #upload_photo {
+        position: absolute;
+        top: 27vw;
+        left: 60vw;
+        border: .25vw solid rgb(94, 94, 94);
+        font-size: 2vw;
+        cursor: pointer;
+        border-radius: .5vw;
+        padding: .5vw;
+    }
+
+    #name {
+        cursor: default;
+        text-align: center;
+        font-size: 3vw;
+        padding-bottom: 0vw;
+
+
+    }
+
+    #profile_details {
+
+        width: 100%;
+
+        background-color: rgb(255, 242, 225);
+    }
+
+    #profile_menu {
+
+        width: 100%;
+        background-color: white;
+        padding-left: 2vw;
+
+
+
+    }
+
+    .p_menu {
+        border-top-right-radius: 1vw;
+        border-top-left-radius: 1vw;
+        display: inline-block;
+        font-size: 2.5vw;
+        padding: 0vw 0vw 1vw 0vw;
+        text-align: center;
+        margin: 1vw 1vw 0vw 1vw;
+        background-color: white;
+        cursor: pointer;
+    }
+
+
+    #details {
+
+        width: 100%;
+        display: block;
+
+        padding: 4vw 0vw 10vw 0vw;
+        list-style: none;
+        font-size: 2.6vw;
+
+
+    }
+
+    #details li {
+        margin: 2vw 0vw 2vw 8vw;
+        font-family: 'Arial Narrow', Arial, sans-serif;
+        color: rgb(80, 80, 80);
+    }
+
+    #details span {
+        font-size: 2.5vw;
+        border: none;
+        background: transparent;
+        color: gray;
+        display: inline-block;
+        margin-left: 5vw;
+    }
+
+    #details hr {
+        margin: 0vw 3vw;
+    }
+
+    #p_appoint {
+        padding: 4vw 0vw;
+        width: 100%;
+        display: none;
+
+    }
+
+    #p_appoint_d {
+        background-color: aliceblue;
+        box-shadow: 0vw 0vw .3vw 0vw rgb(87, 87, 87, .5);
+        border-radius: 1vw;
+        margin: 2vw 1vw;
+        padding: 2vw;
+        list-style: none;
+        color: rgb(109, 109, 109);
+
+    }
+
+    #part1 {
+
+        display: inline-block;
+        width: 100vw;
+
+    }
+
+    #part2 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+        display: inline-block;
+
+
+        width: 70%;
+        padding-left: 8vw;
+    }
+
+    #part1 li,
+    #part2 li {
+        margin: .5vw 0vw;
+    }
+
+    #old_appoint {
+        display: none;
+        padding: 4vw 0vw;
+        width: 100%;
+    }
+
+    input[type="file"] {
+
+        padding: 0;
+        overflow: auto;
+
+        white-space: nowrap;
+        /* 1 */
+        clip-path: inset(50%);
+        border: 0;
+    }
+
+    #user {}
+</style>
+
+
+
+
+<div id="profile">
+    <div id="profile_photo">
+
+        <div id="photo">
+            <form id="target" action="{% url 'upload' %}" method="POST" enctype="multipart/form-data">
+                {% csrf_token %}
+                <input type="file" name="uploaddata" id="uppho">
+
+
+            </form>
+        </div>
+        <label id="upload_photo" for="uppho">Edit</label>
+
+        <script type="text/javascript">
+            document.getElementById("target").onchange = function () {
+                // submitting the form
+                document.getElementById("target").submit();
+            };
+        </script>
+
+        <div id="name">
+            {{userdata.first_name}} {{userdata.last_name}}
+        </div>
+        <div style="padding-bottom: 2vw;" id="name">
+            ({{userprofile.user}})
+        </div>
+
+
+    </div>
+    <div id="profile_details">
+        <div id="profile_menu">
+
+            <span style="background-color:rgb(255, 242, 225) ;" onclick="de_but()" id="de_but"
+                class="p_menu">Details</span>
+            <span onclick="ap_but()" id="ap_but" class="p_menu">Appointment</span>
+            <span onclick="olap_but()" id="olap_but" class="p_menu">Old Appointment</span>
+            <span onclick="lab_but()"  id="labs_but" class="p_menu">Lab Appointment</span>
+            <span onclick="ac_but()"  id="ac_but" class="p_menu">account</span>
+
+            <script>
+                function de_but() {
+                    document.getElementById('details').style.display = "block"
+                    document.getElementById('p_appoint').style.display = "none"
+                    document.getElementById('old_appoint').style.display = "none"
+                    document.getElementById('lab_appoint').style.display = "none"
+
+                    document.getElementById('de_but').style.backgroundColor = "rgb(255, 242, 225)"
+                    document.getElementById('ap_but').style.backgroundColor = "white"
+                    document.getElementById('olap_but').style.backgroundColor = "white"
+                    document.getElementById('labs_but').style.background = "none"
+                    document.getElementById('ac_but').style.backgroundColor = "withe"
+
+                }
+                function ap_but() {
+                    document.getElementById('details').style.display = "none"
+                    document.getElementById('p_appoint').style.display = "block"
+                    document.getElementById('old_appoint').style.display = "none"
+                    document.getElementById('lab_appoint').style.display = "none"
+
+                    document.getElementById('de_but').style.backgroundColor = "white"
+                    document.getElementById('ap_but').style.backgroundColor = "rgb(255, 242, 225)"
+                    document.getElementById('olap_but').style.backgroundColor = "white"
+                    document.getElementById('labs_but').style.backgroundColor = "none"
+                    document.getElementById('ac_but').style.backgroundColor = "withe"
+
+                }
+                function olap_but() {
+                    document.getElementById('details').style.display = "none"
+                    document.getElementById('p_appoint').style.display = "none"
+                    document.getElementById('old_appoint').style.display = "block"
+                    document.getElementById('lab_appoint').style.display = "none"
+
+                    document.getElementById('de_but').style.backgroundColor = "white"
+                    document.getElementById('ap_but').style.backgroundColor = "white"
+                    document.getElementById('olap_but').style.backgroundColor = "rgb(255, 242, 225)"
+                    document.getElementById('labs_but').style.backgroundColor = "none"
+                    document.getElementById('ac_but').style.backgroundColor = "withe"
+
+                }
+                function lab_but() {
+                    document.getElementById('details').style.display = "none"
+                    document.getElementById('p_appoint').style.display = "none"
+                    document.getElementById('old_appoint').style.display = "none"
+                    document.getElementById('lab_appoint').style.display = "block"
+
+                    document.getElementById('de_but').style.backgroundColor = "white"
+                    document.getElementById('ap_but').style.backgroundColor = "white"
+                    document.getElementById('olap_but').style.backgroundColor = "white"
+                    document.getElementById('labs_but').style.backgroundColor = "rgb(255, 242, 225)"
+                    document.getElementById('ac_but').style.backgroundColor = "withe"
+
+                }
+            </script>
+
+
+        </div>
+        <div id="details">
+            <li>First Name: <span>{{userdata.first_name}}</span></li>
+            <hr>
+            <li>Last Name: <span>{{userdata.last_name}}</span></li>
+            <hr>
+            <li>Mobile No.: <span>{{userdata.username}}</span></li>
+            <hr>
+            <li>birth of date: <span>{{userprofile.date_of_birth}}</span></li>
+            <hr>
+            <li>Email id: <span>{{userdata.email}}</span></li>
+            <hr>
+            <li>Blood Group: <span>{{userprofile.blood_group}}</span></li>
+            <hr>
+            <li>Gender: <span>{{userprofile.gender}}</span></li>
+            <hr>
+            <li>Address: <span>{{userprofile.Address}}</span></li>
+            <hr>
+            <li>Zip code: <span>{{userprofile.pin}}</span></li>
+            <hr>
+            <li>City: <span>{{userprofile.city}}</span></li>
+            <hr>
+            <li>District: <span>{{userprofile.district}}</span></li>
+            <hr>
+            <li>Language: <span>{{userprofile.languages}}</span></li>
+            <hr>
+
+
+
+
+        </div>
+
+        <div id="p_appoint">
+            {% for i in list %}
+            {% for j in appoint_list %}
+            {% if i.no_appointment == j.appointment_no %}
+            {% for k in doc_list %}
+            {% if i.doctor_id == k.id %}
+            <div id="p_appoint_d">
+                <li style="margin-bottom: 1vw;">Appointment No. <span>#{{j.appointment_no}}</span></li>
+                <div style="display: flex;">
+                    <div id="part1">
+                        <li style="font-size: 3.5vw;">{{k.name}}, {{k.degree}}</li>
+                        <li>{{k.primary_location}}</li>
+                        <li>{{k.address}}
+                        </li>
+                    </div>
+                    <div id="part2">
+                        <li>Date: <span>{{j.date}}</span></li>
+                        <li>Time: <span>{{j.Time}}</span></li>
+                        <li>Call <span>{{k.doc_phone}}</span></li>
+                        <li>Call <span>{{k.doc_phone2}}</span></li>
+
+                    </div>
+                </div>
+
+            </div>
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+        </div>
+
+
+        <div id="old_appoint">
+            {% for i in list %}
+            {% for j in old_appoint_list %}
+            {% if i.no_appointment == j.appointment_no %}
+            {% for k in doc_list %}
+            {% if i.doctor_id == k.id %}
+            <div id="p_appoint_d">
+                <li style="margin-bottom: 1vw;">Appointment No. <span>#{{j.appointment_no}}</span></li>
+                <div style="display: flex;">
+                    <div id="part1">
+                        <li style="font-size: 3.5vw;">{{k.name}}, {{k.degree}}</li>
+                        <li>{{k.primary_location}}</li>
+                        <li>{{k.address}}</li>
+                        <span style="color:black;">Priscription: </span>
+                        <span>{{j.priscription_text}}</span>
+                        <div style="margin: 2vw 1vw;" onclick="photo()">
+                            <span
+                                style="    border: 2px solid gray;border-radius: 1vw;padding: .5vw;box-shadow: 0vw 0vw 0.5vw 0vw grey;">photo</span>
+                        </div>
+                        <script>
+                            function photo() {
+                                if (document.getElementById('priscription_photo').style.display == "none") {
+                                    document.getElementById('priscription_photo').style.display = "block"
+                                } else {
+                                    document.getElementById('priscription_photo').style.display = "none"
+                                }
+                            }
+                        </script>
+                        <div style="display:none;" id="priscription_photo">
+                            <a href="{{j.priscription_photo.url}}" download="{{j.priscription_photo.url}}">Download</a>
+                            <br><img style="width:92vw;margin:2vw 0vw;" src="{{j.priscription_photo.url}}" alt="">
+                        </div>
+                    </div>
+                    <div id="part2">
+                        <li>Date: <span>{{j.date}}</span></li>
+                        <li>Time: <span>{{j.Time}}</span></li>
+                        <li>Call <span>{{k.doc_phone}}</span></li>
+                        <li>Call <span>{{k.doc_phone2}}</span></li>
+
+                    </div>
+                </div>
+
+            </div>
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+            {% endfor %}
+        </div>
+
+
+        <div style="display:none;height: auto;" id="lab_appoint">
+        {% for i in lab_list %}
+        {% for j in lab_appointments %}
+        {% if i.appointment_no == j.appointment_no %}
+        {% for k in laboratorys %}
+        {% if i.lab_id == k.id %}
+        {% for l in lab_type %}
+        {% if i.lab_id == l.lab_id %}
+        {% for p in lab_profile %}
+        {% if i.lab_id == p.id %}
+        <div  id="lab_appoint">
+            <div style="display: block;" id="p_appoint_d">
+                <li style="margin-bottom: 1vw;">Appointment No. <span>#{{j.appointment_no}}</span></li>
+                <div style="display: flex;">
+                    <div id="part1">
+                        <li style="font-size: 3.5vw;">{{k.Lab_name}}</li>
+                        <li>{{l.test_type}}</li>
+                        <li>{{k.address}}</li>
+                        {% if no is not '{{j.uploaded}}' %}
+                        <span style="color:black;">Priscription: </span>
+                        <span>{{j.priscription_text}}</span>
+ 
+                        <div id="priscription_photo">
+                            <a href="{{j.priscription_photo.url}}" download="{{j.priscription_photo.url}}">Download</a>
+                        </div>                      
+                        {% endif %}
+                    </div>
+                    <div id="part2">
+                        <li>Date: <span>{{j.date}}</span></li>
+                        <li>Call <span>{{p.username}}</span></li>
+                        <li>Call <span>{{k.doc_phone2}}</span></li>
+                        <li>Priscription:  <span style="color:green">{{j.uploaded}}</span></li>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+        {% endfor %}
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+        </div>
+    </div>
+
+
+
+
+
+
+    {% endblock %}

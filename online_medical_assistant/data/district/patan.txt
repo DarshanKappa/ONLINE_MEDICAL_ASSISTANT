@@ -1,0 +1,529 @@
+Abiyana
+Santalpur	Patan	GUJARAT	385360
+Abluva
+Patan	Patan	GUJARAT	384285
+Adgam
+Sami	Patan	GUJARAT	384245
+Adiya
+Harij	Patan	GUJARAT	384255
+Aghar
+Patan	Patan	GUJARAT	384265
+Agichana
+Radhanpur	Patan	GUJARAT	385360
+Ajimana
+Patan	Patan	GUJARAT	384265
+Allahabad
+Radhanpur	Patan	GUJARAT	385340
+Amrapuara
+Sami	Patan	GUJARAT	384245
+Anawada
+Patan	Patan	GUJARAT	384265
+Anvarpura
+Sami	Patan	GUJARAT	384245
+Aritha
+Sami	Patan	GUJARAT	384240
+Arjansar
+Radhanpur	Patan	GUJARAT	385340
+Babra
+Santalpur	Patan	GUJARAT	385360
+Balisana
+Patan	Patan	GUJARAT	384110
+Bamroli
+Santalpur	Patan	GUJARAT	385360
+Bandhvad
+Radhanpur	Patan	GUJARAT	385340
+Baspa
+Sami	Patan	GUJARAT	384245
+Bepadar
+Patan	Patan	GUJARAT	384272
+Bhadrada
+Sami	Patan	GUJARAT	384245
+Bhatsan
+Patan	Patan	GUJARAT	384285
+Bhilot
+Radhanpur	Patan	GUJARAT	385340
+Bhilvan
+Patan	Patan	GUJARAT	384285
+Bilia
+Sidhpur	Patan	GUJARAT	384151
+Bilia
+Sami	Patan	GUJARAT	384240
+Bolera
+Sami	Patan	GUJARAT	384246
+Boratwada
+Harij	Patan	GUJARAT	384240
+Borsan
+Patan	Patan	GUJARAT	384275
+Brahmanwada
+Chanasma	Patan	GUJARAT	384220
+Chalvada
+Radhanpur	Patan	GUJARAT	385340
+Chanasma
+Chanasma	Patan	GUJARAT	384220
+Chandravati
+Sidhpur	Patan	GUJARAT	384151
+Chandrumana
+Patan	Patan	GUJARAT	384255
+Chandur Moti
+Sami	Patan	GUJARAT	384241
+Chandur Nani
+Sami	Patan	GUJARAT	384245
+Charanka
+Santalpur	Patan	GUJARAT	385350
+Charup
+Patan	Patan	GUJARAT	384285
+Chaveli
+Chanasma	Patan	GUJARAT	384225
+Chhamichha
+Chanasma	Patan	GUJARAT	384221
+D R.S.
+Radhanpur	Patan	GUJARAT	385340
+Dadar
+Sami	Patan	GUJARAT	384245
+Danodarda
+Chanasma	Patan	GUJARAT	384225
+Dantisana
+Santalpur	Patan	GUJARAT	384246
+Dasawada
+Sidhpur	Patan	GUJARAT	384265
+Daudpur
+Sami	Patan	GUJARAT	384245
+Delmal
+Chanasma	Patan	GUJARAT	384230
+Der
+Patan	Patan	GUJARAT	384110
+Dethli
+Sidhpur	Patan	GUJARAT	384151
+Detrana
+Santalpur	Patan	GUJARAT	385350
+Dhadhana
+Sami	Patan	GUJARAT	384240
+Dhanawada
+Sidhpur	Patan	GUJARAT	384265
+Dhanodharda
+Chanasma	Patan	GUJARAT	384220
+Dhanora
+Sami	Patan	GUJARAT	384246
+Dharmoda
+Chanasma	Patan	GUJARAT	384220
+Dharnoj
+Patan	Patan	GUJARAT	384265
+Dharpur
+Patan	Patan	GUJARAT	384265
+Dharusan
+Patan	Patan	GUJARAT	384285
+Dharvadi
+Radhanpur	Patan	GUJARAT	385340
+Dhinoj
+Chanasma	Patan	GUJARAT	384225
+Dhokavada
+Santalpur	Patan	GUJARAT	385350
+Dholakda
+Radhanpur	Patan	GUJARAT	385360
+Dindrol
+Sidhpur	Patan	GUJARAT	384290
+Dudkha
+Sami	Patan	GUJARAT	384245
+Dunawada
+Harij	Patan	GUJARAT	384265
+Ekalva
+Harij	Patan	GUJARAT	384240
+Endla
+Patan	Patan	GUJARAT	384285
+Gadha
+Santalpur	Patan	GUJARAT	385360
+Gadsai
+Santalpur	Patan	GUJARAT	385360
+Gajdinpura
+Sami	Patan	GUJARAT	384245
+Gangalasan
+Sidhpur	Patan	GUJARAT	384151
+Ganget
+Chanasma	Patan	GUJARAT	384275
+Ganjisar
+Santalpur	Patan	GUJARAT	385340
+Ganvada
+Sidhpur	Patan	GUJARAT	384151
+Garambadi
+Santalpur	Patan	GUJARAT	385350
+Gochnath
+Sami	Patan	GUJARAT	385340
+Gokhantar
+Santalpur	Patan	GUJARAT	385360
+Goliwada
+Patan	Patan	GUJARAT	384272
+Gotarka
+Radhanpur	Patan	GUJARAT	385360
+Gujarwada
+Sami	Patan	GUJARAT	384245
+Hansapur
+Patan	Patan	GUJARAT	384265
+Harij
+Harij	Patan	GUJARAT	384240
+Islampura
+Chanasma	Patan	GUJARAT	384275
+Itoda
+Chanasma	Patan	GUJARAT	384230
+Jakhana
+Chanasma	Patan	GUJARAT	384220
+Jakhel
+Sami	Patan	GUJARAT	385360
+Jakhotra
+Santalpur	Patan	GUJARAT	385350
+Jamanpur
+Harij	Patan	GUJARAT	384240
+Jangral
+Patan	Patan	GUJARAT	384285
+Jarusha
+Santalpur	Patan	GUJARAT	385360
+Jasomav
+Harij	Patan	GUJARAT	384240
+Jasvantpura
+Harij	Patan	GUJARAT	384240
+Javantri
+Radhanpur	Patan	GUJARAT	385340
+Jesda
+Sami	Patan	GUJARAT	384241
+Jitoda
+Chanasma	Patan	GUJARAT	384220
+Juna Manka
+Harij	Patan	GUJARAT	384240
+Kakoshi
+Sidhpur	Patan	GUJARAT	384290
+Kalyana
+Sidhpur	Patan	GUJARAT	384265
+Kamalpur D
+Radhanpur	Patan	GUJARAT	385340
+Kamalpur S
+Radhanpur	Patan	GUJARAT	385340
+Kamboi
+Chanasma	Patan	GUJARAT	384230
+Kamliwada
+Patan	Patan	GUJARAT	384265
+Kani
+Patan	Patan	GUJARAT	384110
+Kanij
+Sami	Patan	GUJARAT	384245
+Kansa
+Patan	Patan	GUJARAT	384265
+Kathi
+Harij	Patan	GUJARAT	384240
+Katra Samal
+Patan	Patan	GUJARAT	384265
+Katra
+Harij	Patan	GUJARAT	384240
+Keshni
+Chanasma	Patan	GUJARAT	384225
+Khakhal
+Harij	Patan	GUJARAT	384240
+Khali
+Sidhpur	Patan	GUJARAT	384151
+Khanpur Rajkuva
+Patan	Patan	GUJARAT	384255
+Khareda
+Patan	Patan	GUJARAT	384285
+Khari Ghariayal
+Chanasma	Patan	GUJARAT	384230
+Khari Vavdi
+Patan	Patan	GUJARAT	384255
+Khijdiyari
+Sami	Patan	GUJARAT	384241
+Khodana
+Patan	Patan	GUJARAT	384285
+Kholvada
+Sidhpur	Patan	GUJARAT	384151
+Khorsam
+Chanasma	Patan	GUJARAT	384220
+Kilana
+Santalpurp	Patan	GUJARAT	385360
+Kimbuva
+Patan	Patan	GUJARAT	384285
+Koita
+Patan	Patan	GUJARAT	384285
+Koliwada
+Santalpur	Patan	GUJARAT	385340
+Korda
+Santalpur	Patan	GUJARAT	385360
+Kotavad
+Patan	Patan	GUJARAT	384265
+Kukrana
+Sami	Patan	GUJARAT	384240
+Kumbhana
+Harij	Patan	GUJARAT	384240
+Kungher
+Patan	Patan	GUJARAT	384255
+Kunvar
+Sami	Patan	GUJARAT	384241
+Kunvarad
+Sami	Patan	GUJARAT	384241
+Kunwara
+Sidhpur	Patan	GUJARAT	384265
+Kureja
+Harij	Patan	GUJARAT	384255
+Lanva
+Chanasma	Patan	GUJARAT	384229
+Laxmipura
+Patan	Patan	GUJARAT	384285
+Lodra
+Radhanpur	Patan	GUJARAT	385340
+Lolada
+Sami	Patan	GUJARAT	384241
+Loteshwar
+Sami	Patan	GUJARAT	384241
+Lotia
+Radhanpur	Patan	GUJARAT	385340
+Madhutra
+Santalpur	Patan	GUJARAT	385350
+Mandvi
+Sami	Patan	GUJARAT	384245
+Maniyari
+Chanasma	Patan	GUJARAT	384221
+Manund
+Patan	Patan	GUJARAT	384260
+Masali
+Radhanpur	Patan	GUJARAT	385340
+Matpur
+Patan	Patan	GUJARAT	384275
+Matrota
+Sami	Patan	GUJARAT	384240
+Meloj
+Sidhpur	Patan	GUJARAT	384151
+Memdavad
+Radhanpur	Patan	GUJARAT	385340
+Memna
+Sami	Patan	GUJARAT	384241
+Mesar
+Patan	Patan	GUJARAT	384265
+Methan
+Sidhpur	Patan	GUJARAT	384290
+Metrana
+Sidhpur	Patan	GUJARAT	384290
+Mitha Dharva
+Chanasma	Patan	GUJARAT	384229
+Mithi Gariyal
+Chanasma	Patan	GUJARAT	384221
+Mithi Vavdi
+Patan	Patan	GUJARAT	384220
+Morpa
+Patan	Patan	GUJARAT	384285
+Mota Joravarpura
+Sami	Patan	GUJARAT	384245
+Moti Pipli
+Radhanpur	Patan	GUJARAT	385340
+Mudana
+Sidhpur	Patan	GUJARAT	384151
+Mudvada
+Sidhpur	Patan	GUJARAT	384290
+Mujpur
+Sami	Patan	GUJARAT	384241
+Muna
+Patan	Patan	GUJARAT	384285
+Nagvasana
+Sidhpur	Patan	GUJARAT	384151
+Nana
+Harij	Patan	GUJARAT	384240
+Nandotri
+Sidhpur	Patan	GUJARAT	384151
+Nani Pipli
+Radhanpur	Patan	GUJARAT	385340
+Nanpura
+Radhanpur	Patan	GUJARAT	385340
+Nava Manka
+Harij	Patan	GUJARAT	384240
+Nayka
+Sami	Patan	GUJARAT	384245
+Nayta
+Patan	Patan	GUJARAT	384265
+Nedra
+Sidhpur	Patan	GUJARAT	384151
+Norta
+Patan	Patan	GUJARAT	384275
+Odhva
+Patan	Patan	GUJARAT	384265
+Pachakvada
+Sidhpur	Patan	GUJARAT	384265
+Padla
+Santalpur	Patan	GUJARAT	384246
+Palasar
+Chanasma	Patan	GUJARAT	384229
+Panchasar
+Sami	Patan	GUJARAT	384246
+Par
+Santalpur	Patan	GUJARAT	385350
+Patan City
+Patan	Patan	GUJARAT	384265
+Patan H N G University
+Patan	Patan	GUJARAT	384265
+Patan
+Patan	Patan	GUJARAT	384265
+Patan Rajkawada
+Patan	Patan	GUJARAT	384265
+Patan Siddhraj Road
+Patan	Patan	GUJARAT	384265
+Patan Three Gate
+Patan	Patan	GUJARAT	384265
+Pimpal
+Chanasma	Patan	GUJARAT	384225
+Pindharpura
+Chanasma	Patan	GUJARAT	384229
+Piplana
+Harij	Patan	GUJARAT	384240
+Piprana
+Santalpur	Patan	GUJARAT	385350
+Radhanpur Rajgadhi
+Radhanpur	Patan	GUJARAT	385340
+Radhanpur Rly Colony
+Radhanpur	Patan	GUJARAT	385340
+Radhanpur
+Radhanpur	Patan	GUJARAT	385340
+Rafu
+Sami	Patan	GUJARAT	384245
+Rajpur
+Patan	Patan	GUJARAT	384265
+Rampura
+Patan	Patan	GUJARAT	384265
+Ranavada
+Harij	Patan	GUJARAT	384245
+Ranod
+Sami	Patan	GUJARAT	384241
+Ranuj
+Patan	Patan	GUJARAT	384275
+Ravad
+Sami	Patan	GUJARAT	384240
+Ravindra
+Harij	Patan	GUJARAT	384240
+Raviyana
+Patan	Patan	GUJARAT	384285
+Roda
+Harij	Patan	GUJARAT	384240
+Runi
+Patan	Patan	GUJARAT	384265
+Ruppur
+Chanasma	Patan	GUJARAT	384220
+Ruvavi
+Patan	Patan	GUJARAT	384275
+Sagodiya
+Patan	Patan	GUJARAT	384265
+Sahesa
+Sidhpur	Patan	GUJARAT	384290
+Sami
+Sami	Patan	GUJARAT	384245
+Samoda
+Sidhpur	Patan	GUJARAT	384151
+Samoda
+Patan	Patan	GUJARAT	384275
+Sampra
+Patan	Patan	GUJARAT	384272
+Samsherpura
+Sami	Patan	GUJARAT	384245
+Sander
+Patan	Patan	GUJARAT	384275
+Sankhari
+Patan	Patan	GUJARAT	384275
+Sankheshwar
+Sami	Patan	GUJARAT	384246
+Sankra
+Harij	Patan	GUJARAT	384255
+Santalpur
+Santalpur	Patan	GUJARAT	385350
+Santhli
+Radhanpur	Patan	GUJARAT	385340
+Sariyad
+Patan	Patan	GUJARAT	384272
+Sarval
+Harij	Patan	GUJARAT	384240
+Satun
+Radhanpur	Patan	GUJARAT	385340
+Sedrana
+Sidhpur	Patan	GUJARAT	384151
+Sevala
+Chanasma	Patan	GUJARAT	384220
+Sidhada
+Santalpur	Patan	GUJARAT	385360
+Sidhpur Jafri Baug
+Sidhpur	Patan	GUJARAT	384151
+Sidhpur Jam Chakla
+Sidhpur	Patan	GUJARAT	384151
+Sidhpur Market Yard
+Sidhpur	Patan	GUJARAT	384151
+Sidhpur
+Sidhpur	Patan	GUJARAT	384151
+Sinad
+Radhanpur	Patan	GUJARAT	385340
+Sipur
+Sami	Patan	GUJARAT	384241
+Sodhav
+Harij	Patan	GUJARAT	384230
+Subapura
+Radhanpur	Patan	GUJARAT	385340
+Sujnipur
+Patan	Patan	GUJARAT	384265
+Sunsar
+Chanasma	Patan	GUJARAT	384225
+Takodi
+Chanasma	Patan	GUJARAT	384221
+Tambolia
+Harij	Patan	GUJARAT	384230
+Taranagar
+Sami	Patan	GUJARAT	384241
+Tarora
+Sami	Patan	GUJARAT	384240
+Tavadia
+Sidhpur	Patan	GUJARAT	384151
+Tuvad
+Sami	Patan	GUJARAT	384241
+Umru
+Sidhpur	Patan	GUJARAT	384151
+Undra
+Patan	Patan	GUJARAT	384272
+Vadavali
+Chanasma	Patan	GUJARAT	384221
+Vadhana
+Sidhpur	Patan	GUJARAT	384151
+Vadli
+Patan	Patan	GUJARAT	384265
+Vadu
+Patan	Patan	GUJARAT	384285
+Vaghel
+Sami	Patan	GUJARAT	384240
+Vagosan
+Sami	Patan	GUJARAT	384240
+Vahana
+Patan	Patan	GUJARAT	384285
+Vahuva
+Santalpur	Patan	GUJARAT	385350
+Vamaiya
+Patan	Patan	GUJARAT	384265
+Vanasan
+Sidhpur	Patan	GUJARAT	384151
+Vansa
+Harij	Patan	GUJARAT	384240
+Varahi
+Santalpur	Patan	GUJARAT	385360
+Varana
+Sami	Patan	GUJARAT	384245
+Varsila
+Sidhpur	Patan	GUJARAT	384151
+Vasai
+Chanasma	Patan	GUJARAT	384275
+Vayad
+Patan	Patan	GUJARAT	384285
+Ved
+Sami	Patan	GUJARAT	384245
+Vejawada
+Harij	Patan	GUJARAT	384240
+Veloda
+Patan	Patan	GUJARAT	384272
+Wagdod
+Patan	Patan	GUJARAT	384285
+Zandala
+Santalpur	Patan	GUJARAT	385360
+Zazam
+Santalpur	Patan	GUJARAT	385360
+Zekhada
+Santalpur	Patan	GUJARAT	385360
+Zilia
+Chanasma	Patan	GUJARAT	384225
+Zilvana
+Sami	Patan	GUJARAT	384245
+

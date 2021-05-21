@@ -1,0 +1,705 @@
+Abhrampara
+Savar Kundla	Amreli	GUJARAT	364522
+Adsang
+Amreli	Amreli	GUJARAT	364522
+Adtala
+Amreli	Amreli	GUJARAT	365430
+Akala
+Amreli	Amreli	GUJARAT	365430
+Amarpur
+NA	Amreli	GUJARAT	365450
+Amba
+Amreli	Amreli	GUJARAT	365535
+Ambaradi
+Amreli	Amreli	GUJARAT	365630
+Ambardi
+Amreli	Amreli	GUJARAT	365220
+Ambardi J
+Amreli	Amreli	GUJARAT	364522
+Amreli
+Amreli	Amreli	GUJARAT	365601
+Amreli J P
+Amreli	Amreli	GUJARAT	365601
+Amreli M P
+Amreli	Amreli	GUJARAT	365601
+Amreli S R
+Amreli	Amreli	GUJARAT	365601
+Amreli T.R
+Amreli	Amreli	GUJARAT	365601
+Amrpur V
+Amreli	Amreli	GUJARAT	365601
+Amrutpur
+Amreli	Amreli	GUJARAT	365660
+Amrutvel
+Amreli	Amreli	GUJARAT	364521
+Anida
+Amreli	Amreli	GUJARAT	365635
+Anida
+Amreli	Amreli	GUJARAT	365450
+Ankadia nana
+Amreli	Amreli	GUJARAT	365620
+Ansodar
+Amreli	Amreli	GUJARAT	365220
+Arjansukh
+Amreli	Amreli	GUJARAT	365480
+Babapur
+Amreli	Amreli	GUJARAT	365610
+Babarkot
+Amreli	Amreli	GUJARAT	365540
+Babra Amreli
+Amreli	Amreli	GUJARAT	365421
+Babriyadhar
+Amreli	Amreli	GUJARAT	365560
+Badhada
+Amreli	Amreli	GUJARAT	364522
+Bagasara S.R.
+Bagasara	Amreli	GUJARAT	365440
+Bagasra
+Bagasara	Amreli	GUJARAT	365440
+Bagoya
+Amreli	Amreli	GUJARAT	364522
+Balapur
+Amreli	Amreli	GUJARAT	365456
+Balel piparia
+Amreli	Amreli	GUJARAT	365460
+Bambhaniya
+Amreli	Amreli	GUJARAT	365460
+Bantva devli
+Amreli	Amreli	GUJARAT	365480
+Barbtana
+Amreli	Amreli	GUJARAT	365560
+Barman nana
+Amreli	Amreli	GUJARAT	365545
+Barpatoli
+Amreli	Amreli	GUJARAT	365560
+Barvala baval
+Amreli	Amreli	GUJARAT	365480
+Barvala bavishi
+Amreli	Amreli	GUJARAT	365450
+Barwala Jam
+Lathi	Amreli	GUJARAT	365435
+Bavada
+Amreli	Amreli	GUJARAT	365565
+Bhad
+Amreli	Amreli	GUJARAT	365650
+Bhada
+Amreli	Amreli	GUJARAT	362730
+Bhader
+Dhari	Amreli	GUJARAT	365645
+Bhalgam
+Bagasara	Amreli	GUJARAT	365440
+Bhalvav
+Amreli	Amreli	GUJARAT	365220
+Bhamar
+Amreli	Amreli	GUJARAT	364530
+Bhandaria Nana
+Amreli	Amreli	GUJARAT	365601
+Bhandriya Mota
+Amreli	Amreli	GUJARAT	365610
+Bhattvadar
+Amreli	Amreli	GUJARAT	365220
+Bhavrdi
+Amreli	Amreli	GUJARAT	365650
+Bhayavadar
+Amreli	Amreli	GUJARAT	365450
+Bherai
+Amreli	Amreli	GUJARAT	365560
+Bhesvadi
+Amreli	Amreli	GUJARAT	365535
+Bhingrad
+Lathi	Amreli	GUJARAT	365220
+Bhmodra mota
+Amreli	Amreli	GUJARAT	364525
+Bhriangda
+Amreli	Amreli	GUJARAT	365565
+Bhurakhiya
+Amreli	Amreli	GUJARAT	365220
+Bhuva
+Amreli	Amreli	GUJARAT	364521
+Borala
+Amreli	Amreli	GUJARAT	364521
+Borala
+Amreli	Amreli	GUJARAT	365650
+Bordi
+Amreli	Amreli	GUJARAT	365640
+Chadiya
+Amreli	Amreli	GUJARAT	365630
+Chakkargadh
+Amreli	Amreli	GUJARAT	365601
+Chalala
+Dhari	Amreli	GUJARAT	365630
+Chamaradi
+Babra	Amreli	GUJARAT	365410
+Chanch
+Amreli	Amreli	GUJARAT	365555
+Chandgadh
+Amreli	Amreli	GUJARAT	365601
+Charakhadiya
+Amreli	Amreli	GUJARAT	364515
+Charkha
+Amreli	Amreli	GUJARAT	365421
+Charkha
+Dhari	Amreli	GUJARAT	365630
+Chavand
+NA	Amreli	GUJARAT	365435
+Chhabhadiya
+Amreli	Amreli	GUJARAT	365220
+Chhatadiya
+Amreli	Amreli	GUJARAT	365630
+Chikhali
+Amreli	Amreli	GUJARAT	364530
+Chital
+Amreli	Amreli	GUJARAT	365620
+Dadali
+Amreli	Amreli	GUJARAT	365550
+DadvaRandal
+Amreli	Amreli	GUJARAT	365460
+Dalkhaniya
+Amreli	Amreli	GUJARAT	365640
+Damnagar
+Lathi	Amreli	GUJARAT	365220
+Dangavadar
+Amreli	Amreli	GUJARAT	365640
+Dantardi
+Amreli	Amreli	GUJARAT	365555
+Dared
+Lathi	Amreli	GUJARAT	365435
+Dedakadi
+Amreli	Amreli	GUJARAT	364530
+Dedan
+Khambha	Amreli	GUJARAT	365550
+Derdi J
+Lathi	Amreli	GUJARAT	365435
+Deripipariya
+Amreli	Amreli	GUJARAT	365440
+Devaliya
+Amreli	Amreli	GUJARAT	365601
+Devalki
+Amreli	Amreli	GUJARAT	365480
+Devarajiya
+Amreli	Amreli	GUJARAT	365630
+Devgam
+Amreli	Amreli	GUJARAT	365460
+Devla
+Amreli	Amreli	GUJARAT	365640
+Dhangla
+Amreli	Amreli	GUJARAT	365220
+Dhar
+Amreli	Amreli	GUJARAT	364515
+Dharai
+Amreli	Amreli	GUJARAT	365410
+Dhargni
+Amreli	Amreli	GUJARAT	365630
+Dhari
+Dhari	Amreli	GUJARAT	365640
+Dhari SR
+Dhari	Amreli	GUJARAT	365640
+Dhemal
+Amreli	Amreli	GUJARAT	365220
+Dhrufaniya
+Amreli	Amreli	GUJARAT	365220
+Dhundhia pipaliya
+Amreli	Amreli	GUJARAT	365480
+Ditla
+Amreli	Amreli	GUJARAT	365630
+Doliya
+Amreli	Amreli	GUJARAT	365555
+Dolti
+Amreli	Amreli	GUJARAT	364530
+Dudhala
+Amreli	Amreli	GUJARAT	365545
+Dudhala
+Amreli	Amreli	GUJARAT	365430
+Dudhala
+Amreli	Amreli	GUJARAT	365660
+Dungar
+Rajula	Amreli	GUJARAT	365555
+Eklera
+Amreli	Amreli	GUJARAT	365220
+Fatepur
+Amreli	Amreli	GUJARAT	365601
+Fifad
+Amreli	Amreli	GUJARAT	364525
+Gadhakda
+Amreli	Amreli	GUJARAT	364522
+Gadhiya
+Amreli	Amreli	GUJARAT	365640
+Gakharvalamota
+Amreli	Amreli	GUJARAT	365601
+Gama pialiya
+Babra	Amreli	GUJARAT	365410
+Garmali C
+Amreli	Amreli	GUJARAT	365630
+Garmali Moti
+Amreli	Amreli	GUJARAT	365630
+Garni
+Amreli	Amreli	GUJARAT	365421
+Gavdka
+Amreli	Amreli	GUJARAT	365610
+Ghandla
+Amreli	Amreli	GUJARAT	364530
+Ghoba
+Amreli	Amreli	GUJARAT	364525
+Ghugharala
+Amreli	Amreli	GUJARAT	365410
+Gidardi
+Amreli	Amreli	GUJARAT	365650
+Gigasan
+Amreli	Amreli	GUJARAT	365640
+Gopalgram
+Dhari	Amreli	GUJARAT	365630
+Govindpur
+Amreli	Amreli	GUJARAT	365640
+Gundaran
+Amreli	Amreli	GUJARAT	365220
+HadalaS
+Amreli	Amreli	GUJARAT	365456
+Hadida
+Amreli	Amreli	GUJARAT	364530
+Hahtsani
+Amreli	Amreli	GUJARAT	364515
+Halariya
+Amreli	Amreli	GUJARAT	365630
+Hamapur
+Amreli	Amreli	GUJARAT	365440
+Haripur
+Amreli	Amreli	GUJARAT	365220
+Haripura
+Amreli	Amreli	GUJARAT	365430
+Harsurpur
+Lathi	Amreli	GUJARAT	365435
+Hathigadh
+Amreli	Amreli	GUJARAT	365535
+Hemal
+Amreli	Amreli	GUJARAT	365545
+Hipavadli
+Amreli	Amreli	GUJARAT	364525
+Hudli
+Amreli	Amreli	GUJARAT	365630
+Ingorala Bhad
+Amreli	Amreli	GUJARAT	365635
+Ingorala 2
+Amreli	Amreli	GUJARAT	365620
+Ingorala dand
+Amreli	Amreli	GUJARAT	365565
+Ingorala j
+Amreli	Amreli	GUJARAT	365220
+Ishavariya
+Amreli	Amreli	GUJARAT	365601
+Jabal
+Amreli	Amreli	GUJARAT	364522
+Jafrabad Amreli
+Rajula	Amreli	GUJARAT	365540
+Jaliya
+Amreli	Amreli	GUJARAT	365610
+Jamka
+Amreli	Amreli	GUJARAT	365440
+Jamka
+Amreli	Amreli	GUJARAT	365550
+Jangar
+Amreli	Amreli	GUJARAT	365455
+Janjariya juna
+Amreli	Amreli	GUJARAT	365440
+Jarakhiya
+Amreli	Amreli	GUJARAT	365430
+Jasvantgadh
+Amreli	Amreli	GUJARAT	365620
+Jatroda
+Amreli	Amreli	GUJARAT	365535
+Jhar
+Amreli	Amreli	GUJARAT	365630
+JhijadiaH
+Kunkavav Vadia	Amreli	GUJARAT	365480
+Jihtudi
+Amreli	Amreli	GUJARAT	365460
+Jikiyali
+Amreli	Amreli	GUJARAT	365635
+Jira
+Amreli	Amreli	GUJARAT	365660
+Jira
+Savarkundla	Amreli	GUJARAT	364521
+Juna savar
+Amreli	Amreli	GUJARAT	364521
+Juni haliyad
+Amreli	Amreli	GUJARAT	365440
+Kadaya
+Amreli	Amreli	GUJARAT	365645
+Kadiyali
+Amreli	Amreli	GUJARAT	365560
+Kagvadar
+Amreli	Amreli	GUJARAT	365545
+Kamigadh
+Amreli	Amreli	GUJARAT	365440
+Kanatalav
+Amreli	Amreli	GUJARAT	364515
+Kanchardi
+Amreli	Amreli	GUJARAT	365220
+Kariyana
+Amreli	Amreli	GUJARAT	365421
+Karjala
+Amreli	Amreli	GUJARAT	364515
+Karmdadi
+Amreli	Amreli	GUJARAT	365660
+Katar
+Amreli	Amreli	GUJARAT	365560
+Katrodi
+Amreli	Amreli	GUJARAT	364525
+Kerala
+Amreli	Amreli	GUJARAT	364515
+Kerala
+Amreli	Amreli	GUJARAT	365630
+Kerala j
+Amreli	Amreli	GUJARAT	365430
+Keriyachad
+Amreli	Amreli	GUJARAT	365630
+Keriyanagas
+Amreli	Amreli	GUJARAT	365601
+Khadadhar
+Amreli	Amreli	GUJARAT	365650
+Khadkala
+Amreli	Amreli	GUJARAT	364521
+Khadkhad
+Amreli	Amreli	GUJARAT	365480
+Khakhbai
+Amreli	Amreli	GUJARAT	365560
+Khakhriya
+Amreli	Amreli	GUJARAT	365421
+Khalpar
+Amreli	Amreli	GUJARAT	364525
+Khambha
+Khambha	Amreli	GUJARAT	365650
+Khambhala
+Amreli	Amreli	GUJARAT	365421
+Khara
+Amreli	Amreli	GUJARAT	365220
+Khari
+Amreli	Amreli	GUJARAT	365456
+Khasdali
+Amreli	Amreli	GUJARAT	364530
+Kherali moti
+Amreli	Amreli	GUJARAT	365560
+Khicha
+Amreli	Amreli	GUJARAT	365640
+KhijadiaKhan
+Amreli	Amreli	GUJARAT	365480
+Khijadia khara
+Amreli	Amreli	GUJARAT	365456
+Khisari
+Amreli	Amreli	GUJARAT	365660
+Khjadia R.S.
+Amreli	Amreli	GUJARAT	365430
+Khjuripipalia
+Amreli	Amreli	GUJARAT	365480
+Kotadi
+Amreli	Amreli	GUJARAT	365560
+Kotdapitha
+Babra	Amreli	GUJARAT	365421
+Kotdapitha
+Dhari	Amreli	GUJARAT	365640
+Kovaya
+Amreli	Amreli	GUJARAT	365541
+Krankach
+Liliya	Amreli	GUJARAT	365565
+Kubda
+Amreli	Amreli	GUJARAT	365640
+Kumbhariya
+Amreli	Amreli	GUJARAT	365555
+Kunkavav
+Kunkvav-vadia	Amreli	GUJARAT	365450
+Kutana
+Amreli	Amreli	GUJARAT	365565
+Lakhapadar
+Amreli	Amreli	GUJARAT	365460
+Lakhapadar
+Amreli	Amreli	GUJARAT	365635
+Lalavadar
+Amreli	Amreli	GUJARAT	365601
+Lathi Amreli
+Lathi	Amreli	GUJARAT	365430
+Light House
+Savar Kundla	Amreli	GUJARAT	364515
+Likhala
+Amreli	Amreli	GUJARAT	364522
+Liliya
+Liliya	Amreli	GUJARAT	365535
+Lonhtpur
+Amreli	Amreli	GUJARAT	365540
+Lunghiya
+Dhari	Amreli	GUJARAT	365645
+Lunidhar
+Kunkvav-vadia	Amreli	GUJARAT	365460
+Lunki
+Amreli	Amreli	GUJARAT	365421
+Lunsapur
+Amreli	Amreli	GUJARAT	365540
+Luvara
+Amreli	Amreli	GUJARAT	364522
+Luvariya
+Amreli	Amreli	GUJARAT	365430
+Machyalanana
+Amreli	Amreli	GUJARAT	365601
+Malila
+Amreli	Amreli	GUJARAT	365630
+Malsika
+Amreli	Amreli	GUJARAT	365640
+Mandal
+Amreli	Amreli	GUJARAT	365555
+Mandardi
+Amreli	Amreli	GUJARAT	365560
+Manekvada
+Amreli	Amreli	GUJARAT	365440
+Mangvapal
+Amreli	Amreli	GUJARAT	365601
+Matirala
+Amreli	Amreli	GUJARAT	365430
+Mavjinjva
+Amreli	Amreli	GUJARAT	365456
+Meghapipalia
+Amreli	Amreli	GUJARAT	365480
+Mekda
+Amreli	Amreli	GUJARAT	364525
+Meriyana
+Amreli	Amreli	GUJARAT	364522
+Mitiyala
+Amreli	Amreli	GUJARAT	364522
+Moldi
+Amreli	Amreli	GUJARAT	364521
+Monpur
+Amreli	Amreli	GUJARAT	365620
+Monvel
+Amreli	Amreli	GUJARAT	365645
+Morangi
+Amreli	Amreli	GUJARAT	365555
+Mota agariya
+Amreli	Amreli	GUJARAT	365560
+Mota ankadiya
+Amreli	Amreli	GUJARAT	365455
+Mota devaliya
+Amreli	Amreli	GUJARAT	365410
+Mota kankot
+Amreli	Amreli	GUJARAT	365535
+Mota mandvada
+Amreli	Amreli	GUJARAT	365440
+Motamansa
+Amreli	Amreli	GUJARAT	362730
+Mota munjiyasar
+Amreli	Amreli	GUJARAT	365440
+Motasamdhiyala
+Khambha	Amreli	GUJARAT	365635
+Mota ujla
+Amreli	Amreli	GUJARAT	365450
+Mota zinjuda
+Amreli	Amreli	GUJARAT	364515
+Nadala
+Amreli	Amreli	GUJARAT	365410
+Nagadhra
+Amreli	Amreli	GUJARAT	365635
+Nageshri
+Jafrabad	Amreli	GUJARAT	365545
+Najapur
+Amreli	Amreli	GUJARAT	365456
+Nana Rajkot
+Lathi	Amreli	GUJARAT	365435
+Nanaliliya
+Amreli	Amreli	GUJARAT	365535
+Nanan bhmodra
+Amreli	Amreli	GUJARAT	364515
+Nani dhari
+Amreli	Amreli	GUJARAT	365635
+Nani kunkavav
+Amreli	Amreli	GUJARAT	365450
+Nani vadal
+Savar Kundla	Amreli	GUJARAT	364522
+Narangadh
+Amreli	Amreli	GUJARAT	365220
+Navaniya
+Amreli	Amreli	GUJARAT	365421
+Nesdi
+Amreli	Amreli	GUJARAT	364515
+Nilvala
+Amreli	Amreli	GUJARAT	365421
+Ningla 2
+Amreli	Amreli	GUJARAT	365550
+Oliya
+Amreli	Amreli	GUJARAT	364515
+P.A.Victor
+Amreli	Amreli	GUJARAT	365555
+Padarsinga
+Amreli	Amreli	GUJARAT	365220
+Panchtalvda
+Amreli	Amreli	GUJARAT	365220
+Paniya
+Amreli	Amreli	GUJARAT	365440
+Pansada
+Amreli	Amreli	GUJARAT	365421
+Pipallag
+Amreli	Amreli	GUJARAT	365455
+Pipalva
+Amreli	Amreli	GUJARAT	365430
+Pipalva
+Amreli	Amreli	GUJARAT	365650
+Piparadi
+Amreli	Amreli	GUJARAT	364525
+Pirkhijadiya
+Amreli	Amreli	GUJARAT	365410
+Pithadia
+Amreli	Amreli	GUJARAT	365456
+Pithvadi
+Amreli	Amreli	GUJARAT	364515
+Pithvajal
+Amreli	Amreli	GUJARAT	365610
+Piyava
+Amreli	Amreli	GUJARAT	364515
+Rabarika
+Amreli	Amreli	GUJARAT	365550
+Rabhda
+Amreli	Amreli	GUJARAT	365555
+Rajsathli
+Amreli	Amreli	GUJARAT	365610
+Rajula
+Rajula	Amreli	GUJARAT	365560
+Rampara
+NA	Amreli	GUJARAT	365560
+Rampur
+Amreli	Amreli	GUJARAT	365430
+Rampur
+Amreli	Amreli	GUJARAT	365480
+Randhiya
+Amreli	Amreli	GUJARAT	365620
+Rangpur
+Amreli	Amreli	GUJARAT	365601
+Raydi
+Amreli	Amreli	GUJARAT	365550
+Ringanvala mota
+Amreli	Amreli	GUJARAT	365555
+Rohisa
+Amreli	Amreli	GUJARAT	362730
+Rughnathpur
+Amreli	Amreli	GUJARAT	365635
+Sajanvav
+Amreli	Amreli	GUJARAT	365555
+Sajiyavadar
+Amreli	Amreli	GUJARAT	365630
+Sajnatimba
+Amreli	Amreli	GUJARAT	365535
+Saladi
+Amreli	Amreli	GUJARAT	365535
+Samdhiyala
+Amreli	Amreli	GUJARAT	365440
+Samdhiyala 1
+Rajula	Amreli	GUJARAT	365555
+Sanala
+Amreli	Amreli	GUJARAT	365450
+Sanali
+Amreli	Amreli	GUJARAT	365450
+Sanaliya
+Amreli	Amreli	GUJARAT	365535
+Sanosara
+Amreli	Amreli	GUJARAT	365610
+Santhali bhukhli
+Amreli	Amreli	GUJARAT	365480
+Sarakadiya
+Amreli	Amreli	GUJARAT	365550
+Sarmbhda
+Amreli	Amreli	GUJARAT	365630
+Sarsiya
+Dhari	Amreli	GUJARAT	365660
+Savar
+Savar Kundla	Amreli	GUJARAT	364515
+Savarkundla
+Savarkundla	Amreli	GUJARAT	364515
+Senjal
+Amreli	Amreli	GUJARAT	364515
+Shakhpur
+Amreli	Amreli	GUJARAT	365220
+Shedubhar
+Amreli	Amreli	GUJARAT	365430
+Shekhpipariya
+Lathi	Amreli	GUJARAT	365435
+Shelana
+Amreli	Amreli	GUJARAT	364525
+Shilana
+Amreli	Amreli	GUJARAT	365440
+Shiyalbet
+Amreli	Amreli	GUJARAT	365560
+Simran
+Amreli	Amreli	GUJARAT	364521
+Sonariya
+Amreli	Amreli	GUJARAT	365601
+Talda
+Amreli	Amreli	GUJARAT	365550
+Taraktalv
+Amreli	Amreli	GUJARAT	365610
+Tarvada
+Amreli	Amreli	GUJARAT	365610
+Tatania
+Amreli	Amreli	GUJARAT	365650
+Thavi
+Amreli	Amreli	GUJARAT	364525
+Thnsa
+Amreli	Amreli	GUJARAT	365220
+Thoradi
+Savar Kundla	Amreli	GUJARAT	364522
+Timbi
+Jafrabad	Amreli	GUJARAT	362730
+Toda
+Amreli	Amreli	GUJARAT	365430
+Tori
+Amreli	Amreli	GUJARAT	365480
+Trakuda
+Amreli	Amreli	GUJARAT	365550
+Trambakpur
+Amreli	Amreli	GUJARAT	365660
+Tramboda
+Amreli	Amreli	GUJARAT	365410
+Uchaiya
+Amreli	Amreli	GUJARAT	365560
+Umaraia
+Amreli	Amreli	GUJARAT	365650
+Untvad
+Amreli	Amreli	GUJARAT	365421
+UTCL Kovaya
+Rajula	Amreli	GUJARAT	365541
+Vadera
+Amreli	Amreli	GUJARAT	365610
+Vadhera
+Amreli	Amreli	GUJARAT	365540
+Vadia
+Kunkvav-vadia	Amreli	GUJARAT	365480
+Vadli
+Rajula	Amreli	GUJARAT	365560
+Vaghaniya
+Bagsra	Amreli	GUJARAT	365456
+Vanda
+Savarkundla	Amreli	GUJARAT	364525
+Vandliya
+Amreli	Amreli	GUJARAT	365421
+Vankiya
+Amreli	Amreli	GUJARAT	365610
+Vankiya
+Amreli	Amreli	GUJARAT	365635
+Vanot
+Amreli	Amreli	GUJARAT	364530
+Vanshiyali
+Amreli	Amreli	GUJARAT	364525
+Varsada
+Amreli	Amreli	GUJARAT	365430
+Vathalpur K
+Amreli	Amreli	GUJARAT	365601
+Vavda
+Amreli	Amreli	GUJARAT	365421
+Vavdi D
+Amreli	Amreli	GUJARAT	365410
+Vavdi road
+Amreli	Amreli	GUJARAT	365450
+Vavera
+Amreli	Amreli	GUJARAT	365560
+Vijpadi
+Savarkundla	Amreli	GUJARAT	364530
+Virdi
+Amreli	Amreli	GUJARAT	364525
+Virpur
+Amreli	Amreli	GUJARAT	365640
+Virpur
+Lathi	Amreli	GUJARAT	365435
+

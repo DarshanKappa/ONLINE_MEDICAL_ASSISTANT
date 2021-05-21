@@ -1,0 +1,196 @@
+
+
+    #appointment_section{
+        display: block;
+        /* height: 3000px; */
+       
+     /* border: 2px solid red; */
+     width: 100vw;
+     font-family:  'Arial Narrow', Arial, sans-serif;
+     
+    }
+    
+    #appointment_first_section{
+        /* border: 2px solid blueviolet; */
+        width: 100vw;
+        height: 15vw;
+        box-shadow: 1px 8px 10px -10px rgb(0 0 0 / 31%);
+
+    }
+
+    #location{
+        font-size: 2.5vw;
+        margin-top: 2vw;
+        margin-left: 3vw;
+        display: flex;
+    }   
+    #logo{
+        margin-right: 1vw;
+        width: 4vw;
+        height: 4vw;
+        background: url("/online_medical_assistant/extra/locationlogoimages\ \(1\).png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+    }
+    /* #location label{
+        margin-top: 1vw;
+    } */
+    #l_text{
+        font-size: 2.5vw;
+        width: 30vw;
+        border: .1vw solid grey;
+        border-radius: .6vw;
+        margin-left: 1vw;
+        
+    }
+    
+    #type{
+        /* border: 2px solid red; */
+        display: flex;
+        margin-top: 2vw;
+        margin-left:4vw ;
+        
+    } 
+    #type label{
+        font-size: 2.8vw;
+        margin-right: 2vw;
+    }
+    #type select{
+       list-style: none;
+    }
+    #type option{
+        font-size: 2.5;
+        
+    }
+    
+    #appointment_second_section{
+        width: 100vw;
+        margin-top: 3vw;
+        /* border: 2px solid red; */
+        height: 1000px;
+        box-shadow: 0vw 1vw 5vw -2vw rgb(87 87 87);
+        
+       
+    }
+    
+    .doctor_detail{
+        /* border: 2px solid violet; */
+        /* width: 100vw; */
+        height: 50vw;
+        background-color: rgb(240, 240, 240);
+         margin: 1vw 1vw;
+         /* border-radius: .5vw; */
+
+
+        display: flex;
+
+    }
+
+    .photo_rating{
+        /* border: 2px solid yellowgreen; */
+        width: 25vw;
+        display: flex;
+        flex-direction: column;
+         justify-content: space-around;
+         align-items: center;
+         
+
+        
+    }
+   
+    .photo{
+        /* border: 2px solid black; */
+       
+        height: 25vw;
+        width: 90%;
+        background: url("/online_medical_assistant/extra/doctor_photo.jfif");
+        background-position: center;
+        background-size: cover;
+        box-shadow: 0vw 0vw 2vw 0vw rgb(87, 87, 87,.1);
+    }
+    .rating{
+        /* border: 2px solid black; */
+        height: 20vw;
+        width: 100%;
+        font-family:  sans-serif;
+        color:rgb(48, 74, 219);
+        
+    }
+    .rat{
+        margin: 2vw 1vw;
+        font-size: 1.8vw;
+    }
+    
+    .details{
+        /* border: 2px solid yellowgreen; */
+        width: 45vw;
+        color: rgb(107, 107, 107);
+        
+    }
+    .d_name{
+        list-style: none;
+        margin: 3vw 1vw 5vw 1vw;
+        font-size: 4vw;
+    }
+    .d_detail{
+        list-style: none;
+        font-size: 2.1vw;
+        margin: 2vw 1vw;
+    }
+    
+    .d_contect{
+        /* border: 2px solid yellowgreen; */
+        width: 30vw;
+        
+    }
+    .d_contect li{
+        list-style: none;
+        margin: 5vw 1vw 1vw 5vw;
+        font-size: 2.5vw;
+    }
+    
+    .appoint{
+        /* border: 2px solid red; */
+        display: flex;
+        margin: 2vw 2vw;
+        
+        box-shadow: 0vw 0vw .5vw 0vw rgb(87, 87, 87,.3);
+        color: white;
+        font-size: 2.5vw;
+        
+        
+        
+    }
+    .ali{
+        
+        /* border: 2px solid rgb(241, 190, 80); */
+        background-color: rgb(233, 133, 66);
+        padding-left: 1vw;
+        padding-top: 1.5vw;
+        padding-bottom: 1.5vw;
+        padding-right: 1vw;
+        width: 100%;
+        
+        
+        
+    }
+    .aspan{
+        background-color: rgb(201, 95, 25);
+        /* border: 2px solid rgb(89, 0, 255); */
+        width: 20%;
+        font-size: 3vw;
+        padding-left: 1.5vw;
+        padding-top: 1.3vw;
+     
+
+    }
+    
+
+
+
+
+
+
+  

@@ -1,0 +1,663 @@
+Malanpur
+Patdi	Surendra Nagar	GUJARAT	382130
+Vaghada
+Patdi	Surendra Nagar	GUJARAT	382130
+Ori
+Sayla	Surendra Nagar	GUJARAT	360055
+Adalsar
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Adariyana
+Dasada	Surendra Nagar	GUJARAT	382780
+Ajitgadh
+Halvad	Surendra Nagar	GUJARAT	363330
+Akhiyana
+Dasda	Surendra Nagar	GUJARAT	382745
+Anandpur Bhadla
+Chotila	Surendra Nagar	GUJARAT	363520
+Anandpur Bhal
+Limbdi	Surendra Nagar	GUJARAT	363425
+Anindra
+Lakhtar	Surendra Nagar	GUJARAT	363110
+Ankevaliya
+Limbdi	Surendra Nagar	GUJARAT	363421
+Bajana
+Dasada	Surendra Nagar	GUJARAT	382745
+Bajarangpura
+Lakhtar	Surendra Nagar	GUJARAT	363110
+Bakarthali
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Bala
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Baldana
+Limbdi	Surendra Nagar	GUJARAT	363421
+Balol
+Limbdi	Surendra Nagar	GUJARAT	363425
+Bamanbor
+Chotila	Surendra Nagar	GUJARAT	363520
+Bamanva
+Dasdaa	Surendra Nagar	GUJARAT	382765
+Bavli
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Bhadena
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Bhadreshi
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Bhaduka
+Muli	Surendra Nagar	GUJARAT	363510
+Bhadvana
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Bhalgamda
+Limbdi	Surendra Nagar	GUJARAT	363421
+Bharad
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Bharada
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Bhathan
+Limbdi	Surendra Nagar	GUJARAT	363421
+Bhechda
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Bhensjal
+Limbdi	Surendra Nagar	GUJARAT	363410
+Bhoika
+Limbdi	Surendra Nagar	GUJARAT	363421
+Bhojpara
+Limbdi	Surendra Nagar	GUJARAT	363423
+Bhragupur
+Limbdi	Surendra Nagar	GUJARAT	363415
+Borana
+Limbdi	Surendra Nagar	GUJARAT	363410
+Borna
+Limbdi	Surendra Nagar	GUJARAT	363421
+Bubvana
+Dasada	Surendra Nagar	GUJARAT	382750
+Chachana
+Limbdi	Surendra Nagar	GUJARAT	363421
+Chachka
+Limbdi	Surendra Nagar	GUJARAT	363410
+Chamaraj
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Charadva
+Halvad	Surendra Nagar	GUJARAT	363330
+Chhalala
+Limbdi	Surendra Nagar	GUJARAT	363415
+Chharad
+Lakhtar	Surendra Nagar	GUJARAT	363115
+Chhatriyala
+Limbdi	Surendra Nagar	GUJARAT	363415
+Chikasar
+Dasada	Surendra Nagar	GUJARAT	382765
+Chiroda
+Chotila	Surendra Nagar	GUJARAT	363520
+Chobari
+Chotila	Surendra Nagar	GUJARAT	363520
+Chokdi
+Limbdi	Surendra Nagar	GUJARAT	363410
+Choki
+Limbdi	Surendra Nagar	GUJARAT	363421
+Chorvira
+Chotila	Surendra Nagar	GUJARAT	363530
+Chotila
+Chotila	Surendra Nagar	GUJARAT	363520
+Chuda
+Limbdi	Surendra Nagar	GUJARAT	363410
+Chuli
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Danavada
+Muli	Surendra Nagar	GUJARAT	363510
+Dasada
+Dasada	Surendra Nagar	GUJARAT	382750
+Dedadra
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Degam
+Dasada	Surendra Nagar	GUJARAT	382745
+Dervala
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Devaliya
+Halvad	Surendra Nagar	GUJARAT	363330
+Devaliya
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Devcharadi
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Devpara
+Limbdiq	Surendra Nagar	GUJARAT	363425
+Devsar
+Chotila	Surendra Nagar	GUJARAT	363520
+Dhajala
+Sayla	Surendra Nagar	GUJARAT	363440
+Dhama
+Dasada	Surendra Nagar	GUJARAT	382755
+Dhanala
+Halvad	Surendra Nagar	GUJARAT	363351
+Dhandhalpur
+Sayla	Surendra Nagar	GUJARAT	363440
+Dhanki Surendra Nagar
+Lakhtar	Surendra Nagar	GUJARAT	363115
+Dharai
+Chotila	Surendra Nagar	GUJARAT	363520
+Dhavana
+Halvad	Surendra Nagar	GUJARAT	363330
+Dhokalva
+Chotila	Surendra Nagar	GUJARAT	363520
+Dholi
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Dholi Bhal
+Limbdi	Surendra Nagar	GUJARAT	363425
+Dhrangadhra
+Dhrangsadhra	Surendra Nagar	GUJARAT	363310
+Dhrumath
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Digsar
+Muli	Surendra Nagar	GUJARAT	363510
+Doliya
+Sayla	Surendra Nagar	GUJARAT	363430
+Dudhai
+Muli	Surendra Nagar	GUJARAT	363510
+Dudhrej
+Wadhwan	Surendra Nagar	GUJARAT	363040
+Dumana
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Echhvada
+Dasada	Surendra Nagar	GUJARAT	382750
+Enjar
+Halvad	Surendra Nagar	GUJARAT	363330
+Ervada
+Dasada	Surendra Nagar	GUJARAT	382750
+Fatepur
+Dasada	Surendra Nagar	GUJARAT	382755
+Fulgram
+Wadhwancity	Surendra Nagar	GUJARAT	363435
+Gadhad
+Muli	Surendra Nagar	GUJARAT	363510
+Gajanvav
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Gala
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Gangad
+Lakhtar	Surendra Nagar	GUJARAT	363115
+Ganjela
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Garambhadi
+Sayla	Surendra Nagar	GUJARAT	363440
+Gautamgadh
+Muli	Surendra Nagar	GUJARAT	363510
+Gavana
+Dasada	Surendra Nagar	GUJARAT	382750
+Gedi
+Limbdi	Surendra Nagar	GUJARAT	363421
+Gediya
+Dasada	Surendra Nagar	GUJARAT	382745
+Ghaghretiya
+Limbdi	Surendra Nagar	GUJARAT	363427
+Ghanad
+Lakhtar	Surendra Nagar	GUJARAT	363110
+Ghanshyampur
+Halvad	Surendra Nagar	GUJARAT	363330
+Goraiya
+Sayla	Surendra Nagar	GUJARAT	363440
+Goriyavad
+Dasada	Surendra Nagar	GUJARAT	382765
+Gosal
+Sayla	Surendra Nagar	GUJARAT	363430
+Gujarvadi
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Gunda
+Chotila	Surendra Nagar	GUJARAT	363520
+Gundiyala
+Wadhwancity	Surendra Nagar	GUJARAT	363435
+Hadalabhal
+Limbdi	Surendra Nagar	GUJARAT	363425
+Halvad
+Halvad	Surendra Nagar	GUJARAT	363330
+Hampar
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Haripar
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Hebatpur
+Lakhtar	Surendra Nagar	GUJARAT	363115
+Ingorala
+Halvad	Surendra Nagar	GUJARAT	363351
+Ingrodi
+Lkhtar	Surendra Nagar	GUJARAT	363115
+Isanpur
+Halvad	Surendra Nagar	GUJARAT	363351
+Jainabad
+Dasada	Surendra Nagar	GUJARAT	382765
+Jambu
+Limbdi	Surendra Nagar	GUJARAT	363421
+Janivadla
+Chotila	Surendra Nagar	GUJARAT	363520
+Janshali
+Limbdi	Surendra Nagar	GUJARAT	363425
+Jarvala
+Dasada	Surendra Nagar	GUJARAT	382765
+Jasapar
+Muli	Surendra Nagar	GUJARAT	363510
+Jasmatpur
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Jegadva
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Jesda
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Jiva
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Jobala
+Limbdi	Surendra Nagar	GUJARAT	363415
+Joravarnagar
+Wadhwan	Surendra Nagar	GUJARAT	363020
+Junajasapar
+Sayla	Surendra Nagar	GUJARAT	363430
+Kacholiya
+Dasada	Surendra Nagar	GUJARAT	382745
+Kadiyana
+Halvad	Surendra Nagar	GUJARAT	363330
+Kadu
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Kalam
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Kalmad
+Muli	Surendra Nagar	GUJARAT	363510
+Kamalpar
+Limbdi	Surendra Nagar	GUJARAT	363425
+Kankavati
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Kanthariya
+Limbdi	Surendra Nagar	GUJARAT	363410
+Karala
+Lakhtar	Surendra Nagar	GUJARAT	363115
+Karol
+Limbdi	Surendra Nagar	GUJARAT	363410
+Katariya
+Limbdi	Surendra Nagar	GUJARAT	363421
+Kathada
+Dasada	Surendra Nagar	GUJARAT	382750
+Katuda
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Kavadiya
+Halvad	Surendra Nagar	GUJARAT	363330
+Khajeli
+Limbdi	Surendra Nagar	GUJARAT	363427
+Khambhada
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Khambhalav
+Limbdi	Surendra Nagar	GUJARAT	363423
+Khandiya
+Limbdi	Surendra Nagar	GUJARAT	363410
+Kharaghoda
+Dasada	Surendra Nagar	GUJARAT	382760
+Kharva
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Khatdi
+Muli	Surendra Nagar	GUJARAT	363510
+Khatdi
+Chotila	Surendra Nagar	GUJARAT	363520
+Kherali
+Wadhwancity	Surendra Nagar	GUJARAT	363020
+Kherana
+Chotila	Surendra Nagar	GUJARAT	363520
+Kherdi
+Chotila	Surendra Nagar	GUJARAT	363520
+KhervaJat
+Dasada	Surendra Nagar	GUJARAT	382745
+Khintala
+Sayla	Surendra Nagar	GUJARAT	363440
+Khodu
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Kholadiyad
+Wadhwancity	Surendra Nagar	GUJARAT	363020
+Kidi
+Halvad	Surendra Nagar	GUJARAT	363351
+Kondh
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Koparani
+Halvad	Surendra Nagar	GUJARAT	363330
+Korda
+Limbdi	Surendra Nagar	GUJARAT	363410
+Kothariya
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Koyba
+Halvad	Surendra Nagar	GUJARAT	363330
+Kuda
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Kudla
+Limndi	Surendra Nagar	GUJARAT	363410
+Kukda
+Muli	Surendra Nagar	GUJARAT	363510
+Kuntalpur
+Muli	Surendra Nagar	GUJARAT	363510
+Lakhtar
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Laliyad
+Limbdi	Surendra Nagar	GUJARAT	363410
+Lilapur
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Limbdi
+Limbdi	Surendra Nagar	GUJARAT	363421
+Limli
+Wadhwancity	Surendra Nagar	GUJARAT	363020
+Liya
+Muli	Surendra Nagar	GUJARAT	363510
+Loya
+Limbdi	Surendra Nagar	GUJARAT	363410
+Malaniyad
+Halvad	Surendra Nagar	GUJARAT	363330
+Malika
+Lakhtar	Surendra Nagar	GUJARAT	363115
+Malod
+Wadhwancity	Surendra Nagar	GUJARAT	363020
+Malvan
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+MalvanJat
+Dasada	Surendra Nagar	GUJARAT	382745
+Mandlasar
+Chotila	Surendra Nagar	GUJARAT	363530
+Manpar
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Mathak
+Halvad	Surendra Nagar	GUJARAT	363330
+Mayurnagar
+Halvad	Surendra Nagar	GUJARAT	363351
+Memka
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Merupar
+Halvad	Surendra Nagar	GUJARAT	363330
+Methan
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Minapur
+Limbdi	Surendra Nagar	GUJARAT	363415
+Modhvana
+Lakhtar	Surendra Nagar	GUJARAT	363110
+Mojidad
+Limbdi	Surendra Nagar	GUJARAT	363410
+Morthala
+Chotila	Surendra Nagar	GUJARAT	363530
+MorvadJuni
+Limbdi	Surendra Nagar	GUJARAT	363410
+Mota Ankevaliya
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Motamadhad
+Wadhwancity	Surendra Nagar	GUJARAT	363435
+Motatimbla
+Limbdi	Surendra Nagar	GUJARAT	363421
+Moti Moldi
+Chotila	Surendra Nagar	GUJARAT	363520
+Motimajethi
+Dasada	Surendra Nagar	GUJARAT	382765
+Mulbavla
+Limbdi	Surendra Nagar	GUJARAT	363427
+Muli
+Muli	Surendra Nagar	GUJARAT	363510
+Munjpar
+Wadhwancity	Surendra Nagar	GUJARAT	363020
+Nadala
+Sayla	Surendra Nagar	GUJARAT	363440
+Nagadka
+Limbdi	Surendra Nagar	GUJARAT	363410
+NagadkaJat
+Dasada	Surendra Nagar	GUJARAT	382745
+Nagnesh
+NA	Surendra Nagar	GUJARAT	363415
+Nagra
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Nagvada
+Dasada	Surendra Nagar	GUJARAT	382755
+Nana Ankevaliya
+Lakhtar	Surendra Nagar	GUJARAT	363110
+Nana Goraiya
+Dasada	Surendra Nagar	GUJARAT	382745
+Nana Matra
+Sayla	Surendra Nagar	GUJARAT	363440
+Nanikathechi
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Narali
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Narichana
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Natvargadh
+Limbdi	Surendra Nagar	GUJARAT	363427
+Nava
+Chotila	Surendra Nagar	GUJARAT	363520
+Nava Savlas
+Dasada	Surendra Nagar	GUJARAT	382745
+Navagam S
+Sayla	Surendra Nagar	GUJARAT	363440
+Navaghanshyamgadh
+Halvad	Surendra Nagar	GUJARAT	363330
+Navalgadh
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Navaniya
+Sayla	Surendra Nagar	GUJARAT	363430
+Naviyani
+Dasada	Surendra Nagar	GUJARAT	382750
+Ninama
+Sayla	Surendra Nagar	GUJARAT	363440
+Noli
+Sayla	Surendra Nagar	GUJARAT	363440
+Odu
+Dasada	Surendra Nagar	GUJARAT	382760
+Olak
+Lakhtar	Surendra Nagar	GUJARAT	363115
+Panchvada
+Chotila	Surendra Nagar	GUJARAT	363520
+Pandavara
+Muli	Surendra Nagar	GUJARAT	363510
+Panshina
+Limbdi	Surendra Nagar	GUJARAT	363423
+Panva
+Dasada	Surendra Nagar	GUJARAT	382750
+Parali
+Limbdi	Surendra Nagar	GUJARAT	363427
+Parnala
+Limbdi	Surendra Nagar	GUJARAT	363427
+Patdi
+Dasada	Surendra Nagar	GUJARAT	382765
+Pedhda
+Lakhtar	Surendra Nagar	GUJARAT	363110
+Pipali
+Dasada	Surendra Nagar	GUJARAT	382745
+Pipaliya Dhora
+Chotila	Surendra Nagar	GUJARAT	363520
+Pipaliya Dhandhal
+Chotila	Surendra Nagar	GUJARAT	363520
+Piprali
+Sayla	Surendra Nagar	GUJARAT	363440
+Piyava
+Chotila	Surendra Nagar	GUJARAT	363520
+Porda
+Dasada	Surendra Nagar	GUJARAT	382765
+Pratappur
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Rajcharadi
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Rajpar
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Rajpara
+Chotila	Surendra Nagar	GUJARAT	363520
+Rajsitapur
+Dhrangadhra	Surendra Nagar	GUJARAT	363320
+Ralol
+Limbdi	Surendra Nagar	GUJARAT	363423
+Ramgadh
+Dshrangadhra	Surendra Nagar	GUJARAT	363310
+Rampara
+Wadhwancity	Surendra Nagar	GUJARAT	363435
+Ranagadh
+Limbdi	Surendra Nagar	GUJARAT	363427
+Ranakpur
+Halvad	Surendra Nagar	GUJARAT	363330
+Rangpur
+Dhandhuka	Surendra Nagar	GUJARAT	363421
+Ranipat
+Chotila	Surendra Nagar	GUJARAT	363530
+Ranjitgadh
+Halvad	Surendra Nagar	GUJARAT	363351
+Ranmalpur
+Halvad	Surendra Nagar	GUJARAT	363330
+Raska
+Limbdi	Surendra Nagar	GUJARAT	363421
+Ratabhe
+Halvad	Surendra Nagar	GUJARAT	363330
+Ratanpar
+Wadhwancity	Surendra Nagar	GUJARAT	363020
+Ravaliyavadar
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Reshamiya
+Chotila	Surendra Nagar	GUJARAT	363520
+Rojasar
+Limbdi	Surendra Nagar	GUJARAT	363427
+Sadad
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Sakar
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Samadhiyala
+Sayla	Surendra Nagar	GUJARAT	363440
+Samla
+Limbdi	Surendra Nagar	GUJARAT	363421
+Sankali
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Sanosara
+Chotila	Surendra Nagar	GUJARAT	363520
+Sapakda
+Halvad	Surendra Nagar	GUJARAT	363330
+Sapar
+NA	Surendra Nagar	GUJARAT	363520
+Sara
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Sarla
+Muli	Surendra Nagar	GUJARAT	363510
+Sarval
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Sauka
+Limbdi	Surendra Nagar	GUJARAT	363421
+Savda
+Dasada	Surendra Nagar	GUJARAT	382765
+Savlana
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Sayla Surendra Nagar
+Sayla	Surendra Nagar	GUJARAT	363430
+Sedla
+Dasada	Surendra Nagar	GUJARAT	382745
+Sejakpar
+Sayla	Surendra Nagar	GUJARAT	363440
+Shekhpar
+Muli	Surendra Nagar	GUJARAT	363510
+Shirvaniya
+NA	Surendra Nagar	GUJARAT	363410
+Shiyani
+Limbdi	Surendra Nagar	GUJARAT	363427
+Sidhsar
+Sayla	Surendra Nagar	GUJARAT	363430
+Sokhda
+Dasada	Surendra Nagar	GUJARAT	382745
+Soldi
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Somasar
+Muli	Surendra Nagar	GUJARAT	363510
+Songadh
+Chotila	Surendra Nagar	GUJARAT	363530
+Sudamada
+Sayla	Surendra Nagar	GUJARAT	363440
+Sundari
+Halvad	Surendra Nagar	GUJARAT	363330
+Surel
+Dasada	Surendra Nagar	GUJARAT	382780
+Surendranagar
+Wadhwanicity	Surendra Nagar	GUJARAT	363001
+Surendranagar M.P.S.C.
+Wadhwancity	Surendra Nagar	GUJARAT	363002
+Surendranagar Station Road
+Wadhwancity	Surendra Nagar	GUJARAT	363002
+Surendranagar Udyognagar
+Wadhwancity	Surendra Nagar	GUJARAT	363002
+Surendranagar Vadipara
+Wadhwancity	Surendra Nagar	GUJARAT	363001
+Survadar
+Halvad	Surendra Nagar	GUJARAT	363351
+Sushiya
+Dasada	Surendra Nagar	GUJARAT	382750
+Susvav
+Halvad	Surendra Nagar	GUJARAT	363351
+Talsana
+Limbdi	Surendra Nagar	GUJARAT	363427
+Tarmaniya
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Tarnetar
+Chotila	Surendra Nagar	GUJARAT	363530
+Tavi
+Limbdi	Surendra Nagar	GUJARAT	363427
+Thala
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Thangadh
+Chotila	Surendra Nagar	GUJARAT	363530
+Thoriyali
+Sayla	Surendra Nagar	GUJARAT	363430
+Tikar Ran
+Halvad	Surendra Nagar	GUJARAT	363330
+Tikar Parmar
+Muli	Surendra Nagar	GUJARAT	363510
+Timba
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Tokrala
+Limbdi	Surendra Nagar	GUJARAT	363421
+Tuva
+Limbdi	Surendra Nagar	GUJARAT	363421
+Umarda
+Muli	Surendra Nagar	GUJARAT	363510
+Untadi
+Limbdi	Surendra Nagar	GUJARAT	363421
+Upariyala
+Dasada	Surendra Nagar	GUJARAT	382765
+Vadali
+Chotila	Surendra Nagar	GUJARAT	363520
+Vadgam
+Dasada	Surendra Nagar	GUJARAT	382750
+Vadia
+Sayla	Surendra Nagar	GUJARAT	363430
+Vadla
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Vadod
+Limbdi	Surendra Nagar	GUJARAT	363421
+Vagadiya
+Chotila	Surendra Nagar	GUJARAT	363530
+Vaghela
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Vakhatpar
+Sayla	Surendra Nagar	GUJARAT	363430
+Vana
+Lakhtar	Surendra Nagar	GUJARAT	363110
+Vanala
+Limbdi	Surendra Nagar	GUJARAT	363421
+Vanod
+Dasada	Surendra Nagar	GUJARAT	382750
+Varsani
+Limbdi	Surendra Nagar	GUJARAT	363427
+Vastadi
+Limbdi	Surendra Nagar	GUJARAT	363410
+Vavdi
+Dhrangadhra	Surendra Nagar	GUJARAT	363310
+Vegadvav
+Halvad	Surendra Nagar	GUJARAT	363330
+Velavadar
+Wadhwancity	Surendra Nagar	GUJARAT	363040
+Vijaliya
+Chotila	Surendra Nagar	GUJARAT	363530
+Visavadi
+Dasada	Surendra Nagar	GUJARAT	382750
+Vithalgadh
+Lakhtar	Surendra Nagar	GUJARAT	363115
+Wadhwancity Bazar
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Wadhwancity Ind. Estate
+Wadhwancity	Surendra Nagar	GUJARAT	363035
+Wadhwancity
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Zadiyana
+Dasada	Surendra Nagar	GUJARAT	382780
+Zamar
+Lakhtar	Surendra Nagar	GUJARAT	382775
+Zampodad
+Wadhwancity	Surendra Nagar	GUJARAT	363030
+Zinzuda
+Chotila	Surendra Nagar	GUJARAT	363520
+Zinzuwada
+Dasada	Surendra Nagar	GUJARAT	382755
+

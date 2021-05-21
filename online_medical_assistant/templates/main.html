@@ -1,0 +1,1015 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html onclick="demofun(),demofun1(),labdropfun(),distdropfun(),citydropfun()" style="overflow-x: hidden;" lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Medical Assistant</title>
+    <link rel="icon" href="{% static 'logo_download.png' %}" type="image/x-icon">
+    <link rel="stylesheet" href="{% static 'home.css' %}">
+    <link rel="stylesheet" href="{% static 'appointment.css' %}">
+    <script type="text/javascript" src="{% static 'home.js' %}"></script>
+    <script type="text/javascript" src="{% static 'appointment.js' %}"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
+    <style>
+        #districtname {
+            display: block;
+            margin-left: 18vw;
+            position: absolute;
+            top: 18vw;
+            left: 16vw;
+        }
+
+        #districtname:hover {
+            border: .3vw solid #505050;
+            border-radius: 1vw;
+            background-color: #f5c9c9;
+            color: white;
+            padding: 1vw;
+            height: 3vw;
+        }
+
+
+        #district {
+            width: 32vw;
+            height: 65vw;
+            font-size: 2.3vw;
+            position: absolute;
+            display: none;
+            top: 17vw;
+            left: 32vw;
+            z-index: 2;
+            /* border: 2px solid red; */
+            width: 32vw;
+            /* height: 45vw; */
+            background-color: rgb(252 255 233);
+            box-shadow: 1px 8px 12px -2px rgb(0 0 0 / 40%);
+            padding: 3vw 0vw;
+        }
+
+
+
+
+
+        #district hr {
+
+            margin: 0vw;
+            color: rgb(255, 255, 255);
+        }
+
+        #district label {
+            padding-left: 4vw;
+            /* width: 0%; */
+            /* text-align: center; */
+            display: block;
+
+        }
+
+        #district label:hover {
+            background-color: rgb(228, 213, 255);
+
+        }
+
+        /* #para li{
+            padding: .7vw 0vw;
+        }
+        #para li:hover{
+            background-color: rgb(184, 184, 184);
+            } */
+        #district a {
+
+            color: rgb(119, 119, 119);
+            ;
+            display: block;
+            padding: 1vw 0vw;
+            text-decoration: none;
+        }
+
+
+
+
+
+
+        #nameofuser {
+            background-color: #f5c9c9;
+            display: inline-block;
+            border-radius: .6vw;
+            position: absolute;
+            font-size: 3vw;
+            font-family: sans-serif;
+            top: 2vw;
+            right: 33.5vw;
+            padding: 1vw 1vw;
+            color:rgb(68, 68, 68)
+        }
+
+        #doctor_id1:hover {
+            border: .3vw solid #505050;
+            border-radius: 1vw;
+            background-color: rgb(185 79 40);
+            color: white;
+            padding: 1vw;
+            height: 3vw;
+        }
+
+        #doc_det {
+
+            overflow-y: auto;
+            font-size: 2.3vw;
+            display: none;
+            position: absolute;
+            top: 17vw;
+            left: 1vw;
+            /* top: 39vw; */
+            /* left: 18vw; */
+            z-index: 1;
+            /* border: 2px solid red; */
+            width: 32vw;
+            height: 65vw;
+            background-color: rgb(252 255 233);
+
+            box-shadow: 1px 8px 12px -2px rgb(0 0 0 / 40%);
+            padding: 3vw 0vw;
+
+        }
+
+
+
+        #doc_det hr {
+
+            margin: 0vw;
+            color: rgb(255, 255, 255);
+        }
+
+        #doc_det label {
+            padding-left: 4vw;
+            /* width: 0%; */
+            /* text-align: center; */
+            display: block;
+
+        }
+
+        #doc_det label:hover {
+            background-color: rgb(228, 213, 255);
+
+        }
+
+        /* #para li{
+                padding: .7vw 0vw;
+            }
+            #para li:hover{
+                background-color: rgb(184, 184, 184);
+                } */
+        #doc_det a {
+
+            color: rgb(119, 119, 119);
+            ;
+            display: block;
+            padding: 1vw 0vw;
+            text-decoration: none;
+        }
+
+
+        /* .singin */
+
+        .singin1 {
+            display: block;
+            /* background-color: rgb(17, 50, 51); */
+            background-color: rgb(249, 248, 255);
+            padding: 5vw 8vw;
+            /* border: 2px solid rgb(236, 27, 27); */
+            width: 84vw;
+
+            color: rgb(0, 0, 0);
+
+        }
+
+        .l11 {
+            display: flex;
+            height: 7vw;
+        }
+
+
+
+
+        .singin1 label {
+            font-size: 2.9vw;
+            margin: 0vw 0vw 0vw .3vw;
+            display: inline-block;
+        }
+
+        .singin1 input {
+
+            border: 1.5px solid black;
+            border-radius: 1vw;
+            height: 2.7vw;
+            font-size: 2.3vw;
+            margin: 0vw 0vw 1.5vw 0vw;
+            display: inline-block;
+            text-indent: 1vw;
+            width: 3vw;
+        }
+
+
+
+        .singin1 button {
+            cursor: pointer;
+            width: 20vw;
+            height: 4.5vw;
+            display: block;
+            margin: 3.5vw 0vw 0vw 0vw;
+            padding: 0vw 0vw 0vw 0vw;
+            font-size: 2.5vw;
+            border-radius: .5vw;
+
+            border: .1vw solid black
+        }
+
+        .singin1 button:hover {
+            opacity: .5;
+        }
+
+        .singin1 span {
+            margin: 2.5vw 0vw 0vw 0vw;
+            font-size: 2.8vw;
+            display: block;
+            color: rgb(38, 0, 255);
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        .singin1 span:hover {
+            color: rgb(83, 83, 83);
+        }
+
+        #sname1 {
+            margin-left: 6.6vw;
+            width: 40vw;
+            height: 4vw;
+        }
+
+        #semail1 {
+            margin-left: 4.1vw;
+            width: 40vw;
+            height: 4vw;
+        }
+
+        #smobile1 {
+            margin-left: 1.3vw;
+            width: 40vw;
+            height: 4vw;
+        }
+
+        #spass1 {
+            margin-left: 3.5vw;
+            width: 40vw;
+            height: 4vw;
+        }
+
+        .radio1 {
+            margin: 0vw 0vw 0vw 0vw;
+            color: red;
+        }
+
+        .gender1 {
+            margin: 0vw 0vw 0vw 0vw;
+
+        }
+
+        #address1 {
+            width: 45vw;
+            height: 15vw;
+            margin: 0vw 0vw 0vw 5vw;
+        }
+
+        #add1 {
+            margin-bottom: 12vw;
+        }
+        @keyframes Darshan {
+            from {
+                left: -35vw;
+                
+                
+            }
+            
+            to {
+                left: 0vw;
+                
+                
+            }
+        }
+
+        @keyframes Darshan1 {
+            from {
+                left: 0vw;
+                
+                
+            }
+            
+            to {
+                left: -35vw;
+                
+                
+            }
+        }
+    </style>
+    <style>
+        .laboratory {
+            
+            width: 100%;
+            margin-top: 2vw;
+        }
+
+        #first_lab {
+           
+            width: 100%;
+            background-color: #aeafbc3b;
+            border-bottom: 2px solid gray;
+
+
+        }
+
+        #lh2{
+         
+            display: inline-block;
+            color: #5f5a6b;
+            font-size: 4.5vw;
+            
+            margin: 0vw 0vw 0vw 3vw;
+        }
+
+        #first_lab li {
+            list-style: none;
+            margin-top: 2vw;
+            font-size: 2.6vw;
+            padding: 2vw 0vw;
+            font-family: Helvetica, sans-serif;
+        }
+
+        #lab {
+            margin: 0vw 16vw 0vw 6vw;
+            border: 2px solid #9e9e9e;
+            display: inline-block;
+            padding: 0vw 3vw;
+            border-radius: .5vw;
+            box-shadow: 0vw 0vw 1vw 0vw rgb(0 0 0 / 27%);
+            cursor: pointer;
+
+        }
+
+        #lab:active {
+            background-color: rgb(102, 102, 102);
+            color: white;
+        }
+
+        #ldistrict {
+            border: 2px solid #9e9e9e;
+            display: inline-block;
+            margin: 0vw 23vw 0vw 2vw;
+            padding: 0vw 2vw;
+            border-radius: .5vw;
+            box-shadow: 0vw 0vw 1vw 0vw rgb(0 0 0 / 27%);
+            cursor: pointer;
+          
+           
+
+        }
+
+        #ldistrict:active {
+            background-color: rgb(102, 102, 102);
+            color: white;
+        }
+
+        #lcity {
+            border: 2px solid #9e9e9e;
+            display: inline-block;
+            margin: 0vw 5vw 0vw 2vw;
+            padding: 0vw 3vw;
+            border-radius: .5vw;
+            box-shadow: 0vw 0vw 1vw 0vw rgb(0 0 0 / 27%);
+            cursor: pointer;
+
+        }
+
+        #lcity:active {
+            background-color: rgb(102, 102, 102);
+            color: white;
+        }
+
+        #labdrop {
+            display: none;
+            border: 2px solid rgb(217 217 217);
+            border-radius: .5vw;
+            width: 22vw;
+            position: absolute;
+            background-color: rgb(241 239 247);
+            top: 20vw;
+            left: 2vw;
+            padding: 3vw 1vw;
+            overflow-y: auto;
+            max-height: 50vh;
+
+        }
+
+        #labdrop button {
+            display: block;
+            border: none;
+            width: 100%;
+            font-size: 2.6vw;
+            background: none;
+            margin: 1vw 0vw;
+            color: #6e5e55;
+        }
+        #labdrop button:hover{
+            background-color: #e2d3ca;
+        }
+
+        #distdrop {
+            display: none;
+            border: 2px solid rgb(217 217 217);
+            border-radius: .5vw;
+            width: 22vw;
+            position: absolute;
+            background-color: rgb(241 239 247);
+            top: 20vw;
+            left: 33vw;
+            padding: 3vw 1vw;
+            overflow-y: auto;
+            max-height: 50vh;
+
+        }
+
+        #distdrop button {
+            display: block;
+            border: none;
+            width: 100%;
+            font-size: 2.6vw;
+            background: none;
+            margin: 1vw 0vw;
+            color: #6e5e55;
+        }
+        #distdrop button:hover{
+            background-color: #e2d3ca;
+        }
+
+        #citydrop {
+            display: none;
+            border: 2px solid rgb(217 217 217);
+            border-radius: .5vw;
+            width: 22vw;
+            
+            position: absolute;
+            background-color: rgb(241 239 247);
+            top: 20vw;
+            left: 68vw;
+            padding: 3vw 1vw;
+            overflow-y: auto;
+            max-height: 50vh;
+            
+
+        }
+
+        #citydrop button {
+            display: block;
+            border: none;
+            width: 100%;
+            font-size: 2.6vw;
+            background: none;
+            margin: 1vw 0vw;
+            color: #6e5e55;
+        }
+        #citydrop button:hover{
+            background-color: #e2d3ca;
+        }
+
+        #second_lab {
+           
+            width: 100%;
+       
+            margin-top: 3vw
+        }
+        .labs{
+            margin: 2vw .5vw;
+            box-shadow: 0vw 0vw .5vw 0vw rgb(87, 87, 87,.3);
+            display: flex;
+            background-color: #f0f0f0;
+            padding: 1vw;
+            font-size: 2.5vw;
+           
+        }
+        #ldetail{
+           
+            width: 60%;
+        }
+        #lcontect{
+          
+            width: 40% ;
+
+        }
+        .appoint{
+            cursor: pointer;
+            /* border: 2px solid red; */
+            display: flex;
+            margin: 1vw 0vw 0vw 10vw ;
+            
+            box-shadow: 0vw 0vw .5vw 0vw rgb(87, 87, 87,.3);
+            color: white;
+            font-size: 2.5vw;
+            width: 20VW;
+            height: 5VW;
+            
+            
+            
+        }
+        .appoint:hover{
+            box-shadow: 0vw 0vw 1vw 0vw rgb(87, 87, 87,.8);
+
+        }
+        .ali{
+            
+            /* border: 2px solid rgb(241, 190, 80); */
+            background-color: rgb(233, 133, 66);
+            padding-left: 1vw;
+            padding-top: 1vw;
+            padding-bottom: 1vw;
+            padding-right: 1vw;
+            width: 100%;
+            
+            
+            
+        }
+        .aspan{
+            background-color: rgb(201, 95, 25);
+            /* border: 2px solid rgb(89, 0, 255); */
+            width: 15%;
+            font-size: 2.5vw;
+            padding-left: 1.5vw;
+            padding-top: 1.3vw;
+         
+    
+        }
+        #lcontect li{
+            list-style: none;
+            font-family:  'Arial Narrow', Arial, sans-serif;
+            margin: 2vw 0vw 1vw 10vw;
+        }
+        #lcontect p{
+            list-style: none;
+            font-family:  'Arial Narrow', Arial, sans-serif;
+            margin: 2vw 0vw 1vw 10vw;
+            color: #9e694b;
+        }
+        #lspan{
+            text-decoration: underline;
+            cursor:pointer;
+        }
+    </style>
+
+</head>
+
+<body style="font-family: 'Work Sans', sans-serif;">
+
+
+    <header>
+        <div onclick="drop()" id="navbar" class="navbar">
+            <span id="sp1"></span>
+            <span id="sp2"></span>
+            <span id="sp3"></span>
+            <span id="sp4"></span>
+        </div>
+        {% if user.is_authenticated %}
+        <div onclick="prompt()" id="login_icon">
+            <span><a style="text-decoration: none;" href="/account/logout">Log out</a></span>
+        </div>
+        {% else %}
+        <div onclick="prompt()" id="login_icon">
+            <span><a style="text-decoration: none;" href="/account/login">Log in</a></span>
+        </div>
+        {% endif %}
+
+        <div class="notification" style="background-image:url({% static 'extra\notication2download.png' %})">
+
+        </div>
+
+        {% if user.is_authenticated %}
+        <div id="nameofuser">
+            {{user.first_name}}
+        </div>
+        {% endif %}
+
+
+        <img class="logo" src="{% static 'main_logo/output-onlinepngtools(1).png' %}" alt="">
+
+    </header>
+
+    <div style="font-size: 3vw;height:auto;left:-35vw;width:35vw;" id="menu" class="menu">
+
+        {% comment %} '\' have some fiturs {% endcomment %}
+        <label id="label0" for="li0"> <a id="a0"  href="/">Home</a> </label>
+        <hr id="hr0">
+        <label onclick="prompt()" id="label1" for="li1"> <a id="a1" href="{% url 'profile' %}">My Profile</a> </label>
+        <hr id="hr1">
+        <label id="label2" for="li2"><a id="a2" href="{% url 'profile' %}">view Appointment</a> </label>
+        <hr id="hr2">
+        <label id="label3" for="li3"><a id="a3" href="">My details</a></label>
+        <hr id="hr2">
+        <label id="label3" for="li3"><a id="a3" href="{% url 'lab_register' %}">Lab Registraion</a></label>
+        <hr id="hr3">
+        <label id="label3" for="li3"><a id="a3" href="{% url 'doctor' %}">Doctor Registraion</a></label>
+        <hr id="hr3">
+        <label id="label4" for="li4"><a id="a4" href="">Change Password</a></label>
+        <hr id="hr4">
+        <label id="label5" for="li5"><a id="a5" href="">Feedback</a></label>
+        <hr id="hr5">
+        <label id="label6" for="li6"><a id="a6" href="">Contect Us</a></label>
+        <hr id="hr6">
+        <label id="label7" for="li7"><a id="a7" href="{% url 'logout' %}">Log Out</a></label>
+        <hr id="hr7">
+        <label id="label8" for="li8"><a id="a8" href="">Show More</a></label>
+
+    </div>
+
+    <div style="display:{{display}};" id="prompt" class="prompt">
+
+
+        <div class="login" id="login">
+
+            <form action="." method="POST">
+                {% csrf_token %}
+                <label for="ID" class="label">Mobile No.</label>
+                <input type="number" name="phone" class="input" placeholder="####@gmail.com" id="ID">
+
+                <label for="password" class="label">Password</label>
+                <input type="password" name="password" placeholder="password" class="input" id="password">
+
+                <button>Log in</button>
+            </form>
+
+            <span><a href="/account/register">you are new then register</a></span>
+
+            <div>
+                {% for message in messages %}
+                <h5 style=color:red>Error: {{message}}</h5>
+                {% endfor %}
+            </div>
+
+
+        </div>
+
+
+
+
+
+        <div class="singin" id="singin">
+            <div class="l1">
+                <label for="ID">Name</label>
+                <input type="text" id="sname" placeholder="Darshan Prajapati">
+            </div>
+
+            <div class="l1">
+                <label for="ID">Email id</label>
+                <input type="email" id="semail" placeholder="####@gmail.com">
+            </div>
+
+            <div class="l1">
+                <label for="ID">Mobile No.</label>
+                <input type="email" id="smobile" placeholder="1234567890">
+            </div>
+            <div class="l1">
+
+                <label for="ID">Gender</label>
+                &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+                <label class="gender" for="male">Male</label>
+                <input class="radio" type="radio" name="mygender" id="male">
+                &nbsp;&nbsp;
+                <label class="gender" for="femle">Female</label>
+                <input class="radio" type="radio" name="mygender" id="femle">
+                &nbsp;&nbsp;
+                <label class="gender" for="other">Other</label>
+                <input class="radio" type="radio" name="mygender" id="other">
+            </div>
+            <div class="l1">
+                <label for="password">Password</label>
+                <input type="password" id="spass" name="" placeholder="password">
+            </div>
+
+            <button>Sing up</button>
+
+            <span onclick="singid()">Already registered then Log in.</span>
+
+
+        </div>
+
+
+        <div onclick="cose()" id="close">
+            close
+        </div>
+
+
+
+
+    </div>
+
+
+    {% block content %}
+
+
+    {% endblock %}
+
+
+
+    <footer>
+        <div class="flex1">
+            <div class="about">
+                <li>About</li>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem tempora delectus quod?
+                    Asperiores id, eum ducimus quidem ratione provident soluta laudantium at mollitia ea harum.</p>
+            </div>
+            <div class="functions">
+                <span>Information</span>
+                <li>Home</li>
+                <li>FAQs</li>
+                <li>Payment</li>
+                <li>Services</li>
+                <li>Contect Us</li>
+            </div>
+        </div>
+        <div class="hr">
+
+        </div>
+        <div class="contect">
+            <a style="color:white" href="#">+91 985 475 3525</a>
+            <a style="color: white;" href="#">onlinemedicalassistant@gmail.com</a>
+            <a style="color: white;" href="#">Location</a>
+        </div>
+
+        <div class="hr">
+
+        </div>
+
+        <div class="link" id="links">
+
+            <a target="1" id="insta" class="li" href="https://www.instagram.com/"> <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
+                    alt="">
+                Instagram</a>
+            <a target="1" id="fb" class="li" href="https://www.facebook.com/"> <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png"
+                    alt="">
+                Facebook</a>
+            <a target="1" class="li" id="twi" href="https://twitter.com/?lang=en"> <img
+                    src="data:image/png;base64,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"
+                    alt="">
+                Twitter</a>
+
+        </div>
+    </footer>
+
+
+
+    <script>
+        let display1 = "none";
+    
+        function doctordrop() {
+    
+            //    let navbar = document.getElementById('navbar');
+    
+    
+            let doc_det = document.getElementById('doc_det');
+            let district = document.getElementById('district');
+    
+    
+    
+            //    let navbar = document.getElementsByClassName('navbar>ul')
+    
+            if (display1 == "none") {
+    
+                if (display2 == "block") {
+                    district.style.display = "none";
+                    display2 = "none";
+    
+                }
+    
+    
+                doc_det.style.display = "block";
+                //    menu.style.transition = 'all .5s ease-in-out 0s';
+    
+                display1 = "block";
+    
+    
+            }
+    
+            else {
+    
+    
+    
+    
+                doc_det.style.display = "none";
+                display1 = "none";
+    
+    
+    
+    
+    
+            }
+    
+        }
+    </script>
+    <script>
+        let display2 = "none";
+    
+        function districtdrop() {
+    
+            //    let navbar = document.getElementById('navbar');
+    
+    
+            let district = document.getElementById('district');
+            let doc_det = document.getElementById('doc_det');
+    
+    
+    
+            //    let navbar = document.getElementsByClassName('navbar>ul')
+    
+            if (display2 == "none") {
+    
+                if (display1 == "block") {
+                    doc_det.style.display = "none";
+                    display1 = "none";
+                }
+    
+    
+                district.style.display = "block";
+                //    menu.style.transition = 'all .5s ease-in-out 0s';
+    
+                display2 = "block";
+    
+    
+            }
+    
+            else {
+    
+    
+    
+    
+                district.style.display = "none";
+                display2 = "none";
+    
+    
+    
+    
+    
+            }
+    
+        }
+    </script>
+    
+
+<script>
+    let mouse = "over"
+    function mouseout() {
+        mouse = "out"
+        console.log("out")
+    }
+    function mouseover() {
+        mouse = "over"
+        console.log("over")
+    }
+
+
+    function demofun() {
+        let district = document.getElementById('district');
+
+        if (mouse == "out") {
+            if (display2 == "block") {
+                district.style.display = "none"
+                display2 = "none"
+                mouse = "over"
+            }
+
+        }
+    }
+
+</script>
+
+
+<script>
+    let dmouse = "over"
+    function dmouseout() {
+        dmouse = "out"
+        console.log("out")
+    }
+    function dmouseover() {
+        dmouse = "over"
+        console.log("over")
+    }
+
+
+    function demofun1() {
+        let district = document.getElementById('doc_det');
+
+        if (dmouse == "out") {
+            if (display1 == "block") {
+                district.style.display = "none"
+                display1 = "none"
+                dmouse = "over"
+            }
+
+        }
+    }
+
+</script>
+
+<script>
+    let labmouse = "over"
+    function labout() {
+        labmouse = "out"
+        console.log("out")
+    }
+    function labover() {
+        labmouse = "over"
+        console.log("over")
+    }
+
+  function labdropfun() {
+      
+    let district = document.getElementById('labdrop');
+
+    if (labmouse == "out") {
+        if (display4 == "block") {
+            district.style.display = "none"
+            display4 = "none"
+            labmouse = "over"
+        }
+
+    }
+  }
+
+
+</script>
+
+
+<script>
+    let distmouse = "over"
+    function distout() {
+        distmouse = "out"
+        console.log("out")
+    }
+    function distover() {
+        distmouse = "over"
+        console.log("over")
+    }
+
+  function distdropfun() {
+      
+    let district = document.getElementById('distdrop');
+
+    if (distmouse == "out") {
+        if (display5 == "block") {
+            district.style.display = "none"
+            display5 = "none"
+            distmouse = "over"
+        }
+
+    }
+  }
+
+
+</script>
+
+
+<script>
+    let citymouse = "over"
+    function cityout() {
+        citymouse = "out"
+        console.log("out")
+    }
+    function cityover() {
+        citymouse = "over"
+        console.log("over")
+    }
+
+  function citydropfun() {
+      
+    let district = document.getElementById('citydrop');
+
+    if (citymouse == "out") {
+        if (display6 == "block") {
+            district.style.display = "none"
+            display6 = "none"
+            citymouse = "over"
+        }
+
+    }
+  }
+
+
+</script>
+
+</body>
+
+</html>

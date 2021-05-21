@@ -1,0 +1,280 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<style>
+    #patient {
+        width: 100%;
+    }
+
+    #first_patient_sec {
+        font-size: 2.8vw;
+        padding: 4vw 0vw 2vw 0vw;
+        width: 100vw;
+        box-shadow: 0vw 0vw 3vw -1vw #6a6a6a;
+        position: sticky;
+        top: 7vw;
+        z-index: 6;
+        background-color: #f3f3f3;
+
+    }
+
+    #district_p {
+        margin-right: 20vw;
+        margin-left: 10VW;
+        padding: .3vw 1vw;
+        display: inline-block;
+        background-color: azure;
+        box-shadow: 0vw 0vw .25vw 0vw black;
+        border-radius: .5vw;
+    }
+
+    #district_p:hover {
+        box-shadow: 0vw 0vw .5vw 0vw black;
+
+    }
+
+    #city_p {
+        border-radius: .5vw;
+        padding: .3vw 1.3vw;
+        display: inline-block;
+        background-color: azure;
+
+        box-shadow: 0vw 0vw .25vw 0vw black;
+    }
+
+    #city_p:hover {
+        box-shadow: 0vw 0vw .5vw 0vw black;
+
+    }
+
+    #dist_p_drop {
+        display: none;
+        overflow-y: auto;
+        width: 25vw;
+        height: 45vw;
+        position: absolute;
+        top: 16vw;
+        left: 4vw;
+        z-index: 5;
+        background-color: rgb(242, 255, 241);
+        border: 1px solid rgb(155, 155, 155);
+        padding: 3vw .5vw;
+    }
+
+    #dist_p_drop button {
+        border: none;
+        background: none;
+        display: block;
+        width: 100%;
+        font-size: 2.5vw;
+        color: gray;
+    }
+
+    #dist_p_drop hr {
+        margin: 1vw 1vw;
+    }
+
+    #dist_p_city {
+        display: none;
+        overflow-y: auto;
+        width: 25vw;
+        height: 45vw;
+        position: absolute;
+        top: 16vw;
+        left: 42vw;
+        z-index: 5;
+        background-color: rgb(242, 255, 241);
+        border: 1px solid rgb(155, 155, 155);
+        padding: 3vw .5vw;
+    }
+
+    #dist_p_city button {
+        border: none;
+        background: none;
+        display: block;
+        width: 100%;
+        font-size: 2.5vw;
+        color: gray;
+    }
+
+    #dist_p_city hr {
+        margin: 1vw 1vw;
+    }
+
+    #sec_patient_sec {
+        min-height: 60vh;
+    }
+
+    #p_appoint_d {
+        background-color: aliceblue;
+        box-shadow: 0vw 0vw .3vw 0vw rgb(87, 87, 87, .5);
+        border-radius: 1vw;
+        margin: 2vw 1vw;
+        padding: 2vw;
+        list-style: none;
+        color: rgb(109, 109, 109);
+
+    }
+
+    #part1 {
+
+        display: inline-block;
+        width: 100vw;
+
+    }
+
+    #part2 {
+        font-family: 'Arial Narrow', Arial, sans-serif;
+        display: inline-block;
+
+
+        width: 70%;
+        padding-left: 8vw;
+    }
+
+    #part1 li,
+    #part2 li {
+        margin: .5vw 0vw;
+    }
+</style>
+
+<div onclick="distofun(),cistofun()" id="patient">
+    <div id="first_patient_sec">
+        <div>
+            <form style="margin: 0vw 0vw 2.5vw 5vw;" action="{% url 'search_d_appoint' %}">
+                Date <input type="date" name="date" id="" required>
+                <input type="submit" value="Search">
+            </form>
+            <form style="margin: 0vw 0vw 0vw 5vw;" action="{% url 'search_appoint' %}">
+                Appointment No <input type="number" required name="appoint_no">
+                <input type="submit" value="Search">
+            </form>
+        </div>
+        <div style="margin-top: 2vw;padding:auto;width:90vw">
+            <span onclick="dist_p()" id="district_p">District</span>
+            <span onclick="city_p()" id="city_p">City</span>
+            <script>
+                dd = 0
+                function dist_p() {
+
+                    document.getElementById('dist_p_drop').style.display = "block"
+                    document.getElementById('dist_p_city').style.display = "none"
+                }
+
+                function city_p() {
+                    document.getElementById('dist_p_city').style.display = "block"
+                    document.getElementById('dist_p_drop').style.display = "none"
+                }
+
+                distmous = 0
+                function dimos() {
+                    distmous = 0
+                }
+                function dimus() {
+                    distmous = 1
+                }
+
+                function distofun() {
+                    if (distmous == 1) {
+                        console.log("doned")
+                        document.getElementById('dist_p_drop').style.display = "none"
+                        distmous = 0
+
+                    }
+                }
+
+                citymous = 0
+                function cimus() {
+                    citymous = 1
+                }
+                function cimos() {
+                    citymous = 0
+                }
+
+                function cistofun() {
+                    if (citymous == 1) {
+                        console.log("done2")
+                        document.getElementById('dist_p_city').style.display = "none"
+                        citymous = 0
+
+                    }
+                }
+
+            </script>
+        </div>
+
+        <div onmouseover="dimos()" onmouseout="dimus()" id="dist_p_drop">
+            <button>Patan</button>
+            <hr>
+            <button>Patan</button>
+            <hr>
+            <button>Patan</button>
+            <hr>
+            <button>Patan</button>
+            <hr>
+            <button>Patan</button>
+            <hr>
+            <button>Patan</button>
+            <hr>
+
+        </div>
+        <div onmouseover="cimos()" onmouseout="cimus()" id="dist_p_city">
+            <button>Radhanpur</button>
+            <hr>
+
+
+        </div>
+
+
+    </div>
+    <div id="sec_patient_sec">
+        <div>
+            {% for message in messages %}
+            <h5 style=color:red>Error: {{message}}</h5>
+            {% endfor %}
+        </div>
+        {% for i in list %}
+        <div id="p_appoint_d">
+            <li style="margin-bottom: 1vw;color:rgb(223, 62, 62)">Appointment No. <span>#{{i.appointment_no}}</span>
+            </li>
+            <div style="display: flex;">
+                <div id="part1">
+                    <li style="font-size: 3.1vw;">{{i.name}}</li>
+                    <li>{{i.address}}</li>
+                    <li><span style="font-size: 2.8vw;">Blood Group:</span> {{i.blood}}</li>
+                    <form action="{% url 'upload_priscription' %}" method="POST" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <span id="priscription">Priscription:</span>
+                      
+                        <span style="margin: 0vw 0vw 0vw 7vw;color: green;">{{i.uploaded}}</span>
+                      
+                        <div>
+                            <input type="file" name="photo" id="">
+                        </div>
+                        <div>
+                            Text <input style="width: 45vw;" type="text" name="text" id="" required>
+                            <input type="hidden" name="id" value="{{i.appointment_no}}">
+                        </div>
+                        <div style="margin-top: 1vw;">
+                            <button type="submit">Upload</button>
+                        </div>
+                    </form>
+
+
+                </div>
+                <div id="part2">
+                    <li>Date: <span>{{i.date}}</span></li>
+                    <li>Time: <span>8 AM to 8 PM</span></li>
+                    <li>Call <span>{{i.phone}}</span></li>
+                    <li>Email <span>{{i.email}}</span></li>
+
+                </div>
+            </div>
+
+        </div>
+        {% endfor %}
+
+    </div>
+</div>
+
+{% endblock %}

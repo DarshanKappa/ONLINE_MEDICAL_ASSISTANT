@@ -1,0 +1,461 @@
+Aasayadi
+Devgadbaria	Dahod	GUJARAT	389130
+Abhlod
+Garbada	Dahod	GUJARAT	389152
+Afwa
+Fatepura	Dahod	GUJARAT	389190
+Agara
+Limkheda	Dahod	GUJARAT	389140
+Agara
+Limkheda	Dahod	GUJARAT	389175
+Agaswani
+Dhanpur	Dahod	GUJARAT	389382
+Agavada
+Dahod	Dahod	GUJARAT	389154
+Amba
+Jahlod	Dahod	GUJARAT	389180
+Andheri
+Limkheda	Dahod	GUJARAT	389140
+Anika
+Jhalod	Dahod	GUJARAT	389175
+Antela
+Devgadh Baria	Dahod	GUJARAT	389380
+Baina
+Devgadh Baria	Dahod	GUJARAT	389380
+Bajarwada
+Jhalod	Dahod	GUJARAT	389170
+Balaiya
+Fatepura	Dahod	GUJARAT	389190
+Bamroli
+Devgadh Baria	Dahod	GUJARAT	389380
+Bandibar
+Dohad	Dahod	GUJARAT	389140
+Bar
+Limkheda	Dahod	GUJARAT	389140
+Bara
+Devgadh Baria	Dahod	GUJARAT	389380
+Batakvada
+Santrampur	Dahod	GUJARAT	389172
+Bavka
+Dahod	Dahod	GUJARAT	389152
+Bhanasimal
+Santrampur	Dahod	GUJARAT	389172
+Bhanpur
+Jhalod	Dahod	GUJARAT	389175
+Bharamkheda
+Dahod	Dahod	GUJARAT	389160
+Bhathiwada
+Dohad	Dahod	GUJARAT	389160
+Bhe
+Garbada	Dahod	GUJARAT	389155
+Bhichor
+Fatepura	Dahod	GUJARAT	389172
+Bhojela
+Fatepura	Dahod	GUJARAT	389190
+Bhorva
+Dhanpur	Dahod	GUJARAT	389382
+Bhutaradi
+Garbada	Dahod	GUJARAT	389155
+Bilwani
+Jhalod	Dahod	GUJARAT	389180
+Bordi R.S.
+Dohad	Dahod	GUJARAT	389160
+Boriala
+Garbada	Dahod	GUJARAT	389155
+Budhpur
+Dhanpur	Dahod	GUJARAT	389140
+Chakalia
+Dahod	Dahod	GUJARAT	389180
+Chamaria
+Jhalod	Dahod	GUJARAT	389175
+Chandwana
+Dahod	Dahod	GUJARAT	389154
+Chenpur
+Devgadh Baria	Dahod	GUJARAT	389380
+Chhalor
+Fatepura	Dahod	GUJARAT	389172
+Chhaparwad
+Limkheda	Dahod	GUJARAT	389130
+Chhayan
+Dahod	Dahod	GUJARAT	389180
+Chilakota
+Limkheda	Dahod	GUJARAT	389152
+Chitrodia
+Jhalod	Dahod	GUJARAT	389170
+Chopda Buzarg
+Santrampur	Dahod	GUJARAT	389110
+Chorbaria
+Dhanpur	Dahod	GUJARAT	389380
+Chosala
+Dahod	Dahod	GUJARAT	389160
+Chundadi
+Devgadh Baria	Dahod	GUJARAT	389130
+Dabhada
+Limkheda	Dahod	GUJARAT	389140
+Dadur
+Garbada	Dahod	GUJARAT	389155
+Dahod
+Dohad	Dahod	GUJARAT	389151
+Dahod R.S
+Dahod	Dahod	GUJARAT	389151
+Dantia
+Limkheda	Dahod	GUJARAT	389140
+Dantia
+Jhalod	Dahod	GUJARAT	389180
+Dasa
+Limkheda	Dahod	GUJARAT	389130
+Dasla
+Dohad	Dahod	GUJARAT	389154
+Devgadh Baria
+Devgadh Baria	Dahod	GUJARAT	389380
+Devirampura
+Devgadh Baria	Dahod	GUJARAT	389380
+Dhadhela
+Fatepura	Dahod	GUJARAT	389170
+Dhadhela
+Limkheda	Dahod	GUJARAT	389140
+Dhanpur
+Dhanpur	Dahod	GUJARAT	389382
+Dharadungar
+Dohad	Dahod	GUJARAT	389160
+Dhavadia
+Jhalod	Dahod	GUJARAT	389170
+Dhediya
+Jhalod	Dahod	GUJARAT	389175
+Dudhamali
+Dhanpur	Dahod	GUJARAT	389382
+Dudhia
+Devgadh Baria	Dahod	GUJARAT	389380
+Dudhia
+Limkheda	Dahod	GUJARAT	389146
+Dumka
+Dhanpur	Dahod	GUJARAT	389382
+Dungar
+Fatepura	Dahod	GUJARAT	389172
+Dungri
+Jhalod	Dahod	GUJARAT	389180
+Fangia
+Devgadh Baria	Dahod	GUJARAT	389380
+Fatepura Dahod
+Fatepura	Dahod	GUJARAT	389172
+Freelandganj
+Dohad	Dahod	GUJARAT	389160
+Fulpura
+Jhalod	Dahod	GUJARAT	389170
+G P College
+Dohad	Dahod	GUJARAT	389160
+Gamdi
+Jhalod	Dahod	GUJARAT	389170
+Gamla
+Dahod	Dahod	GUJARAT	389154
+Gangardi
+Garbada	Dahod	GUJARAT	389155
+Garadu
+Jhalod	Dahod	GUJARAT	389170
+Garbada
+Garbada	Dahod	GUJARAT	389155
+Ghada
+Dhanpur	Dahod	GUJARAT	389382
+Ghughas
+Fatepura	Dahod	GUJARAT	389172
+Gothib
+Santrampur	Dahod	GUJARAT	389190
+Gultora
+Dahod	Dahod	GUJARAT	389180
+Himala
+Dahod	Dahod	GUJARAT	389160
+Hindolia
+Fatepura	Dahod	GUJARAT	389190
+Hirola
+Jhalod	Dahod	GUJARAT	389170
+Itawa
+Dahod	Dahod	GUJARAT	389154
+Jada Kheria
+Limkheda	Dahod	GUJARAT	389140
+Jafarpura
+Jhalod	Dahod	GUJARAT	389170
+Jalat
+Dohad	Dahod	GUJARAT	389154
+Jambua
+Garbada	Dahod	GUJARAT	389155
+Javesi
+Fatepura	Dahod	GUJARAT	389190
+Jekot
+Dahod	Dahod	GUJARAT	389160
+Jesawada
+Garbada	Dahod	GUJARAT	389152
+Jetpur
+Limkheda	Dahod	GUJARAT	389140
+Jetpur
+Jhalod	Dahod	GUJARAT	389170
+Jhalod
+Jhalod	Dahod	GUJARAT	389170
+Jhunsa
+Jhalod	Dahod	GUJARAT	389175
+Juna Baria
+Devgadh Baria	Dahod	GUJARAT	389380
+Kadval
+Jhalod	Dahod	GUJARAT	389170
+Kali Dungri
+Devgadh Baria	Dahod	GUJARAT	389380
+Kaliarai
+Limkheda	Dahod	GUJARAT	389180
+Kaliavad
+Dhanpur	Dahod	GUJARAT	389152
+KaligamGujar
+Dahod	Dahod	GUJARAT	389160
+Kalijini Saraswani
+Jhalod	Dahod	GUJARAT	389170
+Kamboi
+Limkheda	Dahod	GUJARAT	389140
+Kanjeta
+Dhanpur	Dahod	GUJARAT	389382
+Karamba
+Jhalod	Dahod	GUJARAT	389180
+Karath
+Jhalod	Dahod	GUJARAT	389180
+Kathla
+Dohad	Dahod	GUJARAT	389154
+Katwara
+Panchamahals	Dahod	GUJARAT	389154
+Kelia
+Devgadh Baria	Dahod	GUJARAT	389380
+Khandania
+Devgadh Baria	Dahod	GUJARAT	389380
+Khangela
+Dahod	Dahod	GUJARAT	389154
+Kharod
+Dahod	Dahod	GUJARAT	389160
+Kharoda
+Dahod	Dahod	GUJARAT	389160
+Kharsana
+Jhalod	Dahod	GUJARAT	389170
+Kharvani
+Jhalod	Dahod	GUJARAT	389180
+Khirkhai
+Limkheda	Dahod	GUJARAT	389140
+Khredi
+Dahod	Dahod	GUJARAT	389160
+Kundha
+Limkheda	Dahod	GUJARAT	389140
+Lakhanpur
+Fatepura	Dahod	GUJARAT	389190
+Limdi
+Jhalod	Dahod	GUJARAT	389180
+Limkheda
+Limkheda	Dahod	GUJARAT	389140
+Lukhavada
+Limkheda	Dahod	GUJARAT	389140
+Machhelai
+Limkheda	Dahod	GUJARAT	389130
+Mahudi
+Jhalod	Dahod	GUJARAT	389170
+Malvasi
+Jhalod	Dahod	GUJARAT	389180
+Mander
+Limkheda	Dahod	GUJARAT	389130
+Mandli
+Jhalod	Dahod	GUJARAT	389175
+Mandor
+Garbada	Dahod	GUJARAT	389155
+Manli
+Limkheda	Dahod	GUJARAT	389140
+Margala
+Fatepura	Dahod	GUJARAT	389190
+Matva
+Garbada	Dahod	GUJARAT	389152
+Methan
+Limkheda	Dahod	GUJARAT	389175
+Minakyar
+Garbada	Dahod	GUJARAT	389155
+Mira Khedi
+Dahod	Dahod	GUJARAT	389160
+Moli
+Jhalod	Dahod	GUJARAT	389175
+Moti Khajuri
+Devgadh Baria	Dahod	GUJARAT	389380
+Moti Kharaj
+Dahod	Dahod	GUJARAT	389160
+Moti Nan Dukan
+Fatepura	Dahod	GUJARAT	389172
+Moti Rel Purv
+Fatepura	Dahod	GUJARAT	389172
+Moti Zari
+Devgadh Baria	Dahod	GUJARAT	389130
+Mundaheda
+Jhalod	Dahod	GUJARAT	389180
+Munkhosla
+Jhalod	Dahod	GUJARAT	389170
+Muvalia
+Dahod	Dahod	GUJARAT	389160
+Nadatod
+Devgadh Baria	Dahod	GUJARAT	389380
+Naghrala
+Dahod	Dahod	GUJARAT	389160
+Nakti
+Dhanpur	Dahod	GUJARAT	389380
+Nalu
+Dhanpur	Dahod	GUJARAT	389382
+Nandhelav
+Garbada	Dahod	GUJARAT	389152
+Nani Dhadheli
+Fatepura	Dahod	GUJARAT	389190
+Nava Nagar
+Garbada	Dahod	GUJARAT	389155
+Nava Vadia
+Limkheda	Dahod	GUJARAT	389146
+Navagam
+Dahod	Dahod	GUJARAT	389160
+Nenki
+Jhalod	Dahod	GUJARAT	389175
+Nes Molara
+Fatepura	Dahod	GUJARAT	389172
+Nindka
+Fatepura	Dahod	GUJARAT	389190
+Padalia
+Limkheda	Dahod	GUJARAT	389146
+Pahad
+Limkheda	Dahod	GUJARAT	389146
+Panchela
+Devgadh Baria	Dahod	GUJARAT	389130
+Panchvada
+Garbada	Dahod	GUJARAT	389155
+Pandadi
+Garbada	Dahod	GUJARAT	389152
+Pania
+Limkheda	Dahod	GUJARAT	389140
+Parathampur
+Jhalod	Dahod	GUJARAT	389180
+Patangdi
+Limkheda	Dahod	GUJARAT	389130
+Patia
+Garbada	Dahod	GUJARAT	389155
+Pavdi
+Jhalod	Dahod	GUJARAT	389160
+Pethapur
+Dahod	Dahod	GUJARAT	389180
+Pichhoda
+Jhalod	Dahod	GUJARAT	389175
+Pipero
+Dhanpur	Dahod	GUJARAT	389382
+Piplod Dahod
+Devgadh Baria	Dahod	GUJARAT	389130
+Pipodra
+Dhanpur	Dahod	GUJARAT	389140
+Rabdal
+Dahod	Dahod	GUJARAT	389160
+Rai
+Limkheda	Dahod	GUJARAT	389140
+Rama
+Devgadh Baria	Dahod	GUJARAT	389130
+Randhikpur
+Devgadh Baria	Dahod	GUJARAT	389130
+Raniyar Kanbi
+Jhalod	Dahod	GUJARAT	389180
+Rentia
+Dahod	Dahod	GUJARAT	389160
+Rozam
+Dahod	Dahod	GUJARAT	389160
+Rupa Kheda
+Fatepura	Dahod	GUJARAT	389190
+Ruvabari
+Devgadh Baria	Dahod	GUJARAT	389380
+Sagdapada
+Fatepura	Dahod	GUJARAT	389190
+Sagtala
+Devgadh Baria	Dahod	GUJARAT	389380
+Sajoi
+Dhanpur	Dahod	GUJARAT	389382
+Salara
+Fatepura	Dahod	GUJARAT	389172
+Salia
+Devgadh Baria	Dahod	GUJARAT	389130
+Sanjeli
+Jhalod	Dahod	GUJARAT	389175
+Sevania
+Devgadh Baria	Dahod	GUJARAT	389380
+Shankarpura
+Jhalod	Dahod	GUJARAT	389170
+Simalia
+Santrampur	Dahod	GUJARAT	389172
+Simalia Khurd
+Dahod	Dahod	GUJARAT	389154
+Simamoi
+Dhanpur	Dahod	GUJARAT	389382
+Simlia
+Jhalod	Dahod	GUJARAT	389180
+Simlia Buzarg
+Garbada	Dahod	GUJARAT	389155
+Singapur
+Limkheda	Dahod	GUJARAT	389146
+Singedi
+Devgadh Baria	Dahod	GUJARAT	389380
+Sudia
+Likheda	Dahod	GUJARAT	389180
+Sukhsar
+Fatepura	Dahod	GUJARAT	389190
+Sutharvansa
+Jhalod	Dahod	GUJARAT	389180
+Tanda
+Dahod	Dahod	GUJARAT	389160
+Tandi
+Jhalod	Dahod	GUJARAT	389180
+Tarvadia Himat
+Dahod	Dahod	GUJARAT	389154
+Tarvadia Vaja
+Dahod	Dahod	GUJARAT	389154
+Thala
+Jhalod	Dahod	GUJARAT	389175
+Thala
+Jhalod	Dahod	GUJARAT	389180
+Therka
+Jhalod	Dahod	GUJARAT	389170
+Tokarva
+Dhanpur	Dahod	GUJARAT	389382
+Toyani
+Devgadh Baria	Dahod	GUJARAT	389130
+Training College
+Devgadh Baria	Dahod	GUJARAT	389380
+Uchvania
+Dahod	Dahod	GUJARAT	389160
+Udhavada
+Devgadh Baria	Dahod	GUJARAT	389380
+Vadbhet
+Devgadh Baria	Dahod	GUJARAT	389380
+Vadela
+Limkheda	Dahod	GUJARAT	389140
+Vadva
+Garbada	Dahod	GUJARAT	389152
+Vadvas
+Fatepura	Dahod	GUJARAT	389172
+Vagela
+Jhalod	Dahod	GUJARAT	389170
+Valagota
+Devgadh Baria	Dahod	GUJARAT	389130
+Vangad
+Fatepura	Dahod	GUJARAT	389172
+Vankiya
+Dahod	Dahod	GUJARAT	389154
+Vansia
+Jhalod	Dahod	GUJARAT	389175
+Vansia Kui
+Fatepura	Dahod	GUJARAT	389190
+Varod
+Jhalod	Dahod	GUJARAT	389180
+Ved
+Dhanpur	Dahod	GUJARAT	389382
+Vejelav
+Garbada	Dahod	GUJARAT	389152
+Velpura
+Jhalod	Dahod	GUJARAT	389170
+Virol
+Devgadh Baria	Dahod	GUJARAT	389380
+Zab
+Devgadh Baria	Dahod	GUJARAT	389380
+Zabu
+Dhanpur	Dahod	GUJARAT	389382
+Zari Buzarg
+Garbada	Dahod	GUJARAT	389155
+Zerjitagadh
+Limkheda	Dahod	GUJARAT	389146
+

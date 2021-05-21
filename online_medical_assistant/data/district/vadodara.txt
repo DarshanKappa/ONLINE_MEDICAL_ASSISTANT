@@ -1,0 +1,417 @@
+Achhod
+NA	Vadodara	GUJARAT	392110
+Angareshwar
+Bharuch	Vadodara	GUJARAT	392030
+Ankleshwar IE
+Ankleshwar	Vadodara	GUJARAT	393002
+Arethi
+Valia	Vadodara	GUJARAT	393130
+Bhalod Vadodara
+Karjan	Vadodara	GUJARAT	393105
+Bhersam
+Bharuch	Vadodara	GUJARAT	392012
+Chikda
+NA	Vadodara	GUJARAT	393041
+Dabha
+Jambusar	Vadodara	GUJARAT	392150
+Haldarva
+Bharuch	Vadodara	GUJARAT	392220
+Jambusar Bazar
+Jambusar	Vadodara	GUJARAT	392150
+Koliad
+Bharuch	Vadodara	GUJARAT	392220
+Koral
+Rajpipala	Vadodara	GUJARAT	393105
+Kothia
+Vagra	Vadodara	GUJARAT	392140
+Lilod
+Rajpipala	Vadodara	GUJARAT	393105
+Manad
+Vagra	Vadodara	GUJARAT	392130
+Manubar
+Bharuch	Vadodara	GUJARAT	392160
+Matroj
+Bharuch	Vadodara	GUJARAT	392220
+Mesrad
+Bharuch	Vadodara	GUJARAT	392220
+Oz
+Rajpipala	Vadodara	GUJARAT	393105
+Pachhiapura
+Bharuch	Vadodara	GUJARAT	392220
+Pursa
+NA	Vadodara	GUJARAT	392110
+Rarod
+Rajpipala	Vadodara	GUJARAT	393105
+Ropa
+Rajpipala	Vadodara	GUJARAT	393105
+Samoj
+Jambsuar	Vadodara	GUJARAT	392180
+Samor
+Ankleshwar	Vadodara	GUJARAT	393010
+Sansrod
+Bharuch	Vadodara	GUJARAT	392220
+Saring
+Bharuch	Vadodara	GUJARAT	392220
+Sayar
+Rajpipala	Vadodara	GUJARAT	393105
+Segva
+Bharuch	Vadodara	GUJARAT	392210
+Sherpura
+Bharuch	Vadodara	GUJARAT	392015
+Vachchhesar
+Savli	Vadodara	GUJARAT	388710
+Achisara
+Sinor	Vadodara	GUJARAT	391250
+Agar
+Tilakwada	Vadodara	GUJARAT	391121
+Ajwa Road
+Vadodara	Vadodara	GUJARAT	390019
+Akakheda
+Sankheda	Vadodara	GUJARAT	391145
+Akona
+Naswadi	Vadodara	GUJARAT	391150
+Alhadpura
+Sankheda	Vadodara	GUJARAT	391135
+Amaliyara
+Vadodara	Vadodara	GUJARAT	390022
+Ambadungar
+Kawant	Vadodara	GUJARAT	391175
+Ambala
+Chhota Udepur	Vadodara	GUJARAT	391165
+Ambali
+Sinor	Vadodara	GUJARAT	391115
+Ambapura
+Sankheda	Vadodara	GUJARAT	391145
+Amodar
+Vadodara	Vadodara	GUJARAT	390019
+Amroli
+Naswadi	Vadodara	GUJARAT	391150
+Anandi
+Sinor	Vadodara	GUJARAT	391110
+Anguthan
+Dabhoi	Vadodara	GUJARAT	391107
+Aniyadri
+Pavijetpur	Vadodara	GUJARAT	391160
+Ankhol
+Vadodara	Vadodara	GUJARAT	390019
+Asar
+Ch.udepur	Vadodara	GUJARAT	391168
+Athadungri
+Kawant	Vadodara	GUJARAT	391170
+Athavali
+Pavijetpur	Vadodara	GUJARAT	391140
+Avakhal
+Karjan	Vadodara	GUJARAT	391250
+Bahadarpur Vadodara
+Sankheda	Vadodara	GUJARAT	391125
+Bakrol
+Vadodara	Vadodara	GUJARAT	390019
+Bamroli
+Sankheda	Vadodara	GUJARAT	391125
+Bangapura
+Sankheda	Vadodara	GUJARAT	391145
+Bar
+Pavijetpur	Vadodara	GUJARAT	391160
+Baranpura
+Vadodara	Vadodara	GUJARAT	390001
+Baravad
+Pavijetpur	Vadodara	GUJARAT	391160
+Barkal
+Sinor	Vadodara	GUJARAT	391105
+Baroli
+Naswadi	Vadodara	GUJARAT	391150
+Bavaria
+Karjan	Vadodara	GUJARAT	391250
+Bedia
+Kawant	Vadodara	GUJARAT	391168
+Bhaka
+Naswadi	Vadodara	GUJARAT	391152
+Bhanpur
+Pavijetpur	Vadodara	GUJARAT	391160
+Bharvada
+Naswadi	Vadodara	GUJARAT	391150
+Bhatpur
+Sankheda	Vadodara	GUJARAT	391130
+Bhensavali
+Pavijetpur	Vadodara	GUJARAT	391160
+Bhikhapur
+Pavijetpur	Vadodara	GUJARAT	391160
+Bhilapur
+Dabhoi	Vadodara	GUJARAT	391107
+Bhilodia
+Dabhoi	Vadodara	GUJARAT	391110
+Bhilpur
+Pavijetpur	Vadodara	GUJARAT	391160
+Bhindol
+Pavijetpur	Vadodara	GUJARAT	391135
+Bhorda
+Chhota-udepur	Vadodara	GUJARAT	391165
+Bhumaswada
+Kawant	Vadodara	GUJARAT	391168
+Bithli
+Sinor	Vadodara	GUJARAT	391105
+Bodeli
+Bodeli	Vadodara	GUJARAT	391135
+Borbar
+Dabhoi	Vadodara	GUJARAT	391107
+Bordha
+Pavijetpur	Vadodara	GUJARAT	391135
+Bortalav
+Sankheda	Vadodara	GUJARAT	391145
+Chalamali
+Pavijetpur	Vadodara	GUJARAT	391140
+Chametha
+Naswadi	Vadodara	GUJARAT	391150
+Chandod
+Dabhoi	Vadodara	GUJARAT	391105
+Chanvada
+Dabhoi	Vadodara	GUJARAT	391110
+Chhanbhoi
+Sinor	Vadodara	GUJARAT	391250
+Chhatrali
+Pavijetpur	Vadodara	GUJARAT	391135
+Chhota udepur
+Chhotaudepur	Vadodara	GUJARAT	391165
+Chhuchhapura
+Sankheda	Vadodara	GUJARAT	391125
+Chikhodara
+NA	Vadodara	GUJARAT	390009
+Chisadiya
+Chhotaudepur	Vadodara	GUJARAT	391165
+Chorngala
+Sankheda	Vadodara	GUJARAT	391130
+Chudel
+Pavijetpur	Vadodara	GUJARAT	391160
+Dabhoi
+Dabhoi	Vadodara	GUJARAT	391110
+Dabhoi R.S.
+Dabhoi	Vadodara	GUJARAT	391110
+Dabhoi Vadodari Bhagol
+Dabhoi	Vadodara	GUJARAT	391110
+Dani
+Naswadi	Vadodara	GUJARAT	391152
+Danteshwar
+Vadodara	Vadodara	GUJARAT	390004
+Dena
+NA	Vadodara	GUJARAT	390022
+Deroli
+Karjan	Vadodara	GUJARAT	391250
+Deroli
+Sankheda	Vadodara	GUJARAT	391130
+Devalia
+Pavijetpur	Vadodara	GUJARAT	391160
+Dhamasiya
+Naswadi	Vadodara	GUJARAT	391150
+Dhandhoda
+Chhotaudepur	Vadodara	GUJARAT	391165
+Dhaniavi
+Vadodara	Vadodara	GUJARAT	390014
+Dharmpuri
+Dabhoi	Vadodara	GUJARAT	391110
+Dharsimel
+Naswadi	Vadodara	GUJARAT	391150
+Dholar
+Dabhoi	Vadodara	GUJARAT	391107
+Dholi Simal
+Chhotaudepur	Vadodara	GUJARAT	391165
+Diver
+Karjan	Vadodara	GUJARAT	391250
+Dolaria
+Chhotaudepur	Vadodara	GUJARAT	391165
+Dormar
+Sankheda	Vadodara	GUJARAT	391125
+Dugdha
+Naswadi	Vadodara	GUJARAT	391150
+Dumali
+Pavijetpur	Vadodara	GUJARAT	391160
+Dungargam
+Chhotaudepur	Vadodara	GUJARAT	391168
+Dungarvant
+Pavijetpur	Vadodara	GUJARAT	391160
+Ekalbara
+Chhotaudepur	Vadodara	GUJARAT	391165
+Fanta
+Sankheda	Vadodara	GUJARAT	391125
+Fartikui
+Dabhoi	Vadodara	GUJARAT	391107
+Fatepura Vadodara
+Vadodara	Vadodara	GUJARAT	390006
+Ferkuva
+Pavijetpur	Vadodara	GUJARAT	391135
+Gadhboriad
+Nasvadi	Vadodara	GUJARAT	391152
+Garda
+Sankheda	Vadodara	GUJARAT	391145
+Ghantoli
+Sankheda	Vadodara	GUJARAT	391150
+Ghelawant
+Chhotaudepur	Vadodara	GUJARAT	391165
+Gola Gamdi
+Sankheda	Vadodara	GUJARAT	391125
+Goyawant
+Naswadi	Vadodara	GUJARAT	391150
+Gundicha
+Sankheda	Vadodara	GUJARAT	391145
+Handod
+Sankheda	Vadodara	GUJARAT	391145
+Harakhapur
+Pavijetpur	Vadodara	GUJARAT	391160
+Hareshwar
+Sankheda	Vadodara	GUJARAT	391125
+Haripura
+Naswadi	Vadodara	GUJARAT	391150
+Harni
+NA	Vadodara	GUJARAT	390022
+Harni Colony
+Vadodara	Vadodara	GUJARAT	390022
+Indral
+Sankheda	Vadodara	GUJARAT	391130
+Jabugam
+Pavijetpur	Vadodara	GUJARAT	391155
+Jakshi
+Naswadi	Vadodara	GUJARAT	391150
+Jaloda
+Pavijetpur	Vadodara	GUJARAT	391160
+Jamba
+Pavijetpur	Vadodara	GUJARAT	391160
+Jambua
+Vadodara	Vadodara	GUJARAT	390014
+Jamli
+Naswadi	Vadodara	GUJARAT	391152
+Jemalgadh
+Naswadi	Vadodara	GUJARAT	391150
+Jojwa R.S.
+Sankheda	Vadodara	GUJARAT	391125
+Kadachhala
+Pavijetpur	Vadodara	GUJARAT	391140
+Kadadhara
+Dabhoi	Vadodara	GUJARAT	391107
+Kadipani
+Chhotaudepur	Vadodara	GUJARAT	391175
+Kadvad
+Pavijetpur	Vadodara	GUJARAT	391160
+Kalarani
+Pavijetpur	Vadodara	GUJARAT	391135
+Kaledia
+Sankheda	Vadodara	GUJARAT	391150
+Kalidoli
+Pavijetpur	Vadodara	GUJARAT	391140
+Kaliyapura
+Naswadi	Vadodara	GUJARAT	391150
+Kanalva
+Ch.udepur	Vadodara	GUJARAT	391168
+Kanda
+Pavijetpur	Vadodara	GUJARAT	391160
+Kanjetha
+Sinor	Vadodara	GUJARAT	391115
+Kanteshwar
+Sankheda	Vadodara	GUJARAT	391125
+Kapurai
+Vadodara	Vadodara	GUJARAT	390004
+Karali
+Pavijetpur	Vadodara	GUJARAT	391135
+Karalipura
+Dabhoi	Vadodara	GUJARAT	391110
+Karanjwant
+Chhotaudepur	Vadodara	GUJARAT	391168
+Karelibaug
+Vadodara	Vadodara	GUJARAT	390018
+Karnali
+Dabhoi	Vadodara	GUJARAT	391105
+Karnet
+Dabhoi	Vadodara	GUJARAT	391110
+Kavitha
+Sankheda	Vadodara	GUJARAT	391125
+Kawant
+Chhotaudepur	Vadodara	GUJARAT	391170
+Kelanpur
+Vadodara	Vadodara	GUJARAT	390004
+Khadkhad
+Chhotaudepur	Vadodara	GUJARAT	391165
+Khanderao Market
+Vadodara	Vadodara	GUJARAT	390001
+Khapariya
+Naswadi	Vadodara	GUJARAT	391150
+Kharmada
+Naswadi	Vadodara	GUJARAT	391152
+Khatiawant
+Kawant	Vadodara	GUJARAT	391168
+Khunvad
+Sankheda	Vadodara	GUJARAT	391130
+Kikavada
+Pavijetpur	Vadodara	GUJARAT	391160
+Kohivav
+Pavijetpur	Vadodara	GUJARAT	391160
+Kolamba
+Naswadi	Vadodara	GUJARAT	391152
+Kosindra
+Sankheda	Vadodara	GUJARAT	391140
+Kukad
+Dabhoi	Vadodara	GUJARAT	391110
+Kukarda
+Naswadi	Vadodara	GUJARAT	391150
+Kukas
+Karjan	Vadodara	GUJARAT	391250
+Kumetha
+Vadodara	Vadodara	GUJARAT	390019
+Kundal
+Chhotaudepur	Vadodara	GUJARAT	391165
+Kundhela
+Dabhoi	Vadodara	GUJARAT	391107
+Lachharas
+Sankheda	Vadodara	GUJARAT	391130
+Ladod
+Sankheda	Vadodara	GUJARAT	391135
+Lavakui
+Naswadi	Vadodara	GUJARAT	391150
+Lotia
+Sankheda	Vadodara	GUJARAT	391125
+M.I. Estate
+Vadodara	Vadodara	GUJARAT	390010
+Madanzampa
+Vadodara	Vadodara	GUJARAT	390001
+Makarpura
+Vadodara	Vadodara	GUJARAT	390014
+Makni
+Sankheda	Vadodara	GUJARAT	391145
+Malpur
+Sankheda	Vadodara	GUJARAT	391145
+Malpur
+Karjan	Vadodara	GUJARAT	391250
+Malsar
+Sinor	Vadodara	GUJARAT	391115
+Manavant
+Ch.udepur	Vadodara	GUJARAT	391168
+Mandlava
+Chhotaudepur	Vadodara	GUJARAT	391165
+Mandva
+Sinor	Vadodara	GUJARAT	391115
+Mandva
+Dabhoi	Vadodara	GUJARAT	391105
+Mandvi Vadodara
+Vadodara	Vadodara	GUJARAT	390001
+Maneja
+Vadodara	Vadodara	GUJARAT	390013
+Manjalpur
+Vadodara	Vadodara	GUJARAT	390011
+Manjrol
+Dabhoi	Vadodara	GUJARAT	391110
+Manjrol
+Karjan	Vadodara	GUJARAT	391250
+Manka
+Kawant	Vadodara	GUJARAT	391170
+Mankodi
+Kawant	Vadodara	GUJARAT	391170
+Meghakui
+Dabhoi	Vadodara	GUJARAT	391107
+Mindhol
+Karjan	Vadodara	GUJARAT	391250
+Mithibor
+Chhotaudepur	Vadodara	GUJARAT	391165
+Modasar
+Sankheda	Vadodara	GUJARAT	391135
+Moghela
+Naswadi	Vadodara	GUJARAT	391152
+Moletha
+Dabhoi	Vadodara	GUJARAT	391105
+

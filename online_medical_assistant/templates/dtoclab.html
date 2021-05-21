@@ -1,0 +1,35 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<div style="height:40vw;font-size:2.8vw;margin: 5vw 0vw 0vw 8vw;">
+<div>
+            {% for message in messages %}
+            <h5 style=color:red>Error: {{message}}</h5>
+            {% endfor %}
+        </div>
+<form action="{% url 'dtoclab' %}" method="POST">
+{% csrf_token %}
+    <div style="margin: 5vw 0vw;">
+
+        <input type="hidden" name="lab" value="{{lab_name}}">
+        <input type="hidden" name="tot" value="{{type_of_test}}">
+        <input type="hidden" name="email" value="{{email}}">
+        <input type="hidden" name="phone" value="{{phone}}">
+        <input type="hidden" name="address" value="{{address}}">
+        <input type="hidden" name="dist" value="{{district}}">
+        <input type="hidden" name="photo" value="{{photo}}">
+        <input type="hidden" name="certificate" value="{{certificate}}">
+
+     Your City<select style="width: 40vw;height: 5vw;border-radius: 1vw;margin-left: 4vw;box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;" name="city" id="">
+                    <option value="">Select</option>
+                    {% for i in distcity %}
+                    <option value="{{i}}">{{i}}</option>
+                    {% endfor %}
+                </select> 
+            </div>
+    <button style="font-size: 2.5vw;border-radius: 1vw;padding: .5vw;width: 18vw;" type="submit">Submit</button>
+</form>
+</div>
+
+{% endblock %}

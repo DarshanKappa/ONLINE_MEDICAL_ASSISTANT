@@ -1,0 +1,209 @@
+{% extends 'main.html' %}
+
+{% block content %}
+ <div class="laboratory">
+     <h2 id="lh2">Blood Donors</h2>
+     <div id="first_lab">
+         <li><div onclick="lab()" id="lab">Blood Group</div><div style="margin-right:16vw" onclick="ldistrict()" id="ldistrict">District</div><div  onclick="lcity()" id="lcity">City</div></li>
+         <div onmouseout="labout()" onmouseover="labover()" id="labdrop">
+            {% for b in bg %}
+            <form action="{% url 'search_bg' %}" method="POST">
+            {% csrf_token %}
+            <input type="hidden" name="bg" value="{{b}}">
+             <button type="submit">{{b}}</button>
+             <hr>
+             </form>
+            {% endfor %}
+            
+        </div>
+         <div onmouseout="distout()" onmouseover="distover()" id="distdrop">
+            {% for d in district %}
+            <form action="{% url 'search_district_bg' %}" method="POST">
+            {% csrf_token %}
+             <input type="hidden" name="bg" value="{{bg_for_city}}">
+             <input type="hidden" name="district" value="{{d}}">
+             <button type="submit">{{d}}</button>
+             <hr>
+             </form>
+             {% endfor %}
+        </div>
+         <div onmouseout="cityout()" onmouseover="cityover()" id="citydrop">
+             {% for c in city %}
+             <form action="{% url 'search_city_bg' %}" method="POST">
+             {% csrf_token %}
+             <input type="hidden" name="bg" value="{{bg_for_city}}">
+             <input type="hidden" name="district" value="{{district_for_city}}">
+             <input type="hidden" name="city" value="{{c}}">
+             <button type="submit">{{c}}</button><hr>
+             </form>
+             {% endfor %}
+        </div>
+     </div>
+     <div id="second_lab">
+
+        {% for u in user %}
+         <div class="labs">
+            <div id="ldetail">
+                <li style="list-style:none;margin-bottom: 1vw ;font-size:3vw; font-family: 'Arial Narrow', Arial, sans-serif">{{u.first_name}} {{u.last_name}}</li>
+                {% for p in profile %}
+                    {% if u.id == p.id %}
+
+                <li style="list-style: none;color:red"><strong>Blood Group</strong> {{p.blood_group}}</li>
+                <p><strong>Address </strong>{{p.Address}}</p>
+
+                    {% endif %}
+
+               
+                {% endfor %}
+                <span id="lspan">More Details</span>
+
+            </div>
+            <div id="lcontect">
+                <div class="appoint">
+                    <span style="background-color: rgb(197, 235, 235);color:black" class="ali"> REQUEST</span>
+                    <span style="background-color: rgb(0, 185, 185);color:black" class="aspan">></span>
+                </div>
+                <li>Call&nbsp; {{u.username}}</li>
+                <li>Call&nbsp; 665-000-1015</li>
+                <li>{{u.email}}</li>
+                <p><Strong style="color:rgb(0, 116, 116);">Location</Strong></p>
+                
+
+            </div>
+         </div>
+         {% endfor %}
+        
+
+     </div>
+ </div>
+
+
+ <script>
+    let display4 = "none";
+
+    function lab() {
+
+        //    let navbar = document.getElementById('navbar');
+
+
+        let labdrop = document.getElementById('labdrop');
+        let distdrop = document.getElementById('distdrop');
+        let citydrop = document.getElementById('citydrop');
+
+        //    let navbar = document.getElementsByClassName('navbar>ul')
+
+        if (display4 == "none") {
+
+          
+            if(display5 == 'block' || display6 == 'block'){
+                distdrop.style.display = 'none'
+                display5 = 'none'
+                citydrop.style.display = 'none'
+                display6 = 'none'
+            }
+
+            labdrop.style.display = "block";
+            //    menu.style.transition = 'all .5s ease-in-out 0s';
+
+            display4 = "block";
+
+        }
+
+        else {
+
+            labdrop.style.display = "none";
+            display4 = "none";
+
+        }
+
+    }
+</script>
+
+
+ <script>
+    let display5 = "none";
+
+    function ldistrict() {
+
+        //    let navbar = document.getElementById('navbar');
+
+
+        let ldistrict = document.getElementById('distdrop');
+        let labdrop = document.getElementById('labdrop');
+        let citydrop = document.getElementById('citydrop');
+
+        //    let navbar = document.getElementsByClassName('navbar>ul')
+
+        if (display5 == "none") {
+
+            if(display4 == 'block' || display6 == 'block'){
+                labdrop.style.display = 'none'
+                display4 = 'none'
+                citydrop.style.display = 'none'
+                display6 = 'none'
+            }
+
+
+            ldistrict.style.display = "block";
+            //    menu.style.transition = 'all .5s ease-in-out 0s';
+
+            display5 = "block";
+
+        }
+
+        else {
+
+            ldistrict.style.display = "none";
+            display5 = "none";
+
+        }
+
+    }
+</script>
+
+
+ <script>
+    let display6 = "none";
+
+    function lcity() {
+
+        //    let navbar = document.getElementById('navbar');
+
+
+        let ldistrict = document.getElementById('distdrop');
+        let labdrop = document.getElementById('labdrop');
+        let citydrop = document.getElementById('citydrop');
+
+
+        //    let navbar = document.getElementsByClassName('navbar>ul')
+
+        if (display6 == "none") {
+
+            if(display4 == 'block' || display5 == 'block'){
+                labdrop.style.display = 'none'
+                display4 = 'none'
+                ldistrict.style.display = 'none'
+                display5 = 'none'
+            }
+
+
+            citydrop.style.display = "block";
+            //    menu.style.transition = 'all .5s ease-in-out 0s';
+
+            display6 = "block";
+
+        }
+
+        else {
+
+            citydrop.style.display = "none";
+            display6 = "none";
+
+        }
+
+    }
+</script>
+
+
+
+{% endblock %}

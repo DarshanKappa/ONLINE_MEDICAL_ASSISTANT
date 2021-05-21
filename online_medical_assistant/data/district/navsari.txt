@@ -1,0 +1,581 @@
+Waghai
+Ahwa	Navsari	GUJARAT	394730
+Zaridungarda
+Dang	Navsari	GUJARAT	394730
+Aat
+Jalalpore	Navsari	GUJARAT	396403
+Abrama
+Jalalpore	Navsari	GUJARAT	396406
+Achhavani
+Chikhli	Navsari	GUJARAT	396040
+Adada
+Navsari	Navsari	GUJARAT	396445
+Agasi
+Chikhli	Navsari	GUJARAT	396060
+Ajarai
+Gandevi	Navsari	GUJARAT	396360
+Alipore
+Chikhli	Navsari	GUJARAT	396409
+Amadhara
+Chikhli	Navsari	GUJARAT	396521
+Amadpore
+Navsari	Navsari	GUJARAT	396445
+Amalsad
+Gandevi	Navsari	GUJARAT	396310
+Ambabari
+Vansda	Navsari	GUJARAT	396580
+AmbachChikhli
+Chikhli	Navsari	GUJARAT	396540
+Ambada
+Navsari	Navsari	GUJARAT	396469
+Ambapani
+Vansda	Navsari	GUJARAT	396580
+Ambheta
+Gandevi	Navsari	GUJARAT	396409
+Amli Kasba
+Navsari	Navsari	GUJARAT	396445
+Ancheli
+Gandevi	Navsari	GUJARAT	396310
+Antalia
+Gandevi	Navsari	GUJARAT	396325
+Arak Sisodra
+Jalalpore	Navsari	GUJARAT	396475
+Asna
+Jalalpore	Navsari	GUJARAT	396415
+Astagam
+Navsari	Navsari	GUJARAT	396433
+Avada Falia
+Jalalpore	Navsari	GUJARAT	396439
+Bahej
+Chikhli	Navsari	GUJARAT	396040
+Balvada
+Chikhli	Navsari	GUJARAT	396521
+Bamanvel
+Chikhli	Navsari	GUJARAT	396409
+Bartad
+Vansda	Navsari	GUJARAT	396590
+Bhatfalia
+Gandevi	Navsari	GUJARAT	396310
+Bhatha
+Gandevi	Navsari	GUJARAT	396310
+Bhattai
+Navsari	Navsari	GUJARAT	396427
+Bhinar
+Jalalpore	Navsari	GUJARAT	396436
+Bhinar
+Vansda	Navsari	GUJARAT	396590
+Bigri
+Gandevi	Navsari	GUJARAT	396110
+Bilimora
+Gandevi	Navsari	GUJARAT	396321
+Bilimora RS
+Gandevi	Navsari	GUJARAT	396321
+Bodali
+Jalalpore	Navsari	GUJARAT	396445
+Bodvank
+Chikhli	Navsari	GUJARAT	396560
+Bori Falia
+Jalalpore	Navsari	GUJARAT	396412
+Boriach
+Vansda	Navsari	GUJARAT	396580
+Borsi
+Jalalpore	Navsari	GUJARAT	396436
+Chandravasansupa
+Navsari	Navsari	GUJARAT	396472
+Chapaldhara
+Chikhli	Navsari	GUJARAT	396570
+Chapar
+Gandevi	Navsari	GUJARAT	396310
+Charanvada
+Vansda	Navsari	GUJARAT	396580
+Chari
+Chikhli	Navsari	GUJARAT	396040
+Chasa
+Chikhli	Navsari	GUJARAT	396530
+Chhapra
+Navsari	Navsari	GUJARAT	396445
+Chhinam
+Jalalporre	Navsari	GUJARAT	396436
+Chijgam
+Jalalpore	Navsari	GUJARAT	396460
+Chikhli Navsari
+Chikhli	Navsari	GUJARAT	396521
+Chokhad
+Jalalpore	Navsari	GUJARAT	396415
+Chondha
+Vansda	Navsari	GUJARAT	396580
+Chorvani
+Vansda	Navsari	GUJARAT	396580
+Chovisi
+Navsari	Navsari	GUJARAT	396427
+Dabhel
+Jalalpore	Navsari	GUJARAT	396415
+Dabhlai
+Navsari	Navsari	GUJARAT	396466
+Dambher
+Jalalpore	Navsari	GUJARAT	396472
+Dandi
+Jalalpore	Navsari	GUJARAT	396439
+Danti
+Jalalpore	Navsari	GUJARAT	396436
+Debarpada
+Chikhli	Navsari	GUJARAT	396040
+Degam
+Chikhli	Navsari	GUJARAT	396530
+Delvada Vadoli
+Jalalpore	Navsari	GUJARAT	396436
+Devdha
+Gandevi	Navsari	GUJARAT	396310
+Devsar
+Gandevi	Navsari	GUJARAT	396380
+Dhaman
+Jalalpore	Navsari	GUJARAT	396415
+Dhamdachha
+Gandevi	Navsari	GUJARAT	396310
+Dhamdhuma
+Chikhli	Navsari	GUJARAT	396060
+DhanoriGandevi
+Gandevi	Navsari	GUJARAT	396360
+Dharampuri
+Vansda	Navsari	GUJARAT	396590
+Dholai Falia
+Gandevi	Navsari	GUJARAT	396110
+Dholumber Chikhli
+Chikhli	Navsari	GUJARAT	396060
+Dholumber
+Vansda	Navsari	GUJARAT	396321
+Digendranagar
+Chikhli	Navsari	GUJARAT	396570
+Dipla Falia
+Jalalpore	Navsari	GUJARAT	396436
+Doldha
+Vansda	Navsari	GUJARAT	396321
+Donja
+Chikhli	Navsari	GUJARAT	396560
+Dubalfalia
+Vansda	Navsari	GUJARAT	396580
+Duwada
+Gandevi	Navsari	GUJARAT	396360
+Endhal
+Gandevi	Navsari	GUJARAT	396430
+Eru Ac
+Jalalpore	Navsari	GUJARAT	396450
+Eru
+Jalalpore	Navsari	GUJARAT	396450
+Fadvel
+Chikhli	Navsari	GUJARAT	396540
+Gadat Navsari
+Gandevi	Navsari	GUJARAT	396350
+Gandeva
+Gandevi	Navsari	GUJARAT	396430
+Gandevi
+Gandevi	Navsari	GUJARAT	396360
+Gangpur
+Vansda	Navsari	GUJARAT	396580
+Gauri
+Chikhli	Navsari	GUJARAT	396040
+Ghej
+Chikhli	Navsari	GUJARAT	396521
+Ghodmal
+Vansda	Navsari	GUJARAT	396580
+Ghodvani
+Chikhli	Navsari	GUJARAT	396060
+Gholar
+Chikhli	Navsari	GUJARAT	396060
+Godhabari
+Vansda	Navsari	GUJARAT	396580
+Godthalbo
+Chikhli	Navsari	GUJARAT	396060
+Gurukulsupa
+Navsari	Navsari	GUJARAT	396418
+Hansapore
+Jalalpore	Navsari	GUJARAT	396445
+Harangam
+Chikhli	Navsari	GUJARAT	396560
+Ichhapore
+Gandevi	Navsari	GUJARAT	396350
+Italva
+Navsari	Navsari	GUJARAT	396445
+Jalalpore
+Jalalpore	Navsari	GUJARAT	396421
+Jamalia
+Vansda	Navsari	GUJARAT	396580
+Jamalpore
+Navsari	Navsari	GUJARAT	396445
+Jamanpada
+Chikhli	Navsari	GUJARAT	396040
+Jogvad
+Chikhli	Navsari	GUJARAT	396560
+Junathana
+Navsari	Navsari	GUJARAT	396445
+Kabilpore
+Navsari	Navsari	GUJARAT	396424
+Kachholi
+Gandevi	Navsari	GUJARAT	396370
+Kadoli
+Jalalpore	Navsari	GUJARAT	396436
+Kakadvel
+Chikhli	Navsari	GUJARAT	396540
+Kakadveri
+Chikhli	Navsari	GUJARAT	396040
+Kalakachha
+Jalalpore	Navsari	GUJARAT	396415
+Kalamtha
+Gandevi	Navsari	GUJARAT	396310
+Kaliari
+Chikhli	Navsari	GUJARAT	396540
+Kaliawadi
+Navsari	Navsari	GUJARAT	396427
+Kalthan
+Jalalpore	Navsari	GUJARAT	396406
+Kalvach
+Chikhli	Navsari	GUJARAT	396409
+Kanbhai
+Chikhli	Navsari	GUJARAT	396060
+Kandha
+Vansda	Navsari	GUJARAT	396580
+Kanera
+Jalalpore	Navsari	GUJARAT	396460
+Kangvai
+Chikhli	Navsari	GUJARAT	396560
+Kansaria
+Vansda	Navsari	GUJARAT	396580
+Kantasvel
+Vansda	Navsari	GUJARAT	396321
+Karadi
+Jalalpore	Navsari	GUJARAT	396440
+Kasbapar
+Navsari	Navsari	GUJARAT	396445
+Kavdej
+Vansda	Navsari	GUJARAT	396580
+Kelia
+Vansda	Navsari	GUJARAT	396060
+Kesli
+Gandevi	Navsari	GUJARAT	396360
+Khadsupa
+Navsari	Navsari	GUJARAT	396433
+Khadsupa Boarding
+Navsari	Navsari	GUJARAT	396433
+Khakhvada
+Gandevi	Navsari	GUJARAT	396350
+Khambhda
+Chikhli	Navsari	GUJARAT	396540
+KhambhlaVansda
+Vansda	Navsari	GUJARAT	396580
+Khaparia B0
+Gandevi	Navsari	GUJARAT	396430
+Khaparvada
+Gandevi	Navsari	GUJARAT	396321
+Kharel
+Gandevi	Navsari	GUJARAT	396430
+Kharoli
+Chikhli	Navsari	GUJARAT	396570
+Kharsad
+Jalalpore	Navsari	GUJARAT	396406
+Khata Ambha
+Vansda	Navsari	GUJARAT	396580
+Khergam Ugat
+Navsari	Navsari	GUJARAT	396469
+Khergam
+Chikhli	Navsari	GUJARAT	396040
+KhergamGandevi
+Gandevi	Navsari	GUJARAT	396360
+Khudvel
+Chikhli	Navsari	GUJARAT	396540
+Khundh
+Chikhli	Navsari	GUJARAT	396521
+Kolva
+Gandevi	Navsari	GUJARAT	396350
+Kotha
+Gandevi	Navsari	GUJARAT	396310
+Kothamadi
+Jalalpore	Navsari	GUJARAT	396445
+Krishanapur
+Jalalpore	Navsari	GUJARAT	396460
+Kuched
+Jalalpore	Navsari	GUJARAT	396475
+Kukeri
+Chikhli	Navsari	GUJARAT	396560
+Kumbhar Falia
+Navsari	Navsari	GUJARAT	396466
+Kurel
+Navsari	Navsari	GUJARAT	396469
+Kurelia
+Vansda	Navsari	GUJARAT	396590
+Lakhawadi
+Vansda	Navsari	GUJARAT	396321
+Limzar
+Vansda	Navsari	GUJARAT	396580
+Lusvada
+Gandevi	Navsari	GUJARAT	396310
+Machhad
+Jalalpore	Navsari	GUJARAT	396440
+Machhia Vasan
+Gandevi	Navsari	GUJARAT	396310
+Magob Bhatha
+Jalalpore	Navsari	GUJARAT	396436
+Mahudi
+Navsari	Navsari	GUJARAT	396466
+Mahuvas
+Vansda	Navsari	GUJARAT	396580
+Majigam
+Chikhli	Navsari	GUJARAT	396521
+Malesar
+Navsari	Navsari	GUJARAT	396445
+Maliadhara
+Chikhli	Navsari	GUJARAT	396521
+Mandavkhadak
+Chikhli	Navsari	GUJARAT	396060
+Mandir
+Jalalpore	Navsari	GUJARAT	396472
+Manekpore Tankoli
+Jalalpore	Navsari	GUJARAT	396445
+ManekporeChikhli
+Chikhli	Navsari	GUJARAT	396560
+ManekporeGadat
+Gandevi	Navsari	GUJARAT	396350
+Mangrol
+Jalalpore	Navsari	GUJARAT	396436
+Mankunia
+Vansda	Navsari	GUJARAT	396580
+Manpur
+Vansda	Navsari	GUJARAT	396580
+Maroli
+Jalalpore	Navsari	GUJARAT	396436
+Maroli Bazar
+Jalalpore	Navsari	GUJARAT	396436
+Masa
+Gandevi	Navsari	GUJARAT	396310
+Matvad
+Jalalpore	Navsari	GUJARAT	396439
+Mendhar
+Gandevi	Navsari	GUJARAT	396310
+Minkachha
+Chikhli	Navsari	GUJARAT	396430
+Mirzapore
+Jalalpore	Navsari	GUJARAT	396436
+Mogar
+Navsari	Navsari	GUJARAT	396445
+Mogravadi
+Chikhli	Navsari	GUJARAT	396060
+Mohanpur
+Gandevi	Navsari	GUJARAT	396310
+Molaamba
+Vansda	Navsari	GUJARAT	396580
+Moldhara
+Navsari	Navsari	GUJARAT	396427
+Moti Valzar
+Vansda	Navsari	GUJARAT	396321
+Motibhamti
+Vansda	Navsari	GUJARAT	396580
+Motikaarod
+Jalalpore	Navsari	GUJARAT	396406
+Motikakrad
+Jalalpore	Navsari	GUJARAT	396412
+Movasa Falia
+Gandevi	Navsari	GUJARAT	396310
+Munsad
+Navsari	Navsari	GUJARAT	396463
+Nagdhara
+Navsari	Navsari	GUJARAT	396466
+Nandarkha
+Gandevi	Navsari	GUJARAT	396325
+Nandhai
+Chikhli	Navsari	GUJARAT	396040
+Naranpore
+Chikhli	Navsari	GUJARAT	396040
+Navanagar
+Vansda	Navsari	GUJARAT	396580
+Navsari
+Navsari	Navsari	GUJARAT	396445
+Navtad
+Vansda	Navsari	GUJARAT	396580
+Nogama
+Chikhli	Navsari	GUJARAT	396430
+Ond
+Chikhli	Navsari	GUJARAT	396521
+Onjal
+Jalalpore	Navsari	GUJARAT	396412
+Onjal Machhivad
+Jalalpore	Navsari	GUJARAT	396412
+Padgha
+Navsari	Navsari	GUJARAT	396445
+Palgabhan
+Vansda	Navsari	GUJARAT	396590
+Panaj
+Chikhli	Navsari	GUJARAT	396040
+Panar
+Jalalpore	Navsari	GUJARAT	396460
+Panikhadak
+Chikhli	Navsari	GUJARAT	396060
+Parthan
+Navsari	Navsari	GUJARAT	396475
+Parujan
+Jalalpore	Navsari	GUJARAT	396436
+PatiGandevi
+Gandevi	Navsari	GUJARAT	396360
+Patibo
+Chikhli	Navsari	GUJARAT	396040
+Pera
+Navsari	Navsari	GUJARAT	396418
+Pethan
+Jalalpore	Navsari	GUJARAT	396445
+Pinsad
+Navsari	Navsari	GUJARAT	396475
+Pipalgabhan
+Chikhli	Navsari	GUJARAT	396521
+Pipalkhed
+Vansda	Navsari	GUJARAT	396060
+Ponsra
+Jalalpore	Navsari	GUJARAT	396436
+Pratapnagarr
+Vansda	Navsari	GUJARAT	396321
+Raibor
+Vansda	Navsari	GUJARAT	396580
+Ranifalia
+Vansda	Navsari	GUJARAT	396580
+Rankuva
+Chikhli	Navsari	GUJARAT	396560
+Ranverikalla
+Chikhli	Navsari	GUJARAT	396560
+Ranverikhurd
+Chikhli	Navsari	GUJARAT	396570
+Ravania
+Vansda	Navsari	GUJARAT	396060
+Rethvania
+Chikhli	Navsari	GUJARAT	396560
+Rumla
+Chikhli	Navsari	GUJARAT	396060
+Rupvel
+Vansda	Navsari	GUJARAT	396321
+Ruzvani
+Chikhli	Navsari	GUJARAT	396040
+Sadadvel
+Chikhli	Navsari	GUJARAT	396560
+Sadakpore
+Chikhli	Navsari	GUJARAT	396521
+Sadlav
+Navsari	Navsari	GUJARAT	396463
+Sagra
+Navsari	Navsari	GUJARAT	396445
+Salej
+Gandevi	Navsari	GUJARAT	396350
+Samapur
+Jalalpore	Navsari	GUJARAT	396439
+Samroli
+Chikhli	Navsari	GUJARAT	396521
+Sandalpore
+Jalalpore	Navsari	GUJARAT	396475
+Sara
+Vansda	Navsari	GUJARAT	396590
+Saraiya
+Chikhli	Navsari	GUJARAT	396560
+Sarav
+Jalalpore	Navsari	GUJARAT	396406
+Sarpore Pardi
+Navsari	Navsari	GUJARAT	396433
+Sarvani
+Chikhli	Navsari	GUJARAT	396540
+Satem
+Navsari	Navsari	GUJARAT	396466
+Simalgam
+Jalalpore	Navsari	GUJARAT	396436
+Simlak
+Jalalpore	Navsari	GUJARAT	396415
+Sindhai
+Vansda	Navsari	GUJARAT	396590
+Singad
+Vansda	Navsari	GUJARAT	396321
+Sisodra
+Navsari	Navsari	GUJARAT	396463
+Siyada
+Chikhli	Navsari	GUJARAT	396540
+Soldhara
+Chikhli	Navsari	GUJARAT	396521
+Sonvadi
+Gandevi	Navsari	GUJARAT	396350
+Sugar Factory
+Gandevi	Navsari	GUJARAT	396360
+Sukhabari
+Chikhli	Navsari	GUJARAT	396540
+Sultanpur
+Jalalpore	Navsari	GUJARAT	396406
+Supakurel
+Navsari	Navsari	GUJARAT	396418
+Surkhai
+Chikhli	Navsari	GUJARAT	396560
+Suthvad
+Chikhli	Navsari	GUJARAT	396530
+Talavchora
+Chikhli	Navsari	GUJARAT	396521
+Taliarabo
+Gandevi	Navsari	GUJARAT	396310
+Tankal
+Chikhli	Navsari	GUJARAT	396560
+Tarsadi
+Navsari	Navsari	GUJARAT	396418
+Tavdi
+Jalalpore	Navsari	GUJARAT	396445
+Tejlav
+Chikhli	Navsari	GUJARAT	396521
+Thala
+Chikhli	Navsari	GUJARAT	396521
+Toli
+Navsari	Navsari	GUJARAT	396469
+Torangam
+Gandevi	Navsari	GUJARAT	396360
+Toranvera
+Chikhli	Navsari	GUJARAT	396040
+Ugat
+Navsari	Navsari	GUJARAT	396469
+Umarkui
+Vansda	Navsari	GUJARAT	396580
+Umbharat
+Jalalpore	Navsari	GUJARAT	396436
+Unai
+Vansda	Navsari	GUJARAT	396590
+Undach Luhar Falia
+Gandevi	Navsari	GUJARAT	396325
+Undach Vania Falia
+Gandevi	Navsari	GUJARAT	396325
+Upsal
+Vansda	Navsari	GUJARAT	396580
+Vad
+Chikhli	Navsari	GUJARAT	396040
+Vaghabari
+Gandevi	Navsari	GUJARAT	396321
+Vaghrej
+Gandevi	Navsari	GUJARAT	396321
+Valoti
+Gandevi	Navsari	GUJARAT	396380
+Vanarasi
+Vansda	Navsari	GUJARAT	396580
+Vandervela
+Chikhli	Navsari	GUJARAT	396540
+Vankal Chikhli
+Chikhli	Navsari	GUJARAT	396325
+Vansda
+Vansda	Navsari	GUJARAT	396580
+Vanzana
+Chikhli	Navsari	GUJARAT	396560
+VasanGandevi
+Gandevi	Navsari	GUJARAT	396310
+Vav
+Chikhli	Navsari	GUJARAT	396040
+Vedchha
+Jalalpore	Navsari	GUJARAT	396472
+Vegam
+Gandevi	Navsari	GUJARAT	396350
+Vejalpore
+Jalalpore	Navsari	GUJARAT	396475
+Velanpore
+Chikhli	Navsari	GUJARAT	396540
+Vesma
+Jalalpore	Navsari	GUJARAT	396475
+Viraval
+Navsari	Navsari	GUJARAT	396445
+ZariChikhli
+Chikhli	Navsari	GUJARAT	396060
+ZariVansda
+Vansda	Navsari	GUJARAT	396321
+

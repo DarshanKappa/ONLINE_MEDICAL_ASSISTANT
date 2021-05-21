@@ -1,0 +1,401 @@
+Chamla
+Dehgam	Gandhi Nagar	GUJARAT	382433
+Sughad
+Gandhinagar	Gandhi Nagar	GUJARAT	382424
+Gandhinagar Sector 16
+Gandhinagar	Gandhi Nagar	GUJARAT	382016
+Gandhinagar Sector 17
+Gandhinagar	Gandhi Nagar	GUJARAT	382016
+Gandhinagar Sector 19
+Gandhinagar	Gandhi Nagar	GUJARAT	382021
+Gandhinagar Sector 21
+Gandhinagar	Gandhi Nagar	GUJARAT	382021
+Gandhinagar Sector 22
+Gandhinagar	Gandhi Nagar	GUJARAT	382021
+Gandhinagar Sector 23
+Gandhinagar	Gandhi Nagar	GUJARAT	382024
+Gandhinagar Sector 24
+Gandhinagar	Gandhi Nagar	GUJARAT	382024
+Gandhinagar Sector 28
+Gandhinagar	Gandhi Nagar	GUJARAT	382028
+Gandhinagar Sector 29
+Gandhinagar	Gandhi Nagar	GUJARAT	382030
+Gandhinagar Sector 30
+Gandhinagar	Gandhi Nagar	GUJARAT	382030
+Gandhinagar Sector 6
+Gandhinagar	Gandhi Nagar	GUJARAT	382006
+Gandhinagar Sector 7
+Gandhinagar	Gandhi Nagar	GUJARAT	382007
+Gandhinagar Sector 8
+Gandhinagar	Gandhi Nagar	GUJARAT	382007
+Gandhinagar Sector 9
+Gandhinagar	Gandhi Nagar	GUJARAT	382007
+Adalaj
+Gandhinagar	Gandhi Nagar	GUJARAT	382421
+Adrajmoti
+Gandhinagar	Gandhi Nagar	GUJARAT	382640
+Ajol
+Mansa	Gandhi Nagar	GUJARAT	382810
+Alampur
+Gandhinagar	Gandhi Nagar	GUJARAT	382042
+Aluva
+Kalol	Gandhi Nagar	GUJARAT	382721
+Ambapur
+Gandhinagar	Gandhi Nagar	GUJARAT	382421
+Ambika Society Kalol
+Kalol	Gandhi Nagar	GUJARAT	382721
+Ambod
+Mansa	Gandhi Nagar	GUJARAT	382845
+Amja
+Kalol	Gandhi Nagar	GUJARAT	382735
+Amrajinamuvada
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Amrapur Gram Bharti
+Mansa	Gandhi Nagar	GUJARAT	382721
+Anguthala
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Anodia
+Mansa	Gandhi Nagar	GUJARAT	382855
+Badpura
+Mansa	Gandhi Nagar	GUJARAT	382845
+Bahiyal
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Balva
+Kalol	Gandhi Nagar	GUJARAT	382721
+Bapupura
+Mansa	Gandhi Nagar	GUJARAT	382845
+Bardoli koti
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Baria
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Basan
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Bhat
+Gandhinagar	Gandhi Nagar	GUJARAT	382428
+Bhoyan Moti
+Kalol	Gandhi Nagar	GUJARAT	382721
+Bhoyan Rathod
+Gandhinagar	Gandhi Nagar	GUJARAT	382422
+Bilodra
+Mansa	Gandhi Nagar	GUJARAT	382810
+Borisana
+Kalol	Gandhi Nagar	GUJARAT	382721
+Boru
+Mansa	Gandhi Nagar	GUJARAT	382845
+BSF GANDHINAGAR
+Gandhinagar	Gandhi Nagar	GUJARAT	382045
+Chadasana
+Mansa	Gandhi Nagar	GUJARAT	382810
+Chandrala
+Gandhinagar	Gandhi Nagar	GUJARAT	382321
+Charada
+Mansa	Gandhi Nagar	GUJARAT	382810
+Chekhala Pagi
+Dehgam	Gandhi Nagar	GUJARAT	382321
+Chhala
+Gandhinagar	Gandhi Nagar	GUJARAT	382321
+Chhatral
+Kalol	Gandhi Nagar	GUJARAT	382729
+Chiloda
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Chiskari
+Dehgam	Gandhi Nagar	GUJARAT	382308
+CRPF Campus G Nagar
+Gandhinagar	Gandhi Nagar	GUJARAT	382042
+Dabhoda
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Dashela
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Dehgam
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Delvada
+Mansa	Gandhi Nagar	GUJARAT	382810
+Devkaran Na Muvada
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Dhamasana
+Kalol	Gandhi Nagar	GUJARAT	382740
+Dhanap
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Dharisana
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Dholakuva
+Mansa	Gandhi Nagar	GUJARAT	382845
+Dingucha
+Kalol	Gandhi Nagar	GUJARAT	382740
+Dolarana Vasna
+Gandhinagar	Gandhi Nagar	GUJARAT	382320
+Fatepura
+Mansa	Gandhi Nagar	GUJARAT	382845
+Galudan
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Ghamij
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Gift City
+Gandhi Nagar	Gandhi Nagar	GUJARAT	382355
+Giyod
+Gandhinagar	Gandhi Nagar	GUJARAT	382321
+Golthara
+Kalol	Gandhi Nagar	GUJARAT	382735
+Gujrat High Court
+Gandhinagar	Gandhi Nagar	GUJARAT	380060
+Hajipur
+Kalol	Gandhi Nagar	GUJARAT	382721
+Halisa
+Dehgam	Gandhi Nagar	GUJARAT	382321
+Harkhji Na Muvada
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Harsoli
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Hathijan
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Hilol
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Indrapura
+Mansa	Gandhi Nagar	GUJARAT	382845
+Indroda
+Gandhinagar	Gandhi Nagar	GUJARAT	382007
+Isand
+Kalol	Gandhi Nagar	GUJARAT	382721
+Isanpur dodia
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Isanpur mota
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Itadar
+Mansa	Gandhi Nagar	GUJARAT	382845
+Jakhora
+Gandhinagar	Gandhi Nagar	GUJARAT	382320
+Jalia No Math
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Jamiyatpura
+Gandhinagar	Gandhi Nagar	GUJARAT	382423
+Jamla
+Kalol	Gandhi Nagar	GUJARAT	382735
+Jaspur
+Kalol	Gandhi Nagar	GUJARAT	382721
+Jawaharmarket Dehgam
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Jethlaj
+Kalol	Gandhi Nagar	GUJARAT	382721
+Jindva
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Kadjodara
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Kadodara
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Kalol Desaivada
+Kalol	Gandhi Nagar	GUJARAT	382721
+Kalol Gandhi Road
+Kalol	Gandhi Nagar	GUJARAT	382721
+Kalol
+Kalol	Gandhi Nagar	GUJARAT	382721
+Kalol Industrial Estate
+Kalol	Gandhi Nagar	GUJARAT	382725
+Kalol Society Area
+Kalol	Gandhi Nagar	GUJARAT	382721
+Kanipur
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Karoli
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Kasturba Vidyalaya
+Gandhinagar	Gandhi Nagar	GUJARAT	382007
+Kasturinagar
+Gandhinagar	Gandhi Nagar	GUJARAT	382423
+Khadat
+Mansa	Gandhi Nagar	GUJARAT	382855
+Khanpur
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Kharana
+Mansa	Gandhi Nagar	GUJARAT	382845
+Khatraj I E
+Kalol	Gandhi Nagar	GUJARAT	382721
+Khoraj
+Kalol	Gandhi Nagar	GUJARAT	382735
+Koba
+Gandhinagar	Gandhi Nagar	GUJARAT	382007
+Kolavada
+Gandhinagar	Gandhi Nagar	GUJARAT	382028
+Kotha
+Kalol	Gandhi Nagar	GUJARAT	382735
+Kudasan
+Gandhinagar	Gandhi Nagar	GUJARAT	382421
+Lakroda
+Mansa	Gandhi Nagar	GUJARAT	382835
+Lavad
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Lavarpur
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Lekawada
+Gandhinagar	Gandhi Nagar	GUJARAT	382042
+Lihoda
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Limbodra
+Kalol	Gandhi Nagar	GUJARAT	382721
+Lodra
+Mansa	Gandhi Nagar	GUJARAT	382835
+Madhavgadh
+Gandhinagar	Gandhi Nagar	GUJARAT	382320
+Magodi
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Mahudi
+Mansa	Gandhi Nagar	GUJARAT	382855
+Manekpura
+Mansa	Gandhi Nagar	GUJARAT	382845
+Mansa Bazar
+Mansa	Gandhi Nagar	GUJARAT	382845
+Mansa Gandhi Nagar
+Mansa	Gandhi Nagar	GUJARAT	382845
+Masang Moti
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Mokhasan
+Kalol	Gandhi Nagar	GUJARAT	382740
+Mota Jalundra
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Motipura
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Mubarakpura
+Kalol	Gandhi Nagar	GUJARAT	382721
+Nana Jalundra
+Dehgam	Gandhi Nagar	GUJARAT	382321
+Nandol
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Nardipur
+Kalol	Gandhi Nagar	GUJARAT	382735
+Navanagar
+Dehgam	Gandhi Nagar	GUJARAT	382315
+New Sachivalaya Complex
+Gandhinagar	Gandhi Nagar	GUJARAT	382010
+Padusma
+Mansa	Gandhi Nagar	GUJARAT	382810
+Palaj
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Paliyed Veda
+Kalol	Gandhi Nagar	GUJARAT	382735
+Palsana
+Kalol	Gandhi Nagar	GUJARAT	382721
+Palundra
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Pansar
+Kalol	Gandhi Nagar	GUJARAT	382740
+Parbatpura
+Mansa	Gandhi Nagar	GUJARAT	382845
+Parsa
+Mansa	Gandhi Nagar	GUJARAT	382845
+Patna Kuva
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Pethapur
+Gandhinagar	Gandhi Nagar	GUJARAT	382610
+Pindarda
+Gandhinagar	Gandhi Nagar	GUJARAT	382610
+Piplaj
+Gandhinagar	Gandhi Nagar	GUJARAT	382610
+Piyaj
+Kalol	Gandhi Nagar	GUJARAT	382721
+Por
+Gandhinagar	Gandhi Nagar	GUJARAT	382421
+Prantiya
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Pratapnagar
+Mansa	Gandhi Nagar	GUJARAT	382845
+Pundhara
+Mansa	Gandhi Nagar	GUJARAT	382855
+Pundrasan
+Gandhinagar	Gandhi Nagar	GUJARAT	382422
+Rakhial
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Rakhial RS
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Ramnagar
+Kalol	Gandhi Nagar	GUJARAT	382721
+Randheja
+Gandhinagar	Gandhi Nagar	GUJARAT	382620
+Rangpur
+Mansa	Gandhi Nagar	GUJARAT	382835
+Raysan
+Gandhinagar	Gandhi Nagar	GUJARAT	382007
+Ridrol
+Mansa	Gandhi Nagar	GUJARAT	382835
+Rupal
+Gandhinagar	Gandhi Nagar	GUJARAT	382630
+Sadra
+Gandhinagar	Gandhi Nagar	GUJARAT	382320
+Sahebji Na Muvada
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Saij
+Kalol	Gandhi Nagar	GUJARAT	382721
+Salki
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Samau
+Mansa	Gandhi Nagar	GUJARAT	382810
+Sametri
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Sampa
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Sanoda
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Santej
+Kalol	Gandhi Nagar	GUJARAT	382721
+Sardhav
+Gandhinagar	Gandhi Nagar	GUJARAT	382640
+Sargasan
+Gandhinagar	Gandhi Nagar	GUJARAT	382421
+Serisa
+Kalol	Gandhi Nagar	GUJARAT	382721
+Shahpur
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Shertha
+Gandhinagar	Gandhi Nagar	GUJARAT	382423
+Shiholi Moti
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Siawada
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Soja
+Kalol	Gandhi Nagar	GUJARAT	382735
+Solaiya
+Mansa	Gandhi Nagar	GUJARAT	382810
+Thermal Power Station
+Gandhinagar	Gandhi Nagar	GUJARAT	382041
+Tintoda
+Gandhinagar	Gandhi Nagar	GUJARAT	382422
+Udan
+Dehgam	Gandhi Nagar	GUJARAT	382315
+Unava Balva
+Gandhinagar	Gandhi Nagar	GUJARAT	382650
+Uvarsad
+Gandhinagar	Gandhi Nagar	GUJARAT	382422
+Vadodara
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Vadsar Air Force
+Kalol	Gandhi Nagar	GUJARAT	382721
+Vadsar
+Kalol	Gandhi Nagar	GUJARAT	382721
+Vadvasa
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Vagosana
+Mansa	Gandhi Nagar	GUJARAT	382845
+Valad
+Gandhinagar	Gandhi Nagar	GUJARAT	382355
+Varsoda
+Mansa	Gandhi Nagar	GUJARAT	382835
+Vasan
+Gandhinagar	Gandhi Nagar	GUJARAT	382650
+Vasna Sogthi
+Dehgam	Gandhi Nagar	GUJARAT	382308
+Vasna Rathod
+Dehgam	Gandhi Nagar	GUJARAT	382305
+Vasnachaudhary
+Dehgam	Gandhi Nagar	GUJARAT	382321
+Vavol
+Gandhinagar	Gandhi Nagar	GUJARAT	382016
+Veda Paliyed
+Kalol	Gandhi Nagar	GUJARAT	382735
+Veda
+Mansa	Gandhi Nagar	GUJARAT	382855
+Vibrant Gujarat
+Gandhi Nagar	Gandhi Nagar	GUJARAT	382010
+Vidhansabha
+Gandhinagar	Gandhi Nagar	GUJARAT	382010
+Vihar
+Mansa	Gandhi Nagar	GUJARAT	382810
+Zundal
+Gandhinagar	Gandhi Nagar	GUJARAT	382421
+

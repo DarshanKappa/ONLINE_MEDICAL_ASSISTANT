@@ -1,0 +1,993 @@
+Adani Port
+Mundra	Kachchh	GUJARAT	370421
+Adesar
+Rahpar	Kachchh	GUJARAT	370155
+Adhoi
+Bhachau	Kachchh	GUJARAT	370135
+Adipur
+Gandhidham	Kachchh	GUJARAT	370205
+Aida
+Abdasa	Kachchh	GUJARAT	370655
+Aiyar
+Nakhatrana	Kachchh	GUJARAT	370605
+Akri moti
+Kachchh	Kachchh	GUJARAT	370511
+Amaliyara
+Bhachau	Kachchh	GUJARAT	370150
+Amara
+Nakhatrana	Kachchh	GUJARAT	370605
+Amardi
+Bhachau	Kachchh	GUJARAT	370140
+Anandpar
+Nakhatrana	Kachchh	GUJARAT	370610
+Anandpar
+Rahpar	Kachchh	GUJARAT	370165
+Anandsar
+Bhuj	Kachchh	GUJARAT	370610
+Angiya Mota
+Nakhatrana	Kachchh	GUJARAT	370675
+Anjar
+Anjar	Kachchh	GUJARAT	370110
+Anjar Savasar Naka
+Anjar	Kachchh	GUJARAT	370110
+Antarjar
+Gandhidham	Kachchh	GUJARAT	370205
+Aral Moti
+Nakhatrana	Kachchh	GUJARAT	370665
+Arikhana
+Abdasa	Kachchh	GUJARAT	370645
+Asambia Mota
+Mandvi	Kachchh	GUJARAT	370485
+Ashapar
+Abdasa	Kachchh	GUJARAT	370655
+Ashram Chakar
+Bhuj	Kachchh	GUJARAT	370105
+ATPS Nani Chher
+Lakhpat	Kachchh	GUJARAT	370602
+Bada
+Mandvi	Kachchh	GUJARAT	370475
+Badalpar
+Rahpar	Kachchh	GUJARAT	370145
+Badargadh
+Rahpar	Kachchh	GUJARAT	370165
+Balachod Moti
+Abdasa	Kachchh	GUJARAT	370650
+Balachod Nani
+Abdasa	Kachchh	GUJARAT	370650
+Baladia
+Bhuj	Kachchh	GUJARAT	370427
+Balapar b
+Bhachau	Kachchh	GUJARAT	370650
+Balasar
+Rahpar	Kachchh	GUJARAT	370165
+Bambhadai
+Mandvi	Kachchh	GUJARAT	370475
+Bandhadi
+Bhachau	Kachchh	GUJARAT	370140
+Bandiya
+Abdasa	Kachchh	GUJARAT	370620
+Baniyari
+Bhachau	Kachchh	GUJARAT	370020
+Bara Mota
+Abdasa	Kachchh	GUJARAT	370660
+Baranda
+Lakhpat	Kachchh	GUJARAT	370511
+Baraya
+Mundra	Kachchh	GUJARAT	370415
+Baroi
+Mundra	Kachchh	GUJARAT	370421
+Baug
+Mandvi	Kachchh	GUJARAT	370455
+Bayath
+Mandvi	Kachchh	GUJARAT	370475
+Bela
+Rahpar	Kachchh	GUJARAT	370165
+Ber moti
+Kachchh	Kachchh	GUJARAT	370511
+Berachiya
+Abdasa	Kachchh	GUJARAT	370650
+Beraja
+Mundra	Kachchh	GUJARAT	370405
+Bhachau
+Bhachau	Kachchh	GUJARAT	370140
+Bhachunda
+Abdasa	Kachchh	GUJARAT	370645
+Bhadai Moti
+Mandvi	Kachchh	GUJARAT	370465
+Bhadli
+Nakhatrana	Kachchh	GUJARAT	370675
+Bhadra
+Lakhpat	Kachchh	GUJARAT	370625
+Bhadreshwar
+Mundra	Kachchh	GUJARAT	370410
+Bhagadia
+Bhuj	Kachchh	GUJARAT	370001
+Bhalot
+Anjar	Kachchh	GUJARAT	370130
+Bhanada
+Abdasa	Kachchh	GUJARAT	370645
+Bharapar
+Nakhatrana	Kachchh	GUJARAT	370625
+Bharapar
+Abdasa	Kachchh	GUJARAT	370660
+Bharapar
+Bhuj	Kachchh	GUJARAT	370427
+Bharasar
+Bhuj	Kachchh	GUJARAT	370030
+Bharudia
+Bhachau	Kachchh	GUJARAT	370140
+Bhavanipar
+Abdasa	Kachchh	GUJARAT	370650
+Bhimasar
+Anjar	Kachchh	GUJARAT	370240
+Bhimasar
+Rahpar	Kachchh	GUJARAT	370160
+Bhinsara
+Mandvi	Kachchh	GUJARAT	370475
+Bhirandiara
+Bhuj	Kachchh	GUJARAT	370510
+Bhitara
+Nakhatrana	Kachchh	GUJARAT	370030
+Bhojay
+Mandvi	Kachchh	GUJARAT	370450
+Bhorara
+Mundra	Kachchh	GUJARAT	370410
+Bhuj B S F Camp
+Bhuj	Kachchh	GUJARAT	370015
+Bhuj Darbargadh Chowk
+Bhuj	Kachchh	GUJARAT	370001
+Bhuj Din Dayal Nagar
+Bhuj	Kachchh	GUJARAT	370001
+Bhuj
+Bhuj	Kachchh	GUJARAT	370001
+Bhuj Ravalwadi
+Bhuj	Kachchh	GUJARAT	370001
+Bhujodi
+Bhuj	Kachchh	GUJARAT	370020
+Bhujpur
+Mundra	Kachchh	GUJARAT	370405
+Bhutakia
+Rapar	Kachchh	GUJARAT	370155
+Bhuvad
+Anjar	Kachchh	GUJARAT	370130
+Bibar
+Nakhatrana	Kachchh	GUJARAT	370001
+Bidada
+Mandvi	Kachchh	GUJARAT	370435
+Bitta
+Abdasa	Kachchh	GUJARAT	370650
+Bitta Valadia
+Anjar	Kachchh	GUJARAT	370110
+Bsf Camp Khavda
+Bhuj	Kachchh	GUJARAT	370510
+Budharmora
+Bhuj	Kachchh	GUJARAT	370020
+Butta
+Abdasa	Kachchh	GUJARAT	370655
+Chandia
+Anjar	Kachchh	GUJARAT	370130
+Chandrani
+Anjar	Kachchh	GUJARAT	370020
+Chandroda
+Anjar	Kachchh	GUJARAT	370130
+Chapredi
+Bhuj	Kachchh	GUJARAT	370105
+Charopadi Moti
+Abdasa	Kachchh	GUJARAT	370655
+Chhadura
+Abdasa	Kachchh	GUJARAT	370655
+Chhadwara
+Bhachau	Kachchh	GUJARAT	370140
+Chhasara
+Abdasa	Kachchh	GUJARAT	370655
+Chhasara
+Mundra	Kachchh	GUJARAT	370410
+Chirai
+Bhachau	Kachchh	GUJARAT	370140
+Chitrod
+Rahpar	Kachchh	GUJARAT	370145
+Chiyasar
+Abdasa	Kachchh	GUJARAT	370650
+Chobari
+Bhachau	Kachchh	GUJARAT	370140
+Chopadva
+Bhachau	Kachchh	GUJARAT	370140
+Chundi
+Bhuj	Kachchh	GUJARAT	370430
+Dabhunda
+Rahpar	Kachchh	GUJARAT	370165
+Dagara
+Bhuj	Kachchh	GUJARAT	370020
+Dahisara Kachchh
+Bhuj	Kachchh	GUJARAT	370485
+Darshadi
+Mandvi	Kachchh	GUJARAT	370445
+Davri
+Rahpar	Kachchh	GUJARAT	370165
+Daypar
+Kachch	Kachchh	GUJARAT	370630
+Dedhiya
+Mandvi	Kachchh	GUJARAT	370450
+Depa
+Mundra	Kachchh	GUJARAT	370435
+Desalpar N
+Nakhatrana	Kachchh	GUJARAT	370605
+Deshalpar V
+Rapar	Kachchh	GUJARAT	370165
+Deshalpar
+Mundra	Kachchh	GUJARAT	370405
+Deshalpar
+Bhuj	Kachchh	GUJARAT	370040
+Devalia
+Anjar	Kachchh	GUJARAT	370110
+Devisar
+Nakhatrana	Kachchh	GUJARAT	370665
+Devpar Gadh
+Mandvi	Kachchh	GUJARAT	370445
+Devpar Jakh
+Nakhatrana	Kachchh	GUJARAT	370675
+Dhamadka
+Anjar	Kachchh	GUJARAT	370020
+Dhanavada
+Abdasa	Kachchh	GUJARAT	370650
+Dhaneti
+Bhuj	Kachchh	GUJARAT	370020
+Dhareshi
+Lakhpat	Kachchh	GUJARAT	370627
+Dhavda
+Nakhatrana	Kachchh	GUJARAT	370675
+Dholavira
+Bhachau	Kachchh	GUJARAT	370165
+Dhoravar
+Bhuj	Kachchh	GUJARAT	370510
+Dhori
+Bhuj	Kachchh	GUJARAT	370001
+Dhrab
+Mundra	Kachchh	GUJARAT	370421
+Dhrang
+Bhuj	Kachchh	GUJARAT	370001
+Dhrobana
+Bhuj	Kachchh	GUJARAT	370510
+Dhufi moti
+Abdasa	Kachchh	GUJARAT	370660
+Dhunai
+Mandvi	Kachchh	GUJARAT	370485
+Dinara
+Bhuj	Kachchh	GUJARAT	370510
+Dolatpar
+Lakhpat	Kachchh	GUJARAT	370630
+Don
+Mandvi	Kachchh	GUJARAT	370465
+Dudhai
+Anjar	Kachchh	GUJARAT	370020
+Dumado
+Bhuj	Kachchh	GUJARAT	370510
+Dumara
+Abdasa	Kachchh	GUJARAT	370490
+Durgapur
+Mandvi	Kachchh	GUJARAT	370465
+Fatehgadh
+Rapar	Kachchh	GUJARAT	370155
+Fotdi
+Bhuj	Kachchh	GUJARAT	370040
+Fulay Chhari
+Nakhatrana	Kachchh	GUJARAT	370665
+Fulay
+Kachchh	Kachchh	GUJARAT	370511
+Fulra
+Lakhpat	Kachchh	GUJARAT	370627
+Gadani
+Nakhatrana	Kachchh	GUJARAT	370625
+Gadhasisa
+Mandavi	Kachchh	GUJARAT	370445
+Gadhda Khadir
+Bhachau	Kachchh	GUJARAT	370165
+Gadpadar
+Gandhidham	Kachchh	GUJARAT	370240
+Gaduli
+Lakhapat	Kachchh	GUJARAT	370627
+Gagodar
+Rahpar	Kachchh	GUJARAT	370145
+Gajod
+Bhuj	Kachchh	GUJARAT	370430
+Gandhidham
+Gandhidham	Kachchh	GUJARAT	370201
+Ganeshnagar
+Gandhidham	Kachchh	GUJARAT	370201
+Ganeshpar
+Bhachau	Kachchh	GUJARAT	370165
+Gedi
+Rahpar	Kachchh	GUJARAT	370165
+Gelda
+Mundra	Kachchh	GUJARAT	370405
+Ghanithar
+Rahpar	Kachchh	GUJARAT	370155
+Gharana
+Bhachau	Kachchh	GUJARAT	370150
+Godhra
+Mandvi	Kachchh	GUJARAT	370450
+Godpar
+Bhuj	Kachchh	GUJARAT	370485
+Goniasar
+Mandvi	Kachchh	GUJARAT	370485
+Gopalpuri
+Gandhidham	Kachchh	GUJARAT	370240
+Gorevali
+Bhuj	Kachchh	GUJARAT	370510
+Goyala Mokhra
+Abdasa	Kachchh	GUJARAT	370655
+Gundala
+Mundra	Kachchh	GUJARAT	370410
+Gundiyali
+Mandvi	Kachchh	GUJARAT	370455
+Guneri
+Lakhpat	Kachchh	GUJARAT	370627
+Guvar Moti
+Lakhpat	Kachchh	GUJARAT	370601
+Habay
+Bhuj	Kachchh	GUJARAT	370001
+Hajapar
+Bhuj	Kachchh	GUJARAT	370105
+Hajapar
+Abdasa	Kachchh	GUJARAT	370650
+Hajipir
+Nakhatrana	Kachchh	GUJARAT	370605
+Halapar
+Mandvi	Kachchh	GUJARAT	370450
+Halra
+Bhachau	Kachchh	GUJARAT	370135
+Hamirpar
+Rahpar	Kachchh	GUJARAT	370155
+Hamripar
+Abdasa	Kachchh	GUJARAT	370660
+Haripar
+Nakhatrana	Kachchh	GUJARAT	370625
+Hatdi
+Mundra	Kachchh	GUJARAT	370410
+Hirapar
+Nakhatrana	Kachchh	GUJARAT	370665
+Hodka
+Bhuj	Kachchh	GUJARAT	370510
+Jadodar
+Nakhatrana	Kachchh	GUJARAT	370605
+Jakhau
+Abdasa	Kachchh	GUJARAT	370640
+Janan
+Bhachau	Kachchh	GUJARAT	370165
+Jangadia
+Abdasa	Kachchh	GUJARAT	370655
+Jangi
+Bhachau	Kachchh	GUJARAT	370150
+Jashapar
+Abdasa	Kachchh	GUJARAT	370655
+Jatavada
+Rahpar	Kachchh	GUJARAT	370165
+Jatavira
+Nakhatrana	Kachchh	GUJARAT	370665
+Javaharnagar
+Bhuj	Kachchh	GUJARAT	370020
+Jesda
+Rahpar	Kachchh	GUJARAT	370165
+Jinjay
+Nakhatrana	Kachchh	GUJARAT	370605
+Jiyapar
+Nakhatrana	Kachchh	GUJARAT	370030
+Juna
+Bhuj	Kachchh	GUJARAT	370510
+Kachchh Mandvi
+Mandvi	Kachchh	GUJARAT	370465
+Kachchh Mandvi Sanjipadi
+Mandvi	Kachchh	GUJARAT	370465
+Kadia Mota
+Nakhatrana	Kachchh	GUJARAT	370670
+Kadia Nana
+Nakhatrana	Kachchh	GUJARAT	370670
+Kadol
+Bhachau	Kachchh	GUJARAT	370140
+Kakarva
+Bhachau	Kachchh	GUJARAT	370140
+Kalatalav
+Abdasa	Kachchh	GUJARAT	370660
+Kali Talawali
+Bhuj	Kachchh	GUJARAT	370105
+Kalyanpar
+Nakhatrana	Kachchh	GUJARAT	370610
+Kalyanpar
+Rahpar	Kachchh	GUJARAT	370165
+Kalyanpar Gadhda
+Bhachau	Kachchh	GUJARAT	370165
+Kanaiyabe
+Bhuj	Kachchh	GUJARAT	370020
+Kanakpar
+Abdasa	Kachchh	GUJARAT	370650
+Kandagara
+Mundra	Kachchh	GUJARAT	370435
+Kanday
+Abdasa	Kachchh	GUJARAT	370650
+Kandla Free Trade Zone
+Gandhidham	Kachchh	GUJARAT	370230
+Kandla Harbour
+Gandhidham	Kachchh	GUJARAT	370210
+Kandla Port
+Gandhidham	Kachchh	GUJARAT	370210
+Kanjara
+Mundra	Kachchh	GUJARAT	370425
+Kanmer
+Rahpar	Kachchh	GUJARAT	370155
+Kanthkot
+Bhachau	Kachchh	GUJARAT	370135
+Kapaya
+Mundra	Kachchh	GUJARAT	370415
+Karaghogha
+Mundra	Kachchh	GUJARAT	370415
+Karodiya Mota
+Abdasa	Kachchh	GUJARAT	370450
+Kathda
+Mandvi	Kachchh	GUJARAT	370465
+Kera
+Bhuj	Kachchh	GUJARAT	370430
+Kervandh
+Abdasa	Kachchh	GUJARAT	370655
+Khambhara
+Anjar	Kachchh	GUJARAT	370110
+Khanay
+Abdasa	Kachchh	GUJARAT	370650
+Khandek
+Rahpar	Kachchh	GUJARAT	370155
+Khari
+Bhuj	Kachchh	GUJARAT	370510
+Khari Rohar
+Gandhidham	Kachchh	GUJARAT	370240
+Kharoi
+Bhachau	Kachchh	GUJARAT	370140
+Kharuva
+Abdasa	Kachchh	GUJARAT	370650
+Khavda
+Bhuj	Kachchh	GUJARAT	370510
+Khedoi
+Anjar	Kachchh	GUJARAT	370130
+Khengarpar
+Rahpar	Kachchh	GUJARAT	370165
+Kherai
+Rahpar	Kachchh	GUJARAT	370165
+Khirsara Vinjhan
+Abdasa	Kachchh	GUJARAT	370490
+Khirsara
+Abdasa	Kachchh	GUJARAT	370645
+Khirsara
+Nakhatrana	Kachchh	GUJARAT	370620
+Khodasar
+Bhachau	Kachchh	GUJARAT	370145
+Khokhara
+Anjar	Kachchh	GUJARAT	370020
+Khombhadi
+Nakhatrana	Kachchh	GUJARAT	370670
+Kidana
+Gandhidham	Kachchh	GUJARAT	370205
+Kidiyanagar
+Rahpar	Kachchh	GUJARAT	370145
+Koday
+Mandvi	Kachchh	GUJARAT	370460
+Kodki
+Bhuj	Kachchh	GUJARAT	370030
+Kojachora
+Mandvi	Kachchh	GUJARAT	370485
+Kokalia
+Mandvi	Kachchh	GUJARAT	370450
+Koriyani
+Lakhpat	Kachchh	GUJARAT	370601
+Kotay
+Bhuj	Kachchh	GUJARAT	370001
+Kotda C
+Anjar	Kachchh	GUJARAT	370020
+Kotda Madh
+Lakhpat	Kachchh	GUJARAT	370625
+Kotda Reha
+Bhuj	Kachchh	GUJARAT	370105
+Kotda Roha
+Nakhatrana	Kachchh	GUJARAT	370030
+Kotda N
+Nakhatrana	Kachchh	GUJARAT	370605
+Kotdi M
+Mandvi	Kachchh	GUJARAT	370450
+Kothara
+Abdasa	Kachchh	GUJARAT	370645
+Kukma
+Bhuj	Kachchh	GUJARAT	370105
+Kumbharadi
+Bhachau	Kachchh	GUJARAT	370140
+Kumbharia
+Anjar	Kachchh	GUJARAT	370110
+Kumbharia
+Rahpar	Kachchh	GUJARAT	370145
+Kunariya K
+Bhuj	Kachchh	GUJARAT	370510
+Kunariya
+Bhuj	Kachchh	GUJARAT	370001
+Kundrodi
+Mundra	Kachchh	GUJARAT	370410
+Kuran
+Bhuj	Kachchh	GUJARAT	370510
+Kurbai
+Bhuj	Kachchh	GUJARAT	370030
+Laija
+Mandvi	Kachchh	GUJARAT	370475
+Lakadia
+Bhachau	Kachchh	GUJARAT	370145
+Lakhagadh
+Rahpar	Kachchh	GUJARAT	370155
+Lakhania
+Abdasa	Kachchh	GUJARAT	370660
+Lakhapar
+Anjar	Kachchh	GUJARAT	370110
+Lakhapar
+Mundra	Kachchh	GUJARAT	370425
+Lakhapar
+Lakhpat	Kachchh	GUJARAT	370627
+Lakhiyarvira
+Nakhatrana	Kachchh	GUJARAT	370665
+Lakhond
+Bhuj	Kachchh	GUJARAT	370105
+Lala
+Abdasa	Kachchh	GUJARAT	370640
+Laliyana
+Bhachau	Kachchh	GUJARAT	370150
+Lathedi
+Abdasa	Kachchh	GUJARAT	370490
+Laxmipar N
+Nakhatrana	Kachchh	GUJARAT	370620
+Lodai
+Bhuj	Kachchh	GUJARAT	370001
+Lodrani
+Rahpar	Kachchh	GUJARAT	370165
+Loharia
+Anjar	Kachchh	GUJARAT	370130
+Loria
+Bhuj	Kachchh	GUJARAT	370001
+Ludva
+Mandvi	Kachchh	GUJARAT	370445
+Luni
+Mundra	Kachchh	GUJARAT	370410
+Madh
+Lakhpat	Kachchh	GUJARAT	370625
+Madhapar
+Bhuj	Kachchh	GUJARAT	370020
+Makda
+Mandvi	Kachchh	GUJARAT	370445
+Makhel
+Rahpar	Kachchh	GUJARAT	370155
+Mamaymora
+Rahpar	Kachchh	GUJARAT	370155
+Mamuara
+Bhuj	Kachchh	GUJARAT	370020
+Manaba
+Rahpar	Kachchh	GUJARAT	370145
+Manfara
+Bhachau	Kachchh	GUJARAT	370140
+Mangvana
+Nakhatrana	Kachchh	GUJARAT	370030
+Manjal R
+Abdasa	Kachchh	GUJARAT	370490
+Manjal H
+Mandvi	Kachchh	GUJARAT	370465
+Manjal
+Nakhatrana	Kachchh	GUJARAT	370610
+Mankuwa
+Bhuj	Kachchh	GUJARAT	370030
+Mapar
+Mandvi	Kachchh	GUJARAT	370475
+Maska
+Mandvi	Kachchh	GUJARAT	370465
+Mathada
+Anjar	Kachchh	GUJARAT	370130
+Mathak
+Anjar	Kachchh	GUJARAT	370205
+Mathal
+Nakhatrana	Kachchh	GUJARAT	370605
+Mau
+Mandvi	Kachchh	GUJARAT	370445
+Mauvana
+Rahpar	Kachchh	GUJARAT	370165
+Maye
+Bhachau	Kachchh	GUJARAT	370140
+Meghpar Lakhpat
+Lakhpat	Kachchh	GUJARAT	370625
+Meghpar
+Bhuj	Kachchh	GUJARAT	370430
+Meghpar
+Bhachau	Kachchh	GUJARAT	370140
+Merau
+Mandvi	Kachchh	GUJARAT	370465
+Mindhiara
+Anjar	Kachchh	GUJARAT	370130
+Mindhiari
+Lakhpat	Kachchh	GUJARAT	370601
+Mirzapar
+Bhuj	Kachchh	GUJARAT	370001
+Misariado
+Bhuj	Kachchh	GUJARAT	370510
+Mithadi
+Bhuj	Kachchh	GUJARAT	370510
+Mithi Rohar
+Gandhidham	Kachchh	GUJARAT	370240
+Moda
+Rahpar	Kachchh	GUJARAT	370155
+Modvadar
+Anjar	Kachchh	GUJARAT	370110
+Mokha
+Mundra	Kachchh	GUJARAT	370410
+Momaymora
+Mandvi	Kachchh	GUJARAT	370445
+Mota Bandra
+Bhuj	Kachchh	GUJARAT	370105
+Mota Bhadia
+Mandvi	Kachchh	GUJARAT	370455
+Mothara
+Abdasa	Kachchh	GUJARAT	370650
+Moti Khakhar
+Mundra	Kachchh	GUJARAT	370435
+Moti Sindhodi
+Abdasa	Kachchh	GUJARAT	370640
+Moti Sudadhro
+Abdasa	Kachchh	GUJARAT	370655
+Mudhan
+Lakhpat	Kachchh	GUJARAT	370627
+Mundra
+Mundra	Kachchh	GUJARAT	370421
+Muru
+Nakhatrana	Kachchh	GUJARAT	370605
+Nadapa
+Bhuj	Kachchh	GUJARAT	370020
+Nagalpar Dhindh
+Mandvi	Kachchh	GUJARAT	370465
+Nagalpar
+Anjar	Kachchh	GUJARAT	370110
+Nagor
+Bhuj	Kachchh	GUJARAT	370001
+Nagrecha
+Mandvi	Kachchh	GUJARAT	370450
+Nakhatrana
+Nakhatrana	Kachchh	GUJARAT	370615
+Naliya
+Abdasa	Kachchh	GUJARAT	370655
+Nana Angia
+Nakhatrana	Kachchh	GUJARAT	370675
+Nana Asambia
+Mandvi	Kachchh	GUJARAT	370485
+Nana Bhadia
+Mandvi	Kachchh	GUJARAT	370455
+Nana Laija
+Mandvi	Kachchh	GUJARAT	370475
+Nandasar
+Rahpar	Kachchh	GUJARAT	370165
+Nangia
+Abdasa	Kachchh	GUJARAT	370660
+Nani Aral
+Nakhatrana	Kachchh	GUJARAT	370665
+Nani Khakhar
+Mundra	Kachchh	GUJARAT	370435
+Nara
+Lakhapat	Kachchh	GUJARAT	370605
+Naranpar R
+Nakhatrana	Kachchh	GUJARAT	370615
+Naranpar
+Bhuj	Kachchh	GUJARAT	370430
+Narayan Sarovar
+Lakhpat	Kachchh	GUJARAT	370601
+Naredi
+Abdasa	Kachchh	GUJARAT	370030
+Navagam
+Anjar	Kachchh	GUJARAT	370020
+Navinal
+Mundra	Kachchh	GUJARAT	370405
+Ner
+Bhachau	Kachchh	GUJARAT	370140
+Netra
+Nakhatrana	Kachchh	GUJARAT	370620
+New Dudhai
+Bhuj	Kachchh	GUJARAT	370115
+Nilpar
+Rahpar	Kachchh	GUJARAT	370165
+Ningal
+Anjar	Kachchh	GUJARAT	370105
+Nirona
+Nakhatrana	Kachchh	GUJARAT	370001
+Nundhatad
+Abdasa	Kachchh	GUJARAT	370650
+Padampar
+Rahpar	Kachchh	GUJARAT	370160
+Padana
+Gandhidham	Kachchh	GUJARAT	370240
+Padhar
+Bhuj	Kachchh	GUJARAT	370105
+Palansava
+Rahpar	Kachchh	GUJARAT	370155
+Panandhro
+Lakhpat	Kachchh	GUJARAT	370601
+Panchotiya
+Mandvi	Kachchh	GUJARAT	370475
+Paneli
+Nakhatrana	Kachchh	GUJARAT	370630
+Parjau
+Abdasa	Kachchh	GUJARAT	370640
+Patri
+Mundra	Kachchh	GUJARAT	370425
+Pharadi
+K. Mandvi	Kachchh	GUJARAT	370435
+Pipar
+Kachchh	Kachchh	GUJARAT	370511
+Poladia
+Mandvi	Kachchh	GUJARAT	370450
+Praghpar
+Rahpar	Kachchh	GUJARAT	370155
+Pragpar
+Mundra	Kachchh	GUJARAT	370415
+Pratappar
+Mundra	Kachchh	GUJARAT	370405
+Pundi
+Mandvi	Kachchh	GUJARAT	370485
+Rahpar Khokhara
+Anjar	Kachchh	GUJARAT	370020
+Rahpar
+Rahpar	Kachchh	GUJARAT	370165
+Rajpar
+Mandvi	Kachchh	GUJARAT	370445
+Ramania
+Mundra	Kachchh	GUJARAT	370405
+Rampar B
+Bhachau	Kachchh	GUJARAT	370140
+Rampar Abda
+Abdasa	Kachchh	GUJARAT	370655
+Rampar N
+Nakhatrana	Kachchh	GUJARAT	370620
+Rampar R
+Nakhatrana	Kachchh	GUJARAT	370615
+Rampar Vekra
+Mandvi	Kachchh	GUJARAT	370445
+Ramvav
+Rahpar	Kachchh	GUJARAT	370165
+Rapar Gadhvali
+Abdasa	Kachchh	GUJARAT	370645
+Rasalia
+Nakhatrana	Kachchh	GUJARAT	370670
+Ratadia N
+Nakhatrana	Kachchh	GUJARAT	370605
+Ratadia
+Mandvi	Kachchh	GUJARAT	370465
+Ratadiya
+Mundra	Kachchh	GUJARAT	370410
+Ratiya
+Bhuj	Kachchh	GUJARAT	370040
+Ratnal
+Anjar	Kachchh	GUJARAT	370105
+Rav
+Rapar	Kachchh	GUJARAT	370165
+Rava
+Abdasa	Kachchh	GUJARAT	370645
+Ravapar
+Nakhatrana	Kachchh	GUJARAT	370625
+Rayan Moti
+Mandvi	Kachchh	GUJARAT	370465
+Raydhanjar
+Abdasa	Kachchh	GUJARAT	370490
+Reha
+Bhuj	Kachchh	GUJARAT	370105
+Roha
+Nakhatrana	Kachchh	GUJARAT	370030
+Sadau
+Mundra	Kachchh	GUJARAT	370421
+Sai
+Rahpar	Kachchh	GUJARAT	370165
+Salaya Mota
+Mandvi	Kachchh	GUJARAT	370465
+Samaghogha
+Mundra	Kachchh	GUJARAT	370415
+Sambharai
+Mandvi	Kachchh	GUJARAT	370450
+Samkhiyali
+Bhachau	Kachchh	GUJARAT	370150
+Samtra
+Bhuj	Kachchh	GUJARAT	370040
+Sandhan
+Abdasa	Kachchh	GUJARAT	370490
+Sandhav
+Abdasa	Kachchh	GUJARAT	370645
+Sanghad
+Anjar	Kachchh	GUJARAT	370205
+Sanghipuram
+NA	Kachchh	GUJARAT	370511
+Sangnara
+Nakhatrana	Kachchh	GUJARAT	370675
+Sanosara
+Abdasa	Kachchh	GUJARAT	370030
+Sanva
+Rahpar	Kachchh	GUJARAT	370155
+Sany
+Rahpar	Kachchh	GUJARAT	370145
+Sanyra J
+Nakhatrana	Kachchh	GUJARAT	370610
+Sapeda
+Anjar	Kachchh	GUJARAT	370105
+Sarli
+Bhuj	Kachchh	GUJARAT	370485
+Satapar
+Anjar	Kachchh	GUJARAT	370110
+Selari
+Rahpar	Kachchh	GUJARAT	370165
+Sherdi
+Mandvi	Kachchh	GUJARAT	370465
+Shikara
+Bhachau	Kachchh	GUJARAT	370140
+Shirva
+Mandvi	Kachchh	GUJARAT	370465
+Shivlakha
+Bhachau	Kachchh	GUJARAT	370145
+Shyamji Krishna Varma Nagar
+Lakhpat	Kachchh	GUJARAT	370601
+Sikarpur
+Bhachau	Kachchh	GUJARAT	370150
+Sinay
+Gandhidham	Kachchh	GUJARAT	370205
+Sinugara
+Anjar	Kachchh	GUJARAT	370110
+Siracha
+Mundra	Kachchh	GUJARAT	370435
+Siyot
+Lakhpat	Kachchh	GUJARAT	370627
+Subhashpar
+Lakhpat	Kachchh	GUJARAT	370601
+Sugaria
+Anjar	Kachchh	GUJARAT	370105
+Sujapar
+Abdasa	Kachchh	GUJARAT	370660
+Sukhpar B
+Bhachau	Kachchh	GUJARAT	370020
+Sukhpar S
+Abdasa	Kachchh	GUJARAT	370655
+Sukhpar V
+Rahpar	Kachchh	GUJARAT	370155
+Sukhpar Roha
+Nakhatrana	Kachchh	GUJARAT	370030
+Sukhpar
+Bhuj	Kachchh	GUJARAT	370040
+Sumrasar S
+Bhuj	Kachchh	GUJARAT	370001
+Sumrasar Jat
+Bhuj	Kachchh	GUJARAT	370030
+Suthri
+Abdasa	Kachchh	GUJARAT	370490
+Suvai
+Rahpar	Kachchh	GUJARAT	370165
+Taga
+Rahpar	Kachchh	GUJARAT	370155
+Talwana
+Mandvi	Kachchh	GUJARAT	370460
+Tappar S
+Mundra	Kachchh	GUJARAT	370425
+Tappar
+Anjar	Kachchh	GUJARAT	370110
+Tb Sanatorium
+Bhuj	Kachchh	GUJARAT	370427
+Tera
+Abdasa	Kachchh	GUJARAT	370660
+Thoriyari
+Rahpar	Kachchh	GUJARAT	370145
+Tindalva
+Rahpar	Kachchh	GUJARAT	370165
+Toda
+Mundra	Kachchh	GUJARAT	370415
+Todiya
+Nakhatrana	Kachchh	GUJARAT	370670
+Trambau
+Rahpar	Kachchh	GUJARAT	370165
+Tumbadi
+Mundra	Kachchh	GUJARAT	370435
+Tuna
+Anjar	Kachchh	GUJARAT	370205
+Tunda
+Mundra	Kachchh	GUJARAT	370435
+Udaynagar
+Gandhidham	Kachchh	GUJARAT	370203
+Ugedi
+Nakhatrana	Kachchh	GUJARAT	370605
+Ukheda
+Nakhatrana	Kachchh	GUJARAT	370670
+Umaiya
+Rahpar	Kachchh	GUJARAT	370155
+Umrapar
+Rapar	Kachchh	GUJARAT	370165
+Undoth
+Mandvi	Kachchh	GUJARAT	370450
+United Salt Work
+Gandhidham	Kachchh	GUJARAT	370210
+Ustiya
+Abdasa	Kachchh	GUJARAT	370620
+Vada
+Mandvi	Kachchh	GUJARAT	370465
+Vadala
+Mundra	Kachchh	GUJARAT	370410
+Vadapadhar
+Abdasa	Kachchh	GUJARAT	370645
+Vadasar
+Bhuj	Kachchh	GUJARAT	370445
+Vadva
+Nakhatrana	Kachchh	GUJARAT	370445
+Vadzar
+Bhuj	Kachchh	GUJARAT	370427
+Vaghura
+Mundra	Kachchh	GUJARAT	370410
+Valka Mota
+Nakhatrana	Kachchh	GUJARAT	370625
+Vallabhapar K
+Bhachau	Kachchh	GUJARAT	370145
+Vallabhapar
+Rahpar	Kachchh	GUJARAT	370155
+Valsara
+Abdasa	Kachchh	GUJARAT	370511
+Vamka
+Bhachau	Kachchh	GUJARAT	370135
+Vamoti moti
+Abdasa	Kachchh	GUJARAT	370650
+Vamoti nani
+Abdasa	Kachchh	GUJARAT	370650
+Vandh
+Mandvi	Kachchh	GUJARAT	370485
+Vandhiya
+Bhachau	Kachchh	GUJARAT	370150
+Vang
+Nakhatrana	Kachchh	GUJARAT	370001
+Vanki
+Mundra	Kachchh	GUJARAT	370425
+Vanku
+Abdasa	Kachchh	GUJARAT	370645
+Vanoi
+Rahpar	Kachchh	GUJARAT	370165
+Varadia
+Abdasa	Kachchh	GUJARAT	370490
+Varandi Moti
+Abdasa	Kachchh	GUJARAT	370490
+Varli
+Bhuj	Kachchh	GUJARAT	370130
+Varsamedi
+Anjar	Kachchh	GUJARAT	370110
+Vayor
+Abdasa	Kachchh	GUJARAT	370511
+Vibhapar
+Nakhatrana	Kachchh	GUJARAT	370030
+Vidh
+Mandvi	Kachchh	GUJARAT	370450
+Vidi
+Anjar	Kachchh	GUJARAT	370110
+Vigodi
+Nakhatrana	Kachchh	GUJARAT	370605
+Vijapasar
+Bhachau	Kachchh	GUJARAT	370140
+Vijayapar
+Rahpar	Kachchh	GUJARAT	370165
+Vinjhan
+Abdasa	Kachchh	GUJARAT	370490
+Vira
+Anjar	Kachchh	GUJARAT	370110
+Virani Gadh
+Mandvi	Kachchh	GUJARAT	370445
+Virani Nani
+Lakhpat	Kachchh	GUJARAT	370630
+Virani
+Nakhatrana	Kachchh	GUJARAT	370665
+Vithon
+Nakhatrana	Kachchh	GUJARAT	370675
+Vondh
+Bhachau	Kachchh	GUJARAT	370140
+Vondhada
+Bhachau	Kachchh	GUJARAT	370140
+Vovar
+Mundra	Kachchh	GUJARAT	370410
+Zarpara
+Mundra	Kachchh	GUJARAT	370405
+Zaru
+Anjar	Kachchh	GUJARAT	370110
+Zinkdi
+Bhuj	Kachchh	GUJARAT	370001
+Zura
+Bhuj	Kachchh	GUJARAT	370001
+

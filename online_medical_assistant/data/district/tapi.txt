@@ -1,0 +1,23 @@
+Anumala
+Vyara	Tapi	GUJARAT	394651
+Buhari
+Valod	Tapi	GUJARAT	394630
+Dolvan
+Vyara	Tapi	GUJARAT	394635
+Gadat Tapi
+Vyara	Tapi	GUJARAT	394633
+Kapura
+Vyara	Tapi	GUJARAT	394655
+Kukurmunda
+Nijhar	Tapi	GUJARAT	394380
+Raniamba
+Fort Songadh	Tapi	GUJARAT	394365
+Uchchhal
+Uchchhal	Tapi	GUJARAT	394375
+Ukai Dam
+Songadh	Tapi	GUJARAT	394680
+Vadkui
+Vyara	Tapi	GUJARAT	394651
+Vedchhi
+Valod	Tapi	GUJARAT	394641
+

@@ -1,0 +1,861 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    /* height: 2000px; */
+   
+}
+
+
+header{
+    z-index: 10;
+    position:sticky;
+    top: 0vw;
+    /* border: 2px solid red; */
+    background-color: rgb(249, 247, 255);
+    
+    height: 10vw;
+    width: 100%;
+    box-shadow: 0px -6px 10px 4px rgb(0 0 0);
+}
+
+.navbar{
+
+    position: absolute;
+    top: 2.00vw;
+    left: 2.5vw;
+    display: inline-block;
+    width: 5.3vw;
+    
+    /* border: 2px solid violet; */
+    
+}
+ .navbar span{
+  display: block;
+  margin: 0.9vw 0vw;
+      background-color: black;
+      width: 100%;
+      height: .4vw;
+      border-radius: 1000px;
+      
+   
+  }
+
+  #sp1,#sp4{
+       width: 100%;
+       margin: .9vw auto;
+  }
+
+  #sp2{
+    display: block;
+    margin: 0vw 0vw;
+    background-color: black;
+    width: 100%;
+    /* height: .5vw; */
+    border-radius: 1000px;
+    /* transform: rotate(45deg); */
+    position: absolute;
+    /* top: 1.3vw; */
+
+    }
+
+  #sp3{
+    display: block ;
+    margin: 0vw 0vw;
+        background-color: black;
+        width: 100%;
+        /* height: .5vw; */
+        border-radius: 1000px;
+        /* transform: rotate(135deg); */
+        position: relative;
+        /* top: 1.3vw; */
+     
+    }
+    
+    @keyframes span1{
+        from{
+          width: 100%;
+
+        }
+        to{
+          width: 0%;
+
+        }
+    }
+    @keyframes rspan1{
+        from{
+          width: 0%;
+
+        }
+        to{
+          width: 100%;
+
+        }
+    }
+
+
+
+    @keyframes span4{
+        from{
+          width: 100%;
+
+        }
+        to{
+          width: 0%;
+
+        }
+    }
+    @keyframes rspan4{
+        from{
+          width: 0%;
+
+        }
+        to{
+          width: 100%;
+
+        }
+    }
+
+
+
+    @keyframes span2{
+        from{
+            transform: rotate(0deg);
+        }
+        to{
+            transform: rotate(45deg);
+        }
+    }
+    @keyframes rspan2{
+        from{
+            transform: rotate(45deg);
+        }
+        to{
+            transform: rotate(0deg);
+        }
+    }
+
+
+
+    @keyframes span3{
+        from{           
+            transform: rotate(0deg);  
+        }
+        to{
+            transform: rotate(-45deg);
+        }
+    }
+    @keyframes rspan3{
+        from{           
+            transform: rotate(-45deg);
+        }
+        to{
+            transform: rotate(0deg);  
+        }
+    }
+
+    
+    
+    #login_icon{
+        font-family:  Arial, sans-serif;
+        cursor: pointer;
+        position: absolute;
+        top: 2.3vw;
+        left: 13vw;
+        text-align: center;
+        width: 15vw;
+        height: 4.15vw;
+        font-size: 3vw;
+        padding-top:.35vw ;
+        border-radius: 100px;
+         color: rgb(71, 71, 71);
+         box-shadow: 1px 1px 5px 0px rgb(0 0 0 / 50%);
+         
+         
+         /* border: 2px solid springgreen; */
+         background-color: rgb(161, 228, 195);
+         display: inline-block;
+         
+        }
+        #login_icon span{
+     
+        }
+        
+        
+        .notification{
+            display: inline-block;
+            
+            position: absolute;
+            top: 2.3vw;
+         left: 32vw;
+         width: 4vw;
+         height: 4vw;
+         
+         background: url("/online_medical_assistant/extra/notication2download.png");
+         background-position: center;
+         background-repeat: no-repeat;
+         background-size: cover;
+        }
+        
+        
+        
+        
+        /* .notification svg{
+            
+            width: 3vw;
+            height: 3vw;
+            
+        }
+        
+        .notification svg path{
+            
+            width: 3vw;
+            height: 3vw;
+        } */
+        
+        
+
+        
+        .logo{
+            position: absolute;
+        top: 1.5vw;
+        right: 3vw;
+        width: 30vw;
+        
+        
+    }
+    
+    
+    #menu{
+        
+        font-size: 2.3vw;
+        display: block;
+        position: fixed;
+        top: 10vw;
+        left: -28vw;
+        z-index: 10;
+        /* border: 2px solid red; */
+        width: 28vw;
+        height: 45vw;
+        background-color: rgb(249, 247, 255);
+        border-bottom-right-radius: 1vw;
+        box-shadow: 1px 8px 12px -2px rgb(0 0 0 / 40%);
+        
+        padding: 3vw 0vw;
+        
+    }
+    
+    @keyframes Darshan {
+        from {
+            left: -28vw;
+            
+            
+        }
+        
+        to {
+            left: 0vw;
+            
+            
+        }
+    }
+    /* @keyframes Darshan1 {
+        100%{
+            width: 28vw;
+            font-size: 2.3vw; 
+        }
+        75%{
+            width: 21vw;
+            font-size: 1.8vw; 
+        }
+        50%{
+            width: 14vw;
+            font-size: 1vw; 
+        }
+        25%{
+            width: 7vw;
+            font-size: .5vw; 
+        }
+        0%{
+            width: 0vw;
+            font-size: 0vw; 
+        }
+    } */
+
+    
+    
+    
+    
+    /* reverse */
+    /* @keyframes Darshan1 {
+        0%{
+            width: 28vw;
+            font-size: 2.3vw; 
+        }
+        25%{
+            width: 21vw;
+            font-size: 1.8vw; 
+        }
+        50%{
+            width: 14vw;
+            font-size: 1vw; 
+        }
+        75%{
+            width: 7vw;
+            font-size: .5vw; 
+        }
+        100%{
+            width: 0vw;
+            font-size: 0vw; 
+        }
+    } */
+
+@keyframes Darshan1 {
+    from {
+        left: 0vw;
+        
+        
+    }
+    
+    to {
+        left: -28vw;
+        
+        
+    }
+}
+
+
+#menu hr {
+    
+    margin: 0vw;
+    color: rgb(255, 255, 255);
+}
+
+#menu label {
+    padding-left: 4vw;
+    /* width: 0%; */
+    /* text-align: center; */
+    display: block;
+    
+}
+
+    #menu label:hover {
+        background-color: rgb(228, 213, 255);
+        
+    }
+
+    /* #para li{
+        padding: .7vw 0vw;
+    }
+    #para li:hover{
+        background-color: rgb(184, 184, 184);
+        } */
+    #menu a {
+       
+        color: rgb(119, 119, 119);;
+        display: block;
+        padding: 1vw 0vw;
+        text-decoration: none;
+    }
+
+    
+
+    #home_section{
+        display: block;
+    }
+    
+    
+    #first_section{
+        width: 100%;
+        height: 65vw;
+        /* border: 2px solid violet ; */
+        background-image: url("https://d29f7s48mh3g9z.cloudfront.net/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2020/02/Header-7.jpg.webp");
+        background-position: center;
+        background-size:cover;
+        background-repeat: no-repeat;
+        box-shadow: 0px -6px 12px 2px rgb(0 0 0);
+        
+       
+    }
+    .searchbar{
+        position: relative;
+        top: 6vw;
+        left: 29vw;
+      display:  inline-flex ;
+      /* border: 2px solid red; */
+    }
+    #search{
+        width: 35vw;
+        height: 3.5vw;
+        border: none;
+        padding: 0;
+        margin-right: .5vw;
+        border-bottom-left-radius: 100px;
+        border-top-left-radius: 100px;
+        font-size: 2.3vw;
+        text-indent: 2vw;
+
+      
+    }
+    input:focus{
+        border:none;
+        outline-offset: 0px;
+        outline: none;
+        
+    }
+
+    #search_icon{
+     display: inline-flex;
+box-sizing: border-box;
+     
+    width: 6vw;
+    height: 3.5vw;
+    background-color: white;
+     border-top-right-radius: 100px; 
+     border-bottom-right-radius: 100px;
+        
+    }
+    #search_icon img{
+        width: 2.5vw;
+        height: 2.5vw;
+        position: relative;
+        margin: .5vw 0vw 0vw 1vw;
+    }
+   
+
+
+    
+    #span1{
+        display: inline-block;
+        position: relative;
+        top: 37.5vw;
+        left: 15vw;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 3vw;
+        display: block;
+        color: rgb(106, 233, 255);
+        width: 25vw;
+    }
+    #span2{
+        display: inline-block;
+        position: relative;
+        top: 35vw;
+        left: 15vw;
+        font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 6vw;
+        display: block;
+        color: white;
+        width: 40vw;
+
+    }
+
+    #second_section{
+        /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LIl3xc9SVkeltaEYYgeZaAMQo8qei_gxbA&usqp=CAU"); */
+      /* border: 2px solid red; */
+      width: 100vw;
+      /* background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover; */
+    }
+    .select{
+        margin-top: 5vw;
+        
+        /* border: 2px solid darkorchid; */
+        width: 100vw;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-around;
+        
+    }
+    .box{
+        /* border: 2px solid sienna; */
+        width: 27vw;
+        height: 33vw;
+        
+    }
+    .image{
+        box-shadow: 1px 1px 10px 4px rgb(0 0 0 / 31%);
+        background-color: rgb(210, 241, 250);
+        position: absolute;
+        width: 24vw;
+        height: 22vw;   
+    }
+    .text{
+        background-color:  rgb(60, 86, 156);
+        width: 27vw;
+        height: 18vw;
+        margin-top: 15vw;
+
+    }
+    .text span{
+        position: relative;
+        top: 10vw;
+        left: 3vw;
+        color: white;
+        font-size: 3.2vw;
+    }
+    .text p{
+       
+        position: relative;
+        top: 6.5vw;
+      
+        left: 3vw;
+        color: white;
+        font-size: 3.2vw;
+        
+    }
+    #img1{
+        background: url("/online_medical_assistant/extra/download.jfif");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    #img2{
+        background: url("/online_medical_assistant/extra/laboratory\ \(1\).jfif");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    #img3{
+        background: url("/online_medical_assistant/extra/blood-donordownload\ \(1\).jfif");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        
+        
+    }
+    #img4{
+        background: url("/online_medical_assistant/extra/patient_download.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        
+    }
+    #img5{
+        background: url("/online_medical_assistant/extra/pharmacy_download\ \(1\).jfif");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        
+    }
+    
+    #img6{
+        background: url("/online_medical_assistant/extra/Detailedownload\ \(1\).jfif");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        
+    }
+
+
+    
+
+    
+
+    .prompt {
+        display: none;
+        position: fixed;
+        top: 0;
+
+        width: 100vw;
+        height: 100vh;
+        box-sizing: border-box;
+        z-index: 1000;
+        background: rgba(255, 255, 255, 0.4);
+        overflow: auto;
+    }
+
+    #close {
+        margin: 2vw 2vw 0vw 0vw;
+        float: right;
+        width: 10vw;
+        background-color: rgb(75, 75, 75);
+        border: 2px solid rgb(219, 219, 219);
+        border-radius: 10px;
+        font-size: 3vw;
+        text-align: center;
+        cursor: pointer;
+        color: white;
+    }
+
+
+
+
+       /* .login */
+
+       .login {
+        display: inline-block;
+        /* background-color: rgb(17, 50, 51); */
+        background-color: rgb(249, 248, 255);
+        padding: 4vw;
+        
+        /* border: 2px solid rgb(249, 255, 197); */
+        width: 60vw;
+        height: 45vw;
+        position: relative;
+        top: 12vw;
+        left: 15vw;
+        border-radius: 3vw;
+        color: rgb(0, 0, 0);
+        box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 40%);
+    }
+    
+    .label {
+        font-size: 2.5vw;
+        margin: 0vw 0vw 0vw .3vw;
+        display: block;
+    }
+    
+    .input {
+        border: 1.5px solid black;
+        border-radius: 1vw;
+        height: 2.7vw;
+        font-size: 2vw;
+        margin: 0vw 0vw 2.5vw 0vw;
+        display: block;
+    }
+    
+    
+    .login button {
+        width: 10vw;
+        height: 3.3vw;
+        display: block;
+        margin: 4vw 0vw 0vw 0vw;
+        padding: 0vw 0vw 0vw 0vw;
+        font-size: 2.0vw;
+        border-radius: .5vw;
+        cursor: pointer;
+        border:.1vw solid black
+    }
+    
+    .login button:hover {
+        opacity: .5;
+    }
+    
+    .login span {
+        margin: 1.5vw 0vw 0vw 0vw;
+        font-size: 2vw;
+        display: block;
+        color: rgb(38, 0, 255);
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    
+    .login span:hover {
+        color: rgb(92, 92, 92);
+    }
+    
+    
+    
+    
+    /* .singin */
+    
+    .singin {
+        display: none;
+        /* background-color: rgb(17, 50, 51); */
+        background-color: rgb(249, 248, 255);
+        padding: 3vw 4vw;
+        /* border: 2px solid rgb(236, 27, 27); */
+        width: 60vw;
+        height: 45vw;
+        position: relative;
+        
+        top: 12vw;
+        left: 15vw;
+        
+       
+        border-radius: 3vw;
+        color: rgb(0, 0, 0);
+        box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 40%);
+    }
+
+    .l1{
+        display: flex;
+        height: 6vw;
+    }
+    
+    .singin label {
+        font-size: 2.5vw;
+        margin: 0vw 0vw 0vw .3vw;
+        display: inline-block;
+    }
+
+    .singin input {
+
+        border: 1.5px solid black;
+        border-radius: 1vw;
+        height: 2.7vw;
+        font-size: 2vw;
+        margin: 0vw 0vw 1.5vw 0vw;
+        display: inline-block;
+    }
+
+
+
+    .singin button {
+        cursor: pointer;
+        width: 10vw;
+        height: 3.3vw;
+        display: block;
+        margin: 3.5vw 0vw 0vw 0vw;
+        padding: 0vw 0vw 0vw 0vw;
+        font-size: 2vw;
+        border-radius: .5vw;
+       
+        border:.1vw solid black
+    }
+
+    .singin button:hover {
+        opacity: .5;
+    }
+
+    .singin span {
+        margin: 2.5vw 0vw 0vw 0vw;
+        font-size: 2vw;
+        display: block;
+        color: rgb(38, 0, 255);
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+    .singin span:hover {
+        color: rgb(83, 83, 83);
+    }
+
+    #sname {
+        margin-left: 6.6vw;
+        width: 25vw;
+    }
+
+    #semail {
+        margin-left: 4.1vw;
+        width: 25vw;
+
+    }
+
+    #smobile {
+        margin-left: 1.3vw;
+        width: 25vw;
+
+    }
+
+    #spass {
+        margin-left: 3.5vw;
+        width: 25vw;
+
+    }
+
+    .radio {
+        margin: 0vw 0vw 0vw 0vw;
+        color: red;
+    }
+
+    .gender {
+        margin: 0vw 0vw 0vw 0vw;
+
+    }
+
+
+
+    footer{
+        margin-top: 5vw;
+        /* border: 2px solid red; */
+        width: 100vw;
+        font-family: Arial, sans-serif;
+        /* color: white; */
+        background-color: rgba(57, 68, 62, 0.884);
+        color: rgba(255, 255, 255, 0.801);
+        box-shadow: 0px 0px 10px 2px rgb(0 0 0 / 40%);
+        
+    }
+    
+    .flex1{
+        display: flex;
+        /* border: 2px solid rgb(0, 0, 0); */
+        width: 100vw;
+        
+    }
+
+    .about{
+        /* border: 2px solid rgb(136, 255, 0); */
+        width: 60vw;
+        height: 20vw;
+        margin: 2vw 3vw;
+        
+    }
+    
+    .about li{
+        font-size: 4vw;
+        list-style: none;
+    }
+    
+    .about p{
+        font-size: 2.5vw;
+    }
+    
+    .functions{
+        /* border: 2px solid rgb(47, 0, 255); */
+        width: 40vw;
+        height: 20vw;
+        margin: 2vw 0vw 2vw 10vw;
+        
+        
+    }
+    
+    .functions span{
+        margin-bottom: 2vw;
+        font-size: 3.8vw;
+        font-family: Arial, sans-serif;
+        
+    }
+    
+    .functions li{
+            
+        font-size: 2.5vw;
+        
+    }
+
+    .hr{
+        width: 96vw;
+        background-color:  rgba(255, 255, 255, 0.801);
+        height: .3vw;
+        margin: 2vw 2vw;
+    }
+    
+    .contect{
+        /* border: 2px solid rgb(153, 76, 121); */
+        width: 100vw;
+        height: 5vw;
+    
+
+    }
+    
+    .contect a{
+        color: rgba(17, 6, 6, 0.801);
+        text-decoration: none;
+        font-size: 2.5vw ;
+        margin: 0vw 3vw;
+        
+    }
+    
+    .link{
+       
+        
+    }
+    
+    .li{
+        
+        color: rgba(255, 255, 255, 0.801);
+        font-size: 2.5vw ;
+        text-decoration: none;
+        margin: 5vw 5vw;
+    }
+
+    .li img{
+       width: 3vw;
+    }
+
+
+
+    
+    

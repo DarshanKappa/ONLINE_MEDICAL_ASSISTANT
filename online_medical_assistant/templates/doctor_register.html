@@ -1,0 +1,290 @@
+{% extends 'main.html' %}
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Medical Assistant</title>
+    <link rel="icon" href="{% static 'logo_download.png' %}" type="image/x-icon">
+    <link rel="stylesheet" href="{% static 'home.css' %}">
+    <link rel="stylesheet" href="{% static 'appointment.css' %}">
+    <script type="text/javascript" src="{% static 'home.js' %}"></script>
+    <script type="text/javascript" src="{% static 'appointment.js' %}"></script>
+    <style>
+        /* .singin */
+
+        .singin1 {
+            display: block;
+            /* background-color: rgb(17, 50, 51); */
+            background-color: rgb(249, 248, 255);
+            padding: 5vw 8vw;
+            /* border: 2px solid rgb(236, 27, 27); */
+            width: 84vw;
+
+            color: rgb(0, 0, 0);
+
+        }
+
+        .l11 {
+            display: flex;
+            height: 7vw;
+        }
+ 
+            
+        
+
+
+
+
+        .singin1 label {
+            font-size: 2.9vw;
+            margin: 0vw 0vw 0vw .3vw;
+            display: inline-block;
+        }
+
+        .singin1 input {
+
+            border: 1.5px solid black;
+            border-radius: 1vw;
+            height: 2.7vw;
+            font-size: 2.3vw;
+            margin: 0vw 0vw 1.5vw 0vw;
+            display: inline-block;
+            text-indent: 1vw;
+            width: 3vw;
+        }
+
+
+
+        .singin1 button {
+            cursor: pointer;
+            width: 20vw;
+            height: 4.5vw;
+            display: block;
+            margin: 3.5vw 0vw 0vw 0vw;
+            padding: 0vw 0vw 0vw 0vw;
+            font-size: 2.5vw;
+            border-radius: .5vw;
+
+            border: .1vw solid black
+        }
+
+        .singin1 button:hover {
+            opacity: .5;
+        }
+
+        .singin1 span {
+            margin: 2.5vw 0vw 0vw 0vw;
+            font-size: 2.8vw;
+            display: block;
+            color: rgb(38, 0, 255);
+            text-decoration: underline;
+            cursor: pointer;
+        }
+
+        .singin1 span:hover {
+            color: rgb(83, 83, 83);
+        }
+
+        #sname1 {
+            margin-left: 6.6vw;
+            width: 40vw;
+            height: 4vw;
+            box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;
+            
+        }
+        
+        #semail1 {
+            box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;
+            margin-left: 4.1vw;
+            width: 40vw;
+            height: 4vw;
+        }
+        
+        #smobile1 {
+            box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;
+            margin-left: 1.3vw;
+            width: 40vw;
+            height: 4vw;
+        }
+        
+        #spass1 {
+            box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;
+            margin-left: 3.5vw;
+            width: 40vw;
+            height: 4vw;
+        }
+        
+        .radio1 {
+            margin: 0vw 0vw 0vw 0vw;
+            color: red;
+        }
+        
+        .gender1 {
+            margin: 0vw 0vw 0vw 0vw;
+          
+            
+        }
+        
+        #address1 {
+            box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;
+            width: 45vw;
+            height: 15vw;
+            margin: 0vw 0vw 0vw 5vw;
+        }
+        
+        #add1 {
+            box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;
+            margin-bottom: 12vw;
+        }
+    </style>
+    
+</head>
+
+<body>
+
+
+
+   
+   {% block content %}
+
+    <!-- singin -->
+    <div class="singin1" id="singin1">
+        <h2 style="font-size: 4vw;margin-bottom: 5vw;    background-image: linear-gradient(45deg, #dfdaff, transparent);;color: #7d6868;">Doctor Registration</h2>
+
+        <div>
+            {% for message in messages %}
+            <h5 style=color:red>Error: {{message}}</h5>
+            {% endfor %}
+        </div>
+        <form action="{% url 'doctor' %}" method="POST" enctype="multipart/form-data">
+            {% csrf_token %}
+          
+            {% comment %} <div class="l11">
+                
+                <label for="ID"><span style="color:red;text-decoration:none;display:inline">*</span> Frst Name</label>
+                <input style="margin-left:10vw;box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;" type="file" name="first_name" id="sname1" placeholder="First Name" required>
+            </div> {% endcomment %}
+
+            <div class="l11">
+                <label for="ID">&nbsp;&nbsp;&nbsp;Degrees</label>
+                <input style="box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;" type="text" name="degree" id="sname1" placeholder="degree" required>
+            </div>
+            <div class="l11">
+                <label for="ID">&nbsp;&nbsp;&nbsp;Languages</label>
+                <input style="margin-left:10vw;box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;" type="text" required name="languag" id="sname1" placeholder="English,Gujarati">
+            </div>
+
+            <div style="font-size:3vw;" class="l11"><span style="margin-top:0vw;color:red;text-decoration:none;display:inline">*</span>&nbsp;Type of Doctor
+                <select required style="margin-left:8vw;width: 40vw;height: 5vw;border-radius: 1vw;box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;" name="type_doctor" id="">
+                    <option value="">Select</option>
+                    <option value="General">General</option>
+                    <option value="Cardiologist">Cardiologist</option>
+                    <option value="Audiologist">Audiologist</option>
+                    <option value="Dentist">Dentist</option>
+                    <option value="ENT specialist">ENT specialist</option>
+                    <option value="Gynaecologist">Gynaecologist</option>
+                    <option value="Orthopaedic surgeon">Orthopaedic surgeon</option>
+                    <option value="Paediatrician">Paediatrician</option>
+                    <option value="Psychiatrists">Psychiatrists</option>
+                    <option value="Veterinarian">Veterinarian</option>
+                    <option value="Radiologist">Radiologist</option>
+                    <option value="Neurologist">Neurologist</option>
+                    <option value="Oncologist">Oncologistr</option>
+                    <option value="Pulmonologist">Pulmonologist</option>
+                    <option value="Endocrinologist">Endocrinologist</option>
+                    <option value="Cardiothoracic surgeon">Cardiothoracic surgeon</option>
+                    <option value="Other">Other</option>
+                 
+
+                </select>
+            </div>
+
+            <div class="l11">
+                <label for="ID"><span style="color:red;text-decoration:none;display:inline">*</span> Department</label>
+                <input required  style="margin-left:14vw;box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;"  type="text" name="department" id="semail1" placeholder="department">
+            </div>
+
+            <div class="l11">
+                <label for="ID"><span style="color:red;text-decoration:none;display:inline">*</span> Mobile No.</label>
+                <input required style="margin-left:11vw;box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;"  type="number" name="phone" id="smobile1" placeholder="1234567890">
+            </div>
+         
+
+          
+            <!-- <div class="l11">50
+
+                <label for="ID">Gender</label>
+                &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+                <label class="gender1" for="male1">Male</label>
+                <input class="radio1" type="radio" name="male" id="male1">
+                &nbsp;&nbsp;
+                <label class="gender1" for="female1">Female</label>
+                <input class="radio1" type="radio" name="female" id="female1">
+                &nbsp;&nbsp;
+                <label class="gender1" for="other1">Other</label>
+                <input class="radio1" type="radio" name="other" id="other1">
+            </div> -->
+            <div class="l11" id="add1">
+                <label id="add" for="address1">&nbsp;&nbsp;&nbsp;Address</label>
+                <input required style="margin-left:13vw;box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;"  type="text" id="address1" name="address" placeholder="address">
+            </div>
+            <div class="l11">
+                <label for="spass1"><span style="color:red;text-decoration:none;display:inline">*</span> Surgeon</label>
+                <input type="checkbox" name="surgeon123" id="" value="off" >
+            </div>
+
+            <div class="l11">
+                <label for="spass1"><span style="color:red;text-decoration:none;display:inline">*</span> Primary Location</label>
+                <input required  style="margin-left:10vw;box-shadow: 1.1vw 1.1vw 2vw -1vw #cecece inset;" type="text" id="spass1" name="primary_location" placeholder="pin">
+            </div>
+            <div class="l11">
+                
+                <label for="ID"><span style="color:red;text-decoration:none;display:inline;">*</span> Certificate 1 Photo</label>
+                <input required style="border: none;cursor:pointer" type="file" name="certificates1" id="sname1" >
+            </div>
+            <div class="l11">
+                
+                <label for="ID"><span style="color:red;text-decoration:none;display:inline;">*</span> Certificate 2 Photo</label>
+                <input required style="border: none;cursor:pointer" type="file" name="certificates2" id="sname1" >
+            </div>
+            <div class="l11">
+                
+                <label for="ID"><span style="color:red;text-decoration:none;display:inline;">*</span> Certificate 3 Photo</label>
+                <input required style="border: none;cursor:pointer" type="file" name="certificates3" id="sname1" >
+            </div>
+            <div class="l11">
+                
+                <label for="ID"><span style="color:red;text-decoration:none;display:inline;">*</span> Hospital Photo 1</label>
+                <input required style="border: none;cursor:pointer" type="file" name="photos1" id="sname1" >
+            </div>
+            <div class="l11">
+                
+                <label for="ID"><span style="color:red;text-decoration:none;display:inline;">*</span> Hospital Photo 2</label>
+                <input required style="border: none;cursor:pointer" type="file" name="photos2" id="sname1" >
+            </div>
+
+
+
+
+            <button type="submit">Sing up</button>
+
+
+            <!-- <span onclick="singid()">Already registered then Log in.</span> -->
+
+
+        </form>
+    </div>
+
+     {% endblock %}
+
+
+
+
+</body>
+
+</html>

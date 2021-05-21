@@ -1,0 +1,1267 @@
+{% extends 'main.html' %}
+{% load static %}
+
+{% block content %}
+
+<style>
+    #abook {
+        display: none;
+        width: 90vw;
+        position: fixed;
+        z-index: 5;
+        top: 18vw;
+        margin: 4vw 0vw 0vw 5vw;
+        background-color: hsl(234deg 100% 99%);
+        border-radius: 2vw;
+        box-shadow: 0vw 0vw 4vw -2vw #0000008f;
+    }
+
+    #closes {
+
+
+
+        padding: 2vw 1.2vw 1.2vw 1.2vw;
+        width: 4vw;
+        margin-left: 84vw;
+    }
+
+    #closes span {
+        display: block;
+        background-color: black;
+        width: 4vw;
+        height: 0.3vw;
+
+    }
+
+    #clspan1 {
+        transform: rotate(-45deg);
+    }
+
+    #clspan2 {
+
+        position: relative;
+        bottom: .4vw;
+        transform: rotate(45deg);
+    }
+
+    #seta {
+
+        padding: 2vw;
+    }
+
+    .date {
+        background-color: rgb(242, 239, 255);
+        box-shadow: 0vw 0vw .4vw 0vw rgb(146, 146, 146);
+
+        margin: 1vw 1vw;
+    }
+
+    .date:hover {
+        box-shadow: 0vw 0vw .7vw 0vw rgb(146, 146, 146);
+    }
+
+    .date:active {
+        background-color: #9290a3;
+    }
+
+    .time {
+        font-size: 2.3vw;
+        display: inline-block;
+        margin: 1vw 1vw;
+        background-color: rgb(255, 255, 248);
+        box-shadow: 0vw 0vw .4vw 0vw rgb(146, 146, 146);
+
+    }
+
+    .time:hover {
+        box-shadow: 0vw 0vw .7vw 0vw rgb(146, 146, 146);
+
+    }
+
+    #in1,
+    #in2,
+    #in3,
+    #in4,
+    #in5,
+    #in6,
+    #in7,
+    #in8,
+    #in9,
+    #in10 {
+        display: none;
+    }
+
+    #tin1,
+    #tin2,
+    #tin3,
+    #tin4,
+    #tin5,
+    #tin6,
+    #tin7,
+    #tin8 {
+        display: none;
+    }
+
+    #takeappoint {
+        margin: 5vw 0vw 5vw 23vw;
+        background-color: #ffd7a0;
+        border-radius: .5vw;
+        border: none;
+        height: 5vw;
+        font-size: 2.8vw;
+        width: 32vw;
+        box-shadow: 0vw 0vw 1wgrey;
+        box-shadow: 0vw 0vw 0.5vw 0vw grey;
+    }
+
+    #takeappoint:hover {
+
+        box-shadow: 0vw 0vw 1vw 0vw black;
+    }
+    #city{
+        background-color: #faf0e5;
+        padding: 3vw 3vw;
+        text-align: center;
+        height: 70vw;
+        overflow-y: auto;
+        overflow-y: auto;
+        width: 23vw;
+        margin-left: 64vw;
+        margin-top: 5vw;
+        position: absolute;
+        box-shadow: 0vw 0vw 0.5vw black;
+        display: none;
+    }
+    #cityname:hover{
+        border: 2px solid gray;
+        border-radius: 1vw;
+        padding: 1vw;
+        background-color: #dfddf7;
+    }
+</style>
+<!-- Appointment -->
+
+
+<section style="display: block;height:auto;" id="appointment_section">
+
+    <section id="appointment_first_section">
+        <div id="location">
+            <div id="logo" style="background-image:url({% static 'extra/locationlogoimages.png' %})">
+
+            </div>
+            <!-- <label for="l_text">Location</label> -->
+            <input type="text" placeholder="location" id="l_text">
+        </div>
+
+        <div id="type">
+
+            <label id="doctor_id1" style="cursor:pointer;" onclick="doctordrop()" for="">Doctor</label>
+            <div id="doc_det" class="doc_det" onmouseout="dmouseout()" onmouseover="dmouseover()">
+
+
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="General">
+                    <label id="label0" for="li0"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">General</button></label>
+                </form>
+                <hr id="hr0">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Cardiologist">
+                    <label id="label1" for="li1"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Cardiologist</button></label>
+                </form>
+                <hr id="hr1">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Audiologist">
+                    <label id="label2" for="li2"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Audiologist</button></label>
+                </form>
+                <hr id="hr2">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Dentist">
+                    <label id="label3" for="li3"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Dentist</button></label>
+                </form>
+                <hr id="hr3">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="ENT specialist">
+                    <label id="label4" for="li4"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">ENT
+                            specialist</button></label>
+                </form>
+                <hr id="hr4">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Gynaecologist">
+                    <label id="label5" for="li5"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Gynaecologist</button></label>
+                </form>
+                <hr id="hr5">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Orthopaedic surgeon">
+                    <label id="label6" for="li6"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Orthopaedic
+                            surgeon</button></label>
+                </form>
+                <hr id="hr6">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Paediatrician">
+                    <label id="label7" for="li7"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Paediatrician</button></label>
+                </form>
+                <hr id="hr7">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Psychiatrists">
+                    <label id="label7" for="li7"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Psychiatrists</button></label>
+                </form>
+                <hr id="hr7">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Veterinarian">
+                    <label id="label7" for="li7"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Veterinarian</button></label>
+                </form>
+                <hr id="hr7">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Radiologist">
+                    <label id="label7" for="li7"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Radiologist</button></label>
+                </form>
+                <hr id="hr7">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Neurologist">
+                    <label id="label7" for="li7"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Neurologist</button></label>
+                </form>
+                <hr id="hr7">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Oncologist">
+                    <label id="label7" for="li7"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Oncologist</button></label>
+                </form>
+                <hr id="hr7">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Pulmonologist">
+                    <label id="label7" for="li7"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Pulmonologist</button></label>
+                </form>
+                <hr id="hr7">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Endocrinologist">
+                    <label id="label7" for="li7"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Endocrinologist</button></label>
+                </form>
+                <hr id="hr7">
+                <form action="{% url 'doctors_type' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="doctors_type" value="Cardiothoracic surgeon">
+                    <label id="label8" for="li8"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">Cardiothoracic
+                            surgeon</button></label>
+                </form>
+
+            </div>
+
+
+
+            <label id="districtname" style="cursor:pointer;" onclick="districtdrop()" for="">District</label>
+            <div style="overflow-y: auto;" id="district" class="district" onmouseout="mouseout()"
+                onmouseover="mouseover()">
+
+                {% for i in list_of_district %}
+                <form action="{% url 'district' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="district" value="{{i}}">
+                    <input type="hidden" name="doctors_type" value="{{doc_fild}}">
+                    <label id="label0" for="li0"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">{{i}}</button></label>
+                </form>
+                <hr id="hr0">
+                {% endfor %}
+
+
+
+            </div>
+
+
+
+            <label id="cityname" style="cursor:pointer;margin: 0vw 0vw 0vw 53vw;" onclick="citydrop()" for="">City</label>
+            <div style="overflow-y: auto;" id="city" class="city">
+
+                {% for i in list_of_city %}
+                <form action="{% url 'city' %}" method="POST">
+                    {% csrf_token %}
+                    <input type="hidden" name="district" value="{{dist_fild}}">
+                    <input type="hidden" name="doctors_type" value="{{doc_fild}}">
+                    <input type="hidden" name="city" value="{{i}}" >
+                    <label id="label0" for="li0"><button type="submit"
+                            style="border: none;background: none;font-size: 2.7vw;color: #7974a5;padding: 1vw;width: 100%;text-align: left;">{{i}}</button></label>
+                </form>
+                <hr id="hr0">
+                {% endfor %}
+
+
+
+            </div>
+
+        </div>
+
+
+    </section>
+
+    <section style="height: auto;" id="appointment_second_section">
+        <div style="display: {{block1}};" id="abook">
+            <div onclick="aclosed()" id="closes">
+                <span id="clspan1"></span>
+                <span id="clspan2"></span>
+            </div>
+            <script>
+                function aclosed() {
+                    let abook = document.getElementById('abook')
+
+                    abook.style.display = "none"
+
+                }
+            </script>
+            <form action="{% url 'doctakeappoint' %}" method="POST">
+                {% csrf_token %}
+                <div style="list-style: none" id="seta">
+
+                    <!-- Date -->
+
+                    <div style="font-size: 3vw;list-style: none">Date</div>
+
+
+                    <div id="setdate"></div>
+
+
+                    <div onclick="date1()" id="date1" class="date" style="display: inline-block;">
+                        <div id="d1"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p2"></div>
+                            <script>
+                                let d = new Date();
+                                let today = 0
+                                let block = 0
+                                function date1() {
+                                    today = 1
+                                    block = 1
+
+                                    if (today == 1 && d.getHours() <= 9) {
+                                        document.getElementById('time1').style.display = "inline-block"
+                                    } else {
+                                        document.getElementById('time1').style.display = "none";
+                                    }
+                                    if (today == 1 && d.getHours() <= 10) {
+                                        document.getElementById('time2').style.display = "inline-block"
+                                    } else {
+                                        document.getElementById('time2').style.display = "none";
+                                    }
+                                    if (today == 1 && d.getHours() <= 11) {
+                                        document.getElementById('time3').style.display = "inline-block"
+                                    } else {
+                                        document.getElementById('time3').style.display = "none";
+                                    }
+                                    if (today == 1 && d.getHours() <= 12) {
+                                        document.getElementById('time4').style.display = "inline-block"
+                                    } else {
+                                        document.getElementById('time4').style.display = "none";
+                                    }
+                                    if (today == 1 && d.getHours() <= 16) {
+                                        document.getElementById('time5').style.display = "inline-block"
+                                    } else {
+                                        document.getElementById('time5').style.display = "none";
+                                    }
+                                    if (today == 1 && d.getHours() <= 17) {
+                                        document.getElementById('time6').style.display = "inline-block"
+                                    } else {
+                                        document.getElementById('time6').style.display = "none";
+                                    }
+                                    if (today == 1 && d.getHours() <= 18) {
+                                        document.getElementById('time7').style.display = "inline-block"
+                                    } else {
+                                        document.getElementById('time7').style.display = "none";
+                                    }
+                                    if (today == 1 && d.getHours() <= 19) {
+                                        document.getElementById('time8').style.display = "inline-block"
+                                    } else {
+                                        document.getElementById('time8').style.display = "none";
+                                    }
+
+                                    document.getElementById('date1').style.backgroundColor = "gray"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='1' >"
+
+
+
+                                }
+
+
+
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+
+                                if (d.getDay() == 0) {
+                                    d.setDate(d.getDate() + 1)
+                                } else {
+                                    d.setDate(d.getDate() + 0)
+                                }
+
+
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d1').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p2').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date2()" id="date2" class="date" style="display: inline-block;">
+                        <div id="d2"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p3"></div>
+                            <script>
+
+                                function date2() {
+                                    today = 0
+                                    block = 2
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+
+                                    document.getElementById('date2').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='2' >"
+
+                                }
+
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                }
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d2').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p3').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date3()" id="date3" class="date" style="display: inline-block;">
+                        <div id="d3"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p4"></div>
+                            <script>
+
+                                function date3() {
+                                    today = 0
+                                    block = 3
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+                                    document.getElementById('date3').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='3' >"
+
+                                }
+
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                }
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d3').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p4').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date4()" id="date4" class="date" style="display: inline-block;">
+                        <div id="d4"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p5"></div>
+                            <script>
+
+
+                                function date4() {
+                                    today = 0
+                                    block = 4
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+                                    document.getElementById('date4').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='4' >"
+
+                                }
+
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                }
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d4').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p5').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date5()" id="date5" class="date" style="display: inline-block;">
+                        <div id="d5"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p6"></div>
+                            <script>
+
+                                function date5() {
+                                    today = 0
+                                    block = 5
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+                                    document.getElementById('date5').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='5' >"
+
+                                }
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                }
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d5').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p6').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date6()" id="date6" class="date" style="display: inline-block;">
+                        <div id="d6"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p7"></div>
+                            <script>
+
+                                function date6() {
+                                    block = 6
+                                    today = 0
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+                                    document.getElementById('date6').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='6' >"
+
+                                }
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                } var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d6').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p7').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date7()" id="date7" class="date" style="display: inline-block;">
+                        <div id="d7"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p8"></div>
+                            <script>
+
+                                function date7() {
+                                    today = 0
+                                    block = 7
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+                                    document.getElementById('date7').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='7' >"
+
+                                }
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                }
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d7').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p8').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date8()" id="date8" class="date" style="display: inline-block;">
+                        <div id="d8"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p9"></div>
+                            <script>
+
+                                function date8() {
+                                    today = 0
+                                    block = 8
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+                                    document.getElementById('date8').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='8' >"
+
+                                }
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                }
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d8').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p9').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date9()" id="date9" class="date" style="display: inline-block;">
+                        <div id="d9"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p10"></div>
+                            <script>
+
+                                function date9() {
+                                    today = 0
+                                    block = 9
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+                                    document.getElementById('date9').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date10').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='9' >"
+
+                                }
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                }
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d9').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p10').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+                    <div onclick="date10()" id="date10" class="date" style="display: inline-block;">
+                        <div id="d10"></div>
+                        <div style="font-size:2.3vw;list-style: none;display:inline-block;">
+                            <div id="p11"></div>
+                            <script>
+
+                                function date10() {
+                                    today = 0
+                                    block = 10
+
+                                    document.getElementById('time1').style.display = "inline-block"
+                                    document.getElementById('time2').style.display = "inline-block"
+                                    document.getElementById('time3').style.display = "inline-block"
+                                    document.getElementById('time4').style.display = "inline-block"
+                                    document.getElementById('time5').style.display = "inline-block"
+                                    document.getElementById('time6').style.display = "inline-block"
+                                    document.getElementById('time7').style.display = "inline-block"
+                                    document.getElementById('time8').style.display = "inline-block"
+
+                                    document.getElementById('date10').style.backgroundColor = "gray"
+                                    document.getElementById('date1').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date3').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date4').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date5').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date6').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date7').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date8').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date9').style.backgroundColor = "rgb(242, 239, 255)"
+                                    document.getElementById('date2').style.backgroundColor = "rgb(242, 239, 255)"
+
+                                    document.getElementById('setdate').innerHTML = "<input type='hidden' name='date' value='10' >"
+
+                                }
+
+
+                                var months = ["January", "February", "March", "April", "May", "June", "July",
+                                    "August", "September", "October", "November", "December"];
+                                var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+
+                                if (d.getDay() == 6) {
+                                    d.setDate(d.getDate() + 2)
+                                }
+                                else {
+                                    d.setDate(d.getDate() + 1)
+                                }
+
+                                var namedMonth = months[d.getMonth()];
+                                var namedDay = days[d.getDay()];
+
+
+
+                                document.getElementById('d10').innerHTML = '<li>' + namedDay + '</li>'
+                                document.getElementById('p11').innerHTML = '<li>' + d.getDate() + '-' + namedMonth + '-' + d.getFullYear() + '</li>'
+
+                            </script>
+                        </div>
+                    </div>
+
+
+
+                    <!-- Time -->
+                    <div style="margin-top:2vw;font-size: 3vw;list-style: none">Time</div>
+
+
+                    <div id="settime"></div>
+
+
+
+
+                    <div onclick="time1()" id="time1" class="time">
+                        <div id="time1"></div>
+                        <script>
+
+                            function time1() {
+
+
+
+
+                                document.getElementById('time1').style.backgroundColor = "gray"
+                                document.getElementById('time2').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time3').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time4').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time5').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time6').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time7').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time8').style.backgroundColor = "rgb(255, 255, 248)"
+
+
+                                document.getElementById('settime').innerHTML = "<input type='hidden' name='times' value='9AM to 10AM'>"
+
+                            }
+
+
+                            var date = new Date()
+
+                            document.getElementById('time1').innerHTML = "9 AM to 10 AM"
+
+                        </script>
+                    </div>
+
+                    <div onclick="time2()" id="time2" class="time">
+                        <div id="time2"></div>
+                        <script>
+                            function time2() {
+                                document.getElementById('time2').style.backgroundColor = "gray"
+                                document.getElementById('time1').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time3').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time4').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time5').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time6').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time7').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time8').style.backgroundColor = "rgb(255, 255, 248)"
+
+                                document.getElementById('settime').innerHTML = "<input type='hidden' name='times' value='10AM to 11AM'>"
+
+                            }
+
+                            var date = new Date()
+                            document.getElementById('time2').innerHTML = "10 AM to 11 AM"
+                        </script>
+                    </div>
+
+                    <div onclick="time3()" id="time3" class="time">
+                        <div id="time3"></div>
+                        <script>
+
+                            function time3() {
+                                document.getElementById('time3').style.backgroundColor = "gray"
+                                document.getElementById('time2').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time1').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time4').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time5').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time6').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time7').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time8').style.backgroundColor = "rgb(255, 255, 248)"
+
+                                document.getElementById('settime').innerHTML = "<input type='hidden' name='times' value='11 AM to 12 PM'>"
+
+                            }
+                            var date = new Date()
+                            document.getElementById('time3').innerHTML = "11 AM to 12 PM"
+                        </script>
+                    </div>
+
+                    <div onclick="time4()" id="time4" class="time">
+                        <div id="time4"></div>
+                        <script>
+
+                            function time4() {
+                                document.getElementById('time4').style.backgroundColor = "gray"
+                                document.getElementById('time2').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time3').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time1').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time5').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time6').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time7').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time8').style.backgroundColor = "rgb(255, 255, 248)"
+
+                                document.getElementById('settime').innerHTML = "<input type='hidden' name='times' value='12 PM to 1 PM'>"
+
+                            }
+                            var date = new Date()
+                            document.getElementById('time4').innerHTML = "12 PM to 1 PM"
+                        </script>
+                    </div>
+
+                    <div onclick="time5()" id="time5" class="time">
+                        <div id="time5"></div>
+                        <script>
+
+                            function time5() {
+                                document.getElementById('time5').style.backgroundColor = "gray"
+                                document.getElementById('time2').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time3').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time4').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time1').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time6').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time7').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time8').style.backgroundColor = "rgb(255, 255, 248)"
+
+                                document.getElementById('settime').innerHTML = "<input type='text' name='times' value='4 PM to 5 PM'>"
+
+                            }
+                            var date = new Date()
+                            document.getElementById('time5').innerHTML = "4 PM to 5 PM"
+                        </script>
+                    </div>
+
+                    <div onclick="time6()" id="time6" class="time">
+                        <div id="time6"></div>
+                        <script>
+
+                            function time6() {
+                                document.getElementById('time6').style.backgroundColor = "gray"
+                                document.getElementById('time2').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time3').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time4').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time5').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time1').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time7').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time8').style.backgroundColor = "rgb(255, 255, 248)"
+
+                                document.getElementById('settime').innerHTML = "<input type='hidden' name='times' value='5 PM to 6 PM'>"
+
+                            }
+                            var date = new Date()
+                            document.getElementById('time6').innerHTML = "5 PM to 6 PM"
+                        </script>
+                    </div>
+
+                    <div onclick="time7()" id="time7" class="time">
+                        <div id="time7"></div>
+                        <script>
+
+                            function time7() {
+                                document.getElementById('time7').style.backgroundColor = "gray"
+                                document.getElementById('time2').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time3').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time4').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time5').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time6').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time1').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time8').style.backgroundColor = "rgb(255, 255, 248)"
+
+                                document.getElementById('settime').innerHTML = "<input type='hidden' name='times' value='6 PM to 7 PM'>"
+
+                            }
+                            var date = new Date()
+                            document.getElementById('time7').innerHTML = "6 PM to 7 PM"
+                        </script>
+                    </div>
+
+                    <div onclick="time8()" id="time8" class="time">
+                        <div id="time8"></div>
+                        <script>
+
+                            function time8() {
+                                document.getElementById('time8').style.backgroundColor = "gray"
+                                document.getElementById('time2').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time3').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time4').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time5').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time6').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time7').style.backgroundColor = "rgb(255, 255, 248)"
+                                document.getElementById('time1').style.backgroundColor = "rgb(255, 255, 248)"
+
+                                document.getElementById('settime').innerHTML = "<input type='hidden' name='times' value='7 PM to 8 PM'>"
+
+                            }
+                            var date = new Date()
+                            document.getElementById('time8').innerHTML = "7 PM to 8 PM"
+                        </script>
+
+                    </div>
+
+
+                    <div id="dtemp"><input type="hidden" name="id" value="{{doctorname}}"></div>
+                    <button id="takeappoint" type="submit">Take Appointment</button>
+
+                </div>
+            </form>
+        </div>
+        {% for doctor in doctord %}
+        <div class="doctor_detail">
+
+
+            <div class="photo_rating">
+                <div id="photo" class="photo">
+
+                </div>
+                <div class="rating">
+
+                    <li class="rat">Rating: <strong>4.5</strong> out of <strong>5</strong></li>
+
+                    <li class="rat"><strong>152</strong> Patient Satisfaction Ratings</li>
+
+                    <li class="rat"><strong>26</strong> Patient Commments</li>
+
+                </div>
+
+            </div>
+
+
+
+            <div class="details">
+                <li class="d_name" style="list-style: none;">{{doctor.name}}, {{doctor.degree}}</li>
+                <li class="d_detail"><strong>DEPARTMENT</strong> {{doctor.department}}</li>
+                <li class="d_detail"><strong>PRIMARY LOCATION</strong> {{doctor.primary_location}}</li>
+                <li class="d_detail"><strong>TYPE DOCTOR</strong> {{doctor.type_doctor}}</li>
+                <li class="d_detail"><strong>LANGUAGES</strong> {{doctor.languages}}</li>
+                <li class="d_detail"><strong>SURGEON</strong> {{doctor.surgeon}}</li>
+                <li class="d_detail"><strong>Address</strong> {{doctor.address}}</li>
+
+            </div>
+
+
+            <div class="d_contect">
+                <li>Call {{doctor.doc_phone}}</li>
+                <li>Call {{doctor.doc_phone2}}</li>
+                <form action="{% url 'docdata' %}" method="POST">
+                    <input type="hidden" name="data" value="{{doctor.id}}">
+                    {% csrf_token %}
+                    <button style="border:none;padding:0;margin: 3vw 0vw;" class="appoint">
+                        <span class="ali"> APPOINTMENT</span>
+                        <span style="height: 3.5vw;" class="aspan">></span>
+                    </button>
+                </form>
+
+                <div style="font-size:0px">
+                    {% for e in doctor.doc_email %}
+                    <span style="display: inline-block;font-size:2.5vw">{{e}}</span>
+                    {% endfor %}
+                </div>
+
+                <li id="li_email"
+                    style="width: 8vw;padding: 1vw;text-align: center;color: #262626;background-color: #d5bfe4;">Email
+                </li>
+
+            </div>
+
+        </div>
+        {% endfor %}
+
+    </section>
+
+</section>
+
+<script>
+
+function citydrop(){
+    if(document.getElementById('city').style.display == "block"){
+        document.getElementById('city').style.display = "none"
+    }else{
+        document.getElementById('city').style.display = "block"
+
+    }
+}
+
+</script>
+
+
+
+
+
+{% endblock %}

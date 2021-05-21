@@ -1,0 +1,1303 @@
+Abrama
+Kamrej	Surat	GUJARAT	394150
+Afva Isroli
+Bardoli	Surat	GUJARAT	394620
+Agasvan
+Songadh	Surat	GUJARAT	394651
+Akoti
+Bardoli	Surat	GUJARAT	394355
+Algat
+Valod	Surat	GUJARAT	394246
+Allu
+Bardoli	Surat	GUJARAT	394620
+Amalgundi
+Songadh	Surat	GUJARAT	394365
+Amalsadi
+Palsana	Surat	GUJARAT	394350
+Amalsadi
+Mandvi	Surat	GUJARAT	394163
+Amba
+Mandvi	Surat	GUJARAT	394163
+Ambach
+Valod	Surat	GUJARAT	394641
+Ambheti
+Palsana	Surat	GUJARAT	394352
+Ambia
+Vyara	Surat	GUJARAT	394633
+Amchak
+Mahuva	Surat	GUJARAT	394250
+Amoda
+Nizar	Surat	GUJARAT	394380
+Anaval
+Mahuva	Surat	GUJARAT	396510
+Andhatri
+Valod	Surat	GUJARAT	394630
+Antapur
+Valod	Surat	GUJARAT	394635
+Antroli
+Kamrej	Surat	GUJARAT	394150
+Antroli
+Palsana	Surat	GUJARAT	394325
+Antroli
+Mandvi	Surat	GUJARAT	394170
+Areth
+Mandvi	Surat	GUJARAT	394170
+Asta
+Kamrej	Surat	GUJARAT	394320
+Babarghat
+Uchchhal	Surat	GUJARAT	394375
+Bagumara
+Palsana	Surat	GUJARAT	394305
+Bahedaraipura
+Vyara	Surat	GUJARAT	394630
+Bajipura
+Valod	Surat	GUJARAT	394690
+Balda
+Mandvi	Surat	GUJARAT	394340
+Baleshwar
+Palsana	Surat	GUJARAT	394317
+Balpur
+Vyara	Surat	GUJARAT	394655
+Bamni
+Bardoli	Surat	GUJARAT	394335
+Barasado
+Palsana	Surat	GUJARAT	394310
+Bardipada
+Vyara	Surat	GUJARAT	394635
+Bardipada
+Ahwa	Surat	GUJARAT	394715
+Bardoli
+Bardoli	Surat	GUJARAT	394601
+Bartad
+Mahuva	Surat	GUJARAT	394240
+Bedchit
+NA	Surat	GUJARAT	394630
+Bedkuva
+Valod	Surat	GUJARAT	394340
+Bedkuvadoor
+Vyara	Surat	GUJARAT	394360
+Bedkuvanajik
+Vyara	Surat	GUJARAT	394650
+Bhadbhunja
+Uchchhal	Surat	GUJARAT	394375
+Bhagvanpura
+Mahuva	Surat	GUJARAT	394246
+Bhalkhet
+Ahwa	Surat	GUJARAT	394715
+Bhamaiya
+Bardoli	Surat	GUJARAT	394335
+Bhatwada
+Songadh	Surat	GUJARAT	394680
+Bhimpor
+Valod	Surat	GUJARAT	394640
+Bhitkhurd
+Uchchhal	Surat	GUJARAT	394375
+Bhljamboli
+Nizar	Surat	GUJARAT	394370
+Bhojpur Najik
+Vyara	Surat	GUJARAT	394690
+Bhoria
+Mahuva	Surat	GUJARAT	394248
+Bhutwada
+NA	Surat	GUJARAT	394690
+Bilkhadi
+Mahuva	Surat	GUJARAT	394250
+Bodhan Surat
+Mandvi	Surat	GUJARAT	394140
+Borkhadi
+Vyara	Surat	GUJARAT	394690
+Borsavar
+Songadh	Surat	GUJARAT	394670
+Bortha
+Nizar	Surat	GUJARAT	394370
+Butwada
+Mahuva	Surat	GUJARAT	394248
+Centrap Pulp Mill
+Songadh	Surat	GUJARAT	394660
+Chalthan
+Palsana	Surat	GUJARAT	394305
+Champavadi
+Vyara	Surat	GUJARAT	394650
+Chhapti
+Uchchhal	Surat	GUJARAT	394375
+Chhindia
+Vyara	Surat	GUJARAT	394655
+Chhitpur
+Uchchhal	Surat	GUJARAT	394375
+Chhitra
+Bardoli	Surat	GUJARAT	394350
+Chikalda
+Vyara	Surat	GUJARAT	394650
+Chikhali Dungar
+Kamrej	Surat	GUJARAT	394320
+Chikhali Khadka
+Songadh	Surat	GUJARAT	394650
+Chikhalvav
+Vyara	Surat	GUJARAT	394650
+Chikhlinani
+Vyara	Surat	GUJARAT	394650
+Chinchinagaontha
+Ahwa	Surat	GUJARAT	394715
+Chirmati
+Nijhar	Surat	GUJARAT	394380
+Chokhiamli
+Nizar	Surat	GUJARAT	394380
+Chorvad
+Songadh	Surat	GUJARAT	394650
+Chunavadi
+Vyara	Surat	GUJARAT	394635
+Dadaria
+Valod	Surat	GUJARAT	394630
+Dadhwada
+Mandvi	Surat	GUJARAT	394160
+Dastan
+Palsana	Surat	GUJARAT	394310
+Dedvasan
+Mahuva	Surat	GUJARAT	394250
+Degama
+Vyara	Surat	GUJARAT	394690
+Delad
+Kamrej	Surat	GUJARAT	394330
+Delvada
+Valod	Surat	GUJARAT	394620
+Dhajamba
+Songadh	Surat	GUJARAT	394670
+Dhamdod Lumbha
+Bardoli	Surat	GUJARAT	394355
+Dhamkhadi
+NA	Surat	GUJARAT	394248
+Dhamodi
+Songadh	Surat	GUJARAT	394650
+Dhamodla
+Valod	Surat	GUJARAT	394340
+Dhanturi
+Vyara	Surat	GUJARAT	394633
+Dhat
+Vyara	Surat	GUJARAT	394655
+Dhatva
+Kamrej	Surat	GUJARAT	394180
+Dholikui
+Mahuva	Surat	GUJARAT	394250
+Dhoranpardi
+Kamrej	Surat	GUJARAT	394150
+Digas
+Kamrej	Surat	GUJARAT	394330
+Dolara
+Vyara	Surat	GUJARAT	394655
+Doswada
+Songadh	Surat	GUJARAT	394365
+Dungra
+Kamrej	Surat	GUJARAT	394180
+Dungri
+Mahuva	Surat	GUJARAT	394240
+Ena
+Palsana	Surat	GUJARAT	394310
+Fali
+Mandvi	Surat	GUJARAT	394163
+Fort Songadh
+Songadh	Surat	GUJARAT	394670
+Fulwadi
+Mandvi	Surat	GUJARAT	394160
+Galkuva
+Songadh	Surat	GUJARAT	394650
+Gamtalv Bujrang
+Mandvi	Surat	GUJARAT	394163
+Gandhi Vidyapith
+Valod	Surat	GUJARAT	394641
+Gangadhara RS
+Palsana	Surat	GUJARAT	394310
+Gangadia
+Mahuva	Surat	GUJARAT	396510
+Gangtha
+Nizar	Surat	GUJARAT	394380
+Gavachhi
+Mandvi	Surat	GUJARAT	394140
+Gavan
+Uchchhal	Surat	GUJARAT	394375
+Ghadoi
+Mahuva	Surat	GUJARAT	394245
+Ghala
+Kamrej	Surat	GUJARAT	394155
+Ghani
+Vyara	Surat	GUJARAT	394630
+Ghantoli
+Mandvi	Surat	GUJARAT	394160
+Ghasiamedha
+Songadh	Surat	GUJARAT	394360
+Ghata
+Vyara	Surat	GUJARAT	394651
+Gherivan
+Vyara	Surat	GUJARAT	394630
+Ghoda
+Songadh	Surat	GUJARAT	394670
+Godawadi
+Mandvi	Surat	GUJARAT	394163
+Goddha
+Valod	Surat	GUJARAT	394630
+Goddha
+Mandvi	Surat	GUJARAT	394160
+Godsamba
+Mandvi	Surat	GUJARAT	394163
+Goji
+Bardoli	Surat	GUJARAT	394350
+Gopalpura
+Songadh	Surat	GUJARAT	394365
+Gujarpur
+Nijhar	Surat	GUJARAT	394370
+Gunesvel
+Mahuva	Surat	GUJARAT	394240
+Gunkhadi
+Songadh	Surat	GUJARAT	394365
+Haladva
+Mahuva	Surat	GUJARAT	394248
+Haldharu
+Kamrej	Surat	GUJARAT	394310
+Haripur
+Uchchhal	Surat	GUJARAT	394375
+Haripura
+Bardoli	Surat	GUJARAT	394335
+Hathoda
+Nijhar	Surat	GUJARAT	394380
+Hatuka
+Valod	Surat	GUJARAT	394640
+Hindla
+Songadh	Surat	GUJARAT	394365
+Hiravadi
+Songadh	Surat	GUJARAT	394365
+Italva
+Palsana	Surat	GUJARAT	394315
+Itwai
+Nizar	Surat	GUJARAT	394380
+Jakhala
+Mandvi	Surat	GUJARAT	394160
+Jamania
+Valod	Surat	GUJARAT	394246
+Jamankuva
+Mandvi	Surat	GUJARAT	394160
+Jamkhadi
+Songadh	Surat	GUJARAT	394365
+Jesingpur
+Vyara	Surat	GUJARAT	394633
+Jokha
+Kamrej	Surat	GUJARAT	394326
+Jolwa
+Palsana	Surat	GUJARAT	394305
+Kadhaiya
+Mahuva	Surat	GUJARAT	394246
+Kadod
+Bardoli	Surat	GUJARAT	394335
+Kadodara
+Palsana	Surat	GUJARAT	394327
+Kaher
+Valod	Surat	GUJARAT	394690
+Kakadva
+NA	Surat	GUJARAT	394635
+Kakarapargam
+Mandvi	Surat	GUJARAT	394160
+Kakrapar
+Mandvi	Surat	GUJARAT	394360
+Kalakva
+Vyara	Surat	GUJARAT	394630
+Kalamkui
+Vyara	Surat	GUJARAT	394635
+Kalamkui
+Valod	Surat	GUJARAT	394340
+Kalibel
+Ahwa	Surat	GUJARAT	394715
+Kamlapore
+Mandvi	Surat	GUJARAT	394335
+Kamrej Char Rasta
+Kamrej	Surat	GUJARAT	394185
+Kamrej
+Kamrej	Surat	GUJARAT	394180
+Kanav
+Palsana	Surat	GUJARAT	394315
+Kani
+Mahuva	Surat	GUJARAT	394350
+Kanjan
+Vyara	Surat	GUJARAT	394655
+Kanjod
+Valod	Surat	GUJARAT	394640
+Kankaria
+Mahuva	Surat	GUJARAT	394248
+Kantifalia
+Bardoli	Surat	GUJARAT	394340
+Karachka
+Mahuva	Surat	GUJARAT	394340
+Karan
+Palsana	Surat	GUJARAT	394305
+Karanjkhed
+Vyara	Surat	GUJARAT	394635
+Karanjvel
+Vyara	Surat	GUJARAT	394655
+Karchelia
+Mahuva	Surat	GUJARAT	394240
+Karjan
+Kamrej	Surat	GUJARAT	394155
+Karod
+Uchchhal	Surat	GUJARAT	394375
+Karvali
+Mandvi	Surat	GUJARAT	394163
+Kasal
+Mandvi	Surat	GUJARAT	394163
+Kasvav
+Vyara	Surat	GUJARAT	394633
+Katasvan
+Vyara	Surat	GUJARAT	394650
+Kathodara
+Kamrej	Surat	GUJARAT	394326
+Kathor
+Kamrej	Surat	GUJARAT	394150
+Kelkui
+Vyara	Surat	GUJARAT	394630
+Khabda
+Uchchhal	Surat	GUJARAT	394375
+Khanjar
+Songadh	Surat	GUJARAT	394365
+Khanjroli
+Mandvi	Surat	GUJARAT	394335
+Khanpur
+Vyara	Surat	GUJARAT	394641
+Khanpur
+Kamrej	Surat	GUJARAT	394320
+Kharoli
+Mandvi	Surat	GUJARAT	394163
+Kharvan
+Mahuva	Surat	GUJARAT	394245
+Kharvasa
+Bardoli	Surat	GUJARAT	394355
+Khatal
+Ahwa	Surat	GUJARAT	394715
+Khodamba
+Mandvi	Surat	GUJARAT	394163
+Khodtalav
+Vyara	Surat	GUJARAT	394651
+Khojpardi
+Bardoli	Surat	GUJARAT	394355
+Kholeshwar
+Kamrej	Surat	GUJARAT	394180
+Kholvad
+Kamrej	Surat	GUJARAT	394190
+Khorda
+Nizar	Surat	GUJARAT	394370
+Khurdi
+Vyara	Surat	GUJARAT	394655
+Khushalpura
+Vyara	Surat	GUJARAT	394650
+Khutadia
+Vyara	Surat	GUJARAT	394655
+Kikakui
+Songadh	Surat	GUJARAT	394650
+Kikwad
+Bardoli	Surat	GUJARAT	394620
+Kim Dungara
+Mandvi	Surat	GUJARAT	394160
+Kodada
+Mahuva	Surat	GUJARAT	394250
+Kolibharthana
+Makrej	Surat	GUJARAT	394180
+Kos
+Mahuva	Surat	GUJARAT	396510
+Kosadi
+Mandvi	Surat	GUJARAT	394335
+Kosimda
+NA	Surat	GUJARAT	394715
+Kosmadi
+Kamrej	Surat	GUJARAT	394326
+Kulda
+Uchchhal	Surat	GUJARAT	394375
+Kumkotar
+Mahuva	Surat	GUJARAT	396510
+Kumkuva
+Songadh	Surat	GUJARAT	394670
+Ladvi
+Kamrej	Surat	GUJARAT	394325
+Lakhali
+Vyara	Surat	GUJARAT	394655
+Lakhanpur
+Palsana	Surat	GUJARAT	394352
+Lakhgam
+Mandvi	Surat	GUJARAT	394160
+Lasanpor
+Mahuva	Surat	GUJARAT	396510
+Laxmikheda
+Nijhar	Surat	GUJARAT	394370
+Limberda
+Vyara	Surat	GUJARAT	394651
+Limbi
+Songadh	Surat	GUJARAT	394680
+Lotarva
+Vyara	Surat	GUJARAT	394690
+Madhi
+Bardoli	Surat	GUJARAT	394340
+Magalia
+Vyara	Surat	GUJARAT	394633
+Magarbara
+Uchchhal	Surat	GUJARAT	394375
+Magarkui
+Vyara	Surat	GUJARAT	394655
+Mahuva Surat
+Mahuva	Surat	GUJARAT	394250
+Mahuvaria
+Mahuva	Surat	GUJARAT	394248
+Malangdev
+Songadh	Surat	GUJARAT	394716
+Malekpor
+Palsana	Surat	GUJARAT	394315
+Mandvi SR
+Mandvi	Surat	GUJARAT	394160
+Manekpor
+Bardoli	Surat	GUJARAT	394340
+Mankna
+Kamrej	Surat	GUJARAT	394325
+Masad
+Bardoli	Surat	GUJARAT	394335
+Mataval
+Nijhar	Surat	GUJARAT	394380
+Mirkot
+Uchchhal	Surat	GUJARAT	394670
+Mirpur
+Vyara	Surat	GUJARAT	394655
+Miyapur
+Mahuva	Surat	GUJARAT	394250
+Moghvan
+Songadh	Surat	GUJARAT	394650
+Mohni
+Choryasi	Surat	GUJARAT	394305
+Moramba
+Nijhar	Surat	GUJARAT	394380
+Mordevi
+Mahuva	Surat	GUJARAT	394250
+Moritha
+Mandvi	Surat	GUJARAT	394160
+Morthana
+Kamrej	Surat	GUJARAT	394325
+Mota
+Bardoli	Surat	GUJARAT	394345
+Mota Tarpada
+Songadh	Surat	GUJARAT	394365
+Moti Khervan
+Songadh	Surat	GUJARAT	394670
+Moticheir
+Mandvi	Surat	GUJARAT	394651
+Motifalod
+Bardoli	Surat	GUJARAT	394355
+Mubarakpur
+Nijhar	Surat	GUJARAT	394370
+Munjlav
+Mandvi	Surat	GUJARAT	394140
+Nagod
+NA	Surat	GUJARAT	394320
+Naldhara
+Mahuva	Surat	GUJARAT	394240
+Nandpore
+Mandvi	Surat	GUJARAT	394163
+Nansad
+Kamrej	Surat	GUJARAT	394180
+Narayanpur
+Uchchhal	Surat	GUJARAT	394375
+Naren
+Mandvi	Surat	GUJARAT	394163
+Naugama
+Bardoli	Surat	GUJARAT	394350
+Navafalia
+Valod	Surat	GUJARAT	394640
+Navagam
+Kamrej	Surat	GUJARAT	394185
+Navipardi
+Kamrej	Surat	GUJARAT	394150
+Netrang
+Kamrej	Surat	GUJARAT	394180
+Nijhar
+Nizar	Surat	GUJARAT	394370
+Nimbhora
+Nijhar	Surat	GUJARAT	394380
+Ninat
+Bardoli	Surat	GUJARAT	394350
+Niol
+Palsana	Surat	GUJARAT	394325
+Nishana
+Songadh	Surat	GUJARAT	394650
+Nizar
+Bardoli	Surat	GUJARAT	394350
+Nogama
+Mandvi	Surat	GUJARAT	394170
+Orgam
+Bardoli	Surat	GUJARAT	394340
+Orna
+Kamrej	Surat	GUJARAT	394330
+Padamdungri
+Vyara	Surat	GUJARAT	394635
+Palawadi
+Vyara	Surat	GUJARAT	394633
+Palsana Surat
+Palsana	Surat	GUJARAT	394315
+Palsod
+Bardoli	Surat	GUJARAT	394355
+Panchol
+Vyara	Surat	GUJARAT	394635
+Panchpipla
+Songadh	Surat	GUJARAT	394360
+Paniyari
+Vyara	Surat	GUJARAT	394650
+Parab
+Kamrej	Surat	GUJARAT	394325
+Patal
+Mandvi	Surat	GUJARAT	394163
+Pathakvadi
+Vyara	Surat	GUJARAT	394635
+Pathran
+Mahuva	Surat	GUJARAT	394620
+Pati
+Vyara	Surat	GUJARAT	394635
+Pelad
+Vyara	Surat	GUJARAT	394630
+Phulwadi
+Nijhar	Surat	GUJARAT	394380
+Pipaldahad
+Dang	Surat	GUJARAT	394716
+Pipalkuva
+Songadh	Surat	GUJARAT	394670
+Piplod
+Nizar	Surat	GUJARAT	394370
+Pisavar
+Nijhar	Surat	GUJARAT	394380
+Pithadara
+Vyara	Surat	GUJARAT	394635
+Puna
+Mandvi	Surat	GUJARAT	394163
+Puna
+Mahuva	Surat	GUJARAT	394248
+Puni
+Palsana	Surat	GUJARAT	394352
+Raigadh
+Nizar	Surat	GUJARAT	394370
+Ranat
+Mahuva	Surat	GUJARAT	394350
+Raniamba
+Vyara	Surat	GUJARAT	394655
+Ranveri
+Valod	Surat	GUJARAT	394640
+Ratania
+Mandvi	Surat	GUJARAT	394360
+Rayam
+Bardoli	Surat	GUJARAT	394355
+Regama
+Mandvi	Surat	GUJARAT	394160
+Roswad
+Mandvi	Surat	GUJARAT	394170
+Rumkitalav
+Nizar	Surat	GUJARAT	394370
+Rupan
+Mandvi	Surat	GUJARAT	394160
+Rupvada
+Vyara	Surat	GUJARAT	394690
+Sadadvel
+Songadh	Surat	GUJARAT	394365
+Sadgavan
+Nijhar	Surat	GUJARAT	394380
+Salaiya
+Mandvi	Surat	GUJARAT	394160
+Samba
+Mahuva	Surat	GUJARAT	394248
+Samrod
+Palsana	Surat	GUJARAT	394315
+Samthan
+Bardoli	Surat	GUJARAT	394335
+Sankarda
+Uchchhal	Surat	GUJARAT	394375
+Sankli
+Vyara	Surat	GUJARAT	394655
+Sarbhon
+Bardoli	Surat	GUJARAT	394350
+Sardarbaug Bardoli
+Bardoli	Surat	GUJARAT	394601
+Sarkui
+Mandvi	Surat	GUJARAT	394160
+Sarovar
+Ahwa	Surat	GUJARAT	394715
+Sarvala
+Nijhar	Surat	GUJARAT	394370
+Sathvav
+Mandvi	Surat	GUJARAT	394160
+Sayla
+Nizar	Surat	GUJARAT	394370
+Segupada
+Songadh	Surat	GUJARAT	394365
+Segva
+Kamrej	Surat	GUJARAT	394320
+Sejvad
+Bardoli	Surat	GUJARAT	394620
+Selud
+Uchchhal	Surat	GUJARAT	394375
+Sevni
+Kamrej	Surat	GUJARAT	394320
+Shampura
+Kamrej	Surat	GUJARAT	394330
+Shekhpur
+Mahuva	Surat	GUJARAT	394250
+Siker
+Valod	Surat	GUJARAT	394620
+Singod
+Bardoli	Surat	GUJARAT	394335
+Singpur
+Songadh	Surat	GUJARAT	394670
+Sisor
+Songadh	Surat	GUJARAT	394651
+Soyani
+Palsana	Surat	GUJARAT	394310
+Sugar Factory Bamania
+Mahuva	Surat	GUJARAT	394246
+Sugar Factory Bardoli
+Bardoli	Surat	GUJARAT	394601
+Sunderpur
+Uchchhal	Surat	GUJARAT	394375
+Surali
+Bardoli	Surat	GUJARAT	394340
+Syadla
+Valod	Surat	GUJARAT	394340
+Tadkeshwar
+Mandvi	Surat	GUJARAT	394170
+Taparwada
+Songadh	Surat	GUJARAT	394365
+Taraj
+Palsana	Surat	GUJARAT	394315
+Tarbhon
+Bardoli	Surat	GUJARAT	394350
+Tarsada
+Mandvi	Surat	GUJARAT	394160
+Tarsadi
+Mahuva	Surat	GUJARAT	394350
+Tatithaiya
+Palsana	Surat	GUJARAT	394305
+Thuti
+Uchchhal	Surat	GUJARAT	394670
+Timba
+Kamrej	Surat	GUJARAT	394330
+Timbarva
+Choryasi	Surat	GUJARAT	394305
+Timbarva Sankri
+Bardoli	Surat	GUJARAT	394355
+Tokarva
+Valod	Surat	GUJARAT	394375
+Tuked
+Mandvi	Surat	GUJARAT	394163
+Tundi
+Palsana	Surat	GUJARAT	394310
+Ukahlda
+Songadh	Surat	GUJARAT	394670
+Umarakh
+Bardoli	Surat	GUJARAT	394345
+Umarkui
+Vyara	Surat	GUJARAT	394630
+Umarkutch
+Vyara	Surat	GUJARAT	394630
+Umarvavdoor
+Vyara	Surat	GUJARAT	394635
+Umbhel
+Kamrej	Surat	GUJARAT	394325
+Umra
+Mahuva	Surat	GUJARAT	394248
+Unchamala
+Vyara	Surat	GUJARAT	394651
+Unteva
+Mandvi	Surat	GUJARAT	394163
+Uva
+Bardoli	Surat	GUJARAT	394340
+Vadadla Tanti
+Palsana	Surat	GUJARAT	394317
+Vadhvania
+Bardoli	Surat	GUJARAT	394335
+Vadia
+Mahuva	Surat	GUJARAT	394246
+Vadibehsrot
+Songadh	Surat	GUJARAT	394670
+Vadoli
+Bardoli	Surat	GUJARAT	394350
+Vaghecha
+Bardoli	Surat	GUJARAT	394355
+Vaheval
+Mahuva	Surat	GUJARAT	394248
+Valod
+Valod	Surat	GUJARAT	394640
+Valvada
+Mahuva	Surat	GUJARAT	394248
+Vanisa Pisadi
+Palsana	Surat	GUJARAT	394310
+Vanka
+Nijhar	Surat	GUJARAT	394370
+Vankaner SR
+Bardoli	Surat	GUJARAT	394620
+Vankla
+Vyara	Surat	GUJARAT	394630
+Vanskui
+Bardoli	Surat	GUJARAT	394340
+Vanskui
+Vyara	Surat	GUJARAT	394651
+Vanskui
+Mahuva	Surat	GUJARAT	394240
+Vanzarda
+Songadh	Surat	GUJARAT	394651
+Varad
+Bardoli	Surat	GUJARAT	394355
+Vareli
+Mandvi	Surat	GUJARAT	394140
+Vareth
+Mandvi	Surat	GUJARAT	394160
+Vatsalyadham
+Bardoli	Surat	GUJARAT	394340
+Vav Kathodara
+Kamrej	Surat	GUJARAT	394326
+Vegi
+Mandvi	Surat	GUJARAT	394170
+Velanja
+Kamrej	Surat	GUJARAT	394150
+Velanpur
+Mahuva	Surat	GUJARAT	394245
+Veldha
+Nizar	Surat	GUJARAT	394370
+Vihan
+Kamrej	Surat	GUJARAT	394320
+Virpur
+Mandvi	Surat	GUJARAT	394155
+Virpur
+Vyara	Surat	GUJARAT	394650
+Vyara RS
+Vyara	Surat	GUJARAT	394650
+Vyara
+Vyara	Surat	GUJARAT	394650
+Vyaval
+Nijhar	Surat	GUJARAT	394370
+Wcc Ukai
+Songadh	Surat	GUJARAT	394680
+Zab
+Mandvi	Surat	GUJARAT	394163
+Zankhari
+Vyara	Surat	GUJARAT	394655
+Zervavra
+Mahuva	Surat	GUJARAT	394245
+Ankhi
+Jambusar	Surat	GUJARAT	392150
+Babda
+Valia	Surat	GUJARAT	393130
+Borda
+NA	Surat	GUJARAT	393050
+Kuilivel
+NA	Surat	GUJARAT	393050
+Sabaria
+Valia	Surat	GUJARAT	393125
+A. K. Road
+Surat City	Surat	GUJARAT	395008
+Abhva
+Surat	Surat	GUJARAT	395007
+Adajan Dn
+Surat City	Surat	GUJARAT	395009
+Adityanagar
+Chorasi	Surat	GUJARAT	394516
+Aganovad
+NA	Surat	GUJARAT	395003
+Althan
+Surat City	Surat	GUJARAT	395017
+Ambawadi
+Vankal	Surat	GUJARAT	394430
+Ambheta
+Surat	Surat	GUJARAT	395005
+Amkhuta
+Vankal	Surat	GUJARAT	394430
+Amroli
+Chorasi	Surat	GUJARAT	394107
+Anand Mahal Road
+Choryasi	Surat	GUJARAT	395009
+Anita
+Olpad	Surat	GUJARAT	394110
+Ankodod
+Mangrol	Surat	GUJARAT	394410
+Ariana
+Surat	Surat	GUJARAT	395005
+Asaram
+Mangrol	Surat	GUJARAT	394405
+Asnad
+Olpad	Surat	GUJARAT	394540
+Athwa
+Surat	Surat	GUJARAT	395007
+Athwalines
+Surat City	Surat	GUJARAT	395001
+Atodara
+Sayan	Surat	GUJARAT	394130
+Balethi
+Zankhvav	Surat	GUJARAT	394440
+Bamroli
+Chorasi	Surat	GUJARAT	394210
+Barbodhan
+Surat	Surat	GUJARAT	395005
+Bhadol
+Olpad	Surat	GUJARAT	394540
+Bhagal
+Surat City	Surat	GUJARAT	395003
+Bhagwa
+Olpad	Surat	GUJARAT	394530
+Bhandut
+Surat	Surat	GUJARAT	395005
+Bharan
+Mangrol	Surat	GUJARAT	394125
+Bharthana
+Surat City	Surat	GUJARAT	395007
+Bharundi
+Sayan	Surat	GUJARAT	394130
+Bhatgam
+Olpad	Surat	GUJARAT	394540
+Bhatha
+Choryasi	Surat	GUJARAT	394510
+Bhatlai
+Choryasi	Surat	GUJARAT	394517
+Bhatpore
+Choryasi	Surat	GUJARAT	394510
+Bhavanivad
+Surat City	Surat	GUJARAT	395003
+Bhedvad
+Mangrol	Surat	GUJARAT	394210
+Bhesan
+Surat	Surat	GUJARAT	395005
+Bhestan
+Surat	Surat	GUJARAT	395023
+Bhilvada
+Mangrol	Surat	GUJARAT	394421
+Bhimpore
+NA	Surat	GUJARAT	394550
+Bilvan
+Umarpada	Surat	GUJARAT	394445
+Bombay Market
+Surat City	Surat	GUJARAT	395010
+Bonandh
+Sachin	Surat	GUJARAT	394230
+Boria
+Vankal	Surat	GUJARAT	394430
+Boridra
+Mangrol	Surat	GUJARAT	394125
+Borsad
+Olpad	Surat	GUJARAT	394110
+Budia
+Udhna	Surat	GUJARAT	394210
+Bundha
+Umarpada	Surat	GUJARAT	394440
+Chavda
+Umarpada	Surat	GUJARAT	394445
+Chhapra Bhatha
+Chorasi	Surat	GUJARAT	394107
+Chimipatal
+Umarpada	Surat	GUJARAT	394445
+Chitalda
+Zankhvav	Surat	GUJARAT	394440
+Chokhvada
+Umarpada	Surat	GUJARAT	394445
+Choramba
+Umarpada	Surat	GUJARAT	394440
+Dabholi
+Surat City	Surat	GUJARAT	395004
+Damka
+Choryasi	Surat	GUJARAT	394517
+Dandi
+Olpad	Surat	GUJARAT	394540
+Deladva
+Udhna	Surat	GUJARAT	394210
+Delasa
+Olpad	Surat	GUJARAT	394530
+Devadh
+Mangrol	Surat	GUJARAT	394210
+Devadh
+Zankhvav	Surat	GUJARAT	394440
+Dhamdod
+Mangrol	Surat	GUJARAT	394125
+Dholikui
+Vankal	Surat	GUJARAT	394430
+Dhrampur
+Mangrol	Surat	GUJARAT	394110
+Dihen
+Surat	Surat	GUJARAT	395005
+Dindoli
+Udhna	Surat	GUJARAT	394210
+Dinod
+Mangrol	Surat	GUJARAT	394125
+Dumas
+Choryasi	Surat	GUJARAT	394550
+Dumasgam
+NA	Surat	GUJARAT	394550
+Dungri
+Olpad	Surat	GUJARAT	394110
+Eklera
+Sachin	Surat	GUJARAT	394230
+Erthan
+Olpad	Surat	GUJARAT	394540
+Fulpada
+Surat City	Surat	GUJARAT	395008
+G.I.P.C.L.
+Mangrol	Surat	GUJARAT	394110
+Gabheni
+Sachin	Surat	GUJARAT	394230
+Gavier
+Surat	Surat	GUJARAT	395007
+Ghanavad
+Umarpada	Surat	GUJARAT	394445
+Gijram
+Mangrol	Surat	GUJARAT	394410
+Godadara
+Surat City	Surat	GUJARAT	395012
+Godbar
+Mangrol	Surat	GUJARAT	394440
+Gopipura
+Surat City	Surat	GUJARAT	395001
+Gotalawadi
+Surat City	Surat	GUJARAT	395004
+Gothan
+Sayan	Surat	GUJARAT	394130
+Govt. Medical College
+Surat City	Surat	GUJARAT	395001
+Hajira
+Surat	Surat	GUJARAT	394270
+Harsani
+Olpad	Surat	GUJARAT	394421
+Hathoda
+Mangrol	Surat	GUJARAT	394405
+Hathuran
+Mangrol	Surat	GUJARAT	394125
+Ichhapore
+Choryasi	Surat	GUJARAT	394510
+Inderpura
+Surat City	Surat	GUJARAT	395002
+Isanpur
+Vankal	Surat	GUJARAT	394430
+Ishanpore
+Olpad	Surat	GUJARAT	394540
+Jhampa
+Surat City	Surat	GUJARAT	395003
+Kachholi
+Lajpore	Surat	GUJARAT	394235
+Kadrama
+Olpad	Surat	GUJARAT	394540
+Kafleta
+Lajpore	Surat	GUJARAT	394235
+Kamroli
+Olpad	Surat	GUJARAT	394540
+Kanakpur
+Chorasi	Surat	GUJARAT	394230
+Kansad
+Sachin	Surat	GUJARAT	394230
+Kantva
+Velachha	Surat	GUJARAT	394405
+Karanj
+Olpad	Surat	GUJARAT	394530
+Karanj
+Olpad	Surat	GUJARAT	394110
+Karmala
+Sayan	Surat	GUJARAT	394130
+Katargam GIDC
+Choryasi	Surat	GUJARAT	395004
+Katargam
+Surat City	Surat	GUJARAT	395004
+Kawas
+Choryasi	Surat	GUJARAT	394510
+Keori
+Zankhvav	Surat	GUJARAT	394445
+Khajod
+Surat	Surat	GUJARAT	395007
+Kharvasa
+Udhna	Surat	GUJARAT	394210
+Khatodara
+Surat City	Surat	GUJARAT	395002
+Khota Rampura
+Umarpada	Surat	GUJARAT	394445
+Kim Char Rasta
+Mangrol	Surat	GUJARAT	394111
+Kim
+Olpad	Surat	GUJARAT	394110
+Koba
+Olpad	Surat	GUJARAT	394540
+Kosad
+Chorayasi	Surat	GUJARAT	394107
+Kosadi
+Mangrol	Surat	GUJARAT	394405
+Kosam
+NA	Surat	GUJARAT	394520
+Kosamba Bazar
+Mangrol	Surat	GUJARAT	394120
+Kosamba
+Olpad	Surat	GUJARAT	394120
+Kosmada
+Surat	Surat	GUJARAT	395006
+Kothwa
+Mangrol	Surat	GUJARAT	394110
+Kribhconagar
+Chorasi	Surat	GUJARAT	394515
+Kudiana
+Olpad	Surat	GUJARAT	394540
+Kudsad
+Mangrol	Surat	GUJARAT	394110
+Kumbharia
+Choryasi	Surat	GUJARAT	395010
+Kunvarda
+Mangrol	Surat	GUJARAT	394120
+Lajpore
+Surat	Surat	GUJARAT	394235
+Laskana
+Surat	Surat	GUJARAT	395006
+Lavachha
+Olpad	Surat	GUJARAT	394540
+Lavet
+Vankal	Surat	GUJARAT	394430
+Limbada
+Velachha	Surat	GUJARAT	394405
+Limbayat
+Surat City	Surat	GUJARAT	395012
+Limodra
+Mangrol	Surat	GUJARAT	394110
+Lingad
+Sachin	Surat	GUJARAT	394230
+Luharvad
+Umarpada	Surat	GUJARAT	394440
+Luvara
+Mangrol	Surat	GUJARAT	394405
+Madan Boria
+Umarpada	Surat	GUJARAT	394440
+Madhar
+Sayan	Surat	GUJARAT	394130
+Magdalla
+Surat	Surat	GUJARAT	395007
+Mahidharpura
+Surat City	Surat	GUJARAT	395003
+Mahuvej
+Mangrol	Surat	GUJARAT	394125
+Maldha
+Umarpada	Surat	GUJARAT	394440
+Mandroi
+Olpad	Surat	GUJARAT	394540
+Masma
+Olpad	Surat	GUJARAT	394540
+Mohamedpur
+Olpad	Surat	GUJARAT	394540
+Mor
+Olpad	Surat	GUJARAT	394530
+Mora Surat
+NA	Surat	GUJARAT	394517
+Morthana
+Sayan	Surat	GUJARAT	394130
+Mosali
+Olpad	Surat	GUJARAT	394421
+Mota Borsara
+Olpad	Surat	GUJARAT	394110
+Mota Miya Mangrol
+Mangrol	Surat	GUJARAT	394410
+Mota Varachha
+Chorasi	Surat	GUJARAT	394101
+Motived
+Surat City	Surat	GUJARAT	395004
+Muglisara
+Umarpada	Surat	GUJARAT	395003
+Mulad
+Olpad	Surat	GUJARAT	394110
+Nandav
+Mangrol	Surat	GUJARAT	394125
+Nandniketan
+Chorasi	Surat	GUJARAT	394270
+Nandola
+Vankal	Surat	GUJARAT	394430
+Nani Naroli
+Mangrol	Surat	GUJARAT	394110
+Nanpura
+Surat	Surat	GUJARAT	395001
+Narthan
+Surat	Surat	GUJARAT	395005
+Nasarpur
+Umarpada	Surat	GUJARAT	394440
+Navyug College
+Surat City	Surat	GUJARAT	395009
+Nawabwadi
+Surat City	Surat	GUJARAT	395003
+Nogama
+Velachha	Surat	GUJARAT	394405
+Olpad
+Olpad	Surat	GUJARAT	394540
+Ongc Nagar
+Chorasi	Surat	GUJARAT	394518
+Orma
+Olpad	Surat	GUJARAT	394540
+Pal Bhatha
+Chorasi	Surat	GUJARAT	394510
+Palanpur Nd
+Surat City	Surat	GUJARAT	395009
+Pandesara
+Surat City	Surat	GUJARAT	394221
+Panjroli
+Mangrol	Surat	GUJARAT	394120
+Pardi Bhadol
+Olpad	Surat	GUJARAT	394540
+Paria
+Mangrol	Surat	GUJARAT	394130
+Parvat
+Chorasi	Surat	GUJARAT	395012
+Parvat Patia
+Choryasi	Surat	GUJARAT	395010
+Pasodara
+Surat	Surat	GUJARAT	395006
+Pinjrat
+Surat	Surat	GUJARAT	395005
+Piplod Surat
+Nizar	Surat	GUJARAT	395007
+Pipodara
+Mangrol	Surat	GUJARAT	394110
+Popda
+Lajpore	Surat	GUJARAT	394235
+Puna Kumbharia
+Choryasi	Surat	GUJARAT	395011
+Ramnagar Surat
+Surat City	Surat	GUJARAT	395009
+Rander
+Surat	Surat	GUJARAT	395005
+Rustampura Surat
+Surat City	Surat	GUJARAT	395002
+Sachin G.I.D.C.
+Chorasi	Surat	GUJARAT	394230
+Sachin R.S.
+Chorasi	Surat	GUJARAT	394230
+Sachin
+Surat	Surat	GUJARAT	394230
+Sagrampura Putli
+Surat City	Surat	GUJARAT	395002
+Sandhier
+Sayan	Surat	GUJARAT	394130
+Sania Hemad
+Surat	Surat	GUJARAT	395006
+Sania Kande
+Udhna	Surat	GUJARAT	394210
+Saras
+Olpad	Surat	GUJARAT	394540
+Sarda
+Umarpada	Surat	GUJARAT	394445
+Saroli
+Variav	Surat	GUJARAT	394520
+Saroli
+Choryasi	Surat	GUJARAT	395010
+Sarthana
+Choryasi	Surat	GUJARAT	395013
+Sarvan Fokdi
+Zankhvav	Surat	GUJARAT	394445
+Sava
+Olpad	Surat	GUJARAT	394120
+Sayan
+Sayan	Surat	GUJARAT	394130
+Segva
+Mangrol	Surat	GUJARAT	394130
+Segva Chhama
+Surat	Surat	GUJARAT	395005
+Selut
+Surat	Surat	GUJARAT	395005
+Shah
+Umarpada	Surat	GUJARAT	394421
+Sherdi
+NA	Surat	GUJARAT	394520
+Simodra
+Velachha	Surat	GUJARAT	394405
+Singanpore
+Surat City	Surat	GUJARAT	395004
+Sithan
+Mangrol	Surat	GUJARAT	394130
+Siyalaj
+Mangrol	Surat	GUJARAT	394110
+Sondla Khara
+Olpad	Surat	GUJARAT	394540
+Sonsak
+Olpad	Surat	GUJARAT	394540
+Surat City
+Surat City	Surat	GUJARAT	395003
+Surat
+Surat City	Surat	GUJARAT	395003
+Surat RS
+Surat City	Surat	GUJARAT	395003
+Surat Textile Market
+Surat City	Surat	GUJARAT	395002
+Suvali
+Choryasi	Surat	GUJARAT	394517
+Svr College
+Surat City	Surat	GUJARAT	395007
+Syadla
+Mangrol	Surat	GUJARAT	394130
+Takarma
+Olpad	Surat	GUJARAT	394540
+Talangpur
+Sachin	Surat	GUJARAT	394230
+Tarapur
+Zankhvav	Surat	GUJARAT	394440
+Udharia
+Umarpada	Surat	GUJARAT	394440
+Udhna
+Surat City	Surat	GUJARAT	394210
+Udhnagam
+Surat City	Surat	GUJARAT	394210
+Umarda
+Umarpada	Surat	GUJARAT	394445
+Umargot
+Umarpada	Surat	GUJARAT	394445
+Umarpada
+Umarpada	Surat	GUJARAT	394445
+Umarzar
+Zankhvav	Surat	GUJARAT	394440
+Umber
+Sachin	Surat	GUJARAT	394230
+Umra
+Mangrol	Surat	GUJARAT	394130
+Umra
+Surat	Surat	GUJARAT	395007
+Un
+Chorasi	Surat	GUJARAT	394210
+Utran
+Chorasi	Surat	GUJARAT	394105
+Utran Power House
+Chorasi	Surat	GUJARAT	394105
+Vad
+Umarpada	Surat	GUJARAT	394440
+Vadi
+Umarpada	Surat	GUJARAT	394440
+Vadod
+Olpad	Surat	GUJARAT	394540
+Vadoli
+Mangrol	Surat	GUJARAT	394110
+Vadpada
+Umarpada	Surat	GUJARAT	394445
+Vahar
+Zankhvav	Surat	GUJARAT	394440
+Valak
+Surat	Surat	GUJARAT	395006
+Vankal
+Vankal	Surat	GUJARAT	394430
+Vanz
+Sachin	Surat	GUJARAT	394230
+Varachha Road
+Surat City	Surat	GUJARAT	395006
+Varachhali
+Surat	Surat	GUJARAT	395006
+Varethi
+Olpad	Surat	GUJARAT	394110
+Variav
+Variav	Surat	GUJARAT	394520
+Variavi Bhagal
+Surat City	Surat	GUJARAT	395003
+Vasava
+Choryasi	Surat	GUJARAT	394517
+Vasravi
+Olpad	Surat	GUJARAT	394421
+Vasta Devdi Road
+Surat City	Surat	GUJARAT	395004
+Veer Narmad South Gujarat University
+Choryasi	Surat	GUJARAT	395007
+Vektana
+Chorasi	Surat	GUJARAT	394230
+Velachha
+Velachha	Surat	GUJARAT	394405
+Verakui
+Vankal	Surat	GUJARAT	394430
+Vesu
+Surat	Surat	GUJARAT	395007
+Vihara
+Olpad	Surat	GUJARAT	394540
+Zankhvav
+Zankhvav	Surat	GUJARAT	394440
+

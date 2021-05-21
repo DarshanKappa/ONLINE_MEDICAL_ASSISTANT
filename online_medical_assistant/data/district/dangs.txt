@@ -1,0 +1,91 @@
+Ahwadangs
+Ahwa	The Dangs	GUJARAT	394710
+Barkhandhia
+Dang	The Dangs	GUJARAT	394730
+Bhavandgad
+Dangs	The Dangs	GUJARAT	394710
+Borkhal
+Dangs	The Dangs	GUJARAT	394710
+Chankhal
+Dang	The Dangs	GUJARAT	394710
+Chikar
+Dang	The Dangs	GUJARAT	394730
+Chikatia
+Dangs	The Dangs	GUJARAT	394710
+Chikhali Dangs
+The Dangs	The Dangs	GUJARAT	394730
+Chinchli
+Dangs	The Dangs	GUJARAT	394710
+Dagadiamba
+Dang	The Dangs	GUJARAT	394730
+Dagunia
+Dang	The Dangs	GUJARAT	394730
+Dhavlidhod
+Dangs	The Dangs	GUJARAT	394710
+Galkund
+Dangs	The Dangs	GUJARAT	394710
+Garakhadi
+The Dangs	The Dangs	GUJARAT	394710
+Ghadvi
+Dangs	The Dangs	GUJARAT	394710
+Gondalvihir
+Dangs	The Dangs	GUJARAT	394710
+Gotiamal
+Dang	The Dangs	GUJARAT	394720
+Jakhana
+Dangs	The Dangs	GUJARAT	394710
+Jhavda
+Dang	The Dangs	GUJARAT	394730
+Kadmal
+Dang	The Dangs	GUJARAT	394716
+Keshbandh
+Dang	The Dangs	GUJARAT	394716
+Khambhala
+Dang	The Dangs	GUJARAT	394716
+Lavchali
+Dang	The Dangs	GUJARAT	394716
+Linga
+Dangs	The Dangs	GUJARAT	394710
+Mahal
+Dang	The Dangs	GUJARAT	394716
+Mahalpada
+Dangs	The Dangs	GUJARAT	394710
+Mahwshkatri
+The Dangs	The Dangs	GUJARAT	394715
+Malegaon
+Dang	The Dangs	GUJARAT	394720
+Manmodi
+Dang	The Dangs	GUJARAT	394730
+Morzira
+Dangs	The Dangs	GUJARAT	394710
+Nadagchond
+Dang	The Dangs	GUJARAT	394730
+Nakatia Hanvant
+Dang	The Dangs	GUJARAT	394710
+Nanapada
+Dang	The Dangs	GUJARAT	394730
+Nishana
+Dang	The Dangs	GUJARAT	394716
+Pandva
+Dang	The Dangs	GUJARAT	394710
+Pimpri
+Ahwa	The Dangs	GUJARAT	394715
+Piplaidevi
+Dang	The Dangs	GUJARAT	394716
+Rambhas
+The Dangs	The Dangs	GUJARAT	394730
+Sakarpatal
+Dang	The Dangs	GUJARAT	394730
+Samgahan
+Dang	The Dangs	GUJARAT	394730
+Saputara
+Ahwa	The Dangs	GUJARAT	394720
+Singana
+Dang	The Dangs	GUJARAT	394716
+Subir
+Ahwa	The Dangs	GUJARAT	394716
+Tanklipada
+Dang	The Dangs	GUJARAT	394716
+Vasurna
+Dang	The Dangs	GUJARAT	394730
+

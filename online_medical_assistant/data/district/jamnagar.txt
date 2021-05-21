@@ -1,0 +1,775 @@
+Bagadhra
+Jamjodhpur	Jamnagar	GUJARAT	360480
+Butavadar
+Jamjodhpur	Jamnagar	GUJARAT	360480
+Mandasan
+Jamjodhpur	Jamnagar	GUJARAT	360480
+Paradva
+Jamjodhpur	Jamnagar	GUJARAT	360490
+Valasan
+Jamjodhpur	Jamnagar	GUJARAT	360480
+Aerodromme
+Jodiya	Jamnagar	GUJARAT	361003
+Aliabada
+Jamnagar	Jamnagar	GUJARAT	361110
+Ambala
+Jodia	Jamnagar	GUJARAT	363655
+Ambardi
+Bhanvad	Jamnagar	GUJARAT	360515
+Ambavadi
+Jamnagar	Jamnagar	GUJARAT	361305
+Amra
+Jamnagar	Jamnagar	GUJARAT	361006
+Amran
+Jodia	Jamnagar	GUJARAT	363655
+Anandpur
+Kalavad	Jamnagar	GUJARAT	361162
+Arablush
+Lalpur	Jamnagar	GUJARAT	361280
+Arambhada
+Khambhalia	Jamnagar	GUJARAT	361345
+Arikhana
+Lalpur	Jamnagar	GUJARAT	361170
+Arla
+Kalavad	Jamnagar	GUJARAT	361160
+Ashiavadar
+Jamkalyanpur	Jamnagar	GUJARAT	361325
+Asota Mota
+Khambhalia	Jamnagar	GUJARAT	361305
+Bada
+Jamnagar	Jamnagar	GUJARAT	361110
+Badanpar
+Jodia	Jamnagar	GUJARAT	361250
+Badanpar
+Jodia	Jamnagar	GUJARAT	363655
+Baid
+Jamnagar	Jamnagar	GUJARAT	361006
+Bajana
+Khambhalia	Jamnagar	GUJARAT	361305
+Balachadi
+Jodia	Jamnagar	GUJARAT	361230
+Balambha
+Jodiya	Jamnagar	GUJARAT	361240
+Balambhadi
+Kalavad	Jamnagar	GUJARAT	361160
+Balva
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Bamangam
+Kalavad	Jamnagar	GUJARAT	360540
+Banga
+Kalavad	Jamnagar	GUJARAT	361013
+Bankodi
+Kalyanpur	Jamnagar	GUJARAT	361315
+Banugar Moti
+Jamnagar	Jamnagar	GUJARAT	361120
+Baradia
+Okhamandal	Jamnagar	GUJARAT	361335
+Bavakhakharia
+Kalavad	Jamnagar	GUJARAT	361162
+Bedeshwar
+Kalavad	Jamnagar	GUJARAT	361002
+Bedi
+Jamnagar	Jamnagar	GUJARAT	361009
+Beh
+Khambhalia	Jamnagar	GUJARAT	361310
+Bela
+Jodia	Jamnagar	GUJARAT	363655
+Beraja
+Kahbhalia	Jamnagar	GUJARAT	361305
+Beraja Bhalsan
+Kalavad	Jamnagar	GUJARAT	361013
+Beraja Fala
+Jodia	Jamnagar	GUJARAT	361011
+Beraja Pasaya
+Jamnagar	Jamnagar	GUJARAT	361110
+Bet
+Okhamandal	Jamnagar	GUJARAT	361330
+Bhadthar
+Khambhalia	Jamnagar	GUJARAT	361306
+Bhadukiya Mota
+Kalavad	Jamnagar	GUJARAT	361160
+Bhagat Khijadia
+Kalavad	Jamnagar	GUJARAT	360540
+Bhandaria
+Khambhalia	Jamnagar	GUJARAT	361306
+Bhangor
+Bhanvad	Jamnagar	GUJARAT	360515
+Bhankhokhri
+Khambhalia	Jamnagar	GUJARAT	361306
+Bhanvad
+Bhanvad	Jamnagar	GUJARAT	360510
+Bharana
+Khambhalia	Jamnagar	GUJARAT	361010
+Bharatpur
+Bhanvad	Jamnagar	GUJARAT	360510
+Bhatel
+Khambhalia	Jamnagar	GUJARAT	361305
+Bhatia
+Kalyanpur	Jamnagar	GUJARAT	361315
+Bhatvadia
+Kalyanpur	Jamnagar	GUJARAT	361315
+Bhavabhi Khijadia
+Kalavad	Jamnagar	GUJARAT	360540
+Bhenakvad
+Bhanvad	Jamnagar	GUJARAT	360510
+Bhensdad
+Dhrol	Jamnagar	GUJARAT	361220
+Bhimkata
+Jodia	Jamnagar	GUJARAT	363655
+Bhimrana
+Okhamandal	Jamnagar	GUJARAT	361345
+Bhinda
+Khambhalia	Jamnagar	GUJARAT	361306
+Bhogat
+Kalyanpur	Jamnagar	GUJARAT	361315
+Bhojabedi
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Bhopalka
+Kalyanpur	Jamnagar	GUJARAT	361315
+Bodi
+Kalavad	Jamnagar	GUJARAT	361160
+Bodka
+Dhrol	Jamnagar	GUJARAT	361220
+Chachlana
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Chandravada
+Jamkalyanpur	Jamnagar	GUJARAT	361325
+Changa
+Jamnagar	Jamnagar	GUJARAT	361012
+Charakala
+Okhamandal	Jamnagar	GUJARAT	361335
+Chavda
+Jamnagar	Jamnagar	GUJARAT	361130
+Chela
+Jamnagar	Jamnagar	GUJARAT	361012
+Chelabedi
+Kalavad	Jamnagar	GUJARAT	361160
+Chhapar
+Khambhalia	Jamnagar	GUJARAT	361306
+Chhatar
+Kalavad	Jamnagar	GUJARAT	361160
+Chirodasang
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Chokhanda
+Bhanvad	Jamnagar	GUJARAT	360510
+Chur
+Khambhalia	Jamnagar	GUJARAT	361306
+Dabasang
+Lalpur	Jamnagar	GUJARAT	361280
+Dadia
+Jamnagar	Jamnagar	GUJARAT	361012
+Daltungi
+Lalpur	Jamnagar	GUJARAT	361280
+Danta
+Khambhalia	Jamnagar	GUJARAT	361305
+Dantrana
+Khambhalia	Jamnagar	GUJARAT	361305
+Deri
+Kalavad	Jamnagar	GUJARAT	360540
+Devalia
+Bhanvad	Jamnagar	GUJARAT	360510
+Devalia Targhadi
+Khambhalia	Jamnagar	GUJARAT	361010
+Dharampur
+Lalpur	Jamnagar	GUJARAT	361170
+Dhaturia
+Khambhalia	Jamnagar	GUJARAT	361306
+Dhebar
+Bhanvad	Jamnagar	GUJARAT	360510
+Dhichada
+Jamnagar	Jamnagar	GUJARAT	361009
+Dhinki
+Okhamandal	Jamnagar	GUJARAT	361335
+Dhrafa
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Dhrol
+Dhrol	Jamnagar	GUJARAT	361210
+Dhudasia
+Jamnagar	Jamnagar	GUJARAT	361130
+Dhudkot
+Jodia	Jamnagar	GUJARAT	363655
+Dhundhoraji
+Kalavad	Jamnagar	GUJARAT	361160
+Dhunia
+Lalpur	Jamnagar	GUJARAT	361280
+Dhutarpur
+Jamnagar	Jamnagar	GUJARAT	361130
+Dhuvav
+Jamnagar	Jamnagar	GUJARAT	361120
+Digvijay Plot
+Kalavad	Jamnagar	GUJARAT	361005
+Digvijaygram
+Jamnagar	Jamnagar	GUJARAT	361140
+Dwarka
+Khambhalia	Jamnagar	GUJARAT	361335
+Dwarka Town
+Jamjodhpur	Jamnagar	GUJARAT	361335
+Fadsar
+Jodia	Jamnagar	GUJARAT	363655
+Fagas
+Kalavad	Jamnagar	GUJARAT	361160
+Falla
+Jamnagar	Jamnagar	GUJARAT	361120
+Fatsar
+Jodia	Jamnagar	GUJARAT	363655
+Fot
+Bhanvad	Jamnagar	GUJARAT	360510
+Gadhechi
+Okhamandal	Jamnagar	GUJARAT	361335
+Gaga
+Kalyanpur	Jamnagar	GUJARAT	361315
+Gagva
+Jamnagar	Jamnagar	GUJARAT	361140
+Gajana
+Lalpur	Jamnagar	GUJARAT	361170
+Gajedi
+Dhrol	Jamnagar	GUJARAT	361220
+Gandhavi
+Kalyanpur	Jamnagar	GUJARAT	361315
+Gingni
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Goinj
+Khambhalia	Jamnagar	GUJARAT	361310
+Gorakhadi
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Gorana
+Jamkalyanpur	Jamnagar	GUJARAT	361325
+Govana
+Lalpur	Jamnagar	GUJARAT	361170
+Grain Market Jamnagar
+Kalavad	Jamnagar	GUJARAT	361001
+Gulabnagar
+Kalavad	Jamnagar	GUJARAT	361007
+Gunatitnagar
+Jodia	Jamnagar	GUJARAT	361250
+Gunda
+Bhanvad	Jamnagar	GUJARAT	360510
+Ha R.S.
+Jamnagar	Jamnagar	GUJARAT	361120
+Habardi
+Khambhalia	Jamnagar	GUJARAT	361305
+Hadatoda
+Dhrol	Jamnagar	GUJARAT	361210
+Hadiana
+Jodia	Jamnagar	GUJARAT	361011
+Hajamchora
+Jodia	Jamnagar	GUJARAT	361240
+Haripar
+Kalavad	Jamnagar	GUJARAT	361013
+Haripar
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Haripar
+Lalpur	Jamnagar	GUJARAT	361170
+Haripar
+Khambhalia	Jamnagar	GUJARAT	361305
+Harshadpur
+Jamnagar	Jamnagar	GUJARAT	361012
+Hothijikhadba
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Jaga
+Jamnagar	Jamnagar	GUJARAT	361130
+Jaiva
+Dhrol	Jamnagar	GUJARAT	361210
+Jaliadevani
+Jamnagar	Jamnagar	GUJARAT	361130
+Jam Dudhai
+Jodia	Jamnagar	GUJARAT	363655
+Jambuda
+Jamnagar	Jamnagar	GUJARAT	361120
+Jamdevalia
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Jamgadhka
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Jamjodhpur Darbargadh
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Jamjodhpur
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Jamkalyanpur
+Kalyanpur	Jamnagar	GUJARAT	361320
+Jamnagar
+Kalavad	Jamnagar	GUJARAT	361001
+Jampar
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Jampar
+Bhanvad	Jamnagar	GUJARAT	360510
+Jamsar
+Jodia	Jamnagar	GUJARAT	363655
+Jamsukhpur
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Jamwali
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Jamwali
+Kalavad	Jamnagar	GUJARAT	361160
+Jamwanthali
+Jamnagar	Jamnagar	GUJARAT	361130
+Jasapar
+Kalavad	Jamnagar	GUJARAT	361162
+Jasapar
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Jasapar
+Dhrol	Jamnagar	GUJARAT	361220
+Jasapar
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Jiragadh
+Dhrol	Jamnagar	GUJARAT	361220
+Jivapar
+Jamnagar	Jamnagar	GUJARAT	361006
+Jivapar
+Jodia	Jamnagar	GUJARAT	363655
+Jodia
+Jodia	Jamnagar	GUJARAT	361250
+Juvangadh
+Khambhalia	Jamnagar	GUJARAT	361305
+Juvanpar
+Kalyanpur	Jamnagar	GUJARAT	361315
+Juvanpar
+Kalavad	Jamnagar	GUJARAT	361162
+Kabarka
+Bhanvad	Jamnagar	GUJARAT	360515
+Kadbal
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Kajurada
+Khambhalia	Jamnagar	GUJARAT	361010
+Kakabhai Sihan
+Khambhalia	Jamnagar	GUJARAT	361305
+Kalavad
+Kalavad	Jamnagar	GUJARAT	361160
+Kalmeghda
+Kalavad	Jamnagar	GUJARAT	360540
+Kalyanpur
+Okhamandal	Jamnagar	GUJARAT	361335
+Kalyanpur
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Kanakpar
+Khambhalia	Jamnagar	GUJARAT	361306
+Kanalush
+Lalpur	Jamnagar	GUJARAT	361280
+Kansumara
+Jamnagar	Jamnagar	GUJARAT	361006
+Katkola
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Kenedi
+Kalyanpur	Jamnagar	GUJARAT	361315
+Kerali
+Jodia	Jamnagar	GUJARAT	363655
+Keshiya
+Jodia	Jamnagar	GUJARAT	361250
+Keshod
+Khambhalia	Jamnagar	GUJARAT	361306
+Khadba
+Lalpur	Jamnagar	GUJARAT	361170
+Khadkhambhalia
+Jamnagar	Jamnagar	GUJARAT	361012
+Khambhalia Gate
+Kalavad	Jamnagar	GUJARAT	361001
+Khambhalia
+Kalavad	Jamnagar	GUJARAT	361305
+Khambhalida Motavas
+Dhrol	Jamnagar	GUJARAT	361210
+Khandhera
+Jamnagar	Jamnagar	GUJARAT	361013
+Khankharda
+Kalyanpur	Jamnagar	GUJARAT	361315
+Khankotda
+Kalavad	Jamnagar	GUJARAT	361013
+Kharachia
+Jodia	Jamnagar	GUJARAT	363655
+Kharedi
+Okhamandal	Jamnagar	GUJARAT	360540
+Kharva
+Dhrol	Jamnagar	GUJARAT	361210
+Khatumba
+Okhamandal	Jamnagar	GUJARAT	361335
+Khijadia
+Jamnagar	Jamnagar	GUJARAT	361120
+Khijdad
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Khilosh
+Jamnagar	Jamnagar	GUJARAT	361130
+Khimrana
+Jamnagar	Jamnagar	GUJARAT	361120
+Khirasara
+Lalpur	Jamnagar	GUJARAT	361170
+Khirasara
+Jamkalyanpur	Jamnagar	GUJARAT	361325
+Khodiyar Colony
+Kalavad	Jamnagar	GUJARAT	361006
+Khojaberaja
+Jamnagar	Jamnagar	GUJARAT	361012
+Kolva
+Khambhalia	Jamnagar	GUJARAT	361306
+Kotdabavisi
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Kotha Bhadukia
+Kalavad	Jamnagar	GUJARAT	361162
+Kotharia
+Jodia	Jamnagar	GUJARAT	363655
+Koyli
+Dhrol	Jamnagar	GUJARAT	361220
+Kunad
+Jodia	Jamnagar	GUJARAT	361250
+Kuranga
+Okhamandal	Jamnagar	GUJARAT	361335
+Laiyala
+Dhrol	Jamnagar	GUJARAT	361210
+Lakhabavad
+Jamnagar	Jamnagar	GUJARAT	361006
+Lakhtar
+Jodia	Jamnagar	GUJARAT	361250
+Lal Bunglow
+Kalavad	Jamnagar	GUJARAT	361001
+Laloi
+Kalavad	Jamnagar	GUJARAT	361013
+Lalparda
+Khambhalia	Jamnagar	GUJARAT	361306
+Lalpur Jamnagar
+Lalpur	Jamnagar	GUJARAT	361170
+Lamba
+Kalyanpur	Jamnagar	GUJARAT	361315
+Latipur
+Khambhalia	Jamnagar	GUJARAT	361220
+Lavadia
+Jamnagar	Jamnagar	GUJARAT	361012
+Limbuda
+Jodia	Jamnagar	GUJARAT	361011
+Machharda
+Kalavad	Jamnagar	GUJARAT	361160
+Machhlivad
+Kalavad	Jamnagar	GUJARAT	361160
+Madhapar
+Jodia	Jamnagar	GUJARAT	361240
+Mahadevia
+Kalyanpur	Jamnagar	GUJARAT	361315
+Mahiki
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Majoth
+Dhrol	Jamnagar	GUJARAT	361210
+Makhakarod
+Kalavad	Jamnagar	GUJARAT	360540
+Makrani Sanosara
+Kalavad	Jamnagar	GUJARAT	361160
+Maleta
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Manamora
+Jodia	Jamnagar	GUJARAT	363655
+Mandvi Chowk
+Kalavad	Jamnagar	GUJARAT	361001
+Manekpur
+Dhrol	Jamnagar	GUJARAT	361210
+Manpar
+Bhanvad	Jamnagar	GUJARAT	360515
+Masitia
+Jamnagar	Jamnagar	GUJARAT	361006
+Matva
+Kalavad	Jamnagar	GUJARAT	361013
+Mavnagam
+Jodia	Jamnagar	GUJARAT	363655
+Medical Campus
+Jamnagar	Jamnagar	GUJARAT	361008
+Meghpar Titodi
+Khambhalia	Jamnagar	GUJARAT	361305
+Meghpur
+Dhrol	Jamnagar	GUJARAT	361220
+Memana
+Lalpur	Jamnagar	GUJARAT	361170
+Mevasa
+Kalyanpur	Jamnagar	GUJARAT	361315
+Mevasa
+Bhanvad	Jamnagar	GUJARAT	360510
+Mithapur Jamnagar
+Okhamandal	Jamnagar	GUJARAT	361345
+Moda
+Jamnagar	Jamnagar	GUJARAT	361110
+Modpar Matva
+Kalavad	Jamnagar	GUJARAT	361013
+Modpar
+Lalpur	Jamnagar	GUJARAT	361280
+Modpar
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Mojap
+Okhamandal	Jamnagar	GUJARAT	361345
+Moridad
+Kalavad	Jamnagar	GUJARAT	360540
+Morkanda
+Jamnagar	Jamnagar	GUJARAT	361120
+Morzar
+Bhanvad	Jamnagar	GUJARAT	360510
+Mota Bharudiya
+Lalpur	Jamnagar	GUJARAT	361170
+Mota Itala
+Dhrol	Jamnagar	GUJARAT	361210
+Mota Thavaria
+Jamnagar	Jamnagar	GUJARAT	361110
+Mota Vagudad
+Dhrol	Jamnagar	GUJARAT	361210
+Motakalavad
+Bhanvad	Jamnagar	GUJARAT	360515
+Motamandha
+Khambhalia	Jamnagar	GUJARAT	361010
+Motavadia
+Bhanvad	Jamnagar	GUJARAT	360515
+Moti Khavdi
+Jamnagar	Jamnagar	GUJARAT	361140
+Moti Khokhari
+Khambhalia	Jamnagar	GUJARAT	361306
+Motibhalsan
+Jamnagar	Jamnagar	GUJARAT	361012
+Motigop
+Bhanvad	Jamnagar	GUJARAT	360515
+Motimatli
+Kalavad	Jamnagar	GUJARAT	361013
+Motivavdi
+Kalavad	Jamnagar	GUJARAT	361160
+Movan
+Khambhalia	Jamnagar	GUJARAT	361305
+Mulila
+Kalavad	Jamnagar	GUJARAT	361160
+Nagadia
+Jamkalyanpur	Jamnagar	GUJARAT	361325
+Nagpur
+Kalavad	Jamnagar	GUJARAT	361013
+Nana Vadala
+Kalavad	Jamnagar	GUJARAT	360540
+Nanabhavda
+Okhamandal	Jamnagar	GUJARAT	361335
+Nandana
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Nandana
+Kalyanpur	Jamnagar	GUJARAT	361315
+Nanduri
+Lalpur	Jamnagar	GUJARAT	361170
+Nani Vavdi
+Kalavad	Jamnagar	GUJARAT	361160
+Nanibhagedi
+Kalavad	Jamnagar	GUJARAT	361160
+Napania Khijadia
+Kalavad	Jamnagar	GUJARAT	361160
+Naranpur
+Jamnagar	Jamnagar	GUJARAT	361012
+Nathuvadala
+Dhrol	Jamnagar	GUJARAT	361210
+Navadra
+Kalyanpur	Jamnagar	GUJARAT	361315
+Navagam
+Kalavad	Jamnagar	GUJARAT	361160
+Navagam
+Jamnagar	Jamnagar	GUJARAT	361006
+Navagam
+Bhanvad	Jamnagar	GUJARAT	360510
+Navagam Ghed
+Jamnagar	Jamnagar	GUJARAT	361008
+Navanagna
+Jamnagar	Jamnagar	GUJARAT	361007
+New Super Market
+Kalavad	Jamnagar	GUJARAT	361001
+Nikava
+Khambhalia	Jamnagar	GUJARAT	361162
+Okha
+Okhamandal	Jamnagar	GUJARAT	361350
+Okhamadhi
+Okhamandal	Jamnagar	GUJARAT	361335
+Pachhtar
+Bhanvad	Jamnagar	GUJARAT	360510
+Padana
+Lalpur	Jamnagar	GUJARAT	361280
+Padli
+Okhamandal	Jamnagar	GUJARAT	361345
+Panch Hatdi Pedal
+Jamjodhpur	Jamnagar	GUJARAT	361140
+Panchdevda Mota
+Kalavad	Jamnagar	GUJARAT	361160
+Pancheshwar Tower Chowk
+Kalavad	Jamnagar	GUJARAT	361001
+Pata Meghpar
+Kalavad	Jamnagar	GUJARAT	361162
+Patan
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Patel Colony
+Jamnagar	Jamnagar	GUJARAT	361008
+Patelka
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Pavan Chakki
+Kalavad	Jamnagar	GUJARAT	361005
+Pindhara
+Kalyanpur	Jamnagar	GUJARAT	361315
+Pipar
+Kalavad	Jamnagar	GUJARAT	360540
+Pipartoda
+Jamnagar	Jamnagar	GUJARAT	361012
+Pipli
+Lalpur	Jamnagar	GUJARAT	361280
+Pithad
+Dhrol	Jamnagar	GUJARAT	361220
+Pithadia
+Kalavad	Jamnagar	GUJARAT	361162
+Positra
+Okhamandal	Jamnagar	GUJARAT	361335
+Rafudadnani
+Lalpur	Jamnagar	GUJARAT	361170
+Rajasthali
+Kalavad	Jamnagar	GUJARAT	361160
+Rajpara
+Khambhalia	Jamnagar	GUJARAT	361306
+Rajpara
+Okhamandal	Jamnagar	GUJARAT	361335
+Rajpara
+Jodia	Jamnagar	GUJARAT	363655
+Rampar
+Jamnagar	Jamnagar	GUJARAT	361120
+Ran
+Kalyanpur	Jamnagar	GUJARAT	361315
+Rangpur
+Lalpur	Jamnagar	GUJARAT	361280
+Ranjit Nagar
+Kalavad	Jamnagar	GUJARAT	361005
+Ranjitpar
+Kalyanpur	Jamnagar	GUJARAT	361315
+Rasangpar
+Lalpur	Jamnagar	GUJARAT	361280
+Raval
+Kalyanpur	Jamnagar	GUJARAT	361325
+Reliance Greens
+Jamnagar	Jamnagar	GUJARAT	361142
+Rentala Kalavad
+Bhanvad	Jamnagar	GUJARAT	360510
+Rozivada
+Bhanvad	Jamnagar	GUJARAT	360510
+Rupamora
+Bhanvad	Jamnagar	GUJARAT	360510
+Sachana
+Jamnagar	Jamnagar	GUJARAT	361230
+Sadodar
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Sai Devalia
+Bhanvad	Jamnagar	GUJARAT	360510
+Salaya
+Kalavad	Jamnagar	GUJARAT	361310
+Samana
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Samor
+Khambhalia	Jamnagar	GUJARAT	361310
+Sanala
+Kalavad	Jamnagar	GUJARAT	361160
+Sanosara
+Bhanvad	Jamnagar	GUJARAT	360515
+Sanosari
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Sansori
+Bhanvad	Jamnagar	GUJARAT	360515
+Sarmat
+Jamnagar	Jamnagar	GUJARAT	361006
+Sarvania
+Kalavad	Jamnagar	GUJARAT	361160
+Satapar
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Satapar
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Satiya
+Kalavad	Jamnagar	GUJARAT	361162
+Shampar
+Jodia	Jamnagar	GUJARAT	361240
+Shiva
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Sidhsar
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Sidsara
+Kalyanpur	Jamnagar	GUJARAT	361315
+Sikka Mahajanpada
+Jamnagar	Jamnagar	GUJARAT	361140
+Sikka Tps
+Jamnagar	Jamnagar	GUJARAT	361141
+Singach
+Khambhalia	Jamnagar	GUJARAT	361010
+Sinhan Aher
+Khambhalia	Jamnagar	GUJARAT	361305
+Sisang
+Kalavad	Jamnagar	GUJARAT	361162
+Sonardi
+Khambhalia	Jamnagar	GUJARAT	361305
+Sonvadia
+Bhanvad	Jamnagar	GUJARAT	360515
+Soyal
+Dhrol	Jamnagar	GUJARAT	361210
+Station Road Jamnagar
+Kalavad	Jamnagar	GUJARAT	361001
+Surajkaradi
+Okhamandal	Jamnagar	GUJARAT	361347
+Suryavadar
+Jamkalyanpur	Jamnagar	GUJARAT	361325
+Tankaria
+Jamkalyanpur	Jamnagar	GUJARAT	361320
+Tarsai
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Theba
+Jamnagar	Jamnagar	GUJARAT	361120
+Timbadi
+Bhanvad	Jamnagar	GUJARAT	360510
+Toda
+Kalavad	Jamnagar	GUJARAT	361160
+Tupni
+Okhamandal	Jamnagar	GUJARAT	361335
+Udyognagar
+Kalavad	Jamnagar	GUJARAT	361004
+Umrala
+Kalavad	Jamnagar	GUJARAT	361160
+Untbet Shampar
+Jodia	Jamnagar	GUJARAT	363655
+Vachalabara
+Khambhalia	Jamnagar	GUJARAT	361310
+Vadala Moti Metana
+Kalavad	Jamnagar	GUJARAT	361162
+Vadala Sethna
+Jamjodhpur	Jamnagar	GUJARAT	360520
+Vadalia Sinhan
+Khambhalia	Jamnagar	GUJARAT	361305
+Vadatra
+Khambhalia	Jamnagar	GUJARAT	361305
+Vadinar
+Khambhalia	Jamnagar	GUJARAT	361010
+Vadpanchasara
+Jamnagar	Jamnagar	GUJARAT	361012
+Valsura
+Jamnagar	Jamnagar	GUJARAT	361150
+Vanavad
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Vankiya
+Dhrol	Jamnagar	GUJARAT	361210
+Vansjalia
+Jamjodhpur	Jamnagar	GUJARAT	360531
+Varna
+Jamnagar	Jamnagar	GUJARAT	361130
+Varvala
+Okhamandal	Jamnagar	GUJARAT	361335
+Vasai
+Okhamandal	Jamnagar	GUJARAT	361335
+Vasai
+Jamnagar	Jamnagar	GUJARAT	361006
+Vasantpur
+Jamjodhpur	Jamnagar	GUJARAT	360530
+Verad
+Bhanvad	Jamnagar	GUJARAT	360515
+Veratia
+Jamnagar	Jamnagar	GUJARAT	361130
+Veraval Moti
+Jamnagar	Jamnagar	GUJARAT	361012
+Vibhapar
+Kalavad	Jamnagar	GUJARAT	361007
+Vinzalpar
+Khambhalia	Jamnagar	GUJARAT	361306
+Viramdad
+Khambhalia	Jamnagar	GUJARAT	361305
+Zakhar
+Khambhalia	Jamnagar	GUJARAT	361010
+Zinvari
+Bhanvad	Jamnagar	GUJARAT	360515
+Zinzuda
+Jodia	Jamnagar	GUJARAT	363655
+Gadu
+Bhanvad	Jamnagar	GUJARAT	360590
+Hathla
+Bhanvad	Jamnagar	GUJARAT	360590
+Rozda
+Bhanvad	Jamnagar	GUJARAT	360590
+Makajimeghpar
+Kalavad	Jamnagar	GUJARAT	360110
+

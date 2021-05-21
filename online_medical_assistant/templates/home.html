@@ -1,0 +1,88 @@
+{% extends 'main.html' %}
+{% load static %}
+   
+   {% block content %}
+
+ <section id="home_section"> 
+
+        <section id="first_section">
+            <div class="searchbar">
+                <input id="search" type="text">
+
+                <div id="search_icon">
+                    <img src="{% static 'search_images.png' %}" alt="Error">
+                </div>
+            </div>
+
+            <span id="span1">We Care About</span>
+            <span id="span2">Your Health</span>
+
+        </section>
+       
+
+        <section id="second_section">
+            <div class="select">
+                <a style="display:block;text-decoration: none;" href="/appointment" id="box1" class="box">
+                    <div id="img1" class="image" style="background-image:url({% static 'extra/download.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Appointment</span>
+                    </div>
+                </a>
+                <a style="text-decoration: none;" href="/laboratory" id="box2" class="box">
+                    <div id="img2" class="image" style="background-image:url({% static 'extra/laboratory.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Laboratory</span>
+
+                    </div>
+                </a>
+                <a style="text-decoration: none;" href="/blood_donor" id="box3" class="box">
+                    <div id="img3" class="image"
+                        style="background-image:url({% static 'extra/blood-donordownload.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Blood Donor</span>
+                    </div>
+                </a>
+
+            </div>
+            <div class="select">
+                <a style="text-decoration:none" href="{% url 'patient' %}" id="box4" class="box">
+                    <div id="img4" class="image"
+                        style="background-image:url({% static 'extra/patient_download.png' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Patients</span>
+                    </div>
+                </a>
+                <div id="box5" class="box">
+                    <div id="img5" class="image"
+                        style="background-image:url({% static 'extra/pharmacy_download.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Medical Drug</span>
+                        <p>Stores</p>
+                    </div>
+                </div>
+                <a href="{% url 'profile' %}" style="text-decoration:none;cursor: pointer;" id="box6" class="box">
+                    <div id="img6" class="image"
+                        style="background-image:url({% static 'extra/Detailedownload.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>My Details</span>
+
+                    </div>
+                </a>
+            </div>
+        </section>
+
+</section>
+
+   {% endblock %}

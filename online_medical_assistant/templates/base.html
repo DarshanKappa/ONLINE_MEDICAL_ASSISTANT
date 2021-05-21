@@ -1,0 +1,153 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Medical Assistant</title>
+    <link rel="icon" href="{% static 'logo_download.png' %}" type="image/x-icon">
+    <link rel="stylesheet" href="{% static 'home.css' %}">
+    <link rel="stylesheet" href="{% static 'appointment.css' %}">
+    <script type="text/javascript" src="{% static 'home.js' %}"></script>
+    <script type="text/javascript" src="{% static 'appointment.js' %}"></script>
+  
+
+
+</head>
+
+
+
+        <!-- home -->
+    <section id="home_section">
+
+        <section id="first_section">
+            <div class="searchbar">
+                <input id="search" type="text">
+
+                <div id="search_icon">
+                    <img src="{% static 'search_images.png' %}" alt="Error">
+                </div>
+            </div>
+
+            <span id="span1">We Care About</span>
+            <span id="span2">Your Health</span>
+
+        </section>
+
+        <section id="second_section">
+            <div class="select">
+                <div onclick="appointments()" id="box1" class="box">
+                    <div id="img1" class="image" style="background-image:url('{{dataimg.lab_photo.url}}')">
+
+                    </div>
+                    <div  class="text">
+                        <span>Appointment</span>
+                    </div>
+                </div>
+                <div id="box2" class="box">
+                    <div id="img2" class="image" style="background-image:url({% static 'extra/laboratory.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Laboratory</span>
+
+                    </div>
+                </div>
+                <div id="box3" class="box">
+                    <div id="img3" class="image" style="background-image:url({% static 'extra/blood-donordownload.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Blood Donor</span>
+                    </div>
+                </div>
+
+            </div>
+            <div class="select">
+                <div id="box4" class="box">
+                    <div id="img4" class="image" style="background-image:url({% static 'extra/patient_download.png' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Patients</span>
+                    </div>
+                </div>
+                <div id="box5" class="box">
+                    <div id="img5" class="image" style="background-image:url({% static 'extra/pharmacy_download.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>Medical Drug</span>
+                        <p>Stores</p>
+                    </div>
+                </div>
+                <div id="box6" class="box">
+                    <div id="img6" class="image" style="background-image:url({% static 'extra/Detailedownload.jfif' %})">
+
+                    </div>
+                    <div class="text">
+                        <span>My Details</span>
+
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </section>
+
+
+    <footer>
+        <div class="flex1">
+            <div class="about">
+                <li>About</li>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatem tempora delectus quod?
+                    Asperiores id, eum ducimus quidem ratione provident soluta laudantium at mollitia ea harum.</p>
+            </div>
+            <div class="functions">
+                <span>Information</span>
+                <li>Home</li>
+                <li>FAQs</li>
+                <li>Payment</li>
+                <li>Services</li>
+                <li>Contect Us</li>
+            </div>
+        </div>
+        <div class="hr">
+
+        </div>
+        <div class="contect">
+            <a href="#">+91 985 475 3525</a>
+            <a href="#">onlinemedicalassistant@gmail.com</a>
+            <a href="#">Location</a>
+        </div>
+
+        <div class="hr">
+
+        </div>
+
+        <div class="link" id="links">
+
+            <a target="1" id="insta" class="li" href="https://www.instagram.com/"> <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
+                    alt="">
+                Instagram</a>
+            <a target="1" id="fb" class="li" href="https://www.facebook.com/"> <img
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png"
+                    alt="">
+                Facebook</a>
+            <a target="1" class="li" id="twi" href="https://twitter.com/?lang=en"> <img
+                    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAb1BMVEX///8AovUAmvQAnPQAoPUAnvWKyfnH5fz1+//M5/yn1vr6/f+w2vu83/vE4/zb7v0ZpvXh8f1Hsfbu9/5svviCxvlYt/cuqva23fur1/rU6/1Ar/Z4wvjo9P7f8P2Uzfluv/gAlvSQzPlcuved0vpivCMXAAAIM0lEQVR4nO2d65qqOgyGh6ZFPAMKKOroVu7/Gjcw6uCBc9MEZ70/1zwLymebpknafn394w/geHHK8jClbghvVvNz6MINIXf7SUzdJp6MA1coKa0iUgGE2xV105jhBRIedSoIJvxN0+f8gaE78kWJUje91Nlp8qC5j91UakZRWacqoERQ22vi3X8zEw2m4+BDrVI/csGk8kHLtHuCoUYTcawegI9yRd+lzxlnI1kGBltewDuYeMshatitrojj++dsfkayMNLoV0LLwEs27aRKAf/Vch1sqfI/yrWBNr9hKST+xGKLtlqlgljewzOc7e4+kMk6lrTghPyOS+t+9dO5fp361dYX6v4HRWWxst8czqjv8FW5IJWIRf7/x+co9fgL/66IPNIgb4TYIr6is1Zpu+YLeyeenTNo7OZrBm6tQntD2F2rVJc3XqwM0dpazfz2Jdcer5+gj1ZvkVTLwsv9hxMjlBfMOsyD1QiyWE5hmkJRy9OvFaZ5rWRcnNMxRqKrWysg8hpSjg8GRWifZbQbLEXkumf4j3ONqF7tt2apexDCk1azsd4GV/LsWQu93mmkW6t98emrozLpRBxeliFaVz7zbqucUkTy+2xnlq1/NDa2lvHr1yiNq2q91l3CfQJabcPMrRdLfW2tZ/bmp5eurhRL+7BMFSr6add0ZF9XipDUNEAvx7eTFWiymlo7Vq7Mchb8LqnlRU8zmxK8D/QKLT9ZrLVjnZN1JIorRenqaGQL9iVRcdAxy6ybh9wbIJ+SspZqlDHTyKnse6TV33ZqngqfMGvcMyp+/N5Dca492vDQPKwgSTllwzADdv36ud5R+KwVQYq1xMD/IKFXizA7lp4ZqCXvXYc74HfvXEtEk0Wi1de25ueXNXn0Ho8enFZfi9ovgqjjrFNlDntqpTk00hSvwVgR+04h7x2aVlSpnUa+kFRduj2WydK1FutAs4ATuK0TZY722HuOtIjy9hmVvkNRrqhlNqPJAG8P7CiLI5u72bBrJZfeVfQVsa9/MSJtRgtELQbjCMFzALyseTP8NjM8uI1zdvVOSXvI674n7T4KwG5mYRGW0abjV6+0nrWk8JuMBoSeJdHFqCVs7WlLpYJat/5NKqQvDOqTO32VBPdYXk6cgbCOZiBW10SoAteuKGdZfaZY3TOhEtR6UzZFfaZYvTJWEoS737ybILWXz/AQa9xzGScBZHhcPCmmP6qsaOR5ov2E+EI6QwLs9sl8eYutJvp9B1KRbji67EsuGbj+OjhObO09i94pzXlX8tADKVPV9AdKI2qZrmgYiOgY2DTTEGolGmC6DqSc16o2dkjaYFaRvv4DPtKm1uiXDXe1FFEG7E4xUqx/K4ReyOOk//mFtTDzvgXUJ4qAhOg3Z4kQg9IIECbBcvIyVtjfRuPBRa2p6ocgVerrFstKV8JhEucZuRNftchXO/fcjlQg3DBI5heuvjzZjsw7j6UuOEs6TdC7WQhxFCwU+dkzGHljJMg9h68Vb9eqiDBd9v6K/kg5FuSTIWYxo2aoDp8pglvZr5FO1YeamQ7FaNHb969hBJQzyBc7GUMZhztqoXKGIRa9/55zHoRayvwmsHcg1WBrRjA5wrVpdTcpPEyWxuQ9IqrkaEnz1Oyj4wAY3+NbCrUU9TCovb3BPsHKKBmdLqeZD0TAOTSuI8wjNSwKJO/wrguRJ2p9HllwNlu8RmHKhLFajObCK2e2I5Hq6Pcq2KrFyCP9JWE6ErkU3j4yZ6kWeRFbCd8WwwgEMInOvBKyM1zcnKwimwYX4xjF/KFiLZieWtz4go/kEvYr4bvmhiqjkJfd1hKHgkscgkGJQy2rs8XCeCmyw9/bEdsu/XDktywsxTkSa2X4QOA2xPYmvl6P6hzimR1KasvFuWMJBSAAlBLZRanPR86ap/uJgwZgV9pGLUgV2m9R6Ee/c1LR2bHqWsx9rAWndTS70Pszum/o6AGfDeRlMEpOU9332AI2NaZU9z22gc2eC87+6J2Eh43nH5rJYeE+0O8ubIZDvSDMAPptTc2I6c0Wc9+9yJZaLf4uVgGb2MgPZhDm7EnVQrx5GIWAUC11ov76thzp7BbzYMM7yKpEyI9R6YLnknindPd59GNN0LkIbz7uycgy7c1zL22o5Gw6z8q2GKsJzt6kXIM07kUc29hxPoLuAiJ9zPOLiPG1Gs7yuZLp/GSJtIdhSgZsdmBqYLVI9r6r0C4BG6zTUIGHs4VseCvCBiBt8gEGB/PoZopU+w1sTpnWxxzJiVCf16+cC5JxhxP1p2lni+Wbft48GEdYPgPR5b14rC5o4ZqhBrDKwFxNszhyTR8rRKkk/Q2POlmuEWM0akjZ1Fo2O8xwluBx3poWloHCDCtL4HHcmga+jy5uDAuiDzFXo8AF5FzFRwzB6fjoA3pcVFlD9xgOo+TkCjAQcSe+arwds1Mym4/j5bfnLePxYjM578NMJjOZCWUNKzERu9kOsCsKkKPrD8gBWqstqltQDvhDzA1OA4JdvWANrFDtzuFiWC7F4VT3zixNHuEgwR50JUNq6U3JJUUwqLLa9yxNDEYF9gdIlXHY465tJFjJwAdgkWmCt2qWYjfUGbCU0QXj/BmpVOBRfxoGziTSq5cEEX5cp/rFO2oLzaRK+dsPMeqleMmuf+WaBLjMPl2pH5zNWnYP1EglIntYYYW+eNt1XurXUieAnb34G13qidXiHFqiyQk+2Z2bqU7BlvNphgZw4pl9ibLDj/KoV0auTk4mUfonNwwmoyFGXpBwvPF8cgz2l9D/Ibys93aynY+9Pznq/vGPJ/4H65yHmbiySpYAAAAASUVORK5CYII="
+                    alt="">
+                Twitter</a>
+
+        </div>
+    </footer>
+   
+
+</body>
+
+</html>

@@ -1,0 +1,911 @@
+Shapar
+Visavadar	Junagadh	GUJARAT	365440
+Vadasada
+Manavadar	Junagadh	GUJARAT	360490
+Aalidar
+Kodinar	Junagadh	GUJARAT	362720
+Achhidra
+NA	Junagadh	GUJARAT	362255
+Adri
+Patan-Veraval	Junagadh	GUJARAT	362255
+Agatrai
+Keshod	Junagadh	GUJARAT	362222
+Ajab
+Keshod	Junagadh	GUJARAT	362229
+Ajotha
+NA	Junagadh	GUJARAT	362268
+Akala
+NA	Junagadh	GUJARAT	362150
+Akala
+NA	Junagadh	GUJARAT	362245
+Akha
+NA	Junagadh	GUJARAT	362222
+Akhodad So
+Keshod	Junagadh	GUJARAT	362220
+Akolvadi
+NA	Junagadh	GUJARAT	362140
+Alidhra
+NA	Junagadh	GUJARAT	362260
+Ambala
+NA	Junagadh	GUJARAT	362260
+Ambala
+Una	Junagadh	GUJARAT	362565
+Ambavad
+Una	Junagadh	GUJARAT	362560
+Ambecha
+NA	Junagadh	GUJARAT	362245
+Amblash
+NA	Junagadh	GUJARAT	362150
+Ambujanagar
+Kodinar	Junagadh	GUJARAT	362715
+Amodra
+Una	Junagadh	GUJARAT	362560
+Amrapur
+NA	Junagadh	GUJARAT	362268
+Amrapur Gir
+NA	Junagadh	GUJARAT	362245
+Anandpur
+NA	Junagadh	GUJARAT	362263
+Aniala
+NA	Junagadh	GUJARAT	362215
+Anjar
+Una	Junagadh	GUJARAT	362510
+Arena
+NA	Junagadh	GUJARAT	362250
+Arnej
+NA	Junagadh	GUJARAT	362725
+Avania
+NA	Junagadh	GUJARAT	362245
+Babra Gir
+NA	Junagadh	GUJARAT	362245
+Badodar
+Keshod	Junagadh	GUJARAT	362229
+Bagdu
+Junagadh	Junagadh	GUJARAT	362263
+Bakula Dhanej
+NA	Junagadh	GUJARAT	362150
+Balagam
+Keshod	Junagadh	GUJARAT	362220
+Balot
+NA	Junagadh	GUJARAT	362610
+Bamangadh
+NA	Junagadh	GUJARAT	362030
+Bamnasa Gir
+Talala	Junagadh	GUJARAT	362140
+Bandhala
+NA	Junagadh	GUJARAT	362110
+Bandharda
+Una	Junagadh	GUJARAT	362565
+Bantia
+NA	Junagadh	GUJARAT	362610
+Baradiya
+NA	Junagadh	GUJARAT	362120
+Barula
+NA	Junagadh	GUJARAT	362255
+Barvala Galath
+NA	Junagadh	GUJARAT	362020
+Bediya
+Una	Junagadh	GUJARAT	362565
+Bhacha
+Una	Junagadh	GUJARAT	362560
+Bhadiyadhar
+Una	Junagadh	GUJARAT	362560
+Bhalpara
+NA	Junagadh	GUJARAT	362268
+Bhanduri
+NA	Junagadh	GUJARAT	362245
+Bhatiya
+NA	Junagadh	GUJARAT	362215
+Bhatsimroli
+Keshod	Junagadh	GUJARAT	362220
+Bhesan
+Bhesan	Junagadh	GUJARAT	362020
+Bhiyal
+NA	Junagadh	GUJARAT	362310
+Bilkha
+NA	Junagadh	GUJARAT	362110
+Bodidhar
+Una	Junagadh	GUJARAT	362560
+Bodka
+NA	Junagadh	GUJARAT	362610
+Borvav
+NA	Junagadh	GUJARAT	362150
+Budhecha
+NA	Junagadh	GUJARAT	362250
+Butdi
+NA	Junagadh	GUJARAT	362130
+Chanaka
+NA	Junagadh	GUJARAT	362020
+Chandigadh
+Keshod	Junagadh	GUJARAT	362220
+Chaparda
+NA	Junagadh	GUJARAT	362120
+Char
+Keshod	Junagadh	GUJARAT	362220
+Chhachhar
+NA	Junagadh	GUJARAT	362710
+Chhara
+NA	Junagadh	GUJARAT	362720
+Chhodavadi
+NA	Junagadh	GUJARAT	362030
+Chiroda
+NA	Junagadh	GUJARAT	362260
+Chitravad
+NA	Junagadh	GUJARAT	362150
+Chitrod
+NA	Junagadh	GUJARAT	362135
+Choki
+NA	Junagadh	GUJARAT	362315
+Chokli
+NA	Junagadh	GUJARAT	362310
+Chorvad Holiday Home
+Malia	Junagadh	GUJARAT	362250
+Chorvad
+Malia	Junagadh	GUJARAT	362250
+Chorvadi
+NA	Junagadh	GUJARAT	362110
+Chuda
+NA	Junagadh	GUJARAT	362020
+Chuldi
+NA	Junagadh	GUJARAT	362255
+Dabhor
+NA	Junagadh	GUJARAT	362266
+Dadar
+NA	Junagadh	GUJARAT	362120
+Dari
+Patan-Veraval	Junagadh	GUJARAT	362266
+Datrana
+NA	Junagadh	GUJARAT	362260
+Deda
+NA	Junagadh	GUJARAT	362255
+Dedakiyal
+NA	Junagadh	GUJARAT	362260
+Delvada
+Una	Junagadh	GUJARAT	362510
+Devli
+NA	Junagadh	GUJARAT	362720
+Dhamlej
+NA	Junagadh	GUJARAT	362275
+Dhandhusar
+NA	Junagadh	GUJARAT	362002
+Dhanfuliya
+NA	Junagadh	GUJARAT	362205
+Dharigundali Juni
+NA	Junagadh	GUJARAT	362020
+Dhava
+NA	Junagadh	GUJARAT	362150
+Dhebar
+NA	Junagadh	GUJARAT	362130
+Dhokadva
+Una	Junagadh	GUJARAT	362565
+Dholva
+NA	Junagadh	GUJARAT	362020
+Dhrabavad
+Vanthali(s)	Junagadh	GUJARAT	362215
+Dhramanva
+NA	Junagadh	GUJARAT	362150
+Divrana
+NA	Junagadh	GUJARAT	362220
+Dolasa
+NA	Junagadh	GUJARAT	362720
+Dolatpara
+NA	Junagadh	GUJARAT	362037
+Dron
+Una	Junagadh	GUJARAT	362530
+Dudhala
+NA	Junagadh	GUJARAT	362245
+Dungarpur
+NA	Junagadh	GUJARAT	362263
+Dungri
+NA	Junagadh	GUJARAT	362610
+Fatsar
+Una	Junagadh	GUJARAT	362530
+Fulka
+Una	Junagadh	GUJARAT	362530
+Fulrama
+NA	Junagadh	GUJARAT	362220
+Gabha
+NA	Junagadh	GUJARAT	362150
+Gadhali
+NA	Junagadh	GUJARAT	362260
+Galath
+NA	Junagadh	GUJARAT	362020
+Galiavad
+Junagadh	Junagadh	GUJARAT	362037
+Galodar
+NA	Junagadh	GUJARAT	362245
+Gangda
+Una	Junagadh	GUJARAT	362560
+Gangecha
+NA	Junagadh	GUJARAT	362245
+Ganthila
+NA	Junagadh	GUJARAT	362215
+Gelana
+Keshod	Junagadh	GUJARAT	362227
+Ghantvad
+NA	Junagadh	GUJARAT	362710
+Gharal
+Una	Junagadh	GUJARAT	362550
+Ghodasan
+NA	Junagadh	GUJARAT	362130
+Ghunsiya
+NA	Junagadh	GUJARAT	362150
+Gir Devli
+NA	Junagadh	GUJARAT	362710
+Girgadhda
+Una	Junagadh	GUJARAT	362530
+Goladhar
+NA	Junagadh	GUJARAT	362011
+Gorakhmadhi
+NA	Junagadh	GUJARAT	362268
+Govindpara
+NA	Junagadh	GUJARAT	362269
+Gundala
+NA	Junagadh	GUJARAT	362263
+Gundran
+NA	Junagadh	GUJARAT	362150
+Hadmatiya Vishal
+NA	Junagadh	GUJARAT	362030
+Hadmatiya
+NA	Junagadh	GUJARAT	362140
+Hadmatiya Khajuri
+NA	Junagadh	GUJARAT	362020
+Haripur
+NA	Junagadh	GUJARAT	362150
+Harmadiya
+NA	Junagadh	GUJARAT	362720
+Inaj
+NA	Junagadh	GUJARAT	362269
+Intvaya
+Una	Junagadh	GUJARAT	362530
+Ivnagar
+NA	Junagadh	GUJARAT	362015
+Jalondhar
+NA	Junagadh	GUJARAT	362245
+Jamanvada
+NA	Junagadh	GUJARAT	362720
+Jambuda
+NA	Junagadh	GUJARAT	362130
+Jamka
+NA	Junagadh	GUJARAT	362263
+Jamvala
+Una	Junagadh	GUJARAT	362530
+Jangar
+NA	Junagadh	GUJARAT	362255
+Jargali
+Una	Junagadh	GUJARAT	362530
+Jasadhar
+Una	Junagadh	GUJARAT	362560
+Jasadhar
+NA	Junagadh	GUJARAT	362140
+Javantri
+NA	Junagadh	GUJARAT	362140
+Jepur
+NA	Junagadh	GUJARAT	362150
+Jetalvad
+NA	Junagadh	GUJARAT	362130
+Jhalansar
+NA	Junagadh	GUJARAT	362011
+Jonpur
+Keshod	Junagadh	GUJARAT	362222
+Junagadh Agri Campus
+NA	Junagadh	GUJARAT	362001
+Junagadh Azad Chowk
+NA	Junagadh	GUJARAT	362001
+Junagadh Bhavnath
+Junagadh	Junagadh	GUJARAT	362004
+Junagadh Diwan Chowk
+NA	Junagadh	GUJARAT	362001
+Junagadh Girnar Road
+NA	Junagadh	GUJARAT	362001
+Junagadh
+Junagadh	Junagadh	GUJARAT	362001
+Junagadh Joshipura
+NA	Junagadh	GUJARAT	362002
+Junagadh Mangnath Road
+NA	Junagadh	GUJARAT	362001
+Junagadh PTC
+NA	Junagadh	GUJARAT	362001
+Junagadh Sardarbag
+NA	Junagadh	GUJARAT	362001
+Junagadh Station Road
+NA	Junagadh	GUJARAT	362001
+Junagadh Udyognagar
+NA	Junagadh	GUJARAT	362037
+Juni Chavand
+NA	Junagadh	GUJARAT	362120
+Juthal
+NA	Junagadh	GUJARAT	362245
+Kadaya
+NA	Junagadh	GUJARAT	362245
+Kadvar
+NA	Junagadh	GUJARAT	362268
+Kadvasan
+NA	Junagadh	GUJARAT	362725
+Kaj
+NA	Junagadh	GUJARAT	362720
+Kajardi
+Una	Junagadh	GUJARAT	362560
+Kajli
+NA	Junagadh	GUJARAT	362268
+Kalapan
+Una	Junagadh	GUJARAT	362510
+Kalavad Gir
+NA	Junagadh	GUJARAT	362130
+Kalsari
+NA	Junagadh	GUJARAT	362130
+Kalvani
+Keshod	Junagadh	GUJARAT	362227
+Kanakia
+Una	Junagadh	GUJARAT	362560
+Kandhi
+Una	Junagadh	GUJARAT	362560
+Kaneri
+Keshod	Junagadh	GUJARAT	362229
+Kanjha
+NA	Junagadh	GUJARAT	362610
+Kansari
+Una	Junagadh	GUJARAT	362560
+Kariya
+NA	Junagadh	GUJARAT	362030
+Kathrota
+NA	Junagadh	GUJARAT	362315
+Kenedipur
+NA	Junagadh	GUJARAT	362260
+Kesariya
+Una	Junagadh	GUJARAT	362560
+Keshod Aerodrome
+Keshod	Junagadh	GUJARAT	362220
+Keshod Akshaygadh
+Keshod	Junagadh	GUJARAT	362229
+Keshod
+Keshod	Junagadh	GUJARAT	362220
+Kevadra
+Keshod	Junagadh	GUJARAT	362227
+Khadia
+NA	Junagadh	GUJARAT	362263
+Khadpipli
+NA	Junagadh	GUJARAT	362260
+Khambha Gir
+NA	Junagadh	GUJARAT	362130
+Khambhaliya
+NA	Junagadh	GUJARAT	362250
+Khambhaliya
+NA	Junagadh	GUJARAT	362030
+Khamdhrol
+NA	Junagadh	GUJARAT	362037
+Khamidana
+Keshod	Junagadh	GUJARAT	362220
+Khandheri
+NA	Junagadh	GUJARAT	362150
+Khapat
+Una	Junagadh	GUJARAT	362530
+Kharachiya V
+NA	Junagadh	GUJARAT	362030
+Khatrivada
+Una	Junagadh	GUJARAT	362550
+Khera
+NA	Junagadh	GUJARAT	362250
+Khijadiya
+NA	Junagadh	GUJARAT	362260
+Khilavad
+Una	Junagadh	GUJARAT	362530
+Khirsara Ghed
+Keshod	Junagadh	GUJARAT	362220
+Khokharda
+NA	Junagadh	GUJARAT	362215
+Khorasa Ahir
+NA	Junagadh	GUJARAT	362215
+Khorasa Gir
+NA	Junagadh	GUJARAT	362255
+Kindarva
+Patan-Veraval	Junagadh	GUJARAT	362255
+Kob
+NA	Junagadh	GUJARAT	362510
+Kodidra
+NA	Junagadh	GUJARAT	362150
+Kodinar Khadudyog
+Kodinar	Junagadh	GUJARAT	362725
+Kodinar
+NA	Junagadh	GUJARAT	362720
+Kodiya
+Una	Junagadh	GUJARAT	362530
+Kotda
+Kodinar	Junagadh	GUJARAT	362720
+Kotda Mota
+NA	Junagadh	GUJARAT	362020
+Koyali
+NA	Junagadh	GUJARAT	362205
+Kukasvada
+NA	Junagadh	GUJARAT	362250
+Ladudi
+NA	Junagadh	GUJARAT	362255
+Lati
+NA	Junagadh	GUJARAT	362268
+Leriya
+NA	Junagadh	GUJARAT	362130
+Limadhra
+NA	Junagadh	GUJARAT	362120
+Lodhva
+Sutrapada	Junagadh	GUJARAT	362275
+Lumbha
+NA	Junagadh	GUJARAT	362150
+Lushala
+Vanthali(s)	Junagadh	GUJARAT	362215
+Madhupur Jambur
+NA	Junagadh	GUJARAT	362150
+Magharvada
+Keshod	Junagadh	GUJARAT	362215
+Majevadi
+NA	Junagadh	GUJARAT	362011
+Makhiyala
+Junagadh	Junagadh	GUJARAT	362011
+Malanka
+NA	Junagadh	GUJARAT	362260
+Malia Hatina
+Malia	Junagadh	GUJARAT	362245
+Maljinjva
+NA	Junagadh	GUJARAT	362150
+Mandorna
+NA	Junagadh	GUJARAT	362140
+Manekvada
+Keshod	Junagadh	GUJARAT	362222
+Mangalpur
+Keshod	Junagadh	GUJARAT	362222
+Mangnathpipli
+NA	Junagadh	GUJARAT	362110
+Manpur
+NA	Junagadh	GUJARAT	362260
+Matarvaniya
+NA	Junagadh	GUJARAT	362245
+Meghpur
+NA	Junagadh	GUJARAT	362610
+Mendarda
+Mendarda	Junagadh	GUJARAT	362260
+Mendpara
+NA	Junagadh	GUJARAT	362030
+Meswan
+NA	Junagadh	GUJARAT	362227
+Mitiyaj
+NA	Junagadh	GUJARAT	362720
+Mohabatpur
+NA	Junagadh	GUJARAT	362205
+Monia
+NA	Junagadh	GUJARAT	362120
+Moradiya
+NA	Junagadh	GUJARAT	362268
+Moruka
+NA	Junagadh	GUJARAT	362140
+Morvada
+NA	Junagadh	GUJARAT	362720
+Morvada
+NA	Junagadh	GUJARAT	362020
+Mota Hadmatia
+NA	Junagadh	GUJARAT	362110
+Mota Kajaliyara
+NA	Junagadh	GUJARAT	362610
+Mota Samadhiyala
+NA	Junagadh	GUJARAT	362565
+Motadesar
+Una	Junagadh	GUJARAT	362560
+Motha
+NA	Junagadh	GUJARAT	362550
+Moti Fafdi
+NA	Junagadh	GUJARAT	362720
+Motidhanej
+NA	Junagadh	GUJARAT	362245
+Motighansari
+Keshod	Junagadh	GUJARAT	362220
+Motimonpari
+NA	Junagadh	GUJARAT	362130
+Movana
+Keshod	Junagadh	GUJARAT	362220
+Muldwarka
+NA	Junagadh	GUJARAT	362725
+Muliyasa
+Keshod	Junagadh	GUJARAT	362222
+Nagalpur
+NA	Junagadh	GUJARAT	362263
+Naliya Mandvi
+NA	Junagadh	GUJARAT	362510
+Nana Samadhiyala
+NA	Junagadh	GUJARAT	362565
+Nanakotda
+NA	Junagadh	GUJARAT	362110
+Nandarkhi
+NA	Junagadh	GUJARAT	362002
+Nani Monpari
+NA	Junagadh	GUJARAT	362120
+Nanighansari
+Keshod	Junagadh	GUJARAT	362220
+Nathal
+NA	Junagadh	GUJARAT	362560
+Nava Bandar
+Una	Junagadh	GUJARAT	362510
+Navadra
+NA	Junagadh	GUJARAT	362268
+Navania
+NA	Junagadh	GUJARAT	362110
+Navapipalia
+NA	Junagadh	GUJARAT	362110
+Navda
+NA	Junagadh	GUJARAT	362610
+Nonjanvav
+Keshod	Junagadh	GUJARAT	362215
+Nunarda
+Keshod	Junagadh	GUJARAT	362220
+Osa
+NA	Junagadh	GUJARAT	362220
+Padodar
+Keshod	Junagadh	GUJARAT	362220
+Paldi
+NA	Junagadh	GUJARAT	362510
+Panadar
+NA	Junagadh	GUJARAT	362720
+Panchala
+Keshod	Junagadh	GUJARAT	362220
+Panidhra
+NA	Junagadh	GUJARAT	362245
+Pankhan
+Keshod	Junagadh	GUJARAT	362227
+Parabvavdi
+NA	Junagadh	GUJARAT	362020
+Patrapasar
+NA	Junagadh	GUJARAT	362011
+Pedhavada
+NA	Junagadh	GUJARAT	362720
+Pikhor
+NA	Junagadh	GUJARAT	362268
+Pikhor
+NA	Junagadh	GUJARAT	362245
+Piplana
+NA	Junagadh	GUJARAT	362610
+Pipli
+Keshod	Junagadh	GUJARAT	362220
+Plasva
+NA	Junagadh	GUJARAT	362015
+Prabhas Patan
+Patan-Veraval	Junagadh	GUJARAT	362268
+Pranchi
+NA	Junagadh	GUJARAT	362268
+Pransli
+Keshod	Junagadh	GUJARAT	362229
+Pransli
+NA	Junagadh	GUJARAT	362268
+Prasnavada
+NA	Junagadh	GUJARAT	362275
+Prempara
+NA	Junagadh	GUJARAT	362130
+Rafalia
+NA	Junagadh	GUJARAT	362020
+Rajesar
+NA	Junagadh	GUJARAT	362260
+Rakhej
+NA	Junagadh	GUJARAT	362275
+Rameshwar
+NA	Junagadh	GUJARAT	362110
+Rampara
+NA	Junagadh	GUJARAT	362268
+Rampara Gir
+NA	Junagadh	GUJARAT	362140
+Rangpur
+Keshod	Junagadh	GUJARAT	362227
+Rangpur
+NA	Junagadh	GUJARAT	362268
+RanpurS
+NA	Junagadh	GUJARAT	362030
+Rasulpara
+NA	Junagadh	GUJARAT	362140
+Ratang
+NA	Junagadh	GUJARAT	362120
+Ratidhar
+NA	Junagadh	GUJARAT	362140
+Ravni
+NA	Junagadh	GUJARAT	362002
+Ravni Kuba
+NA	Junagadh	GUJARAT	362130
+Saiyad Rajpara
+NA	Junagadh	GUJARAT	362550
+Sakhdavadar
+NA	Junagadh	GUJARAT	362263
+Samadhiyala
+NA	Junagadh	GUJARAT	362260
+Samter
+NA	Junagadh	GUJARAT	362560
+Sanakhda
+NA	Junagadh	GUJARAT	362550
+Sandha
+NA	Junagadh	GUJARAT	362220
+Sandhnidhar
+NA	Junagadh	GUJARAT	362710
+Sangodra
+NA	Junagadh	GUJARAT	362150
+Santalpur
+NA	Junagadh	GUJARAT	362610
+Sanvav
+NA	Junagadh	GUJARAT	362530
+Sardarpur
+NA	Junagadh	GUJARAT	362020
+Sarkhadi
+NA	Junagadh	GUJARAT	362720
+Sarsai
+NA	Junagadh	GUJARAT	362120
+Sasan Gir
+Talala	Junagadh	GUJARAT	362135
+Savni
+NA	Junagadh	GUJARAT	362268
+Semarvav
+NA	Junagadh	GUJARAT	362150
+ShapurS
+NA	Junagadh	GUJARAT	362205
+Sherbaug
+NA	Junagadh	GUJARAT	362255
+Shergadh
+Malia Hatina	Junagadh	GUJARAT	362245
+Sheriyakhan
+NA	Junagadh	GUJARAT	362250
+Shobha Vadla
+NA	Junagadh	GUJARAT	362020
+Siddhigram
+Sutrapada	Junagadh	GUJARAT	362276
+Sidokar
+NA	Junagadh	GUJARAT	362255
+Simar
+NA	Junagadh	GUJARAT	362550
+Simar
+NA	Junagadh	GUJARAT	362255
+Simasi
+NA	Junagadh	GUJARAT	362215
+Simasi
+NA	Junagadh	GUJARAT	362560
+Simrolibava
+Keshod	Junagadh	GUJARAT	362220
+Sindhaj
+NA	Junagadh	GUJARAT	362710
+Singsar
+NA	Junagadh	GUJARAT	362275
+Solaj
+NA	Junagadh	GUJARAT	362268
+Sonardi
+NA	Junagadh	GUJARAT	362205
+Sondarda
+Keshod	Junagadh	GUJARAT	362227
+Sukhpur
+NA	Junagadh	GUJARAT	362310
+Surva
+NA	Junagadh	GUJARAT	362140
+Sutrapada
+Sutrapada	Junagadh	GUJARAT	362275
+Tad
+NA	Junagadh	GUJARAT	362510
+Talala
+Talala	Junagadh	GUJARAT	362150
+Tarsingda
+NA	Junagadh	GUJARAT	362245
+Thanapipli
+NA	Junagadh	GUJARAT	362215
+Thordi
+NA	Junagadh	GUJARAT	362530
+Timbavadi
+Junagadh	Junagadh	GUJARAT	362015
+Tinmas
+NA	Junagadh	GUJARAT	362222
+Tobra
+NA	Junagadh	GUJARAT	362268
+Toraniya
+NA	Junagadh	GUJARAT	362263
+Tulsishyam
+NA	Junagadh	GUJARAT	362560
+Ugla
+NA	Junagadh	GUJARAT	362565
+Ukadiya
+NA	Junagadh	GUJARAT	362150
+Umbari
+NA	Junagadh	GUJARAT	362268
+Umej
+NA	Junagadh	GUJARAT	362560
+Umrali
+NA	Junagadh	GUJARAT	362020
+Una
+Una	Junagadh	GUJARAT	362560
+Untvada
+NA	Junagadh	GUJARAT	362560
+Vadal
+NA	Junagadh	GUJARAT	362310
+Vadala
+NA	Junagadh	GUJARAT	362140
+Vadhavi
+NA	Junagadh	GUJARAT	362002
+Vadiya
+NA	Junagadh	GUJARAT	362245
+Vadla
+NA	Junagadh	GUJARAT	362205
+Vadnagar
+NA	Junagadh	GUJARAT	362725
+Vadodara Dodia
+NA	Junagadh	GUJARAT	362255
+Vadodarazala
+NA	Junagadh	GUJARAT	362275
+Vadviyala
+NA	Junagadh	GUJARAT	362530
+Vankia
+NA	Junagadh	GUJARAT	362560
+VanthaliS
+NA	Junagadh	GUJARAT	362610
+Varsingpur
+NA	Junagadh	GUJARAT	362560
+Vasoj
+NA	Junagadh	GUJARAT	362510
+Vavarda
+NA	Junagadh	GUJARAT	362560
+Vavdi
+NA	Junagadh	GUJARAT	362255
+Vekariya
+NA	Junagadh	GUJARAT	362130
+Velan
+NA	Junagadh	GUJARAT	362720
+Velva
+NA	Junagadh	GUJARAT	362720
+Veraval Rayon Factory
+Patan-Veraval	Junagadh	GUJARAT	362266
+Veraval
+Patan-Veraval	Junagadh	GUJARAT	362265
+Veraval Udyognagar
+Patan-Veraval	Junagadh	GUJARAT	362269
+Vichhavad
+NA	Junagadh	GUJARAT	362020
+Vijapur
+NA	Junagadh	GUJARAT	362015
+Virdi
+NA	Junagadh	GUJARAT	362245
+Virpur
+NA	Junagadh	GUJARAT	362110
+Virpur
+NA	Junagadh	GUJARAT	362150
+Visanvel
+NA	Junagadh	GUJARAT	362250
+Visavadar
+NA	Junagadh	GUJARAT	362130
+Vithalpur
+NA	Junagadh	GUJARAT	362720
+Zampodad
+NA	Junagadh	GUJARAT	362610
+Zudvali
+Una	Junagadh	GUJARAT	362530
+Ajak
+Mangrol	Junagadh	GUJARAT	362240
+Ambalia
+Manavadar	Junagadh	GUJARAT	362625
+Antroli
+Mangrol	Junagadh	GUJARAT	362240
+Bagasara Ghed
+Mangrol	Junagadh	GUJARAT	362620
+Bamanvada
+Mangrol	Junagadh	GUJARAT	362240
+Bamnasa Ghed
+NA	Junagadh	GUJARAT	362625
+Bantwa
+NA	Junagadh	GUJARAT	362620
+Bantwa Subhash Road
+NA	Junagadh	GUJARAT	362620
+Bhalgam
+Manavadar	Junagadh	GUJARAT	362620
+Bhathrot
+Mangrol	Junagadh	GUJARAT	362620
+Bhindora
+Manavadar	Junagadh	GUJARAT	362640
+Buri
+Manavadar	Junagadh	GUJARAT	362630
+Chandvana
+Mangrol	Junagadh	GUJARAT	362225
+Chikhlodra
+Manavadar	Junagadh	GUJARAT	362650
+Chudva
+Manavadar	Junagadh	GUJARAT	362640
+Dadva
+Manavadar	Junagadh	GUJARAT	362620
+Deshinga
+Manavadar	Junagadh	GUJARAT	362620
+Dhelana
+Mangrol	Junagadh	GUJARAT	362225
+Divasa
+Mangrol	Junagadh	GUJARAT	362240
+Galvav
+Manavadar	Junagadh	GUJARAT	362630
+Ghodadar
+Porbandar	Junagadh	GUJARAT	362230
+Husenabad
+Mangrol	Junagadh	GUJARAT	362225
+Indra
+Manavadar	Junagadh	GUJARAT	362640
+Jambuda
+Manavadar	Junagadh	GUJARAT	362630
+Kalej
+Mangrol	Junagadh	GUJARAT	362240
+Khadia
+Manavadar	Junagadh	GUJARAT	362640
+Kodvav
+Manavadar	Junagadh	GUJARAT	362620
+Kotharia
+Manavadar	Junagadh	GUJARAT	362630
+Kothdi
+Manavadar	Junagadh	GUJARAT	362630
+Koylana Ghed
+Manavadar	Junagadh	GUJARAT	362630
+Limbuda
+Manavadar	Junagadh	GUJARAT	362620
+Loej
+Mangrol	Junagadh	GUJARAT	362225
+Maktupur
+Mangrol	Junagadh	GUJARAT	362225
+Manavadar
+Manavadar	Junagadh	GUJARAT	362630
+Mangrol Bazar
+Mangrol	Junagadh	GUJARAT	362225
+Mangrol Bundar
+Mangrol	Junagadh	GUJARAT	362226
+Mangrol Junagadh
+Mangrol	Junagadh	GUJARAT	362225
+Mankhetra
+Mangrol	Junagadh	GUJARAT	362225
+Marmath
+Manavadar	Junagadh	GUJARAT	362620
+Matiyana
+Manavadar	Junagadh	GUJARAT	362625
+Mekhdi
+Mangrol	Junagadh	GUJARAT	362240
+Miti
+Mangrol	Junagadh	GUJARAT	362620
+Nagichana
+Mangrol	Junagadh	GUJARAT	362240
+Nakra
+Manavadar	Junagadh	GUJARAT	362625
+Nanadarkhi
+Mangrol	Junagadh	GUJARAT	362240
+Nanadia
+Manavadar	Junagadh	GUJARAT	362625
+Nandarkha
+Manavadar	Junagadh	GUJARAT	362630
+Pajod
+Manavadar	Junagadh	GUJARAT	362620
+Rahij
+Mangrol	Junagadh	GUJARAT	362225
+Samarda
+Mangrol	Junagadh	GUJARAT	362230
+Samega
+Manavadar	Junagadh	GUJARAT	362620
+Sanosara
+Manavadar	Junagadh	GUJARAT	362630
+Sardargadh
+Manavadar	Junagadh	GUJARAT	362640
+Shardagram
+Mangrol	Junagadh	GUJARAT	362235
+Sharma
+Mangrol	Junagadh	GUJARAT	362230
+Sherdi
+Manavadar	Junagadh	GUJARAT	362640
+Sheriaj
+Mangrol	Junagadh	GUJARAT	362225
+Shil
+Mangrol	Junagadh	GUJARAT	362240
+Sitana
+Manavadar	Junagadh	GUJARAT	362625
+Sultanabad
+Manavadar	Junagadh	GUJARAT	362630
+Sultanpur
+Mangrol	Junagadh	GUJARAT	362225
+Talodra
+Mangrol	Junagadh	GUJARAT	362240
+Thaniyana
+Manavadar	Junagadh	GUJARAT	362640
+Tikar
+Vanthli	Junagadh	GUJARAT	362630
+Vadala Ghed
+Manavadar	Junagadh	GUJARAT	362625
+Vekri
+Manavadar	Junagadh	GUJARAT	362620
+Velva
+Manavadar	Junagadh	GUJARAT	362630
+Zinjri
+Manavadar	Junagadh	GUJARAT	362640
+

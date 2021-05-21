@@ -1,0 +1,1019 @@
+Ambawadi Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380006
+Ambli
+Daskroi	Ahmedabad	GUJARAT	380058
+Amraiwadi
+Ahmadabad City	Ahmedabad	GUJARAT	380026
+Anandnagar Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380007
+Asarwa Chakla
+Ahmadabad City	Ahmedabad	GUJARAT	380016
+Asarwa Ext South
+Ahmadabad City	Ahmedabad	GUJARAT	380024
+Ashram Road P.O
+City Ahmedabad	Ahmedabad	GUJARAT	380009
+Aslali
+Daskroi	Ahmedabad	GUJARAT	382427
+Azad Society
+Ahmadabad City	Ahmedabad	GUJARAT	380015
+Bakrol
+Dascroi	Ahmedabad	GUJARAT	382430
+Bakrol
+Dascroi	Ahmedabad	GUJARAT	382210
+Bapunagar
+Ahmadabad City	Ahmedabad	GUJARAT	380024
+Bareja Ahmedabad
+Dasroi	Ahmedabad	GUJARAT	382425
+Behrampura
+Ahmadabad City	Ahmedabad	GUJARAT	380022
+Bhairavnath Road
+Ahmadabad City	Ahmedabad	GUJARAT	380028
+Bhat
+Dascroi	Ahmedabad	GUJARAT	382210
+Bhavda
+Dascroi	Ahmedabad	GUJARAT	382433
+Bhuvaldi
+Dascroi	Ahmedabad	GUJARAT	382430
+Bilasia
+Daskroi	Ahmedabad	GUJARAT	382330
+Bodakdev
+Ahmadabad City	Ahmedabad	GUJARAT	380054
+Bopal
+Daskroi	Ahmedabad	GUJARAT	380058
+Calico Mills
+Ahmadabad City	Ahmedabad	GUJARAT	380022
+Cantonment
+Ahmadabad City	Ahmedabad	GUJARAT	380004
+Chandial
+Dascroi	Ahmedabad	GUJARAT	382433
+Chandkheda
+Gandhinagar	Ahmedabad	GUJARAT	382424
+Chandkheda Society Area
+Gandhinagar	Ahmedabad	GUJARAT	382424
+Chaulaj
+Daskroi	Ahmedabad	GUJARAT	382433
+Civil Hospital
+Ahmadabad City	Ahmedabad	GUJARAT	380016
+Ctm Char Rasta
+Ahmadabad City	Ahmedabad	GUJARAT	380026
+D Cabin
+Ahmadabad City	Ahmedabad	GUJARAT	380019
+Dariapur Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Darpan Society
+City Taluka	Ahmedabad	GUJARAT	380009
+Daxini Society
+Ahmadabad City	Ahmedabad	GUJARAT	380008
+Delhi Gate Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380004
+Dhamatvan
+Dascroi	Ahmedabad	GUJARAT	382435
+District Court Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Dudheshwar Tavdipura
+Ahmadabad City	Ahmedabad	GUJARAT	380004
+Ellisbridge
+Ahmadabad City	Ahmedabad	GUJARAT	380006
+Fatewadi
+Daskroi	Ahmedabad	GUJARAT	382210
+Gamdi
+Dascroi	Ahmedabad	GUJARAT	382435
+Gandhi Ashram Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380027
+Gandhi Road Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Geratpur
+Dascroi	Ahmedabad	GUJARAT	382435
+Ghatlodia
+Ahmadabad City	Ahmedabad	GUJARAT	380061
+Gheekanta Road
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Ghodasar Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380050
+Ghuma
+Daskroi	Ahmedabad	GUJARAT	380058
+Girdharnagar
+Ahmadabad City	Ahmedabad	GUJARAT	380004
+Girmatha
+Dascroi	Ahmedabad	GUJARAT	382425
+Gita Mandir Road
+Ahmadabad City	Ahmedabad	GUJARAT	380022
+Gomtipur
+Ahmadabad City	Ahmedabad	GUJARAT	380021
+Gujarat University
+Ahmadabad City	Ahmedabad	GUJARAT	380009
+Gyaspur
+Ahmadabad City	Ahmedabad	GUJARAT	382405
+Harniav
+Dascroi	Ahmedabad	GUJARAT	382435
+Hirapur
+Daskroi	Ahmedabad	GUJARAT	382435
+I E Bapunagar
+Ahmadabad City	Ahmedabad	GUJARAT	380024
+I I M
+Ahmadabad City	Ahmedabad	GUJARAT	380015
+Isanpur
+Ahmadabad City	Ahmedabad	GUJARAT	382443
+Jamalpur Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Jawahar Chowk
+Ahmadabad City	Ahmedabad	GUJARAT	380008
+Jetalpur
+Dascroi	Ahmedabad	GUJARAT	382427
+Jivraj Park
+Ahmadabad City	Ahmedabad	GUJARAT	380051
+Jodhpur Char Rasta
+Ahmadabad City	Ahmedabad	GUJARAT	380015
+Juhapura
+Ahmadabad City	Ahmedabad	GUJARAT	380055
+Kabir Chowk
+Ahmadabad City	Ahmedabad	GUJARAT	380005
+Kalupur Chakla
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Kanbha
+Daskroi	Ahmedabad	GUJARAT	382430
+Kaniyel
+Daskroi	Ahmedabad	GUJARAT	382433
+Kasindra
+Dhandhuka	Ahmedabad	GUJARAT	382210
+Kathwada
+Daskroi	Ahmedabad	GUJARAT	382430
+Kathwada Maize Product
+Ahmadabad City	Ahmedabad	GUJARAT	382430
+Khadia
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Khanpur Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Khodiyarnagar
+Ahmadabad City	Ahmedabad	GUJARAT	382350
+Khokhara Mehmadabad
+Ahmadabad City	Ahmedabad	GUJARAT	380008
+Kolat
+Sanand	Ahmedabad	GUJARAT	382210
+Krishnanagar Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	382345
+Kubadthal
+Daskroi	Ahmedabad	GUJARAT	382430
+Kubernagar B A
+Ahmadabad City	Ahmedabad	GUJARAT	382340
+Kubernagar
+Ahmadabad City	Ahmedabad	GUJARAT	382340
+Kuha
+Dascroi	Ahmedabad	GUJARAT	382433
+Kujad
+Daskroi	Ahmedabad	GUJARAT	382430
+L G Hospital
+Ahmadabad City	Ahmedabad	GUJARAT	380008
+Lal Darwaja
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Lambha
+Daskroi	Ahmedabad	GUJARAT	382405
+Limbadia
+Ahmadabad City	Ahmedabad	GUJARAT	382330
+M D Marg
+Ahmadabad City	Ahmedabad	GUJARAT	380022
+Madhupura Market
+Ahmadabad City	Ahmedabad	GUJARAT	380004
+Mahijada
+Dascroi	Ahmedabad	GUJARAT	382425
+Manek Chowk
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Manekbag
+Ahmadabad City	Ahmedabad	GUJARAT	380015
+Maninagar
+Ahmadabad City	Ahmedabad	GUJARAT	380008
+Medra
+Ahmadabad City	Ahmedabad	GUJARAT	382330
+Meghaningar
+Ahmadabad City	Ahmedabad	GUJARAT	380016
+Memnagar
+Ahmadabad City	Ahmedabad	GUJARAT	380052
+Miroli
+Dascroi	Ahmedabad	GUJARAT	382425
+Motera
+Ahmedabad	Ahmedabad	GUJARAT	380005
+Muktipur
+Daskroi	Ahmedabad	GUJARAT	382425
+Municipal Corporation
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+N C Market
+Ahmadabad City	Ahmedabad	GUJARAT	380002
+N C Mills
+Ahmadabad City	Ahmedabad	GUJARAT	382345
+Nana Chiloda
+Ahmadabad City	Ahmedabad	GUJARAT	382330
+Nandej
+Daskroi	Ahmedabad	GUJARAT	382435
+Naranpura Vistar
+Ahmadabad City	Ahmedabad	GUJARAT	380013
+Narayannagar
+Ahmadabad City	Ahmedabad	GUJARAT	380007
+Naroda I E
+Ahmedabad	Ahmedabad	GUJARAT	382330
+Naroda Road
+Ahmadabad City	Ahmedabad	GUJARAT	382345
+Naroda S A
+Ahmadabad City	Ahmedabad	GUJARAT	382330
+Naroda
+Ahmadabad City	Ahmedabad	GUJARAT	382330
+Narol
+Daskroi	Ahmedabad	GUJARAT	382405
+Nava Vadaj
+Ahmadabad City	Ahmedabad	GUJARAT	380013
+Navapura
+Sanand	Ahmedabad	GUJARAT	382210
+Navjivan
+Ahmadabad City	Ahmedabad	GUJARAT	380014
+Navrangpura
+Ahmadabad City	Ahmedabad	GUJARAT	380009
+Nikol
+Ahmedabad	Ahmedabad	GUJARAT	382350
+Noblenagar
+Ahmadabad City	Ahmedabad	GUJARAT	382340
+O N G C
+Ahmadabad City	Ahmedabad	GUJARAT	380005
+Ode
+Daskroi	Ahmedabad	GUJARAT	382427
+Odhav Industrial Estate
+Ahmadabad City	Ahmedabad	GUJARAT	382415
+Odhav
+Ahmadabad City	Ahmedabad	GUJARAT	382415
+Paldi Kankaj
+Dascroi	Ahmedabad	GUJARAT	382425
+Paldi Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380007
+Pardhol
+Daskroi	Ahmedabad	GUJARAT	382330
+Pasunj
+Daskroi	Ahmedabad	GUJARAT	382430
+Pirana
+Daskroi	Ahmedabad	GUJARAT	382425
+Polytechnic Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380015
+Public Office Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380016
+Raikhad
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Railway Colony Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380019
+Railwaypura
+Ahmadabad City	Ahmedabad	GUJARAT	380002
+Raipur Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Rajpur Gomtipur
+Ahmadabad City	Ahmedabad	GUJARAT	380021
+Rakhial
+Ahmadabad City	Ahmedabad	GUJARAT	380023
+Rakhial Udyog Vistar
+Ahmadabad City	Ahmedabad	GUJARAT	380023
+Ranip
+Ahmadabad City	Ahmedabad	GUJARAT	382480
+Ranodra
+Daskroi	Ahmedabad	GUJARAT	382433
+Revdibazar
+Ahmadabad City	Ahmedabad	GUJARAT	380002
+S A C
+Ahmadabad City	Ahmedabad	GUJARAT	380015
+S A Mills
+Ahmadabad City	Ahmedabad	GUJARAT	380008
+Sabarmati
+Ahmadabad City	Ahmedabad	GUJARAT	380005
+Saijpur
+Ahmadabad City	Ahmedabad	GUJARAT	382405
+Saijpur Bogha
+Ahmadabad City	Ahmedabad	GUJARAT	382345
+Sanathal
+Sanand	Ahmedabad	GUJARAT	382210
+Saraspur
+Ahmadabad City	Ahmedabad	GUJARAT	380018
+Sardarnagar
+Ahmadabad City	Ahmedabad	GUJARAT	382475
+Sarkhej Road
+Ahmadabad City	Ahmedabad	GUJARAT	380007
+Sarkhej
+Daskroi	Ahmedabad	GUJARAT	382210
+Shah Alam Roza
+Ahmadabad City	Ahmedabad	GUJARAT	380028
+Shahibag
+Ahmadabad City	Ahmedabad	GUJARAT	380004
+Shahpur Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380004
+Shahwadi
+Ahmadabad City	Ahmedabad	GUJARAT	382405
+Shardanagar
+Ahmadabad City	Ahmedabad	GUJARAT	380007
+Shastrinagar Ahmedabad
+Ahmadabad City	Ahmedabad	GUJARAT	380013
+Sola H B C
+Ahmadabad City	Ahmedabad	GUJARAT	380063
+Stadium Marg
+Ahmadabad City	Ahmedabad	GUJARAT	380013
+Sub Foreign
+Ahmadabad City	Ahmedabad	GUJARAT	380004
+Sukhrampura
+Ahmadabad City	Ahmedabad	GUJARAT	380023
+T B Nagar
+Ahmadabad City	Ahmedabad	GUJARAT	382350
+Telav
+Sanand	Ahmedabad	GUJARAT	382210
+Thaltej Road
+Ahmadabad City	Ahmedabad	GUJARAT	380054
+Timba
+Dascroi	Ahmedabad	GUJARAT	382425
+Undrel
+Daskroi	Ahmedabad	GUJARAT	382433
+Vadaj
+Ahmadabad City	Ahmedabad	GUJARAT	380013
+Vadod
+Daskroi	Ahmedabad	GUJARAT	382433
+Vasai
+Daskroi	Ahmedabad	GUJARAT	382425
+Vasisthnagar
+Ahmadabad City	Ahmedabad	GUJARAT	380008
+Vastral
+Daskroi	Ahmedabad	GUJARAT	382418
+Vatva
+Daskroi	Ahmedabad	GUJARAT	382440
+Vehlal
+Ahmedabad	Ahmedabad	GUJARAT	382330
+Vishalpur
+Daskroi	Ahmedabad	GUJARAT	382210
+Zanu
+Daskroi	Ahmedabad	GUJARAT	382430
+Ahmedabad G.P.O.
+Ahmadabad City	Ahmedabad	GUJARAT	380001
+Abasana
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Adroda
+Bavla	Ahmedabad	GUJARAT	382220
+Adval
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Akru
+Dhandhuka	Ahmedabad	GUJARAT	382250
+Alampur
+Ranpur	Ahmedabad	GUJARAT	382245
+Alau
+Ranpur	Ahmedabad	GUJARAT	382255
+Ambaliara
+Dholka	Ahmedabad	GUJARAT	382225
+Ambareli
+Dholka	Ahmedabad	GUJARAT	382225
+Ambli
+Dhandhuka	Ahmedabad	GUJARAT	382463
+Andej
+Sanand	Ahmedabad	GUJARAT	382115
+Aniali K
+Ranpur	Ahmedabad	GUJARAT	382245
+Aniali Bhimji
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Arnej
+Dholka	Ahmedabad	GUJARAT	382230
+Asalgam
+Viramgam	Ahmedabad	GUJARAT	382150
+Ashoknagar
+Detroj-rampura	Ahmedabad	GUJARAT	382140
+Badarkha
+Dholka	Ahmedabad	GUJARAT	382260
+Bagad
+Ranpur	Ahmedabad	GUJARAT	382255
+Bagodara
+Bavla	Ahmedabad	GUJARAT	382230
+Bajarda
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Bakrana
+Sanand	Ahmedabad	GUJARAT	382170
+Baldana
+Bavla	Ahmedabad	GUJARAT	382240
+Balsasan
+Detroj-rampura	Ahmedabad	GUJARAT	382145
+Bamroli
+Detrioj-rampura	Ahmedabad	GUJARAT	382145
+Bamsara
+Bavla	Ahmedabad	GUJARAT	382240
+Barwala Ghelasha
+Barwala	Ahmedabad	GUJARAT	382450
+Bavaliary
+Dhandhuka	Ahmedabad	GUJARAT	382455
+Bavla Market Yard
+Bavla	Ahmedabad	GUJARAT	382220
+Bavla
+Bavla	Ahmedabad	GUJARAT	382220
+Bhadaj
+Daskroi	Ahmedabad	GUJARAT	380060
+Bhadana
+Viramgam	Ahmedabad	GUJARAT	382140
+Bhadiad
+Dhandhuka	Ahmedabad	GUJARAT	382463
+Bhangadh
+Dhandhuka	Ahmedabad	GUJARAT	382455
+Bhankoda
+Detroj-rampura	Ahmedabad	GUJARAT	382140
+Bhayla
+Bavla	Ahmedabad	GUJARAT	382220
+Bhojwa
+Viramgam	Ahmedabad	GUJARAT	382150
+Bholad
+Dholka	Ahmedabad	GUJARAT	382230
+Bhoyani
+Detroj-rampura	Ahmedabad	GUJARAT	382145
+Bhurkhi
+Dholka	Ahmedabad	GUJARAT	382230
+Bodia
+Ranpur	Ahmedabad	GUJARAT	382245
+Bol
+Sanand	Ahmedabad	GUJARAT	382170
+Bordibazar Viramgam
+Viramgam	Ahmedabad	GUJARAT	382150
+Buranpur
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Chaloda
+Dholka	Ahmedabad	GUJARAT	382260
+Chandarva
+Dhandhuka	Ahmedabad	GUJARAT	382255
+Chandisar
+Dholka	Ahmedabad	GUJARAT	382260
+Chandlodia
+Gandhinagar	Ahmedabad	GUJARAT	382481
+Chandranagar
+Viramgam	Ahmedabad	GUJARAT	382150
+Changodar
+Sanand	Ahmedabad	GUJARAT	382213
+Charanki
+Ranpur	Ahmedabad	GUJARAT	382450
+Charel
+Sanand	Ahmedabad	GUJARAT	382110
+Chekhla
+Sanand	Ahmedabad	GUJARAT	382115
+Chhabasar
+Bavla	Ahmedabad	GUJARAT	382220
+Chhaniar
+Detroj- Rampura	Ahmedabad	GUJARAT	382140
+Chharodi
+Sanand	Ahmedabad	GUJARAT	382170
+Chhasiana
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Chiada
+Bavla	Ahmedabad	GUJARAT	382220
+Chokdi
+Barwala	Ahmedabad	GUJARAT	382250
+Chuval Dangarva
+Detroj Rampura	Ahmedabad	GUJARAT	382145
+Dabhsar
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Dadhana
+Mandal	Ahmedabad	GUJARAT	382120
+Daduka
+Sannad	Ahmedabad	GUJARAT	382110
+Dadusar
+Dholka	Ahmedabad	GUJARAT	382225
+Dalod
+Mandal	Ahmedabad	GUJARAT	382130
+Daran
+Sanand	Ahmedabad	GUJARAT	382220
+Daslana
+Viramgam	Ahmedabad	GUJARAT	382150
+Dehgamda
+Bavla	Ahmedabad	GUJARAT	382220
+Dekawada
+Detroj Rampura	Ahmedabad	GUJARAT	382120
+Deo Dholera
+Bavla	Ahmedabad	GUJARAT	382240
+Detroj
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Devaliya
+Ranpur	Ahmedabad	GUJARAT	382245
+Devpura
+Viramgam	Ahmedabad	GUJARAT	382140
+Devtimoti
+Sanand	Ahmedabad	GUJARAT	382213
+Dhakdi
+Viramgam	Ahmedabad	GUJARAT	382150
+Dhanala
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Dhandhuka
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Dhanwada
+Bavla	Ahmedabad	GUJARAT	382220
+Dharpipla
+Ranpur	Ahmedabad	GUJARAT	382245
+Dhedasana
+Mandal	Ahmedabad	GUJARAT	382130
+Dhingada
+Bavla	Ahmedabad	GUJARAT	382230
+Dholera
+Dhandhuka	Ahmedabad	GUJARAT	382455
+Dholi
+Dholka	Ahmedabad	GUJARAT	382240
+Dholka
+Dholka	Ahmedabad	GUJARAT	382225
+Digvijaynagar
+Ahmadabad City	Ahmedabad	GUJARAT	382470
+Dodar
+Sanand	Ahmedabad	GUJARAT	382170
+Dumana
+Viramgam	Ahmedabad	GUJARAT	382150
+Durgi
+Bavla	Ahmedabad	GUJARAT	382230
+Endla
+Mandal	Ahmedabad	GUJARAT	382130
+Fangadi
+Sanand	Ahmedabad	GUJARAT	382110
+Fatepur
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Fedra
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Galsana
+Dhandhuka	Ahmedabad	GUJARAT	382245
+Gamanpura
+Detroj- Rampura	Ahmedabad	GUJARAT	382120
+Gamph
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Gangad
+Bavla	Ahmedabad	GUJARAT	382240
+Ganol
+Dholka	Ahmedabad	GUJARAT	382265
+Garodia
+Sanand	Ahmedabad	GUJARAT	382115
+Gatrad
+Dascroi	Ahmedabad	GUJARAT	382449
+Ghatisana
+Detroj- Rampura	Ahmedabad	GUJARAT	382140
+Ghoda
+Viramgam	Ahmedabad	GUJARAT	382150
+Godhavata
+Ranpur	Ahmedabad	GUJARAT	382255
+Godhavi
+Sanand	Ahmedabad	GUJARAT	382115
+Gogla
+Dhandhuka	Ahmedabad	GUJARAT	382463
+Goraiya
+Viramgam	Ahmedabad	GUJARAT	382150
+Goraj
+Sanand	Ahmedabad	GUJARAT	382110
+Gorasu
+Dhandhuka	Ahmedabad	GUJARAT	382463
+Gota
+Daskroi	Ahmedabad	GUJARAT	382481
+Gunda
+Ranpur	Ahmedabad	GUJARAT	382255
+Gundi Sarvodaya Ashram
+Dholka	Ahmedabad	GUJARAT	382230
+Gunjala
+Detroj Rampura	Ahmedabad	GUJARAT	382120
+Gunjar
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Hansalpur
+Viramgam	Ahmedabad	GUJARAT	382150
+Hathijan
+Daskroi	Ahmedabad	GUJARAT	382445
+Hebatpur
+Barwala	Ahmedabad	GUJARAT	382455
+Hirapura
+Viramgam	Ahmedabad	GUJARAT	382150
+Iawa Vasna
+Sanand	Ahmedabad	GUJARAT	382170
+Ingoli
+Dholka	Ahmedabad	GUJARAT	382265
+Jagatpur
+Dascroi	Ahmedabad	GUJARAT	382470
+Jakhada
+Dholka	Ahmedabad	GUJARAT	382230
+Jakwada
+Viramgam	Ahmedabad	GUJARAT	382150
+Jalalpur Vajifa
+Dholka	Ahmedabad	GUJARAT	382225
+Jalampur
+Viramgam	Ahmedabad	GUJARAT	382150
+Jalila
+Ranpur	Ahmedabad	GUJARAT	382255
+Jalisana
+Mandal	Ahmedabad	GUJARAT	382120
+Jaliya
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Jamp
+Sanand	Ahmedabad	GUJARAT	382110
+Jantanagar
+Daskroi	Ahmedabad	GUJARAT	382449
+Jawaraj
+Dholka	Ahmedabad	GUJARAT	382230
+Jeska
+Dhandhuka	Ahmedabad	GUJARAT	382250
+Jholapur
+Sanand	Ahmedabad	GUJARAT	382170
+Joshipura
+Viramgam	Ahmedabad	GUJARAT	382150
+Junapadhar
+Viramgam	Ahmedabad	GUJARAT	382150
+Juval
+Sanand	Ahmedabad	GUJARAT	382220
+Juval Rupavati
+Bavla	Ahmedabad	GUJARAT	382220
+Kadipur
+Dhandhuka	Ahmedabad	GUJARAT	382463
+Kadvasan
+Mandal	Ahmedabad	GUJARAT	382130
+Kalana
+Sanand	Ahmedabad	GUJARAT	382170
+Kali
+Ahmadabad City	Ahmedabad	GUJARAT	382470
+Kalyangadh
+Bavla	Ahmedabad	GUJARAT	382240
+Kamiala
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Kamijala
+Viramgam	Ahmedabad	GUJARAT	382150
+Kaneti
+Sanand	Ahmedabad	GUJARAT	382110
+Kankravadi
+Viramgam	Ahmedabad	GUJARAT	382150
+Kanz
+Detroj-rampura	Ahmedabad	GUJARAT	382140
+Karakthal
+Viramgam	Ahmedabad	GUJARAT	382150
+Kasindra
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Katosan Road
+Detroj-Rampura	Ahmedabad	GUJARAT	382145
+Kauka
+Dholka	Ahmedabad	GUJARAT	382265
+Kavitha
+Bavla	Ahmedabad	GUJARAT	382260
+Kelia Vasna
+Dholka	Ahmedabad	GUJARAT	382225
+Kerala
+Bavla	Ahmedabad	GUJARAT	382220
+Keria
+Ranpur	Ahmedabad	GUJARAT	382245
+Kesardi
+Bavla	Ahmedabad	GUJARAT	382240
+Khadol
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Khambhada
+Barwala	Ahmedabad	GUJARAT	382450
+Khamidana
+Barwala	Ahmedabad	GUJARAT	382450
+Khandachora Dhandhuka
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Kharad
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Kharakuva Dholka
+Dholka	Ahmedabad	GUJARAT	382225
+Khas
+Ranpur	Ahmedabad	GUJARAT	382255
+Khasta
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Khoda
+Sanand	Ahmedabad	GUJARAT	382170
+Khodiyar
+Daskroi	Ahmedabad	GUJARAT	382421
+Khokarnesh
+Ranpur	Ahmedabad	GUJARAT	382245
+Khorajnanoda
+Sanand	Ahmedabad	GUJARAT	382170
+Khudad
+Viramgam	Ahmedabad	GUJARAT	382150
+Khun
+Dhandhuka	Ahmedabad	GUJARAT	382455
+Kocharia
+Bavla	Ahmedabad	GUJARAT	382220
+Kointia
+Detroj-rampura	Ahmedabad	GUJARAT	382140
+Kokta
+Viramgam	Ahmedabad	GUJARAT	382150
+Koth
+Dholka	Ahmedabad	GUJARAT	382240
+Kothadia
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Kukvav
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Kumarkhan
+Viramgam	Ahmedabad	GUJARAT	382150
+Kundal
+Sanand	Ahmedabad	GUJARAT	382110
+Kundal
+Barwala	Ahmedabad	GUJARAT	382450
+Kundli
+Ranpur	Ahmedabad	GUJARAT	382245
+Kunpur
+Mandal	Ahmedabad	GUJARAT	382130
+Kunvar
+Sanand	Ahmedabad	GUJARAT	382110
+Lapkaman
+Daskroi	Ahmedabad	GUJARAT	380060
+Loliya
+Dholka	Ahmedabad	GUJARAT	382465
+Lothal Bhurkhi RS
+Dholka	Ahmedabad	GUJARAT	382230
+Madrisana
+Detroj-rampura	Ahmedabad	GUJARAT	382145
+Makhiav
+Sanand	Ahmedabad	GUJARAT	382110
+Mandal Ahmedabad
+Mandal	Ahmedabad	GUJARAT	382130
+Manipur
+Viramgam	Ahmedabad	GUJARAT	382150
+Mankol
+Sanand	Ahmedabad	GUJARAT	382110
+Marusana
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Matoda
+Sanand	Ahmedabad	GUJARAT	382213
+Melaj
+Viramgam	Ahmedabad	GUJARAT	382150
+Mingalpur
+Dhandhuka	Ahmedabad	GUJARAT	382455
+Mithapur
+Bavla	Ahmedabad	GUJARAT	382230
+Modasar
+Sanand	Ahmedabad	GUJARAT	382220
+Moraiya
+Sanand	Ahmedabad	GUJARAT	382213
+Mota Tradia
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Moti Kishol
+Viramgam	Ahmedabad	GUJARAT	382110
+Moti Boru
+Dholka	Ahmedabad	GUJARAT	382230
+Moti Rantai
+Detroj-rampura	Ahmedabad	GUJARAT	382145
+Moti Vavdi
+Ranpur	Ahmedabad	GUJARAT	382255
+Nadishala
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Nana Ubhada
+Mandal	Ahmedabad	GUJARAT	382130
+Nani Boru
+Dholka	Ahmedabad	GUJARAT	382230
+Nani Devti
+Sanand	Ahmedabad	GUJARAT	382220
+Nani Vavdi
+Ranpur	Ahmedabad	GUJARAT	382245
+Nanodara
+Bavla	Ahmedabad	GUJARAT	382220
+Navagam
+Mandal	Ahmedabad	GUJARAT	382130
+Navda
+Barwala	Ahmedabad	GUJARAT	382450
+Nayakpur
+Mandal	Ahmedabad	GUJARAT	382130
+Nedharad
+Sanand	Ahmedabad	GUJARAT	382115
+Nesda
+Dholka	Ahmedabad	GUJARAT	382225
+Nirnaynagar
+Ahmadabad City	Ahmedabad	GUJARAT	382481
+Odhav
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Ogan
+Viramgam	Ahmedabad	GUJARAT	382150
+Ognaj
+Daskroi	Ahmedabad	GUJARAT	380060
+Otaria
+Dhandhuka	Ahmedabad	GUJARAT	382463
+Otaria Sarvodaya Ashram
+Dhandhuka	Ahmedabad	GUJARAT	382463
+Padana
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Panar
+Detroj-rampura	Ahmedabad	GUJARAT	382140
+Panchham
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Panchhi
+Dhandhuka	Ahmedabad	GUJARAT	382455
+Pandharpura
+Detroj-Rampura	Ahmedabad	GUJARAT	382140
+Parabadi
+Dhandhuka	Ahmedabad	GUJARAT	382250
+Pimpan
+Sanand	Ahmedabad	GUJARAT	382110
+Piplaj
+Dehgam	Ahmedabad	GUJARAT	382315
+Pipli
+Dhandhuka	Ahmedabad	GUJARAT	382465
+Pisawada
+Dholka	Ahmedabad	GUJARAT	382265
+Polarpur
+Barwala	Ahmedabad	GUJARAT	382250
+Rahemalpur
+Viramgam	Ahmedabad	GUJARAT	382150
+Rajoda
+Bavla	Ahmedabad	GUJARAT	382220
+Rajpura
+Ranpur	Ahmedabad	GUJARAT	382245
+Rakhiana
+Mandal	Ahmedabad	GUJARAT	382130
+Ramol
+Daskroi	Ahmedabad	GUJARAT	382449
+Rampur
+Dholka	Ahmedabad	GUJARAT	382225
+Rampura
+Barwala	Ahmedabad	GUJARAT	382450
+Rampura Ahmedabad
+Detroj-rampura	Ahmedabad	GUJARAT	382140
+Ranesar
+Bavla	Ahmedabad	GUJARAT	382220
+Rangpur
+Viramgam	Ahmedabad	GUJARAT	382150
+Ranoda
+Dholka	Ahmedabad	GUJARAT	382225
+Ranpur
+Ranpur	Ahmedabad	GUJARAT	382245
+Rasam
+Bavla	Ahmedabad	GUJARAT	382220
+Rayka
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Refda
+Barwala	Ahmedabad	GUJARAT	382255
+Rethal
+Sanand	Ahmedabad	GUJARAT	382110
+Ribadi
+Mandal	Ahmedabad	GUJARAT	382130
+Rohika
+Bavla	Ahmedabad	GUJARAT	382230
+Rojid
+Barwala	Ahmedabad	GUJARAT	382450
+Rojka
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Rudatal
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Rupal
+Bavla	Ahmedabad	GUJARAT	382220
+Rupgadh
+Dholka	Ahmedabad	GUJARAT	382240
+Sachana
+Viramgam	Ahmedabad	GUJARAT	382150
+Sadatpura
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Sahij
+Dholka	Ahmedabad	GUJARAT	382225
+Saiwada
+Dholka	Ahmedabad	GUJARAT	382225
+Salajada
+Bavla	Ahmedabad	GUJARAT	382220
+Salangpur Hanuman
+Barwala	Ahmedabad	GUJARAT	382450
+Salasar
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Sanand
+Sanand	Ahmedabad	GUJARAT	382110
+Sandhida
+Dhandhuka	Ahmedabad	GUJARAT	382455
+Sangasar
+Barwala	Ahmedabad	GUJARAT	382463
+Sangpura
+Detroj-rampura	Ahmedabad	GUJARAT	382120
+Sankod
+Bavla	Ahmedabad	GUJARAT	382220
+Sarandi
+Dholka	Ahmedabad	GUJARAT	382225
+Sargwala
+Dholka	Ahmedabad	GUJARAT	382230
+Sari
+Sanand	Ahmedabad	GUJARAT	382220
+Saroda
+Dholka	Ahmedabad	GUJARAT	382260
+Sarsavadi
+Viramgam	Ahmedabad	GUJARAT	382150
+Sathal
+Dholka	Ahmedabad	GUJARAT	382225
+Shahpur
+Barwala	Ahmedabad	GUJARAT	382250
+Shahpur
+Viramgam	Ahmedabad	GUJARAT	382150
+Sher
+Mandal	Ahmedabad	GUJARAT	382130
+Sherpura
+Dholka	Ahmedabad	GUJARAT	382225
+Shilaj
+Daskroi	Ahmedabad	GUJARAT	380059
+Shivpura
+Viramgam	Ahmedabad	GUJARAT	382140
+Shiyal
+Bavla	Ahmedabad	GUJARAT	382230
+Siawada
+Sanand	Ahmedabad	GUJARAT	382170
+Sihor
+Detroj-rampura	Ahmedabad	GUJARAT	382140
+Simej
+Dholka	Ahmedabad	GUJARAT	382265
+Sinaj
+Mandal	Ahmedabad	GUJARAT	382120
+Sindharej
+Dholka	Ahmedabad	GUJARAT	382225
+Sitapur
+Mandal	Ahmedabad	GUJARAT	382130
+Sobhasan
+Detroj-rampura	Ahmedabad	GUJARAT	382145
+Sodhi
+Barwala	Ahmedabad	GUJARAT	382463
+Sola
+Ahmedabad	Ahmedabad	GUJARAT	380060
+Solgam
+Mandal	Ahmedabad	GUJARAT	382130
+Sunderiana
+Ranpur	Ahmedabad	GUJARAT	382255
+Sunvala
+Detroj-rampura	Ahmedabad	GUJARAT	382145
+Tagadi
+Dhandhuka	Ahmedabad	GUJARAT	382250
+Telavi
+Detroj-rampura	Ahmedabad	GUJARAT	382145
+Thaltej
+Daskroi	Ahmedabad	GUJARAT	380059
+Thori Mubarak
+Viramgam	Ahmedabad	GUJARAT	382150
+Thori Thumbha
+Viramgam	Ahmedabad	GUJARAT	382150
+Thuleta
+Viramgam	Ahmedabad	GUJARAT	382150
+Tragad
+Ahmedabad City	Ahmedabad	GUJARAT	382470
+Transad
+Dholka	Ahmedabad	GUJARAT	382225
+Trent
+Mandal	Ahmedabad	GUJARAT	382150
+Ughroj
+Mandal	Ahmedabad	GUJARAT	382120
+Ukardi
+Mandal	Ahmedabad	GUJARAT	382140
+Ukhlod
+Viramgam	Ahmedabad	GUJARAT	382150
+Umrela
+Ranpur	Ahmedabad	GUJARAT	382245
+Unchadi
+Dhandhuka	Ahmedabad	GUJARAT	382250
+Upardal
+Sanand	Ahmedabad	GUJARAT	382110
+Utelia
+Dholka	Ahmedabad	GUJARAT	382230
+Vadgas
+Viramgam	Ahmedabad	GUJARAT	382150
+Vadhela
+Barwala	Ahmedabad	GUJARAT	382450
+Vagad
+Dhandhuka	Ahmedabad	GUJARAT	382245
+Valdhera
+Dholka	Ahmedabad	GUJARAT	382225
+Valhia
+Barwala	Ahmedabad	GUJARAT	382450
+Valinda
+Dhandhuka	Ahmedabad	GUJARAT	382463
+Vanch
+Daskroi	Ahmedabad	GUJARAT	382449
+Vani
+Viramgam	Ahmedabad	GUJARAT	382150
+Vanpardi
+Mandal	Ahmedabad	GUJARAT	382130
+Vansva
+Viramgam	Ahmedabad	GUJARAT	382150
+Vanthal
+Viramgam	Ahmedabad	GUJARAT	382150
+Varmor
+Mandal	Ahmedabad	GUJARAT	382130
+Varna
+Dholka	Ahmedabad	GUJARAT	382265
+Vasna Iawa
+Sanand	Ahmedabad	GUJARAT	382170
+Vasna Chacharvadi
+Sanand	Ahmedabad	GUJARAT	382213
+Vasna
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Vataman
+Dholka	Ahmedabad	GUJARAT	382265
+Vatva Industrial Estate
+Daskroi	Ahmedabad	GUJARAT	382445
+Vautha
+Dholka	Ahmedabad	GUJARAT	382225
+Vejalka
+Dholka	Ahmedabad	GUJARAT	382230
+Vekaria
+Viramgam	Ahmedabad	GUJARAT	382110
+Vinchhan
+Mandal	Ahmedabad	GUJARAT	382120
+Vinchhiya
+Sanand	Ahmedabad	GUJARAT	382110
+Vinzol
+Daskroi	Ahmedabad	GUJARAT	382445
+Vinzuvada
+Mandal	Ahmedabad	GUJARAT	382130
+Viramgam
+Viramgam	Ahmedabad	GUJARAT	382150
+Virdi
+Dholka	Ahmedabad	GUJARAT	382265
+Virochannagar
+Sanand	Ahmedabad	GUJARAT	382170
+Vithlpura
+Mandal	Ahmedabad	GUJARAT	382120
+VivekanandNagar
+Daskroi	Ahmedabad	GUJARAT	382445
+Zanzarka
+Dhandhuka	Ahmedabad	GUJARAT	382460
+Zanzarva
+Mandal	Ahmedabad	GUJARAT	382120
+Zezra
+Viramgam	Ahmedabad	GUJARAT	382150
+Zinzar
+Dhandhuka	Ahmedabad	GUJARAT	382250
+Ambalia
+NA	Ahmedabad	GUJARAT	383345
+

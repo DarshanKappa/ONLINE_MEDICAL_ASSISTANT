@@ -1,0 +1,667 @@
+Adol
+Bharuch	Bharuch	GUJARAT	392240
+Advala
+Amod	Bharuch	GUJARAT	392110
+Akod
+Vagra	Bharuch	GUJARAT	392130
+Alonj
+Anklesvar	Bharuch	GUJARAT	394115
+Amanpur
+Jambusar	Bharuch	GUJARAT	392150
+Ambagam
+Jhagadia	Bharuch	GUJARAT	393025
+Ambawadi Bharuch
+Dediapada	Bharuch	GUJARAT	393041
+Ambheta
+Vagra	Bharuch	GUJARAT	392130
+Ambheta
+Hansot	Bharuch	GUJARAT	393030
+Ambos
+Jhagadia	Bharuch	GUJARAT	393110
+Amleshwar
+Hansot	Bharuch	GUJARAT	392012
+Amod
+Amod	Bharuch	GUJARAT	392110
+Anadhara
+Jhagadia	Bharuch	GUJARAT	393110
+Andada
+Anklesvar	Bharuch	GUJARAT	393010
+Anjoli
+Jhagadia	Bharuch	GUJARAT	393130
+Ankalva
+Hansot	Bharuch	GUJARAT	393030
+Ankleshwar RS
+Anklesvar	Bharuch	GUJARAT	393001
+Ankleshwar
+Ankleshwar	Bharuch	GUJARAT	393001
+Anor
+Amod	Bharuch	GUJARAT	392025
+Argama
+Vagra	Bharuch	GUJARAT	392012
+Asarma
+Hansot	Bharuch	GUJARAT	394810
+Asha
+Jhagadia	Bharuch	GUJARAT	393120
+Asta
+Hansot	Bharuch	GUJARAT	393030
+Atali
+Vagra	Bharuch	GUJARAT	392130
+Atkhol
+Valia	Bharuch	GUJARAT	393130
+Avadar
+Anklesvar	Bharuch	GUJARAT	393001
+Avidha
+Jhagadia	Bharuch	GUJARAT	393017
+Badodara
+Hansot	Bharuch	GUJARAT	393030
+Bahruch City
+Bahruch	Bharuch	GUJARAT	392001
+Bahruch R.S
+Bharuch	Bharuch	GUJARAT	392001
+Baladva
+Valia	Bharuch	GUJARAT	393130
+Bhadbhut
+Bharuch	Bharuch	GUJARAT	392012
+Bhadi
+Anklesvar	Bharuch	GUJARAT	394115
+Bhadkodra
+Jambusar	Bharuch	GUJARAT	392155
+Bhamadia
+Valia	Bharuch	GUJARAT	393125
+Bharadia
+Valia	Bharuch	GUJARAT	393135
+Bharthana
+Bharuch	Bharuch	GUJARAT	392210
+Bharuch
+Bharuch	Bharuch	GUJARAT	392001
+Bhenskhetar
+Valia	Bharuch	GUJARAT	393135
+Bhilod
+Valia	Bharuch	GUJARAT	393135
+Bhodar
+Jambusar	Bharuch	GUJARAT	392150
+Bhuva
+Amod	Bharuch	GUJARAT	392110
+Bhuva
+Bharuch	Bharuch	GUJARAT	392012
+Bilothi
+Valia	Bharuch	GUJARAT	393130
+Boidra
+Anklesvar	Bharuch	GUJARAT	393001
+Bojadra
+Jambusar	Bharuch	GUJARAT	392150
+Borbhathabet
+Anklesvar	Bharuch	GUJARAT	393001
+Chaklad
+Amod	Bharuch	GUJARAT	392035
+Chancvel
+Vagra	Bharuch	GUJARAT	392140
+Chandravan
+Valia	Bharuch	GUJARAT	393130
+Chasvad
+Valia	Bharuch	GUJARAT	393130
+Chhidra
+Jambusar	Bharuch	GUJARAT	392155
+Chikhli
+Valia	Bharuch	GUJARAT	393135
+Dabhali
+Jambusar	Bharuch	GUJARAT	392210
+Dadhal
+Jhagadia	Bharuch	GUJARAT	393001
+Dadheda
+Jhagadia	Bharuch	GUJARAT	393110
+Dahej
+Vagra	Bharuch	GUJARAT	392130
+Danda
+Amod	Bharuch	GUJARAT	392230
+Dashan
+Bharuch	Bharuch	GUJARAT	392012
+Dattanagar
+Bharuch	Bharuch	GUJARAT	393130
+Dayadra
+Bharuch	Bharuch	GUJARAT	392020
+Dediapada
+Dediapada	Bharuch	GUJARAT	393040
+Dehali
+Valia	Bharuch	GUJARAT	393125
+Dehgam
+Bharuch	Bharuch	GUJARAT	392012
+Dehgam
+Jambusar	Bharuch	GUJARAT	392170
+Derol
+Bharuch	Bharuch	GUJARAT	392020
+Desad
+Valia	Bharuch	GUJARAT	393135
+Devla
+Jambusar	Bharuch	GUJARAT	392040
+Dhamrad
+Hansot	Bharuch	GUJARAT	394810
+Dhanturia
+Anklesvar	Bharuch	GUJARAT	393020
+Dharoli
+Jhagadia	Bharuch	GUJARAT	393110
+Dholgam
+Valia	Bharuch	GUJARAT	393135
+Digas
+Hansot	Bharuch	GUJARAT	393030
+Diwa
+Anklesvar	Bharuch	GUJARAT	393001
+Dolatpur
+Valia	Bharuch	GUJARAT	393135
+Dolia
+Jambusar	Bharuch	GUJARAT	392150
+Dora
+Amod	Bharuch	GUJARAT	392230
+Dungari
+Valia	Bharuch	GUJARAT	393135
+Eksal
+Vagra	Bharuch	GUJARAT	392130
+Gajera
+Jambusar	Bharuch	GUJARAT	391810
+Galenda
+Vagra	Bharuch	GUJARAT	392130
+Gandhar
+Vagra	Bharuch	GUJARAT	392140
+Gayatri Nagar
+Bharuch	Bharuch	GUJARAT	392001
+Ghamnad
+Amod	Bharuch	GUJARAT	392025
+Ghodadra
+Anklesvar	Bharuch	GUJARAT	394115
+Goladra
+Vagra	Bharuch	GUJARAT	392165
+Gora Colony
+Nandod	Bharuch	GUJARAT	393155
+Goratia
+Jhagadia	Bharuch	GUJARAT	393115
+Govali
+Anklesvar	Bharuch	GUJARAT	393001
+Goya Bazar
+Anklesvar	Bharuch	GUJARAT	393001
+Gundecha
+Jhagadia	Bharuch	GUJARAT	393110
+Gundia
+Valia	Bharuch	GUJARAT	393125
+Hajat
+Anklesvar	Bharuch	GUJARAT	393020
+Hajikhana Bazar
+Bharuch	Bharuch	GUJARAT	392001
+Haldar
+Bharuch	Bharuch	GUJARAT	392210
+Haldarva
+Bharuch	Bharuch	GUJARAT	392011
+Hansot
+Hansot	Bharuch	GUJARAT	393030
+Haripura
+Jhagadia	Bharuch	GUJARAT	393120
+Hingalla
+Bharuch	Bharuch	GUJARAT	392210
+Hinglot
+Bharuch	Bharuch	GUJARAT	392012
+Ikhar
+Amod	Bharuch	GUJARAT	392230
+Ilav
+Hansot	Bharuch	GUJARAT	394810
+Islampur
+Jambusar	Bharuch	GUJARAT	392040
+Itakla
+Valia	Bharuch	GUJARAT	393125
+Itola
+Amod	Bharuch	GUJARAT	392110
+Jabugam
+Valia	Bharuch	GUJARAT	393125
+Jambusar
+Jambusar	Bharuch	GUJARAT	392150
+Janiadra
+Vagra	Bharuch	GUJARAT	392165
+Janor
+Bharuch	Bharuch	GUJARAT	392210
+Jantran
+Jambusar	Bharuch	GUJARAT	392155
+Jhagadia
+Jhagadia	Bharuch	GUJARAT	393110
+Jhangar
+Bharuch	Bharuch	GUJARAT	392210
+Jitali
+Anklesvar	Bharuch	GUJARAT	393001
+Jolva
+Vagra	Bharuch	GUJARAT	392135
+Kabirgam
+Valia	Bharuch	GUJARAT	393135
+Kadodara
+Vagra	Bharuch	GUJARAT	392165
+Kadvali
+Jhagadia	Bharuch	GUJARAT	393115
+Kahan
+Bharuch	Bharuch	GUJARAT	392240
+Kahanva
+Anklesvar	Bharuch	GUJARAT	391810
+Kakdapada
+Jhagadia	Bharuch	GUJARAT	392020
+Kaladra
+Bharuch	Bharuch	GUJARAT	392130
+Kalak
+Jambusar	Bharuch	GUJARAT	392150
+Kalam
+Hansot	Bharuch	GUJARAT	393030
+Kalam
+Vagra	Bharuch	GUJARAT	392140
+Kaliari
+Jambusar	Bharuch	GUJARAT	392155
+Kamalia
+Valia	Bharuch	GUJARAT	393135
+Kambodia
+Jhagadia	Bharuch	GUJARAT	393130
+Kamboli
+Bharuch	Bharuch	GUJARAT	392220
+Kansia
+Anklesvar	Bharuch	GUJARAT	393010
+Kantharia
+Bharuch	Bharuch	GUJARAT	392015
+Kantiajal
+Hansot	Bharuch	GUJARAT	393030
+Kantipada
+Hansot	Bharuch	GUJARAT	393130
+Kapalsadi
+Anklesvar	Bharuch	GUJARAT	393001
+Kapodra
+Anklesvar	Bharuch	GUJARAT	393001
+Karavel
+Anklesvar	Bharuch	GUJARAT	393001
+Karela
+Vagra	Bharuch	GUJARAT	392025
+Kareli
+Jambusar	Bharuch	GUJARAT	393151
+Kareli
+Jambusar	Bharuch	GUJARAT	391810
+Karena
+Amod	Bharuch	GUJARAT	392230
+Karjan
+Amod	Bharuch	GUJARAT	392210
+Karmad
+Bharuch	Bharuch	GUJARAT	392150
+Karmad
+Bharuch	Bharuch	GUJARAT	392160
+Kasad
+Bharuch	Bharuch	GUJARAT	392020
+Katpor
+Hansot	Bharuch	GUJARAT	393030
+Kava
+Jambusar	Bharuch	GUJARAT	392150
+Kavachia
+Jhagadia	Bharuch	GUJARAT	393130
+Kavi
+Jambusar	Bharuch	GUJARAT	392170
+Kavitha
+Bharuch	Bharuch	GUJARAT	392210
+Kavli
+Jambusar	Bharuch	GUJARAT	392180
+Kelod
+Bharuch	Bharuch	GUJARAT	392020
+Kervada
+Jambusar	Bharuch	GUJARAT	392025
+Keshlu
+Jambusar	Bharuch	GUJARAT	392025
+Keshwan
+Vagra	Bharuch	GUJARAT	392140
+Khanpurdeh
+Jambusar	Bharuch	GUJARAT	392150
+Kharchi
+Anklesvar	Bharuch	GUJARAT	393001
+Khardipada
+Jhagadia	Bharuch	GUJARAT	393130
+Kharetha
+Jhagadia	Bharuch	GUJARAT	393130
+Kharod
+Anklesvar	Bharuch	GUJARAT	394115
+Khojbal
+Vagra	Bharuch	GUJARAT	392130
+Kimoj
+Jambusar	Bharuch	GUJARAT	392170
+Kishnad
+Bharuch	Bharuch	GUJARAT	392220
+Kobla
+Jambusar	Bharuch	GUJARAT	392035
+Kolavana
+Vagra	Bharuch	GUJARAT	392140
+Kolvan
+Amod	Bharuch	GUJARAT	393025
+Kondh
+Anklesvar	Bharuch	GUJARAT	393001
+Kora Bharuch
+Jambusar	Bharuch	GUJARAT	392155
+Kosamdi
+Anklesvar	Bharuch	GUJARAT	393001
+Kothi
+Vagra	Bharuch	GUJARAT	392020
+Kothi
+Jambusar	Bharuch	GUJARAT	393151
+Kothi Vantarsa
+Bharuch	Bharuch	GUJARAT	392220
+Kudadra
+Hansot	Bharuch	GUJARAT	393030
+Kurchan
+Jambusar	Bharuch	GUJARAT	392025
+Kurla
+Bharuch	Bharuch	GUJARAT	392160
+Kuvadar
+Bharuch	Bharuch	GUJARAT	392210
+L.B.Chakla
+Bharuch	Bharuch	GUJARAT	392001
+Lakhigam
+Jhagadia	Bharuch	GUJARAT	392130
+Limdi
+Jambusar	Bharuch	GUJARAT	392165
+Limdi
+Jambusar	Bharuch	GUJARAT	393155
+Limet
+Valia	Bharuch	GUJARAT	393135
+Limodra
+Jhagadia	Bharuch	GUJARAT	393110
+Luna
+Valia	Bharuch	GUJARAT	393135
+Luvara
+Amod	Bharuch	GUJARAT	392210
+Madafar
+Jambusar	Bharuch	GUJARAT	392040
+Magnad
+Jambusar	Bharuch	GUJARAT	392150
+Mahudhala
+Vagra	Bharuch	GUJARAT	392020
+Maktampur
+Bharuch	Bharuch	GUJARAT	392012
+Malanpur
+Hansot	Bharuch	GUJARAT	393030
+Malpur
+Jambusar	Bharuch	GUJARAT	392155
+Manchhasara
+Jambusar	Bharuch	GUJARAT	392110
+Mandala
+Jambusar	Bharuch	GUJARAT	393130
+Mandvabuzarg
+Anklesvar	Bharuch	GUJARAT	393001
+Mangleshwar
+Bharuch	Bharuch	GUJARAT	392030
+Mangrol
+Amod	Bharuch	GUJARAT	392230
+Mangrol
+Jambusar	Bharuch	GUJARAT	393150
+Manjola
+Jambusar	Bharuch	GUJARAT	392035
+Matied
+Anklesvar	Bharuch	GUJARAT	393020
+Mauza
+Jhagadia	Bharuch	GUJARAT	393130
+Mela
+Valia	Bharuch	GUJARAT	393135
+Miamatar
+Amod	Bharuch	GUJARAT	392035
+Mohmedpura
+Bharuch	Bharuch	GUJARAT	392001
+Mongrol
+Amod	Bharuch	GUJARAT	392110
+Mortalav
+Jhagadia	Bharuch	GUJARAT	393110
+Mosam
+Vagra	Bharuch	GUJARAT	392140
+Mota Sorva
+Jhagadia	Bharuch	GUJARAT	393115
+Motali
+Anklesvar	Bharuch	GUJARAT	393001
+Muler
+Jambusar	Bharuch	GUJARAT	392140
+Nabipur
+Bharuch	Bharuch	GUJARAT	392210
+Nahar
+Jambusar	Bharuch	GUJARAT	392170
+Nahier
+Amod	Bharuch	GUJARAT	392110
+Naldhari
+Valia	Bharuch	GUJARAT	393135
+Nandeal
+Jambusar	Bharuch	GUJARAT	392015
+Nandida
+Jhagadia	Bharuch	GUJARAT	392130
+Narmada Nagar Bharuch
+Bharuch	Bharuch	GUJARAT	392015
+Narnavi
+Bharuch	Bharuch	GUJARAT	392165
+Navetha
+Bharuch	Bharuch	GUJARAT	392012
+Netrang
+Valia	Bharuch	GUJARAT	393130
+Nikora
+Bharuch	Bharuch	GUJARAT	392001
+Nikora
+Bharuch	Bharuch	GUJARAT	392030
+Ninam
+Jambusar	Bharuch	GUJARAT	392110
+Nobar
+Jambusar	Bharuch	GUJARAT	392150
+Nodhna
+Jambusar	Bharuch	GUJARAT	392150
+O.N.G.C. Colony
+Ankleshwar	Bharuch	GUJARAT	393010
+Obha
+Jambusar	Bharuch	GUJARAT	394810
+Ochhan
+Vagra	Bharuch	GUJARAT	392140
+Ochhan
+Vagra	Bharuch	GUJARAT	392230
+Ora
+Vagra	Bharuch	GUJARAT	392140
+Padal
+Jhagadia	Bharuch	GUJARAT	393110
+Padvania
+Jhagadia	Bharuch	GUJARAT	393110
+Paguthan
+Bharuch	Bharuch	GUJARAT	392015
+Pahaj
+Vagra	Bharuch	GUJARAT	392140
+Pakhajan
+Vagra	Bharuch	GUJARAT	392165
+Palej
+Bharuch	Bharuch	GUJARAT	392220
+Panch Fanas
+Bharuch	Bharuch	GUJARAT	392001
+Pangam
+Anklesvar	Bharuch	GUJARAT	393040
+Paniadra
+Bharuch	Bharuch	GUJARAT	392165
+Panoli I.E.
+Anklesvar	Bharuch	GUJARAT	394116
+Panoli
+Ankleshwar	Bharuch	GUJARAT	394115
+Panuda
+Jhagadia	Bharuch	GUJARAT	393130
+Pardi Idris
+Jambusar	Bharuch	GUJARAT	394115
+Pariej
+Bharuch	Bharuch	GUJARAT	392020
+Parkhet
+Bharuch	Bharuch	GUJARAT	392020
+Pichhipura
+Bharuch	Bharuch	GUJARAT	393151
+Piludra
+Anklesvar	Bharuch	GUJARAT	393020
+Pipadhara
+Jhagadia	Bharuch	GUJARAT	393115
+Pipalia
+Bharuch	Bharuch	GUJARAT	392165
+Pipaliya
+Bharuch	Bharuch	GUJARAT	392020
+Piraman
+Anklesvar	Bharuch	GUJARAT	393001
+Pungam
+Anklesvar	Bharuch	GUJARAT	393020
+Rahad
+Bharuch	Bharuch	GUJARAT	392012
+Rahiad
+Vagra	Bharuch	GUJARAT	392130
+Raima
+Hansot	Bharuch	GUJARAT	393030
+Rajpardi
+Jhagadia	Bharuch	GUJARAT	393115
+Ranipura
+Jhagadia	Bharuch	GUJARAT	393110
+Ravidra
+Anklesvar	Bharuch	GUJARAT	394115
+Razalwada
+Jhagadia	Bharuch	GUJARAT	393115
+Roza Tankaria
+Bharuch	Bharuch	GUJARAT	392140
+Sabuti
+NA	Bharuch	GUJARAT	393041
+Sagbara
+Sagbara	Bharuch	GUJARAT	393050
+Sajod
+Ankleshwar	Bharuch	GUJARAT	393020
+Sakkarpore
+Anklesvar	Bharuch	GUJARAT	393020
+Saladra
+Amod	Bharuch	GUJARAT	392012
+Sambha
+Jambusar	Bharuch	GUJARAT	392155
+Samlod
+Bharuch	Bharuch	GUJARAT	392210
+Samni
+Vagra	Bharuch	GUJARAT	392025
+Sanjali
+Anklesvar	Bharuch	GUJARAT	393120
+Sanjali
+Anklesvar	Bharuch	GUJARAT	394115
+Saran
+Vagra	Bharuch	GUJARAT	392140
+Sarbhan
+Amod	Bharuch	GUJARAT	392035
+Sarod
+Jambusar	Bharuch	GUJARAT	392180
+Sayan
+Hansot	Bharuch	GUJARAT	393030
+Saykha
+Amod	Bharuch	GUJARAT	392140
+Selamba
+Sagbara	Bharuch	GUJARAT	393025
+Selod
+Anklesvar	Bharuch	GUJARAT	393001
+Sengpur
+Anklesvar	Bharuch	GUJARAT	393001
+Sevad
+Valia	Bharuch	GUJARAT	393135
+Shahpur
+Bharuch	Bharuch	GUJARAT	392210
+Shera
+Anklesvar	Bharuch	GUJARAT	393030
+Shrikothi
+Amod	Bharuch	GUJARAT	392110
+Shuklatirth
+Bharuch	Bharuch	GUJARAT	392030
+Sigam
+Amod	Bharuch	GUJARAT	392170
+Simadhra
+Jhagadia	Bharuch	GUJARAT	393115
+Simalia
+Bharuch	Bharuch	GUJARAT	392220
+Simartha
+Bharuch	Bharuch	GUJARAT	392220
+Sindhot
+Bharuch	Bharuch	GUJARAT	392210
+Sindhvai
+Bharuch	Bharuch	GUJARAT	392001
+Sitpon
+Amod	Bharuch	GUJARAT	392210
+Sodgam
+Valia	Bharuch	GUJARAT	393135
+Sunderpura
+Bharuch	Bharuch	GUJARAT	393145
+Sutrel
+Vagra	Bharuch	GUJARAT	392140
+Talodra
+Jhagadia	Bharuch	GUJARAT	393110
+Tanchha
+Amod	Bharuch	GUJARAT	392025
+Tankari
+Jambusar	Bharuch	GUJARAT	392040
+Tankaria
+Bharuch	Bharuch	GUJARAT	392240
+Tavra
+Bharuch	Bharuch	GUJARAT	392011
+Tham
+Bharuch	Bharuch	GUJARAT	392020
+Thava
+Jhagadia	Bharuch	GUJARAT	393130
+Tralsa
+Bharuch	Bharuch	GUJARAT	392020
+Trankal
+Vagra	Bharuch	GUJARAT	392140
+Tundaj
+Jambusar	Bharuch	GUJARAT	392150
+Uber
+Jambusar	Bharuch	GUJARAT	392150
+Uchedia
+Jhagadia	Bharuch	GUJARAT	393110
+Uchhad
+Jambusar	Bharuch	GUJARAT	392150
+Umalla
+Jhagadia	Bharuch	GUJARAT	393120
+Umargam
+Valia	Bharuch	GUJARAT	393135
+Umarwada
+Anklesvar	Bharuch	GUJARAT	393001
+Umraj
+Bharuch	Bharuch	GUJARAT	392015
+Urja Nagar
+Bharuch	Bharuch	GUJARAT	392215
+Vadadala
+Vagra	Bharuch	GUJARAT	392155
+Vadadla
+Bharuch	Bharuch	GUJARAT	392015
+Vadadla
+Vagra	Bharuch	GUJARAT	392130
+Vadfalia
+Amod	Bharuch	GUJARAT	393125
+Vadkhunta
+Jhagadia	Bharuch	GUJARAT	393115
+Vaghvan
+Hansot	Bharuch	GUJARAT	393030
+Vagra
+Vagra	Bharuch	GUJARAT	392140
+Vahalu
+Bharuch	Bharuch	GUJARAT	392020
+Vahelam
+Jambusar	Bharuch	GUJARAT	392150
+Vahial
+Vagra	Bharuch	GUJARAT	392140
+Valia
+Valia	Bharuch	GUJARAT	393135
+Valner
+Hansot	Bharuch	GUJARAT	393030
+Vamleshwar
+Hansot	Bharuch	GUJARAT	393030
+Vanakpore
+Jhagadia	Bharuch	GUJARAT	393115
+Vansi
+Bharuch	Bharuch	GUJARAT	392160
+Varedia
+Bharuch	Bharuch	GUJARAT	392210
+Vasna
+Jhagadia	Bharuch	GUJARAT	393110
+Vasti Khandali
+Vagra	Bharuch	GUJARAT	392140
+Vedach
+Jambusar	Bharuch	GUJARAT	391810
+Vegni
+Vagra	Bharuch	GUJARAT	392130
+Velugam
+Bharuch	Bharuch	GUJARAT	393120
+Vilayat
+Jambusar	Bharuch	GUJARAT	392012
+Vora Samni
+Bharuch	Bharuch	GUJARAT	392012
+Zadeshwar
+Bharuch	Bharuch	GUJARAT	392011
+Zak
+Jhagadia	Bharuch	GUJARAT	393130
+Kharach
+Olpad	Bharuch	GUJARAT	394120
+

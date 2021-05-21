@@ -1,0 +1,345 @@
+Almawadi
+Dediapada	Narmada	GUJARAT	393130
+Amiyar
+Sagbara	Narmada	GUJARAT	393050
+Amletha
+Nandod	Narmada	GUJARAT	393140
+Atkeshwar
+Nandod	Narmada	GUJARAT	393151
+Balota
+Nandod	Narmada	GUJARAT	394810
+Bamalla
+Nandod	Narmada	GUJARAT	393120
+Barkatura
+Sagbara	Narmada	GUJARAT	393025
+Besna
+Dediapada	Narmada	GUJARAT	393040
+Bhadam
+Nandod	Narmada	GUJARAT	393145
+Bhilvashi
+Nandod	Narmada	GUJARAT	393155
+Bhoramali
+Sagbara	Narmada	GUJARAT	393050
+Bitada
+Nandod	Narmada	GUJARAT	393145
+Bogaj
+Dediapada	Narmada	GUJARAT	393040
+Boridra
+Nandod	Narmada	GUJARAT	393145
+Chopadvav
+Sagbara	Narmada	GUJARAT	393050
+Dabhvan
+Nandod	Narmada	GUJARAT	393041
+Dbhavan
+Dediapada	Narmada	GUJARAT	392020
+Devsaki
+Sagbara	Narmada	GUJARAT	393050
+Dhamnacha
+Nandod	Narmada	GUJARAT	393145
+Dhanpore
+Nandod	Narmada	GUJARAT	393145
+Dhavliver
+Sagbara	Narmada	GUJARAT	393025
+Dholar
+Nandod	Narmada	GUJARAT	393140
+Dumkhal
+Dediapada	Narmada	GUJARAT	393040
+Fitchwada
+Nandod	Narmada	GUJARAT	393120
+Fulsar
+Dediapada	Narmada	GUJARAT	393040
+Fulwadi
+Nandod	Narmada	GUJARAT	393145
+Gadit
+Nandod	Narmada	GUJARAT	393145
+Gaganpur
+Dediapada	Narmada	GUJARAT	393041
+Garudeshwar
+Nandod	Narmada	GUJARAT	393151
+Ghamkuva
+Nandod	Narmada	GUJARAT	393140
+Ghantoli
+Dediapada	Narmada	GUJARAT	393040
+Gnagapur
+Dediapada	Narmada	GUJARAT	392020
+Godada
+Sagbara	Narmada	GUJARAT	393050
+Gopalpura
+Nandod	Narmada	GUJARAT	393145
+Gora
+Nandod	Narmada	GUJARAT	393155
+Hajarpura
+Nandod	Narmada	GUJARAT	393145
+Indore
+Nandod	Narmada	GUJARAT	393120
+Indravarna
+Nandod	Narmada	GUJARAT	393155
+Jamboi
+Nandod	Narmada	GUJARAT	393120
+Jaoli
+Sagbara	Narmada	GUJARAT	393025
+Jargam
+Nandod	Narmada	GUJARAT	393041
+Jarsad
+Nandod	Narmada	GUJARAT	393115
+Jesalpore
+Nandod	Narmada	GUJARAT	393145
+Jespor
+Nandod	Narmada	GUJARAT	393115
+Jior
+Nandod	Narmada	GUJARAT	393150
+Juna Mosda
+Dediapada	Narmada	GUJARAT	393040
+Kadagada
+Nandod	Narmada	GUJARAT	393151
+Kakadpada
+Dediapada	Narmada	GUJARAT	393041
+Kanbudi
+Dediapada	Narmada	GUJARAT	393040
+Kandroj
+Nandod	Narmada	GUJARAT	393140
+Kangam
+Nandod	Narmada	GUJARAT	392170
+Kapat
+Nandod	Narmada	GUJARAT	393120
+Kara
+Nandod	Narmada	GUJARAT	393135
+Kelvikuva
+Nandod	Narmada	GUJARAT	393130
+Kevadia Colony
+Nadod	Narmada	GUJARAT	393151
+Kevdi
+Nandod	Narmada	GUJARAT	393041
+Kevdi
+Nandod	Narmada	GUJARAT	392020
+Kherpada
+Nandod	Narmada	GUJARAT	393025
+Khokhraumar
+Dediapada	Narmada	GUJARAT	393040
+Khopi
+Nandod	Narmada	GUJARAT	393050
+Koyli Mandvi
+Nandod	Narmada	GUJARAT	393130
+Kukdada
+Nandod	Narmada	GUJARAT	392020
+Kukdada
+Nandod	Narmada	GUJARAT	393041
+Lachhras
+Nadod	Narmada	GUJARAT	393150
+Langdi
+Nandod	Narmada	GUJARAT	393025
+Mahunipada
+Sagbara	Narmada	GUJARAT	393050
+Mahupada
+Sagbara	Narmada	GUJARAT	393050
+Mithivav
+Nandod	Narmada	GUJARAT	393151
+Mokhdi
+Nandod	Narmada	GUJARAT	393125
+Moriana
+Nandod	Narmada	GUJARAT	393130
+Moskut
+Nandod	Narmada	GUJARAT	393041
+Mota Jambuda
+Nandod	Narmada	GUJARAT	393130
+Motamalpur
+Nandod	Narmada	GUJARAT	393110
+Motasukamba
+Nandod	Narmada	GUJARAT	393040
+Motidevrupam
+Sagbara	Narmada	GUJARAT	393050
+Muskut
+Nandod	Narmada	GUJARAT	392020
+Nada
+Nandod	Narmada	GUJARAT	392040
+Nangal
+Nandod	Narmada	GUJARAT	393020
+Nani Bedwan
+Nandod	Narmada	GUJARAT	393041
+Nanibedwan
+Nandod	Narmada	GUJARAT	392020
+Nava Rajuvadia
+Nandod	Narmada	GUJARAT	393140
+Navagamvborjai
+Nandod	Narmada	GUJARAT	393110
+Navapura
+Nandod	Narmada	GUJARAT	393140
+Navitothidra
+Nandod	Narmada	GUJARAT	393105
+Navra
+Nandod	Narmada	GUJARAT	393140
+Nevdiamba
+Nandod	Narmada	GUJARAT	393025
+Ori
+Nandod	Narmada	GUJARAT	393145
+Orpa
+Nandod	Narmada	GUJARAT	393151
+Padaria
+Nandod	Narmada	GUJARAT	392025
+Palaswada
+Nandod	Narmada	GUJARAT	393025
+Panetha
+Nandod	Narmada	GUJARAT	393120
+Pansar
+Dediapada	Narmada	GUJARAT	393040
+Pantalavdi
+Nandod	Narmada	GUJARAT	393151
+Parvat
+Nandod	Narmada	GUJARAT	394810
+Pat
+Nandod	Narmada	GUJARAT	393050
+Pather
+Nandod	Narmada	GUJARAT	393135
+Patna
+Nandod	Narmada	GUJARAT	393145
+Patnamau
+Sagbara	Narmada	GUJARAT	393050
+Patvali
+Dediapada	Narmada	GUJARAT	393040
+Piplod
+Dediapada	Narmada	GUJARAT	393040
+Pipludra
+Nandod	Narmada	GUJARAT	391810
+Poicha
+Nandod	Narmada	GUJARAT	393145
+Pratap Nagar Narmada
+Nandod	Narmada	GUJARAT	393140
+Raisingpura
+Nandod	Narmada	GUJARAT	393120
+Rajgadh
+Nandod	Narmada	GUJARAT	393135
+Rajnivad
+Nandod	Narmada	GUJARAT	393025
+Rajpara
+Nandod	Narmada	GUJARAT	393125
+Rajpipla D.R.
+Nandod	Narmada	GUJARAT	393145
+Rajpipla
+Nandod	Narmada	GUJARAT	393145
+Rozdev
+Nandod	Narmada	GUJARAT	393050
+Runad
+Nandod	Narmada	GUJARAT	392170
+Rundh
+Nandod	Narmada	GUJARAT	393145
+Sabuti
+Nandod	Narmada	GUJARAT	392020
+Samaria
+Nandod	Narmada	GUJARAT	393145
+Samarpada
+Dediapada	Narmada	GUJARAT	393040
+Samot
+Dediapada	Narmada	GUJARAT	393040
+Sarsa
+Nandod	Narmada	GUJARAT	393115
+Sarsad
+Nandod	Narmada	GUJARAT	393120
+Shehrav
+Nandod	Narmada	GUJARAT	393150
+Siludi
+Nandod	Narmada	GUJARAT	393135
+Sisiodra
+Nandod	Narmada	GUJARAT	393145
+Sisodra
+Nandod	Narmada	GUJARAT	394810
+Siyali
+Nandod	Narmada	GUJARAT	393110
+Solia
+Nandod	Narmada	GUJARAT	393040
+Songam
+Nandod	Narmada	GUJARAT	393151
+Sorapada
+Sagbara	Narmada	GUJARAT	393050
+Suka
+Nandod	Narmada	GUJARAT	393151
+Sukvel
+Dediapada	Narmada	GUJARAT	393040
+Sunevkalla
+Nandod	Narmada	GUJARAT	394810
+Tankari
+Nandod	Narmada	GUJARAT	393150
+Taropa
+Nandod	Narmada	GUJARAT	393140
+Tavdi
+Nandod	Narmada	GUJARAT	393140
+Tawal
+Sagbara	Narmada	GUJARAT	393050
+Thali
+Nandod	Narmada	GUJARAT	393145
+Timbi
+Nandod	Narmada	GUJARAT	393140
+Tuna
+Nandod	Narmada	GUJARAT	393125
+Ubharia
+Sagbara	Narmada	GUJARAT	393050
+Umadhra
+Nandod	Narmada	GUJARAT	393115
+Umarva
+Nandod	Narmada	GUJARAT	393120
+Umra
+Nandod	Narmada	GUJARAT	392150
+Umra
+Nandod	Narmada	GUJARAT	393041
+Umra
+Nandod	Narmada	GUJARAT	392020
+Undhva
+Nandod	Narmada	GUJARAT	393151
+Vadhava
+Nandod	Narmada	GUJARAT	393041
+Vadhva
+Nandod	Narmada	GUJARAT	392020
+Vagharali
+Nandod	Narmada	GUJARAT	393151
+Vaghetha
+Nandod	Narmada	GUJARAT	393140
+Vaghodia
+Nandod	Narmada	GUJARAT	393140
+Vaghrali
+Nandod	Narmada	GUJARAT	393151
+Vajpur
+Nandod	Narmada	GUJARAT	393050
+Valvi
+Nandod	Narmada	GUJARAT	392150
+Vankal
+Nandod	Narmada	GUJARAT	393115
+Vataria
+Nandod	Narmada	GUJARAT	393001
+Vavdi
+Nandod	Narmada	GUJARAT	393145
+Vavharali
+Nandod	Narmada	GUJARAT	393151
+Vaviala
+Nandod	Narmada	GUJARAT	393151
+Virpor
+Nandod	Narmada	GUJARAT	393140
+Wali
+Nandod	Narmada	GUJARAT	393120
+Zariawadi
+Nandod	Narmada	GUJARAT	393151
+Zarnawadi
+Dediapada	Narmada	GUJARAT	393040
+Zarwani
+Nandod	Narmada	GUJARAT	393155
+Alwa
+Tilakwada	Narmada	GUJARAT	391121
+Ambalia
+Tilakwada	Narmada	GUJARAT	391120
+Bhadarwa
+Tilakwada	Narmada	GUJARAT	391121
+Bujetha
+Tilakwada	Narmada	GUJARAT	391120
+Chudeshwar
+Tilakwada	Narmada	GUJARAT	391120
+Devaliya
+Tilakwada	Narmada	GUJARAT	391121
+Fatepura
+NA	Narmada	GUJARAT	391120
+Gamod
+Tilakwada	Narmada	GUJARAT	391120
+Jalodra
+Tilakwada	Narmada	GUJARAT	391120
+Kamsoli
+Tilakwada	Narmada	GUJARAT	391120
+Kantharpura
+Tilakwada	Narmada	GUJARAT	391121
+

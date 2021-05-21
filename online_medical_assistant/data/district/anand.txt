@@ -1,0 +1,530 @@
+Adas
+Anand	Anand	GUJARAT	388305
+Agas
+Petlad	Anand	GUJARAT	388130
+Ahima
+Umreth	Anand	GUJARAT	388210
+Ajarpura
+Anand	Anand	GUJARAT	388310
+Ajupura
+Anand	Anand	GUJARAT	388360
+Alarsa
+Borsad	Anand	GUJARAT	388543
+Ambali
+Anklav	Anand	GUJARAT	388307
+Ambav KanthariaB.O
+Anklav	Anand	GUJARAT	388307
+Amrol
+Anklav	Anand	GUJARAT	388307
+Amuldairy Anand
+Anand	Anand	GUJARAT	388001
+Anand Agri Inst Anand
+Anand	Anand	GUJARAT	388110
+Anand
+Anand	Anand	GUJARAT	388001
+Anand Town Anand
+Anand	Anand	GUJARAT	388001
+Anklav
+Anklav	Anand	GUJARAT	388510
+Asarma
+Anklav	Anand	GUJARAT	388510
+Ashi
+Petlad	Anand	GUJARAT	388130
+Ashipura
+Umreth	Anand	GUJARAT	388205
+Asodar
+Anklav	Anand	GUJARAT	388307
+Badapura
+Umreth	Anand	GUJARAT	388205
+Bajipura
+NA	Anand	GUJARAT	388210
+Bakrol
+Anand	Anand	GUJARAT	388315
+Bamangam
+Anklav	Anand	GUJARAT	388520
+Bechri
+Umreth	Anand	GUJARAT	388220
+Bedva
+Anand	Anand	GUJARAT	388320
+Bhadran
+Borsad	Anand	GUJARAT	388530
+Bhalej
+Anand	Anand	GUJARAT	388205
+Bharoda
+Umreth	Anand	GUJARAT	388210
+Bhetasi
+Anklav	Anand	GUJARAT	388307
+Bilpad
+Borsad	Anand	GUJARAT	388520
+Bodal
+Borsad	Anand	GUJARAT	388540
+Boria Anand
+Petlad	Anand	GUJARAT	388130
+Borsad
+Borsad	Anand	GUJARAT	388540
+Chamara
+Borsad	Anand	GUJARAT	388520
+Chikhodra
+Anand	Anand	GUJARAT	388320
+Dagjipura
+Umreth	Anand	GUJARAT	388205
+Davol
+Borsad	Anand	GUJARAT	388540
+Dedarda
+Borsad	Anand	GUJARAT	388560
+Dehmi
+Borsad	Anand	GUJARAT	388560
+Dholi
+Umreth	Anand	GUJARAT	388365
+Dhundakuva
+Borsad	Anand	GUJARAT	388130
+District Court Anand
+Anand	Anand	GUJARAT	388001
+Gajna
+Borsad	Anand	GUJARAT	388530
+Gambhira
+Borsad	Anand	GUJARAT	388520
+Gamdi
+Anand	Anand	GUJARAT	388320
+Gana
+Anand	Anand	GUJARAT	388345
+Ghora
+Umreth	Anand	GUJARAT	388220
+Gopalpura
+Anand	Anand	GUJARAT	388370
+Hadgood
+Anand	Anand	GUJARAT	388110
+Hamidpura
+Umreth	Anand	GUJARAT	388220
+Jakhala
+Umreth	Anand	GUJARAT	388205
+Jitodia
+Anand	Anand	GUJARAT	388345
+Jol
+Anand	Anand	GUJARAT	388315
+Joshikuva
+Anklav	Anand	GUJARAT	388510
+Kahanvadi
+Anklav	Anand	GUJARAT	388307
+Kanbhaipura
+Anand	Anand	GUJARAT	388205
+Kantharia
+Anklav	Anand	GUJARAT	388307
+Karamsad
+Anand	Anand	GUJARAT	388325
+Kashipura Borsad
+Borsad	Anand	GUJARAT	388540
+Kasor
+Anand	Anand	GUJARAT	388205
+Kasumbad
+Borsad	Anand	GUJARAT	388540
+Kathol
+Borsad	Anand	GUJARAT	388530
+Kavitha
+Borsad	Anand	GUJARAT	388545
+Khadol
+Anklav	Anand	GUJARAT	388350
+Khambholej
+Anand	Anand	GUJARAT	388330
+Khandhli
+Anand	Anand	GUJARAT	388560
+Khankhanpur
+Umreth	Anand	GUJARAT	388220
+Khankuva
+Umreth	Anand	GUJARAT	388205
+Khanpur
+Anand	Anand	GUJARAT	388365
+Khedasa
+Anand	Anand	GUJARAT	388530
+Kherda
+Anand	Anand	GUJARAT	388365
+Khorvad
+Unreth	Anand	GUJARAT	388365
+Kinkhlod
+Anklav	Anand	GUJARAT	388510
+Kosindra
+Anklav	Anand	GUJARAT	388510
+Kothiakhad
+Borsad	Anand	GUJARAT	388520
+Kunjrav
+Anand	Anand	GUJARAT	388335
+Lingda
+Umreth	Anand	GUJARAT	388220
+Meghva
+Anand	Anand	GUJARAT	388345
+Menpura
+Anand	Anand	GUJARAT	388235
+Mogar
+Anand	Anand	GUJARAT	388340
+Mogri
+Anand	Anand	GUJARAT	388345
+Morad
+Perlad	Anand	GUJARAT	388130
+Mujkuva
+Anklav	Anand	GUJARAT	388307
+Napa
+Borsad	Anand	GUJARAT	388560
+Napad
+Anand	Anand	GUJARAT	388350
+Navakhal
+Anklav	Anand	GUJARAT	388510
+Navapura
+Borsad	Anand	GUJARAT	388520
+Navli
+Anand	Anand	GUJARAT	388355
+Nisraya
+Borsad	Anand	GUJARAT	388540
+Ode
+Anand	Anand	GUJARAT	388210
+Pamol
+Borsad	Anand	GUJARAT	388560
+Panchvati Umreth
+Umreth	Anand	GUJARAT	388220
+Pansora
+Umreth	Anand	GUJARAT	388220
+Pipli
+Borsad	Anand	GUJARAT	388530
+Porda
+Petlad	Anand	GUJARAT	388130
+Pratappura
+Umreth	Anand	GUJARAT	388365
+Rajupura
+Anand	Anand	GUJARAT	388306
+Ramnagar
+Anand	Anand	GUJARAT	388340
+Rasnol
+Anand	Anand	GUJARAT	388335
+Ratanpura
+Umreth	Anand	GUJARAT	388220
+Ravlapura
+Anand	Anand	GUJARAT	388360
+Samarkha
+Anand	Anand	GUJARAT	388360
+Sandesar
+Anand	Anand	GUJARAT	388130
+Sardarganj Anand
+Anand	Anand	GUJARAT	388001
+Sarol
+Borsad	Anand	GUJARAT	388530
+Sarsa
+Anand	Anand	GUJARAT	388365
+Shili
+Umreth	Anand	GUJARAT	388210
+Singlav
+Borsad	Anand	GUJARAT	388560
+Sinhol
+Petlad	Anand	GUJARAT	388130
+Sisva
+Borsad	Anand	GUJARAT	388530
+Sundalpura
+Umreth	Anand	GUJARAT	388210
+Sundan
+Anand	Anand	GUJARAT	388305
+Sureli
+Umreth	Anand	GUJARAT	388210
+Surkuva
+Borsad	Anand	GUJARAT	388130
+Thamna Anand
+Umreth	Anand	GUJARAT	388215
+Tranol
+Anand	Anand	GUJARAT	388335
+Umeta
+Anklav	Anand	GUJARAT	388510
+Umreth
+Umreth	Anand	GUJARAT	388220
+Untkhari
+Unreth	Anand	GUJARAT	388205
+Vadod
+Anand	Anand	GUJARAT	388370
+Vaghashi
+Anand	Anand	GUJARAT	388320
+Valasan
+Anand	Anand	GUJARAT	388325
+Vallabh Vidyanagar
+Anand	Anand	GUJARAT	388120
+Valvod
+Borsad	Anand	GUJARAT	388530
+Vasad
+Anand	Anand	GUJARAT	388306
+Vasna
+Borsad	Anand	GUJARAT	388540
+Vera
+Borsad	Anand	GUJARAT	388540
+Verakhadi
+Anand	Anand	GUJARAT	388365
+Veternary College Anand
+Anand	Anand	GUJARAT	388001
+Vithal Udyognagar
+Anand	Anand	GUJARAT	388121
+Amiyad
+Borsad	Anand	GUJARAT	388570
+Amod
+Petlad	Anand	GUJARAT	388160
+Ardi
+Petlad	Anand	GUJARAT	388450
+Badalpur
+Khambhat	Anand	GUJARAT	388550
+Balinta
+Sojitra	Anand	GUJARAT	387240
+Bamanva
+Khambhat	Anand	GUJARAT	388580
+Bamroli
+Petlad	Anand	GUJARAT	387345
+Banejada
+Borsad	Anand	GUJARAT	388580
+Bhalada
+Matar	Anand	GUJARAT	387240
+Bhavanipura
+Petlad	Anand	GUJARAT	388450
+Bhurakui
+Petlad	Anand	GUJARAT	388430
+Bhuvel
+Khambhat	Anand	GUJARAT	388640
+Bochasan RS
+Borsad	Anand	GUJARAT	388140
+Boriavi
+Anand	Anand	GUJARAT	387310
+Budhej
+Tarapur	Anand	GUJARAT	388620
+Chagada
+Tarapur	Anand	GUJARAT	388180
+Chitari Bazar
+Khambhat	Anand	GUJARAT	388620
+Dabhasi
+Borsad	Anand	GUJARAT	388140
+Dabhou
+Sojitra	Anand	GUJARAT	387210
+Daheda
+Khambhat	Anand	GUJARAT	388620
+Dahevan
+Khambhat	Anand	GUJARAT	388550
+Dali
+Khambhat	Anand	GUJARAT	388550
+Dantali
+Petlad	Anand	GUJARAT	388450
+Davalpura
+Petlad	Anand	GUJARAT	388450
+Devataj
+Sojitra	Anand	GUJARAT	387240
+Dharmaj
+Petlad	Anand	GUJARAT	388430
+Dharmaj ranoli
+Borsad	Anand	GUJARAT	388430
+Dhuvaran
+Khambhat	Anand	GUJARAT	388610
+Dhuvaran Power Station
+Khambhat	Anand	GUJARAT	388610
+Dugari
+Tarapur	Anand	GUJARAT	388625
+Fangani
+Petlad	Anand	GUJARAT	388450
+Finav
+Khambhat	Anand	GUJARAT	388580
+Gada
+Sojitra	Anand	GUJARAT	387240
+Galiana
+Tarapur	Anand	GUJARAT	388625
+Ghunteli
+Petlad	Anand	GUJARAT	388440
+Golana
+Khambhat	Anand	GUJARAT	388625
+Golel
+Borsad	Anand	GUJARAT	388480
+Gorad
+Tarapur	Anand	GUJARAT	388180
+Gudel
+Khambhat	Anand	GUJARAT	388625
+Hadeva
+Tarapur	Anand	GUJARAT	388180
+Indranaj
+Tarapur	Anand	GUJARAT	388180
+Isarvada
+Tarapur	Anand	GUJARAT	388180
+Isnav
+Sojitra	Anand	GUJARAT	388460
+Jalsan
+Khambhat	Anand	GUJARAT	388580
+Jalundh
+Khambhat	Anand	GUJARAT	388640
+Jantral
+Borsad	Anand	GUJARAT	388580
+Jharola
+Borsad	Anand	GUJARAT	388590
+Jichka
+Tarapur	Anand	GUJARAT	388180
+Jinaj
+Khambhat	Anand	GUJARAT	388620
+Kalamsar
+Khambhat	Anand	GUJARAT	388640
+Kalitalavadi
+Khambhat	Anand	GUJARAT	388170
+Kalu
+Khambhat	Anand	GUJARAT	388550
+Kanavada
+Tarapur	Anand	GUJARAT	388180
+Kanbha
+Khambhat	Anand	GUJARAT	388550
+Kanisa
+Khambhat	Anand	GUJARAT	388170
+Kankapura
+Khambhat	Anand	GUJARAT	388550
+Kansari
+Khambhat	Anand	GUJARAT	388630
+Kanzat
+Khambhat	Anand	GUJARAT	388170
+Kasari
+Borsad	Anand	GUJARAT	388590
+Kasbara
+Tarapur	Anand	GUJARAT	388180
+Kasor
+Sojitra	Anand	GUJARAT	388460
+Kathana
+Khambhat	Anand	GUJARAT	388550
+Kathana RS
+Borsad	Anand	GUJARAT	388550
+Khadana
+Petlad	Anand	GUJARAT	388160
+Khadodhi
+Khambhat	Anand	GUJARAT	388610
+Khaksar
+Tarapur	Anand	GUJARAT	388625
+Khambhat
+Khambhat	Anand	GUJARAT	388620
+Khanpur
+Petlad	Anand	GUJARAT	388430
+Khanpur
+Tarapur	Anand	GUJARAT	388180
+Khatnal
+Khambhat	Anand	GUJARAT	388640
+Lambhvel
+Anand	Anand	GUJARAT	387310
+Laxmipura
+Tarapur	Anand	GUJARAT	388620
+Lunej
+Khambhat	Anand	GUJARAT	388620
+Mahelav
+Petlad	Anand	GUJARAT	388440
+Mahiyari
+Tarapur	Anand	GUJARAT	388180
+Malataj
+Sojitra	Anand	GUJARAT	387220
+Malu
+Khambhat	Anand	GUJARAT	388620
+Manaj
+Petlad	Anand	GUJARAT	388150
+Manghrol
+Sojitra	Anand	GUJARAT	387210
+Manpura
+Petlad	Anand	GUJARAT	388150
+Mariumpura
+Petlad	Anand	GUJARAT	388450
+Metpur
+Khambhat	Anand	GUJARAT	388620
+Milarampura
+Tarapur	Anand	GUJARAT	388180
+Mitli
+Tarapura=	Anand	GUJARAT	388180
+Mobha
+Tarapur	Anand	GUJARAT	388170
+Moraj
+Tarapur	Anand	GUJARAT	388180
+Nagra
+Khambhat	Anand	GUJARAT	388620
+Nana Kalodara
+Khambhat	Anand	GUJARAT	388630
+Nar
+Petlad	Anand	GUJARAT	388150
+Naviakhol
+Khambhat	Anand	GUJARAT	388625
+Pachegam
+Tarapur	Anand	GUJARAT	388625
+Padgol
+Petlad	Anand	GUJARAT	388440
+Padra
+Tarapur	Anand	GUJARAT	388180
+Palaj
+Petlad	Anand	GUJARAT	388465
+Palol
+Sojitra	Anand	GUJARAT	387240
+Pandad
+Khambhat	Anand	GUJARAT	388625
+Pandoli
+Petlad	Anand	GUJARAT	388160
+Pariej
+Tarapur	Anand	GUJARAT	388180
+Petlad RS
+Petlad	Anand	GUJARAT	388450
+Petlad
+Petlad	Anand	GUJARAT	388450
+Petli
+Sojitra	Anand	GUJARAT	387220
+Piplav
+Sojitra	Anand	GUJARAT	388460
+Piploi
+Khambhat	Anand	GUJARAT	388640
+Pith Baza Khambhat
+Khambhat	Anand	GUJARAT	388620
+Ralej
+Khambhat	Anand	GUJARAT	388640
+Ramol
+Petlad	Anand	GUJARAT	387710
+Rangaipura
+Petlad	Anand	GUJARAT	388450
+Rangpur
+Khambhat	Anand	GUJARAT	388620
+Ras
+Borsad	Anand	GUJARAT	388570
+Rudel
+Borsad	Anand	GUJARAT	388140
+Runaj
+Sojitra	Anand	GUJARAT	388150
+Rupiapura
+Petlad	Anand	GUJARAT	388480
+Saijpur
+Borsad	Anand	GUJARAT	388570
+Sansej
+Petlad	Anand	GUJARAT	388180
+Sayma
+Khambhat	Anand	GUJARAT	388170
+Shakarpur
+Khambhat	Anand	GUJARAT	388620
+Simarda
+Petlad	Anand	GUJARAT	388480
+Sojitra
+Sojitra	Anand	GUJARAT	387240
+Sunav
+Petlad	Anand	GUJARAT	388470
+Sundarna
+Petlad	Anand	GUJARAT	388480
+Sundra
+Petlad	Anand	GUJARAT	388150
+Tarapur Anand
+Tarapur	Anand	GUJARAT	388180
+Timba
+Khambhat	Anand	GUJARAT	388170
+Trambovad
+Sojitra	Anand	GUJARAT	387240
+Undel
+Khambhat	Anand	GUJARAT	388640
+Untvada
+Tarapur	Anand	GUJARAT	388170
+Vadadla
+Petlad	Anand	GUJARAT	388430
+Vadeli
+Borsad	Anand	GUJARAT	388590
+Vadgam
+Khambhat	Anand	GUJARAT	388625
+Vainaj
+Khambhat	Anand	GUJARAT	388625
+Varsada
+Tarapur	Anand	GUJARAT	388180
+Vatadara
+Khambhat	Anand	GUJARAT	388580
+Vatra
+Khambhat	Anand	GUJARAT	388640
+Virol [simarda]
+Petlad	Anand	GUJARAT	388480
+Virol
+Sojitra	Anand	GUJARAT	387240
+Virsad
+Borsad	Anand	GUJARAT	388580

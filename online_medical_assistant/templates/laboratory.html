@@ -1,0 +1,685 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<style>
+    #booklab {
+        display: none;
+        height: 50vw;
+        width: 85vw;
+        position: fixed;
+        top: 32vw;
+        left: 8vw;
+        background-color: rgb(255, 251, 246);
+        border-radius: 1vw;
+        box-shadow: 0vw 0vw 1vw 0vw #aeaeae;
+    }
+
+    #closes {
+
+
+
+        padding: 2vw 1.2vw 1.2vw 1.2vw;
+        width: 4vw;
+        margin-left: 79vw;
+    }
+
+    #closes span {
+        display: block;
+        background-color: black;
+        width: 4vw;
+        height: 0.3vw;
+
+    }
+
+    #clspan1 {
+        transform: rotate(-45deg);
+    }
+
+    #clspan2 {
+
+        position: relative;
+        bottom: .4vw;
+        transform: rotate(45deg);
+    }
+
+    .dates {
+        margin: 1vw .5vw;
+        border: .25vw solid rgb(170, 170, 170);
+        width: 18vw;
+        text-align: center;
+        display: inline-block;
+    }
+
+    .dates:hover {
+        background-color: gray;
+        color: white;
+    }
+    #takeappoint {
+        margin: 5vw 0vw 5vw 23vw;
+        background-color: #ffd7a0;
+        border-radius: .5vw;
+        border: none;
+        height: 5vw;
+        font-size: 2.8vw;
+        width: 32vw;
+        box-shadow: 0vw 0vw 1wgrey;
+        box-shadow: 0vw 0vw 0.5vw 0vw grey;
+    }
+
+    #takeappoint:hover {
+
+        box-shadow: 0vw 0vw 1vw 0vw black;
+    }
+</style>
+<div style="display: {{block13}} ;" id="booklab">
+    <div onclick="aclosed()" id="closes">
+        <span id="clspan1"></span>
+        <span id="clspan2"></span>
+    </div>
+    <script>
+        function aclosed() {
+            let abook = document.getElementById('booklab')
+
+            abook.style.display = "none"
+
+        }
+    </script>
+    <form action="{% url 'labtakeappoint' %}" >
+    <div style="padding: 2vw;">
+
+        <input type="text" name="id" value="{{id}}">
+        <div id="input">input</div>
+
+        <div class="dates" onclick="clickdate1()" id="date1">
+            <div id="day1">day</div>
+            <div id="d1">date</div>
+        </div>
+        <script>
+            function clickdate1() {
+                document.getElementById('date1').style.backgroundColor = "gray"
+                document.getElementById('date2').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date3').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date4').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date5').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date6').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date7').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date8').style.backgroundColor = "rgb(255, 251, 246)"
+
+                document.getElementById('date1').style.color = "white"
+                document.getElementById('date2').style.color = "black"
+                document.getElementById('date3').style.color = "black"
+                document.getElementById('date4').style.color = "black"
+                document.getElementById('date5').style.color = "black"
+                document.getElementById('date6').style.color = "black"
+                document.getElementById('date7').style.color = "black"
+                document.getElementById('date8').style.color = "black"
+
+                document.getElementById('input').innerHTML = "<input type='text' name='date' value='1'>"
+
+            }
+
+
+            let date = new Date()
+
+            if (date.getDay() == 6) {
+                date.setDate(date.getDate() + 1)
+            } else {
+                date.setDate(date.getDate() + 0)
+            }
+
+            var months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+            var namedMonth = months[date.getMonth()];
+            var namedDay = days[date.getDay()];
+
+            document.getElementById('day1').innerHTML = namedDay
+            document.getElementById('d1').innerHTML = date.getDate() + "-" + namedMonth + "-" + date.getFullYear()
+        </script>
+        <div class="dates" onclick="clickdate2()" id="date2">
+            <div id="day2">day</div>
+            <div id="d2">date</div>
+        </div>
+        <script>
+            function clickdate2() {
+                document.getElementById('date2').style.backgroundColor = "gray"
+                document.getElementById('date1').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date3').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date4').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date5').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date6').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date7').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date8').style.backgroundColor = "rgb(255, 251, 246)"
+
+                document.getElementById('date2').style.color = "white"
+                document.getElementById('date1').style.color = "black"
+                document.getElementById('date3').style.color = "black"
+                document.getElementById('date4').style.color = "black"
+                document.getElementById('date5').style.color = "black"
+                document.getElementById('date6').style.color = "black"
+                document.getElementById('date7').style.color = "black"
+                document.getElementById('date8').style.color = "black"
+
+                document.getElementById('input').innerHTML = "<input type='text' name='date' value='2'>"
+
+            }
+
+
+            if (date.getDay() == 6) {
+                date.setDate(date.getDate() + 2)
+            } else {
+                date.setDate(date.getDate() + 1)
+            }
+
+            var months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+            var namedMonth = months[date.getMonth()];
+            var namedDay = days[date.getDay()];
+
+            document.getElementById('day2').innerHTML = namedDay
+            document.getElementById('d2').innerHTML = date.getDate() + "-" + namedMonth + "-" + date.getFullYear()
+        </script>
+        <div class="dates" onclick="clickdate3()" id="date3">
+            <div id="day3">day</div>
+            <div id="d3">date</div>
+        </div>
+        <script>
+            function clickdate3() {
+                document.getElementById('date3').style.backgroundColor = "gray"
+                document.getElementById('date1').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date2').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date4').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date5').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date6').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date7').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date8').style.backgroundColor = "rgb(255, 251, 246)"
+
+                document.getElementById('date3').style.color = "white"
+                document.getElementById('date1').style.color = "black"
+                document.getElementById('date2').style.color = "black"
+                document.getElementById('date4').style.color = "black"
+                document.getElementById('date5').style.color = "black"
+                document.getElementById('date6').style.color = "black"
+                document.getElementById('date7').style.color = "black"
+                document.getElementById('date8').style.color = "black"
+
+                document.getElementById('input').innerHTML = "<input type='text' name='date' value='3'>"
+
+            }
+
+
+            if (date.getDay() == 6) {
+                date.setDate(date.getDate() + 2)
+            } else {
+                date.setDate(date.getDate() + 1)
+            }
+
+            var months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+            var namedMonth = months[date.getMonth()];
+            var namedDay = days[date.getDay()];
+
+            document.getElementById('day3').innerHTML = namedDay
+            document.getElementById('d3').innerHTML = date.getDate() + "-" + namedMonth + "-" + date.getFullYear()
+        </script>
+        <div class="dates" onclick="clickdate4()" id="date4">
+            <div id="day4">day</div>
+            <div id="d4">date</div>
+        </div>
+        <script>
+            function clickdate4() {
+                document.getElementById('date4').style.backgroundColor = "gray"
+                document.getElementById('date1').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date3').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date2').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date5').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date6').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date7').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date8').style.backgroundColor = "rgb(255, 251, 246)"
+
+                document.getElementById('date4').style.color = "white"
+                document.getElementById('date1').style.color = "black"
+                document.getElementById('date3').style.color = "black"
+                document.getElementById('date2').style.color = "black"
+                document.getElementById('date5').style.color = "black"
+                document.getElementById('date6').style.color = "black"
+                document.getElementById('date7').style.color = "black"
+                document.getElementById('date8').style.color = "black"
+
+                document.getElementById('input').innerHTML = "<input type='text' name='date' value='4'>"
+
+            }
+
+
+            if (date.getDay() == 6) {
+                date.setDate(date.getDate() + 2)
+            } else {
+                date.setDate(date.getDate() + 1)
+            }
+
+            var months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+            var namedMonth = months[date.getMonth()];
+            var namedDay = days[date.getDay()];
+
+            document.getElementById('day4').innerHTML = namedDay
+            document.getElementById('d4').innerHTML = date.getDate() + "-" + namedMonth + "-" + date.getFullYear()
+        </script>
+        <div class="dates" onclick="clickdate5()" id="date5">
+            <div id="day5">day</div>
+            <div id="d5">date</div>
+        </div>
+        <script>
+            function clickdate5() {
+                document.getElementById('date5').style.backgroundColor = "gray"
+                document.getElementById('date1').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date3').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date4').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date2').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date6').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date7').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date8').style.backgroundColor = "rgb(255, 251, 246)"
+
+                document.getElementById('date5').style.color = "white"
+                document.getElementById('date1').style.color = "black"
+                document.getElementById('date3').style.color = "black"
+                document.getElementById('date4').style.color = "black"
+                document.getElementById('date2').style.color = "black"
+                document.getElementById('date6').style.color = "black"
+                document.getElementById('date7').style.color = "black"
+                document.getElementById('date8').style.color = "black"
+
+                document.getElementById('input').innerHTML = "<input type='text' name='date' value='5'>"
+
+            }
+
+
+            if (date.getDay() == 6) {
+                date.setDate(date.getDate() + 2)
+            } else {
+                date.setDate(date.getDate() + 1)
+            }
+
+            var months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+            var namedMonth = months[date.getMonth()];
+            var namedDay = days[date.getDay()];
+
+            document.getElementById('day5').innerHTML = namedDay
+            document.getElementById('d5').innerHTML = date.getDate() + "-" + namedMonth + "-" + date.getFullYear()
+        </script>
+        <div class="dates" onclick="clickdate6()" id="date6">
+            <div id="day6">day</div>
+            <div id="d6">date</div>
+        </div>
+        <script>
+            function clickdate6() {
+                document.getElementById('date6').style.backgroundColor = "gray"
+                document.getElementById('date1').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date3').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date4').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date5').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date2').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date7').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date8').style.backgroundColor = "rgb(255, 251, 246)"
+
+                document.getElementById('date6').style.color = "white"
+                document.getElementById('date1').style.color = "black"
+                document.getElementById('date3').style.color = "black"
+                document.getElementById('date4').style.color = "black"
+                document.getElementById('date5').style.color = "black"
+                document.getElementById('date2').style.color = "black"
+                document.getElementById('date7').style.color = "black"
+                document.getElementById('date8').style.color = "black"
+
+                document.getElementById('input').innerHTML = "<input type='text' name='date' value='6'>"
+
+            }
+
+
+            if (date.getDay() == 6) {
+                date.setDate(date.getDate() + 2)
+            } else {
+                date.setDate(date.getDate() + 1)
+            }
+
+            var months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+            var namedMonth = months[date.getMonth()];
+            var namedDay = days[date.getDay()];
+
+            document.getElementById('day6').innerHTML = namedDay
+            document.getElementById('d6').innerHTML = date.getDate() + "-" + namedMonth + "-" + date.getFullYear()
+        </script>
+        <div class="dates" onclick="clickdate7()" id="date7">
+            <div id="day7">day</div>
+            <div id="d7">date</div>
+        </div>
+        <script>
+            function clickdate7() {
+                document.getElementById('date7').style.backgroundColor = "gray"
+                document.getElementById('date1').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date3').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date4').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date5').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date6').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date2').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date8').style.backgroundColor = "rgb(255, 251, 246)"
+
+                document.getElementById('date7').style.color = "white"
+                document.getElementById('date1').style.color = "black"
+                document.getElementById('date3').style.color = "black"
+                document.getElementById('date4').style.color = "black"
+                document.getElementById('date5').style.color = "black"
+                document.getElementById('date6').style.color = "black"
+                document.getElementById('date2').style.color = "black"
+                document.getElementById('date8').style.color = "black"
+
+                document.getElementById('input').innerHTML = "<input type='text' name='date' value='7'>"
+
+            }
+
+
+            if (date.getDay() == 6) {
+                date.setDate(date.getDate() + 2)
+            } else {
+                date.setDate(date.getDate() + 1)
+            }
+
+            var months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+            var namedMonth = months[date.getMonth()];
+            var namedDay = days[date.getDay()];
+
+            document.getElementById('day7').innerHTML = namedDay
+            document.getElementById('d7').innerHTML = date.getDate() + "-" + namedMonth + "-" + date.getFullYear()
+        </script>
+        <div class="dates" onclick="clickdate8()" id="date8">
+            <div id="day8">day</div>
+            <div id="d8">date</div>
+        </div>
+        <script>
+            function clickdate8() {
+                document.getElementById('date8').style.backgroundColor = "gray"
+                document.getElementById('date1').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date3').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date4').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date5').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date6').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date7').style.backgroundColor = "rgb(255, 251, 246)"
+                document.getElementById('date2').style.backgroundColor = "rgb(255, 251, 246)"
+
+                document.getElementById('date8').style.color = "white"
+                document.getElementById('date1').style.color = "black"
+                document.getElementById('date3').style.color = "black"
+                document.getElementById('date4').style.color = "black"
+                document.getElementById('date5').style.color = "black"
+                document.getElementById('date6').style.color = "black"
+                document.getElementById('date7').style.color = "black"
+                document.getElementById('date2').style.color = "black"
+
+                document.getElementById('input').innerHTML = "<input type='text' name='date' value='8'>"
+
+            }
+
+
+            if (date.getDay() == 6) {
+                date.setDate(date.getDate() + 2)
+            } else {
+                date.setDate(date.getDate() + 1)
+            }
+
+            var months = ["January", "February", "March", "April", "May", "June", "July",
+                "August", "September", "October", "November", "December"];
+            var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+
+            var namedMonth = months[date.getMonth()];
+            var namedDay = days[date.getDay()];
+
+            document.getElementById('day8').innerHTML = namedDay
+            document.getElementById('d8').innerHTML = date.getDate() + "-" + namedMonth + "-" + date.getFullYear()
+        </script>
+
+
+    
+    
+        <button id="takeappoint" type="submit">Take Appointment</button>
+
+</div>
+</form>
+</div>
+<div class="laboratory">
+    <h2 id="lh2">Medical Laboratory Services</h2>
+    <div id="first_lab">
+        <li>
+            <div onclick="lab()" id="lab">Lab</div>
+            <div onclick="ldistrict()" id="ldistrict">District</div>
+            <div onclick="lcity()" id="lcity">City</div>
+        </li>
+        <div onmouseout="labout()" onmouseover="labover()" id="labdrop">
+            <button type="submit">ALL</button>
+            <hr>
+            {% for i in tests %}
+            <form action="{% url 'search_lab' %}" method="POST">
+                {% csrf_token %}
+                <input type="hidden" name="lab" value="{{i}}">
+                <button type="submit">{{i}}</button>
+                <hr>
+            </form>
+            {% endfor %}
+        </div>
+        <div onmouseout="distout()" onmouseover="distover()" id="distdrop">
+            {% for i in dist %}
+            <form action="{% url 'search_district_lab' %}" method="POST">
+                {% csrf_token %}
+                <input type="hidden" name="lab_for_district" value="{{lab_for_district}}">
+                <input type="hidden" name="dist" value="{{i}}">
+                <button type="submit">{{i}}</button>
+                <hr>
+            </form>
+            {% endfor %}
+        </div>
+        <div onmouseout="cityout()" onmouseover="cityover()" id="citydrop">
+
+            {% for i in city %}
+            <form action="{% url 'search_city_lab' %}" method="POST">
+                {% csrf_token %}
+                <input type="hidden" name="lab_for_district" value="{{lab_for_district}}">
+
+                <input type="hidden" name="city" value="{{i}}">
+
+                <input type="hidden" name="hello" value="{{district_for_city}}">
+                <button type="submit">{{i}}</button>
+                <hr>
+            </form>
+            {% endfor %}
+
+
+        </div>
+    </div>
+    <div id="second_lab">
+
+        {% for l in lab %}
+
+        <div class="labs">
+            <div id="ldetail">
+                <li
+                    style="list-style:none;margin-bottom: 1vw ;font-size:3vw; font-family: 'Arial Narrow', Arial, sans-serif">
+                    {{l.Lab_name}}</li>
+                {% for t in test %}
+                {% if l.id == t.lab_id %}
+                <li style="list-style: none;">{{t.test_type}}</li>
+                {% endif %}
+                {% endfor %}
+                <p><strong>Address </strong>{{l.address}}</p>
+                <span id="lspan">More Details</span>
+
+            </div>
+            <div id="lcontect">
+                <form action="{% url 'labiddata' %}">
+                    <input type="hidden" name="id" id="" value="{{l.id}}">
+                    <button style="    padding: 0vw;border: none;" type="submit" class="appoint">
+                        <span class="ali"> APPOINTMENT</span>
+                        <span style="height: 3.5vw;" class="aspan">></span>
+                    </button>
+                </form>
+
+
+                <li>Call&nbsp; {{l.phone}}</li>
+                <li>Call&nbsp; 665-000-1015</li>
+                <li>{{l.email}}</li>
+                <p><Strong>Location</Strong></p>
+
+
+            </div>
+        </div>
+        {% endfor %}
+
+
+
+    </div>
+</div>
+
+
+<script>
+    let display4 = "none";
+
+    function lab() {
+
+        //    let navbar = document.getElementById('navbar');
+
+
+        let labdrop = document.getElementById('labdrop');
+        let distdrop = document.getElementById('distdrop');
+        let citydrop = document.getElementById('citydrop');
+
+        //    let navbar = document.getElementsByClassName('navbar>ul')
+
+        if (display4 == "none") {
+
+
+            if (display5 == 'block' || display6 == 'block') {
+                distdrop.style.display = 'none'
+                display5 = 'none'
+                citydrop.style.display = 'none'
+                display6 = 'none'
+            }
+
+            labdrop.style.display = "block";
+            //    menu.style.transition = 'all .5s ease-in-out 0s';
+
+            display4 = "block";
+
+        }
+
+        else {
+
+            labdrop.style.display = "none";
+            display4 = "none";
+
+        }
+
+    }
+</script>
+
+
+<script>
+    let display5 = "none";
+
+    function ldistrict() {
+
+        //    let navbar = document.getElementById('navbar');
+
+
+        let ldistrict = document.getElementById('distdrop');
+        let labdrop = document.getElementById('labdrop');
+        let citydrop = document.getElementById('citydrop');
+
+        //    let navbar = document.getElementsByClassName('navbar>ul')
+
+        if (display5 == "none") {
+
+            if (display4 == 'block' || display6 == 'block') {
+                labdrop.style.display = 'none'
+                display4 = 'none'
+                citydrop.style.display = 'none'
+                display6 = 'none'
+            }
+
+
+            ldistrict.style.display = "block";
+            //    menu.style.transition = 'all .5s ease-in-out 0s';
+
+            display5 = "block";
+
+        }
+
+        else {
+
+            ldistrict.style.display = "none";
+            display5 = "none";
+
+        }
+
+    }
+</script>
+
+
+<script>
+    let display6 = "none";
+
+    function lcity() {
+
+        //    let navbar = document.getElementById('navbar');
+
+
+        let ldistrict = document.getElementById('distdrop');
+        let labdrop = document.getElementById('labdrop');
+        let citydrop = document.getElementById('citydrop');
+
+
+        //    let navbar = document.getElementsByClassName('navbar>ul')
+
+        if (display6 == "none") {
+
+            if (display4 == 'block' || display5 == 'block') {
+                labdrop.style.display = 'none'
+                display4 = 'none'
+                ldistrict.style.display = 'none'
+                display5 = 'none'
+            }
+
+
+            citydrop.style.display = "block";
+            //    menu.style.transition = 'all .5s ease-in-out 0s';
+
+            display6 = "block";
+
+        }
+
+        else {
+
+            citydrop.style.display = "none";
+            display6 = "none";
+
+        }
+
+    }
+</script>
+
+
+
+{% endblock %}

@@ -1,0 +1,991 @@
+Charania
+Jetpur	Rajkot	GUJARAT	365480
+Ajmer
+Jasdan	Rajkot	GUJARAT	360055
+Akala
+Jetpur	Rajkot	GUJARAT	360360
+Amarnagar Rajkot
+Jetpur	Rajkot	GUJARAT	364485
+Ambardi
+Gondal	Rajkot	GUJARAT	360311
+Amrapar
+Upleta	Rajkot	GUJARAT	360490
+Amrapar
+Jasdan	Rajkot	GUJARAT	360055
+Anida Bhalodi
+Gondal	Rajkot	GUJARAT	360311
+Anida Vachhra
+Kotda	Rajkot	GUJARAT	360070
+Ardoi
+Kotda Sangani	Rajkot	GUJARAT	360030
+Arni
+Upleta	Rajkot	GUJARAT	360450
+Atkot
+Jasdan	Rajkot	GUJARAT	360040
+Bakhalvad
+Jasdan	Rajkot	GUJARAT	360050
+Bandhiya
+Gondal	Rajkot	GUJARAT	360330
+Bandra
+Gondal	Rajkot	GUJARAT	360330
+Baradiya
+Jamkandorna	Rajkot	GUJARAT	360452
+Bava Pipaliya
+Jetpur	Rajkot	GUJARAT	360360
+Bhadajalia
+Dhoraji	Rajkot	GUJARAT	360421
+Bhadala
+Jasdan	Rajkot	GUJARAT	360050
+Bhader
+Dhoraji	Rajkot	GUJARAT	360410
+Bhadra
+Jamkandorna	Rajkot	GUJARAT	360405
+Bhadva
+Kotda	Rajkot	GUJARAT	360030
+Bhankh
+Upleta	Rajkot	GUJARAT	360490
+Bhayavadar
+Upleta	Rajkot	GUJARAT	360450
+Bhimora
+Upleta	Rajkot	GUJARAT	360490
+Bhola
+Dhoraji	Rajkot	GUJARAT	360410
+Bhukhi
+Dhoraji	Rajkot	GUJARAT	360410
+Bhunava
+Gondal	Rajkot	GUJARAT	360311
+Bildi
+Gondal	Rajkot	GUJARAT	364490
+Biliyala
+Gondal	Rajkot	GUJARAT	360311
+Boria
+Jamkandorna	Rajkot	GUJARAT	360405
+Champabeda
+Kotda	Rajkot	GUJARAT	360070
+Champrajpur
+Jetpur	Rajkot	GUJARAT	360370
+Chandli
+Lodhika	Rajkot	GUJARAT	360035
+Charakhadi
+Gondal	Rajkot	GUJARAT	360311
+Charel
+Jamkandorna	Rajkot	GUJARAT	360452
+Chavandi
+Jamkandorna	Rajkot	GUJARAT	360452
+Chhadvavadar
+Dhoraji	Rajkot	GUJARAT	360410
+Chhasiya
+Jasdan	Rajkot	GUJARAT	360055
+Chhatrasa
+Dhoraji	Rajkot	GUJARAT	360410
+Chibhda
+Lodhika	Rajkot	GUJARAT	360035
+Chichod
+Dhoraji	Rajkot	GUJARAT	360430
+Chikhaliya
+Upleta	Rajkot	GUJARAT	360410
+Chitravad
+Jamkandorna	Rajkot	GUJARAT	360452
+Chordi
+Gondal	Rajkot	GUJARAT	360311
+Dadar
+Jamkandorna	Rajkot	GUJARAT	360452
+Dadva Mota
+Gondal	Rajkot	GUJARAT	360311
+Dadvi
+Jamkandorna	Rajkot	GUJARAT	360405
+Daiya
+Gondal	Rajkot	GUJARAT	360311
+Dalia
+Gondal	Rajkot	GUJARAT	360070
+Dedarva
+Jetpur	Rajkot	GUJARAT	360360
+Derdi
+Jetpur	Rajkot	GUJARAT	360370
+Derdi Kumbaji
+Gondal	Rajkot	GUJARAT	364465
+Devchadi
+Gondal	Rajkot	GUJARAT	360330
+Devdhari
+Jasdan	Rajkot	GUJARAT	360055
+Devki Galol
+Jetpur	Rajkot	GUJARAT	360370
+Devla
+Gondal	Rajkot	GUJARAT	364485
+Dhank
+Upleta	Rajkot	GUJARAT	360460
+Dholidhar
+Jamkandorna	Rajkot	GUJARAT	360405
+Dhoraji D.G. ND T.S.O
+Dhoraji	Rajkot	GUJARAT	360410
+Dhoraji G.P. ND.T.S.O
+Dhoraji	Rajkot	GUJARAT	360410
+Dhoraji
+Dhoraji	Rajkot	GUJARAT	360410
+Dhoraji S.R. ND.T.S.O
+Dhoraji	Rajkot	GUJARAT	360410
+Dhudasiya
+Gondal	Rajkot	GUJARAT	364470
+Dodiyala
+Jasdan	Rajkot	GUJARAT	364490
+Dudhivadar
+Jamkandorna	Rajkot	GUJARAT	360410
+Dumiyani
+Upleta	Rajkot	GUJARAT	360440
+Fareni
+Dhoraji	Rajkot	GUJARAT	360370
+Gadhadia
+Jasdan	Rajkot	GUJARAT	360050
+Ganod
+Upleta	Rajkot	GUJARAT	360490
+Garnara
+Gondal	Rajkot	GUJARAT	360311
+Ghela Somnath
+Jasdan	Rajkot	GUJARAT	360050
+Ghoghavadar
+Gondal	Rajkot	GUJARAT	360311
+Gokhlana
+Jasdan	Rajkot	GUJARAT	360050
+Gomta
+Gondal	Rajkot	GUJARAT	360320
+Gondal Bhagvatpara
+Gondal	Rajkot	GUJARAT	360311
+Gondal Bhojrajpara
+Gondal	Rajkot	GUJARAT	360311
+Gondal Bhuvneshwari Pith
+Gondal	Rajkot	GUJARAT	360311
+Gondal College Chowk
+Gondal	Rajkot	GUJARAT	360311
+Gondal
+NA	Rajkot	GUJARAT	360311
+Gondal Market Yard
+Gondal	Rajkot	GUJARAT	360311
+Gundala Jas
+Jasdan	Rajkot	GUJARAT	360055
+Gundasara
+Gondal	Rajkot	GUJARAT	360311
+Gundasari
+Jamkandorna	Rajkot	GUJARAT	360452
+Hadamtala Kolithad
+Gondal	Rajkot	GUJARAT	360311
+Hadamtala Shemla
+Gondal	Rajkot	GUJARAT	360311
+Hariyasan
+Upleta	Rajkot	GUJARAT	360480
+Hathasani
+Jasdan	Rajkot	GUJARAT	360055
+Ishavariya
+Jasdan	Rajkot	GUJARAT	360040
+Ishra
+Upleta	Rajkot	GUJARAT	360490
+Jambudi
+Jetpur	Rajkot	GUJARAT	360370
+Jamkandorna
+Jamkandorna	Rajkot	GUJARAT	360405
+Jamnavad
+Dhoraji	Rajkot	GUJARAT	360410
+Jamvadi
+Gondal	Rajkot	GUJARAT	360311
+Jangvad
+Jasdan	Rajkot	GUJARAT	360040
+Jasapar
+Jasdan	Rajkot	GUJARAT	360040
+Jasdan
+Jasdan	Rajkot	GUJARAT	360050
+Jetalsar Gam
+Jetpur	Rajkot	GUJARAT	360360
+Jetalsar Jn.
+Jetpur	Rajkot	GUJARAT	360360
+Jetpur F.W. ND T.S.O
+Jetpur	Rajkot	GUJARAT	360370
+Jetpur K.B. ND T.S.O
+Jetpur	Rajkot	GUJARAT	360370
+Jetpur
+Jetpur	Rajkot	GUJARAT	360370
+Jivapar
+Jasdan	Rajkot	GUJARAT	360040
+Juna Pipaliya
+Jasdan	Rajkot	GUJARAT	364490
+Juni Sankli
+Jetpur	Rajkot	GUJARAT	360360
+Kaduka
+Jasdan	Rajkot	GUJARAT	360050
+Kagvad
+Jetpur	Rajkot	GUJARAT	360380
+Kalana
+Dhoraji	Rajkot	GUJARAT	360410
+Kalariya
+Upleta	Rajkot	GUJARAT	360490
+Kalasar
+Jasdan	Rajkot	GUJARAT	360050
+Kamar Kotda
+Gondal	Rajkot	GUJARAT	360330
+Kanpar
+Jasdan	Rajkot	GUJARAT	360040
+Kerali
+Jetpur	Rajkot	GUJARAT	360370
+Khadvanthali
+Gondal	Rajkot	GUJARAT	360311
+Khajurda
+Jamkandorna	Rajkot	GUJARAT	360440
+Khakhijaliya
+Upleta	Rajkot	GUJARAT	360490
+Khambha
+Gondal	Rajkot	GUJARAT	360311
+Khandadhar
+Gondal	Rajkot	GUJARAT	360311
+Khandhevadia
+Jasdan	Rajkot	GUJARAT	360055
+Kharachiya
+Jetpur	Rajkot	GUJARAT	360370
+Kharachiya
+Upleta	Rajkot	GUJARAT	360470
+Khareda
+Kotda	Rajkot	GUJARAT	360030
+Khatli
+Jamkandorna	Rajkot	GUJARAT	360452
+Khirasara
+Jetpur	Rajkot	GUJARAT	364485
+Khirsara Ghed
+Upleta	Rajkot	GUJARAT	360450
+Kolithad
+Gondal	Rajkot	GUJARAT	360311
+Kolki Rajkot
+Upleta	Rajkot	GUJARAT	360470
+Kotda Sangani
+Kotda	Rajkot	GUJARAT	360030
+Kotha Pipalia
+Lodhika	Rajkot	GUJARAT	360035
+Lakhavad Moti
+Jasdan	Rajkot	GUJARAT	360055
+Lath
+Upleta	Rajkot	GUJARAT	360490
+Lilapur
+Jasdan	Rajkot	GUJARAT	360050
+Lodhika
+Lodhika	Rajkot	GUJARAT	360035
+Lunivav
+Gondal	Rajkot	GUJARAT	360311
+Mandan Kundla
+Gondal	Rajkot	GUJARAT	360330
+Mandlikpur
+Jetpur	Rajkot	GUJARAT	360370
+Manekwada
+Kotda	Rajkot	GUJARAT	360030
+Meghpar
+Jasdan	Rajkot	GUJARAT	364490
+Mekha Timbi
+Upleta	Rajkot	GUJARAT	360470
+Mengni
+Kotda Sangani	Rajkot	GUJARAT	360070
+Mervadar
+Upleta	Rajkot	GUJARAT	360490
+Meta Khambhaliya
+Gondal	Rajkot	GUJARAT	364465
+Mevasa
+Jetpur	Rajkot	GUJARAT	360370
+Modhuka
+Jasdan	Rajkot	GUJARAT	360055
+Mojira
+Upleta	Rajkot	GUJARAT	360490
+Mota Gundala
+Jetpur	Rajkot	GUJARAT	360370
+Mota Mandva
+Gondal	Rajkot	GUJARAT	360311
+Moti Khilori
+Gondal	Rajkot	GUJARAT	364465
+Moti Marad
+Dhoraji	Rajkot	GUJARAT	360421
+Moti Parabadi
+Dhoraji	Rajkot	GUJARAT	360360
+Moti Vavdi
+Dhoraji	Rajkot	GUJARAT	360440
+Moviya
+Gondal	Rajkot	GUJARAT	360330
+Nagalkhada
+Dhoraji	Rajkot	GUJARAT	360410
+Nagvadar
+Upleta	Rajkot	GUJARAT	360490
+Nana Mandva
+Gondal	Rajkot	GUJARAT	360311
+Nani Parabadi
+Dhoraji	Rajkot	GUJARAT	360360
+Nani Vavdi
+Dhoraji	Rajkot	GUJARAT	360440
+Nava Matravad
+Jamkandorna	Rajkot	GUJARAT	360450
+Navagadh
+Jetpur	Rajkot	GUJARAT	360375
+Navagam
+Gondal	Rajkot	GUJARAT	360320
+Nilakha
+Upleta	Rajkot	GUJARAT	360490
+Nonghanchora
+Kotda	Rajkot	GUJARAT	360070
+Padavla
+Upleta	Rajkot	GUJARAT	360480
+Panch Pipla
+Jetpur	Rajkot	GUJARAT	360370
+Panchavda
+Jasdan	Rajkot	GUJARAT	360040
+Paneli
+Upleta	Rajkot	GUJARAT	360480
+Patanvav
+Dhoraji	Rajkot	GUJARAT	360430
+Patidad
+Gondal	Rajkot	GUJARAT	360311
+Pedhla
+Jetpur	Rajkot	GUJARAT	360370
+Pipaliya
+Dhoraji	Rajkot	GUJARAT	360410
+PipaliyaSadak
+Gondal	Rajkot	GUJARAT	360311
+Pipalva
+Jetpur	Rajkot	GUJARAT	360360
+Pipardi
+Jamkandorna	Rajkot	GUJARAT	360405
+Pipardi
+Jasdan	Rajkot	GUJARAT	360055
+Pithadia
+Jetpur	Rajkot	GUJARAT	360370
+Pransla
+Upleta	Rajkot	GUJARAT	360490
+Premgadh
+Jetpur	Rajkot	GUJARAT	360370
+Rabarika
+Jetpur	Rajkot	GUJARAT	360370
+Rabarika
+Upleta	Rajkot	GUJARAT	360470
+Raidi
+Jamkandorna	Rajkot	GUJARAT	360410
+Rajapara
+Kotda	Rajkot	GUJARAT	360030
+Ramod
+Gondal	Rajkot	GUJARAT	360311
+Ravna
+Gondal	Rajkot	GUJARAT	364490
+Reshamdi Galol
+Jetpur	Rajkot	GUJARAT	360370
+Rib
+Gondal	Rajkot	GUJARAT	360311
+Ribda
+Gondal	Rajkot	GUJARAT	360311
+Roghel
+Jamkandorna	Rajkot	GUJARAT	360410
+Rupavati
+Jetpur	Rajkot	GUJARAT	360360
+Sajadiyali
+Jamkandorna	Rajkot	GUJARAT	360405
+Sajadiyali
+Upleta	Rajkot	GUJARAT	360450
+Samadhiyala
+Jetpur	Rajkot	GUJARAT	360370
+Samadhiyala
+Upleta	Rajkot	GUJARAT	360490
+Sanali
+Jasdan	Rajkot	GUJARAT	360055
+Sanathali
+Jasdan	Rajkot	GUJARAT	364490
+Sandhvaya
+Gondal	Rajkot	GUJARAT	360311
+Sanganva
+Lodhika	Rajkot	GUJARAT	360035
+Sardharpur
+Jetpur	Rajkot	GUJARAT	360375
+Satapar
+Kotda	Rajkot	GUJARAT	360330
+Satodad
+Jamkandorna	Rajkot	GUJARAT	360405
+Semla
+Gondal	Rajkot	GUJARAT	360311
+Shishak
+Kotda	Rajkot	GUJARAT	360330
+Shivrajgadh
+Gondal	Rajkot	GUJARAT	360311
+Shivrajpur
+Jasdan	Rajkot	GUJARAT	360050
+Shrinathgadh
+Gondal	Rajkot	GUJARAT	360330
+Sodvadar
+Jamkandorna	Rajkot	GUJARAT	360440
+Sultanpur Rajkot
+Gondal	Rajkot	GUJARAT	364470
+Supedi
+Dhoraji	Rajkot	GUJARAT	360440
+Talagana
+Upleta	Rajkot	GUJARAT	360490
+Tanasva
+Upleta	Rajkot	GUJARAT	360490
+Thana Galol
+Jetpur	Rajkot	GUJARAT	360370
+Timbdi Arab
+Jetpur	Rajkot	GUJARAT	360360
+Timbdi Jam
+Upleta	Rajkot	GUJARAT	360450
+Torania
+Dhoraji	Rajkot	GUJARAT	360360
+Trakuda
+Gondal	Rajkot	GUJARAT	360311
+Umrali
+Gondal	Rajkot	GUJARAT	360311
+Upleta Lati Plot
+Upleta	Rajkot	GUJARAT	360490
+Upleta ND T.S.O
+Upleta	Rajkot	GUJARAT	360490
+Vachhra
+Gondal	Rajkot	GUJARAT	360311
+Vadala
+Upleta	Rajkot	GUJARAT	360490
+Vadali
+Upleta	Rajkot	GUJARAT	360450
+Vadasada
+Jetpur	Rajkot	GUJARAT	364485
+Vadod
+Jasdan	Rajkot	GUJARAT	360050
+Vadodar
+Dhoraji	Rajkot	GUJARAT	360410
+Vangadhra
+Jasdan	Rajkot	GUJARAT	360055
+Varjang Jalia
+Upleta	Rajkot	GUJARAT	360490
+Vasavad
+Gondal	Rajkot	GUJARAT	364490
+Vavdi
+Jamkandorna	Rajkot	GUJARAT	360405
+Vavdi Station
+Jetpur	Rajkot	GUJARAT	364485
+Vekri
+Gondal	Rajkot	GUJARAT	360311
+Vinchhiya
+Jasdan	Rajkot	GUJARAT	360055
+Vinzivad
+Gondal	Rajkot	GUJARAT	364470
+Virpur
+Jetpur	Rajkot	GUJARAT	360380
+Vora Kotda
+Gondal	Rajkot	GUJARAT	360311
+Zanzmer
+Dhoraji	Rajkot	GUJARAT	360440
+Zundala
+Jasdan	Rajkot	GUJARAT	364490
+Adbalka
+Paddhari	Rajkot	GUJARAT	360110
+Amarpara Wankaner
+Wankaner	Rajkot	GUJARAT	363621
+Anandpar Navagam
+Rajkot	Rajkot	GUJARAT	360003
+AnandparMorbi
+Rajkot	Rajkot	GUJARAT	360003
+Arnitimba
+Wankaner	Rajkot	GUJARAT	363621
+Bagathala
+Morbi	Rajkot	GUJARAT	363641
+Baldhoi
+Jasdan	Rajkot	GUJARAT	360060
+Bangavadi
+Tankara	Rajkot	GUJARAT	363650
+Barvala
+Morbi	Rajkot	GUJARAT	363641
+Bedi Tankara
+Tankara	Rajkot	GUJARAT	363650
+BediRajkot
+Rajkot	Rajkot	GUJARAT	360003
+Bedla
+Rajkot	Rajkot	GUJARAT	360025
+Bhadiyad
+Morbi	Rajkot	GUJARAT	363642
+Bhalgam
+Wankaner	Rajkot	GUJARAT	363621
+Bhandaria
+Jasdan	Rajkot	GUJARAT	360025
+Bhavpar
+Dahisara	Rajkot	GUJARAT	363660
+Bherda
+Wankaner	Rajkot	GUJARAT	363621
+Bhimguda
+Wankaner	Rajkot	GUJARAT	363621
+Bhupgadh
+Rajkot	Rajkot	GUJARAT	360025
+Biliya
+Morbi	Rajkot	GUJARAT	363641
+Bodki
+Dahisara	Rajkot	GUJARAT	363660
+Bogharavadar
+Rajkot	Rajkot	GUJARAT	360025
+Chachapar
+Morbi	Rajkot	GUJARAT	363641
+Chandrapur
+Wankaner	Rajkot	GUJARAT	363621
+Dahisara
+Jasdan	Rajkot	GUJARAT	360025
+Dahisara Rajkot
+Maliya	Rajkot	GUJARAT	363660
+Daldi
+Wankaner	Rajkot	GUJARAT	363621
+Derala
+Malia(m)	Rajkot	GUJARAT	363660
+Devgam
+NA	Rajkot	GUJARAT	360021
+Dholara
+Rajkot	Rajkot	GUJARAT	360022
+Dhulia Domda
+Lodhika	Rajkot	GUJARAT	360021
+Dhuva
+Wankaner	Rajkot	GUJARAT	363621
+Dungarka
+Paddhari	Rajkot	GUJARAT	360110
+Gadhaka
+Rajkot	Rajkot	GUJARAT	360020
+Gadhdiya
+Jasdan	Rajkot	GUJARAT	360025
+Gala
+Morvi	Rajkot	GUJARAT	363630
+Gariya
+Wankaner	Rajkot	GUJARAT	363621
+Gauridad
+Rajkot	Rajkot	GUJARAT	360003
+Ghiyavad
+Wankaner	Rajkot	GUJARAT	363621
+Ghunda S
+Morbi	Rajkot	GUJARAT	363641
+Ghunda Khanpar
+Tankara	Rajkot	GUJARAT	363641
+Ghuntu
+Morbi	Rajkot	GUJARAT	363641
+Gungan
+Morvi	Rajkot	GUJARAT	363642
+Hadmatia
+Rajkot	Rajkot	GUJARAT	360025
+Hadmatiya
+Tankara	Rajkot	GUJARAT	363641
+Hadmatiya
+Dhrol	Rajkot	GUJARAT	360110
+Halenda
+Rajkot	Rajkot	GUJARAT	360025
+Harbatiyali
+Tankara	Rajkot	GUJARAT	363650
+Haripar
+Morvi	Rajkot	GUJARAT	363630
+Haripar
+Rajkot	Rajkot	GUJARAT	360025
+Hirapar
+Tankara	Rajkot	GUJARAT	363650
+Ishwariya
+Paddhari	Rajkot	GUJARAT	360110
+Jabalpur
+Tankara	Rajkot	GUJARAT	363650
+Jajasar
+Maliya Miyana	Rajkot	GUJARAT	363670
+Jalida
+Wankaner	Rajkot	GUJARAT	363621
+JaliyaDhrol
+Rajkot	Rajkot	GUJARAT	360003
+Jambudiya
+Morbi	Rajkot	GUJARAT	363642
+Jetpar M
+Morvi	Rajkot	GUJARAT	363630
+Jivapar
+Tankara	Rajkot	GUJARAT	363650
+Jivaparc
+Morvi	Rajkot	GUJARAT	363630
+Jodjpar Nadi
+Morbi	Rajkot	GUJARAT	363642
+Juna Ghantila
+Morvi	Rajkot	GUJARAT	363630
+Juna Nagdavas
+Maliya Miyana	Rajkot	GUJARAT	363670
+Juna Rajpipala
+Kotda Saangani	Rajkot	GUJARAT	360025
+Kagadadi
+Rajkot	Rajkot	GUJARAT	360003
+Kamalapur
+Jasdan	Rajkot	GUJARAT	360025
+Kanesara
+Rajkot	Rajkot	GUJARAT	360060
+Kankot
+Rajkot	Rajkot	GUJARAT	360005
+Kankot
+Wankaner	Rajkot	GUJARAT	363621
+Kasturbadham
+Rajkot	Rajkot	GUJARAT	360020
+Kerala
+Wankaner	Rajkot	GUJARAT	363621
+Khajurdi
+Dhrol	Rajkot	GUJARAT	360110
+Khakhdabela
+Dhrol	Rajkot	GUJARAT	360110
+Khakhrala
+Morbi	Rajkot	GUJARAT	363641
+Khakhrechi
+Maliya Miyana	Rajkot	GUJARAT	363630
+Khambhala
+Paddhari	Rajkot	GUJARAT	360110
+Khamta
+Paddhari	Rajkot	GUJARAT	360110
+Khandheri
+Paddhari	Rajkot	GUJARAT	360110
+Khanpar
+Morbi	Rajkot	GUJARAT	363641
+KharchiyaJam
+Jasdan	Rajkot	GUJARAT	360060
+Kharechiya
+Rajkot	Rajkot	GUJARAT	360025
+Kherda
+Morbi	Rajkot	GUJARAT	363641
+Kherdi
+Rajkot	Rajkot	GUJARAT	360002
+Kherva
+Wankaner	Rajkot	GUJARAT	363621
+Khevaliya
+Morbi	Rajkot	GUJARAT	363641
+Khijadia
+Wankaner	Rajkot	GUJARAT	363621
+Khirai
+Maliya Miyana	Rajkot	GUJARAT	363670
+Khirsara
+NA	Rajkot	GUJARAT	360021
+Khodapipar
+Paddhari	Rajkot	GUJARAT	360110
+Khokhaddad
+Rajkot	Rajkot	GUJARAT	360022
+Khorana
+Rajkot	Rajkot	GUJARAT	360003
+Kotda Nayani
+Rajkot	Rajkot	GUJARAT	360003
+Kotharia
+Wankaner	Rajkot	GUJARAT	363621
+KOTHARIA Rajkot
+NA	Rajkot	GUJARAT	360022
+KothariaTankara
+Tankara	Rajkot	GUJARAT	363650
+KothariaTB Hosp
+Rajkot	Rajkot	GUJARAT	360022
+Kothi
+Rajkot	Rajkot	GUJARAT	360060
+Kothi
+Wankaner	Rajkot	GUJARAT	363621
+Kuchiyadad
+Rajkot	Rajkot	GUJARAT	360023
+Kumbhariya
+Morvi	Rajkot	GUJARAT	363630
+Kundani
+Rajkot	Rajkot	GUJARAT	360060
+Kuntasi
+Dahisara	Rajkot	GUJARAT	363660
+KUVADAVA
+Rajkot	Rajkot	GUJARAT	360023
+Lajai
+Taankaraa	Rajkot	GUJARAT	363641
+LakhavadNani
+Jasdan	Rajkot	GUJARAT	360060
+Lalpar
+Morvi	Rajkot	GUJARAT	363642
+Lavanpur
+Dahisara	Rajkot	GUJARAT	363660
+Lilapar
+Morbi	Rajkot	GUJARAT	363641
+Lunsar
+Wankaner	Rajkot	GUJARAT	363621
+Lunsariya
+Wankaner	Rajkot	GUJARAT	363621
+Madhapar
+Rajkot	Rajkot	GUJARAT	360006
+Magharvada
+Rajkot	Rajkot	GUJARAT	360023
+Mahendranagar
+Morbi	Rajkot	GUJARAT	363642
+Mahika
+Rajkot	Rajkot	GUJARAT	360002
+Mahika
+Wankaner	Rajkot	GUJARAT	363621
+Makansar
+Morbi	Rajkot	GUJARAT	363642
+Maliya Miyana
+Maliya	Rajkot	GUJARAT	363670
+Maliyasan
+Rajkot	Rajkot	GUJARAT	360003
+Manekwada
+Morbi	Rajkot	GUJARAT	363641
+Matel
+Wankaner	Rajkot	GUJARAT	363621
+Mavdi
+Rajkot	Rajkot	GUJARAT	360004
+Meghpar Zala
+Tankara	Rajkot	GUJARAT	363650
+Mesariya
+Wankaner	Rajkot	GUJARAT	363621
+Mesavada
+Rajkot	Rajkot	GUJARAT	360023
+Mitana
+Tankara	Rajkot	GUJARAT	363650
+Morbi GIDC
+Morvi	Rajkot	GUJARAT	363641
+Morbi MDG
+Morbi	Rajkot	GUJARAT	363641
+Morbi Nani Bazar
+Morvi	Rajkot	GUJARAT	363641
+Morbi Ppw
+Morvi	Rajkot	GUJARAT	363642
+Morbi Shakti Plot
+Morvi	Rajkot	GUJARAT	363641
+Mota Bhela
+Dahisara	Rajkot	GUJARAT	363660
+Mota Khijadia
+Tankara	Rajkot	GUJARAT	363650
+Mota Mava
+Rajkot	Rajkot	GUJARAT	360005
+Mota Vada
+Lodhika	Rajkot	GUJARAT	360021
+Motakhijadia
+Paddhari	Rajkot	GUJARAT	360110
+Motibarar
+Maliya Miyana	Rajkot	GUJARAT	363670
+Motichanol
+Paddhari	Rajkot	GUJARAT	360110
+Nagar Pipaliya
+NA	Rajkot	GUJARAT	360021
+Nana Khijadia
+Paddhari	Rajkot	GUJARAT	360110
+Nani Barar
+Maliya Miyana	Rajkot	GUJARAT	363670
+Nani Vavdi
+Morbi	Rajkot	GUJARAT	363641
+Nasitpar
+Tankara	Rajkot	GUJARAT	363641
+Navagam
+Maliya Miyana	Rajkot	GUJARAT	363670
+Neknam
+Tankara	Rajkot	GUJARAT	363650
+Nesda K
+Tankara	Rajkot	GUJARAT	363641
+Nichimandal
+Morbi	Rajkot	GUJARAT	363641
+Otala
+Tankara	Rajkot	GUJARAT	363650
+Padasan
+Rajkot	Rajkot	GUJARAT	360020
+Paddhara
+Wankaner	Rajkot	GUJARAT	363621
+Paddhari
+Paddhari	Rajkot	GUJARAT	360110
+Pal
+Rajkot	Rajkot	GUJARAT	360004
+Panchasar
+Morbi	Rajkot	GUJARAT	363641
+Panchasia
+Wankaner	Rajkot	GUJARAT	363621
+Panchdwarka
+Wankaner	Rajkot	GUJARAT	363621
+Paneli
+Morbi	Rajkot	GUJARAT	363642
+Para Pipaliya
+Rajkot	Rajkot	GUJARAT	360006
+Pardi
+Lodhika	Rajkot	GUJARAT	360024
+Pipaliya
+Morvi	Rajkot	GUJARAT	363660
+Pipaliya Raj
+Wankaner	Rajkot	GUJARAT	363621
+PipaliyaA
+Rajkot	Rajkot	GUJARAT	360003
+Pipli
+Morvi	Rajkot	GUJARAT	363642
+Rafala
+Rajkot	Rajkot	GUJARAT	360023
+Rafaleshwar
+Morvi	Rajkot	GUJARAT	363642
+Raiya
+Rajkot	Rajkot	GUJARAT	360005
+Rajavadala
+Wankaner	Rajkot	GUJARAT	363621
+Rajkot Raiya Road
+Rajkot	Rajkot	GUJARAT	360007
+Rajkot Aji Ind Estate
+Rajkot	Rajkot	GUJARAT	360003
+Rajkot Bedipara
+Rajkot	Rajkot	GUJARAT	360003
+Rajkot Bhaktinagar
+Rajkot	Rajkot	GUJARAT	360002
+Rajkot Bhomeshwar Plot
+Rajkot	Rajkot	GUJARAT	360006
+Rajkot City
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Collectorate
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot D H College
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Jairaj Plot
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Jn. Plot
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Kalavad Road
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Malviyanagar
+Rajkot	Rajkot	GUJARAT	360004
+Rajkot Manahar Plot
+Rajkot	Rajkot	GUJARAT	360002
+Rajkot Mandvi Chowk
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Marketing Yard
+Rajkot	Rajkot	GUJARAT	360003
+Rajkot Metoda Gidc
+NA	Rajkot	GUJARAT	360021
+Rajkot Millpara
+Rajkot	Rajkot	GUJARAT	360002
+Rajkot Mochi Bazar
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Municipal Corporation
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot New Jagnath Plot
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Parsi Agiyari Chowk
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Popatpara
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Postal Colony
+Rajkot	Rajkot	GUJARAT	360004
+Rajkot Race Course Road
+Rajkot	Rajkot	GUJARAT	360001
+Rajkot Sau Uni Area
+Rajkot	Rajkot	GUJARAT	360005
+Rajkot Sorathiawadi
+Rajkot	Rajkot	GUJARAT	360002
+Rajkot Udyognagar
+Rajkot	Rajkot	GUJARAT	360002
+Rajkot Vivekanandnagar
+Rajkot	Rajkot	GUJARAT	360002
+Rajpar
+Morbi	Rajkot	GUJARAT	363641
+Rampar Mota
+Paddhari	Rajkot	GUJARAT	360110
+Rampar Pati
+Paddhari	Rajkot	GUJARAT	360110
+Ranekpar
+Wankaner	Rajkot	GUJARAT	363621
+Rangpar Bela
+Morvi	Rajkot	GUJARAT	363641
+Rangpar
+Morbi	Rajkot	GUJARAT	363641
+Ratidevdi
+Wankaner	Rajkot	GUJARAT	363621
+RavaparNadi
+Morbi	Rajkot	GUJARAT	363642
+Ravki
+Rajkot	Rajkot	GUJARAT	360004
+Rohishala
+Tankara	Rajkot	GUJARAT	363650
+Rupavati
+Paddhari	Rajkot	GUJARAT	360110
+Sadulkanava
+Morbi	Rajkot	GUJARAT	363642
+Sajanpar
+Tankara	Rajkot	GUJARAT	363641
+Sal Pipalia
+Lodhika	Rajkot	GUJARAT	360110
+Samadhiyala
+Wankaner	Rajkot	GUJARAT	363621
+Samadhiyala
+Rajkot	Rajkot	GUJARAT	360020
+Sanosara
+Rajkot	Rajkot	GUJARAT	360003
+Sapar
+Morvi	Rajkot	GUJARAT	363630
+Sarapdad
+Paddhari	Rajkot	GUJARAT	360110
+Saravad
+Maliya	Rajkot	GUJARAT	363660
+Sardhar
+Sardhar	Rajkot	GUJARAT	360025
+Sardharka
+Wankaner	Rajkot	GUJARAT	363621
+Savadi
+Tankara	Rajkot	GUJARAT	363650
+Shakat Sanala
+Morbi	Rajkot	GUJARAT	363641
+Shapar Halar
+Kotda Sangani	Rajkot	GUJARAT	360024
+Shri Sardanagar
+Morvi	Rajkot	GUJARAT	363641
+Sindhavadar
+Wankaner	Rajkot	GUJARAT	363621
+Sokhda
+Morbi	Rajkot	GUJARAT	363670
+SRPF Gr XIII Ghanteshwar
+Rajkot	Rajkot	GUJARAT	360006
+Sultanpur
+Morvi	Rajkot	GUJARAT	363630
+Suvag
+Dhrol	Rajkot	GUJARAT	360110
+Tankara
+Tankara	Rajkot	GUJARAT	363650
+Tarakiya
+Wankaner	Rajkot	GUJARAT	363621
+Targhadi
+Maliya	Rajkot	GUJARAT	363660
+Targhadia
+Rajkot	Rajkot	GUJARAT	360023
+Targhari
+Paddhari	Rajkot	GUJARAT	360110
+Thorala
+Morbi	Rajkot	GUJARAT	363641
+Thoriyali
+Paddhari	Rajkot	GUJARAT	360110
+Tithva
+Wankaner	Rajkot	GUJARAT	363621
+Ukarda
+Paddhari	Rajkot	GUJARAT	360110
+Umrali
+Rajkot	Rajkot	GUJARAT	360025
+Unchi Mandal
+Morbi	Rajkot	GUJARAT	363641
+Vachhakapar
+Tankara	Rajkot	GUJARAT	363650
+Vadali
+Rajkot	Rajkot	GUJARAT	360020
+Vadharva
+Maliya Miyana	Rajkot	GUJARAT	363670
+Vaghasiya
+Wankaner	Rajkot	GUJARAT	363621
+Vaghpar
+Maliya Miyana	Rajkot	GUJARAT	363630
+Valasan
+Wankaner	Rajkot	GUJARAT	363621
+Vankada
+Morvi	Rajkot	GUJARAT	363641
+Vardusar
+Wankaner	Rajkot	GUJARAT	363621
+Varsamedi
+Dahisara	Rajkot	GUJARAT	363660
+Vavania
+Dahisara	Rajkot	GUJARAT	363660
+Vavdi
+Rajkot	Rajkot	GUJARAT	360004
+Vejalpar
+Maliya Miyana	Rajkot	GUJARAT	363630
+Venasar
+Maliya Miyana	Rajkot	GUJARAT	363630
+Veraval Shapar
+Kotda Sanghani	Rajkot	GUJARAT	360024
+Virnagar
+Jasdan	Rajkot	GUJARAT	360060
+Virpar M
+Morbi	Rajkot	GUJARAT	363641
+Virparda
+Dahisara	Rajkot	GUJARAT	363660
+Virvadrka
+Maliya Miyana	Rajkot	GUJARAT	363670
+Virvav
+Tankara	Rajkot	GUJARAT	363650
+Visaman
+Dhrol	Rajkot	GUJARAT	360110
+Wankaner
+Wankaner	Rajkot	GUJARAT	363621
+Zilariya
+Paddhari	Rajkot	GUJARAT	360110
+Zinkiyali
+Morbi	Rajkot	GUJARAT	363641
+Ziyana
+Rajkot	Rajkot	GUJARAT	360023
+

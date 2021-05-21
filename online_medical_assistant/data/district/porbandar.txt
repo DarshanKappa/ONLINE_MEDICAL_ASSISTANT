@@ -1,0 +1,201 @@
+Malanka
+Kutiyana	Porbandar	GUJARAT	360490
+Bhomiyavadar
+Bhanvad	Porbandar	GUJARAT	360510
+Ishwaria
+Jamjodhpur	Porbandar	GUJARAT	360530
+Simar
+Bhanvad	Porbandar	GUJARAT	360510
+Adityana
+NA	Porbandar	GUJARAT	360545
+Advana
+Porbandar	Porbandar	GUJARAT	360590
+Amar
+Kutiyana	Porbandar	GUJARAT	360570
+Amardad
+NA	Porbandar	GUJARAT	360560
+Amipur
+Kutiyana	Porbandar	GUJARAT	362620
+Aniyari
+Ranavav	Porbandar	GUJARAT	360570
+Bagvadar
+Porbandar	Porbandar	GUJARAT	360590
+Bakharla
+Porbandar	Porbandar	GUJARAT	360579
+Balej
+Porbandar	Porbandar	GUJARAT	362230
+Bapodar
+Ranavav	Porbandar	GUJARAT	360570
+Bhad
+Porbandar	Porbandar	GUJARAT	360576
+Bhadula
+Kutiyana	Porbandar	GUJARAT	362620
+Bharvada
+Porbandar	Porbandar	GUJARAT	360590
+Bhavpara
+Porbandar	Porbandar	GUJARAT	360579
+Bhetakadi
+Porbandar	Porbandar	GUJARAT	360590
+Bhod
+Ranavav	Porbandar	GUJARAT	360550
+Bhoddar
+Ranavav	Porbandar	GUJARAT	360570
+Bileshwar
+Ranavav	Porbandar	GUJARAT	360550
+Bokhira
+NA	Porbandar	GUJARAT	360579
+Boricha
+Porbandar	Porbandar	GUJARAT	360545
+Chauta
+Kutiyana	Porbandar	GUJARAT	362650
+Chhatrava
+Kutiyana	Porbandar	GUJARAT	362650
+Chhaya
+NA	Porbandar	GUJARAT	360578
+Degam
+Porbandar	Porbandar	GUJARAT	360579
+Devda
+Kutiyana	Porbandar	GUJARAT	362650
+Dharampur
+Ranavav	Porbandar	GUJARAT	360560
+Erda
+Porbandar	Porbandar	GUJARAT	360576
+Farer
+Kutiyana	Porbandar	GUJARAT	362620
+Fatana
+Porbandar	Porbandar	GUJARAT	360590
+Garej
+Porbandar	Porbandar	GUJARAT	360576
+Gokran
+Kutiyana	Porbandar	GUJARAT	362650
+Gosa
+Porbandar	Porbandar	GUJARAT	360576
+Ishwaria
+Kutiyana	Porbandar	GUJARAT	362650
+Jamboo
+Ranavav	Porbandar	GUJARAT	360570
+Jamra
+Kutiyana	Porbandar	GUJARAT	362620
+Kadachh
+Porbandar	Porbandar	GUJARAT	362230
+Kadegi
+Kutiyana	Porbandar	GUJARAT	362620
+Kansavad
+Kutiyana	Porbandar	GUJARAT	362620
+Kantol
+Manavadar	Porbandar	GUJARAT	362620
+Kavalka
+Kutiyana	Porbandar	GUJARAT	362620
+Khageshri
+Kutiyana	Porbandar	GUJARAT	362650
+Khambhodar
+Porbandar	Porbandar	GUJARAT	360590
+Khapat
+NA	Porbandar	GUJARAT	360579
+Khistri
+Porbandar	Porbandar	GUJARAT	360579
+Kindarkheda
+Porbandar	Porbandar	GUJARAT	360590
+Kotda
+Kutiyana	Porbandar	GUJARAT	362650
+Kuchhdi
+Porbandar	Porbandar	GUJARAT	360579
+Kutiyana Bazar
+Kutiyana	Porbandar	GUJARAT	362650
+Kutiyana
+Porbandar	Porbandar	GUJARAT	362650
+Madhavpur
+Porbandar	Porbandar	GUJARAT	362230
+Mahiyari
+Kutiyana	Porbandar	GUJARAT	362620
+Mahobatpara
+Kutiyana	Porbandar	GUJARAT	362650
+Majivana
+Porbandar	Porbandar	GUJARAT	360590
+Mal
+Kutiyana	Porbandar	GUJARAT	362650
+Mander
+Porbandar	Porbandar	GUJARAT	362230
+Mandva
+Kutiyana	Porbandar	GUJARAT	362650
+Mitrala
+Porbandar	Porbandar	GUJARAT	360576
+Miyani
+Porbandar	Porbandar	GUJARAT	360579
+Moddar
+Kutiyana	Porbandar	GUJARAT	362650
+Modhvada
+Porbaandar	Porbandar	GUJARAT	360590
+Mokal
+Ranavav	Porbandar	GUJARAT	360570
+Morana
+Porbandar	Porbandar	GUJARAT	360590
+Mul Madhavpur
+Porbandar	Porbandar	GUJARAT	362230
+Nagka
+Porbandar	Porbandar	GUJARAT	360579
+Navibandar
+Porbandar	Porbandar	GUJARAT	360576
+Odadar
+Porbandar	Porbandar	GUJARAT	360576
+Pandavadar
+Porbandar	Porbandar	GUJARAT	360579
+Paswali
+Kutiyana	Porbandar	GUJARAT	362650
+Pata
+Porbandar	Porbandar	GUJARAT	362230
+Porbandar Bhojeshwar
+Porbandar	Porbandar	GUJARAT	360575
+Porbandar Birla Sagar
+Porbandar	Porbandar	GUJARAT	360576
+Porbandar Chhaya Plot
+Porbandar	Porbandar	GUJARAT	360575
+Porbandar G.I.D.C.
+Porbandar	Porbandar	GUJARAT	360577
+Porbandar
+Porbandar	Porbandar	GUJARAT	360575
+Porbandar Hanuman Gufa
+Porbandar	Porbandar	GUJARAT	360575
+Porbandar M G Road
+Porbandar	Porbandar	GUJARAT	360575
+Porbandar Manek Chowk
+Porbandar	Porbandar	GUJARAT	360575
+Porbandar Mill Pura
+Porbandar	Porbandar	GUJARAT	360575
+Ranabordi
+Ranavav	Porbandar	GUJARAT	360570
+Ranakandorana
+Porbandar	Porbandar	GUJARAT	360570
+Ranakhirasara
+Ranavav	Porbandar	GUJARAT	360570
+Ranavav Railway Station
+Ranavav	Porbandar	GUJARAT	360560
+Ranavav
+Porbandar	Porbandar	GUJARAT	360550
+Ratdi
+Porbandar	Porbandar	GUJARAT	360579
+Ratia
+Porbandar	Porbandar	GUJARAT	360576
+Segras
+Kutiyana	Porbandar	GUJARAT	362650
+Shingda
+Porbandar	Porbandar	GUJARAT	360590
+Sisli
+Porbandar	Porbandar	GUJARAT	360590
+Sodhana
+Porbandar	Porbandar	GUJARAT	360590
+Thoyana
+Ranavav	Porbandar	GUJARAT	360570
+Tukda Gosa
+Porbandar	Porbandar	GUJARAT	360576
+Tukda Miyani
+Porbandar	Porbandar	GUJARAT	360579
+Vadala Rana
+Porbandar	Porbandar	GUJARAT	360590
+Vadvalarana
+Ranavav	Porbandar	GUJARAT	360570
+Valotra
+Ranavav	Porbandar	GUJARAT	360570
+Visavada
+Porbandar	Porbandar	GUJARAT	360579
+

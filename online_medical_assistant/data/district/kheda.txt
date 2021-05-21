@@ -1,0 +1,689 @@
+Agarwa
+Thasra	Kheda	GUJARAT	388230
+Ajupura
+Thasra	Kheda	GUJARAT	388225
+Aklacha
+Thasra	Kheda	GUJARAT	388230
+Alela
+Balasinor	Kheda	GUJARAT	388265
+Ambav Thasra
+Thasra	Kheda	GUJARAT	388250
+Angadi
+Thasra	Kheda	GUJARAT	388250
+Bar
+Birpur	Kheda	GUJARAT	388265
+Bhadrasa
+Thasra	Kheda	GUJARAT	388230
+Bhanthala
+Balasinor	Kheda	GUJARAT	388255
+Bharodi
+Birpur	Kheda	GUJARAT	388260
+Bhatpur
+Birpur	Kheda	GUJARAT	388260
+Bhatpura
+Birpur	Kheda	GUJARAT	388220
+Bhavan S College
+Thasra	Kheda	GUJARAT	388225
+Birpur Kheda
+Birpur	Kheda	GUJARAT	388260
+Bordi
+Kheda	Kheda	GUJARAT	388225
+Chandasar
+Thasra	Kheda	GUJARAT	388225
+Chetarsumba
+Thasra	Kheda	GUJARAT	388225
+Chitlav
+Thasra	Kheda	GUJARAT	388230
+Dabhali
+Thasra	Kheda	GUJARAT	388250
+Dakor
+Thasra	Kheda	GUJARAT	388225
+Debhari
+Virpur	Kheda	GUJARAT	388260
+Dev
+Balasinor	Kheda	GUJARAT	388265
+Dhunadra
+Thasra	Kheda	GUJARAT	388230
+Dhundi
+Thasra	Kheda	GUJARAT	388250
+Felsani
+Balasinor	Kheda	GUJARAT	388255
+Gadhavada
+Balasinor	Kheda	GUJARAT	388255
+Gandhari
+Birpur	Kheda	GUJARAT	388260
+Golaj
+Thasra	Kheda	GUJARAT	388250
+Gumadia
+Thasra	Kheda	GUJARAT	388250
+Guntheli
+Balasinor	Kheda	GUJARAT	388255
+Handia
+Birpur	Kheda	GUJARAT	388265
+Janod
+Balasinor	Kheda	GUJARAT	388255
+Jetholi
+Balasinor	Kheda	GUJARAT	388265
+Jodhpur
+Birpur	Kheda	GUJARAT	388265
+Jorapura
+Balasinor	Kheda	GUJARAT	388255
+Kalsar
+Thasra	Kheda	GUJARAT	388230
+Kambopa
+Balasinor	Kheda	GUJARAT	388265
+Kasodi
+Birpur	Kheda	GUJARAT	388260
+Khadgodhra
+Thasra	Kheda	GUJARAT	388255
+Kharod
+Birpur	Kheda	GUJARAT	388265
+Khata
+Birpur	Kheda	GUJARAT	388260
+Kheroli
+Birpur	Kheda	GUJARAT	388260
+Khijalpur
+Thasra	Kheda	GUJARAT	388215
+Kosam
+Thasra	Kheda	GUJARAT	388250
+Kotlindra
+Thasra	Kheda	GUJARAT	388230
+Koydam
+Birpur	Kheda	GUJARAT	388260
+Koyla
+Birpur	Kheda	GUJARAT	388260
+Kumbharwadi
+Birpur	Kheda	GUJARAT	388260
+Kuni
+Thasra	Kheda	GUJARAT	388235
+Limbarwada
+Birpur	Kheda	GUJARAT	388260
+Mahi Itadi
+Thasra	Kheda	GUJARAT	388235
+Malai
+Thasra	Kheda	GUJARAT	388225
+Malvan
+Thasra	Kheda	GUJARAT	388245
+Manjipura
+Thasra	Kheda	GUJARAT	388230
+Masra
+Thasra	Kheda	GUJARAT	388215
+Mithapura Jesapura
+Thasra	Kheda	GUJARAT	388230
+Muliad
+Thasra	Kheda	GUJARAT	388225
+Nanadara
+Thasra	Kheda	GUJARAT	388250
+Navagama
+Balasinor	Kheda	GUJARAT	388255
+Nepalpura
+Thasra	Kheda	GUJARAT	388250
+Nes
+Thasra	Kheda	GUJARAT	388230
+Othwad
+Balasinor	Kheda	GUJARAT	388255
+Ozarala
+Thasra	Kheda	GUJARAT	388225
+Padal
+Thasra	Kheda	GUJARAT	388235
+Pandva
+Balasinor	Kheda	GUJARAT	388265
+Pandvania
+Thasra	Kheda	GUJARAT	388220
+Pansroda
+Birpur	Kheda	GUJARAT	388265
+Pipalwada
+Thasra	Kheda	GUJARAT	388250
+Rajpur
+Birpur	Kheda	GUJARAT	388255
+Rakhial
+Thasra	Kheda	GUJARAT	388225
+Rampura
+Birpur	Kheda	GUJARAT	388260
+Rania
+Thasra	Kheda	GUJARAT	388230
+Rasulpur
+Thasra	Kheda	GUJARAT	388250
+Rasulpur
+Birpur	Kheda	GUJARAT	388260
+Ratankuva
+Birpur	Kheda	GUJARAT	388260
+Ravalia
+Thasra	Kheda	GUJARAT	388225
+Rozva
+Thasra	Kheda	GUJARAT	388235
+Rustampura
+Thasra	Kheda	GUJARAT	388245
+Saiyat
+Thasra	Kheda	GUJARAT	388225
+Salaiya
+Birpur	Kheda	GUJARAT	388260
+Saliawadi
+Balasinor	Kheda	GUJARAT	388255
+Sanadra
+Thasra	Kheda	GUJARAT	388235
+Sandheli
+Thasra	Kheda	GUJARAT	388250
+Saradia
+Birpur	Kheda	GUJARAT	388260
+Saroda
+Balasinor	Kheda	GUJARAT	388255
+Sevalia Rs
+Thasra	Kheda	GUJARAT	388245
+Sonaiya
+Thasra	Kheda	GUJARAT	388245
+Sonipur
+Thasra	Kheda	GUJARAT	388245
+Sui
+Thasra	Kheda	GUJARAT	388225
+Sutaria
+Balasinor	Kheda	GUJARAT	388265
+Thasra
+Thasra	Kheda	GUJARAT	388250
+Vadad
+Thasra	Kheda	GUJARAT	388250
+Vadasinor
+Balasinor	Kheda	GUJARAT	388255
+Vadasinor Town Vadasinor
+Balasinor	Kheda	GUJARAT	388255
+Vaddala
+Balasinor	Kheda	GUJARAT	388255
+Vaghas
+Birpur	Kheda	GUJARAT	388260
+Vanoda
+Thasra	Kheda	GUJARAT	388235
+Vanoti
+Thasra	Kheda	GUJARAT	388225
+Vaso
+Thasra	Kheda	GUJARAT	388245
+Vinzol
+Thsra	Kheda	GUJARAT	388220
+Wanakbori .T.P.S.
+Thasra	Kheda	GUJARAT	388239
+Wanakbori
+Balasinor	Kheda	GUJARAT	388235
+Wanghroli
+Thasra	Kheda	GUJARAT	388235
+Abhripur
+Kathlal	Kheda	GUJARAT	387335
+Abvel
+Kapadwanj	Kheda	GUJARAT	387650
+Ajmavatkot
+Kathlal	Kheda	GUJARAT	387610
+Akhdol
+Nadiad	Kheda	GUJARAT	387355
+Aklacha
+Mahemdavad	Kheda	GUJARAT	387430
+Alina
+Mahudha	Kheda	GUJARAT	387305
+Alindra Matar
+Matar	Kheda	GUJARAT	387510
+Alindra Nadiad
+Nadiad	Kheda	GUJARAT	387115
+Alwa
+Kapadwanj	Kheda	GUJARAT	387620
+Ambaliara
+Kapadwanj	Kheda	GUJARAT	387620
+Aminpura
+Kapadvanj	Kheda	GUJARAT	387620
+Amrapura
+Mehmedabad	Kheda	GUJARAT	387130
+Anara
+Kathlal	Kheda	GUJARAT	387630
+Antisar
+NA	Kheda	GUJARAT	387620
+Antisar Gat Kpdvj
+Kapadvanj	Kheda	GUJARAT	387620
+Antroli
+Kapadwanj	Kheda	GUJARAT	387365
+Antroli
+Matar	Kheda	GUJARAT	387570
+Apruji
+Kathlal	Kheda	GUJARAT	387610
+Arera
+Nadiad	Kheda	GUJARAT	387320
+Asamli
+Matar	Kheda	GUJARAT	387530
+Ashram Road Nadiad
+Nadiad	Kheda	GUJARAT	387001
+Attarsumba
+Kapadwanj	Kheda	GUJARAT	387610
+Badarpur
+Kathlal	Kheda	GUJARAT	387635
+Bamangam
+Matar	Kheda	GUJARAT	388180
+Bandhani
+Nadiad	Kheda	GUJARAT	388410
+Bavra
+Mahemdabad	Kheda	GUJARAT	387130
+Betawada
+Kapadvanj	Kheda	GUJARAT	387650
+Bhadkad
+Sojitra	Kheda	GUJARAT	387380
+Bhailakui
+Kapadwanj	Kheda	GUJARAT	387610
+Bhaner
+Kathlal	Kheda	GUJARAT	387630
+Bharkunda
+Kathlal	Kheda	GUJARAT	387430
+Bhatera
+Kathlal	Kheda	GUJARAT	387630
+Bhoja Na Muvada
+Kapadwanj	Kheda	GUJARAT	387650
+Bhumel
+Nadiad	Kheda	GUJARAT	387370
+Bhungalia
+Kapadwanj	Kheda	GUJARAT	387620
+Bhutia
+Kapadwanj	Kheda	GUJARAT	387620
+Bidaj
+Kheda	Kheda	GUJARAT	387120
+Bilodara
+Naidiad	Kheda	GUJARAT	387002
+Bngroli
+Nadiad	Kheda	GUJARAT	387350
+Bnmroli
+Nadiad	Kheda	GUJARAT	387350
+Bochasan
+Borsad	Kheda	GUJARAT	388140
+Chaklashi
+Nadiad	Kheda	GUJARAT	387315
+Chalali
+Nadiad	Kheda	GUJARAT	387115
+Chandana
+Kheda	Kheda	GUJARAT	387560
+Changa
+Nadiad	Kheda	GUJARAT	388421
+Charan Nikol
+Kathlal	Kheda	GUJARAT	387640
+Chhapra
+Mahemdabad	Kheda	GUJARAT	387130
+Chhipdi
+NA	Kheda	GUJARAT	387635
+Chhipial
+Kathlal	Kheda	GUJARAT	387635
+Chikhlod
+Kapadwanj	Kheda	GUJARAT	387640
+Chunel
+Nadiad	Kheda	GUJARAT	387330
+Chuva
+Borsad	Kheda	GUJARAT	388140
+Dabhan
+Nadiad	Kheda	GUJARAT	387320
+Dadusar
+Mahudha	Kheda	GUJARAT	387335
+Dahiup
+Kapadvanj	Kheda	GUJARAT	387620
+Dampat
+Kathlal	Kheda	GUJARAT	387630
+Dana
+Kapadwanj	Kheda	GUJARAT	387630
+Danadra
+Kapadwanj	Kheda	GUJARAT	387620
+Dasalwada
+Kapadwanj	Kheda	GUJARAT	387365
+Davda
+Nadiad	Kheda	GUJARAT	387350
+Degam
+Nadiad	Kheda	GUJARAT	387320
+Demol
+Petlad	Kheda	GUJARAT	387710
+Desai Vago
+Nadiad	Kheda	GUJARAT	387001
+Dethli
+Matar	Kheda	GUJARAT	387210
+Deva
+Petlad	Kheda	GUJARAT	387380
+Devki Vansol
+Mahemdabad	Kheda	GUJARAT	387130
+Dharoda
+Kheda	Kheda	GUJARAT	387540
+Dhathal
+Kheda	Kheda	GUJARAT	387550
+Dudhathal
+Kapadwanj	Kheda	GUJARAT	387620
+Dumaral
+Nadiad	Kheda	GUJARAT	387355
+Dumral Bazar
+Nadiad	Kheda	GUJARAT	387001
+Fagvel
+Kathlal	Kheda	GUJARAT	387640
+Fatepur
+Nadiad	Kheda	GUJARAT	387370
+Garmala
+Matar	Kheda	GUJARAT	387510
+Garod
+Kapadwanj	Kheda	GUJARAT	387620
+Ghadia
+Kapadwanj	Kheda	GUJARAT	387620
+Ghodali
+Mahemdabad	Kheda	GUJARAT	387130
+Ghodasar Kheda
+Mahemdavad	Kheda	GUJARAT	387110
+Ghogawada
+Kathlal	Kheda	GUJARAT	387630
+Gobalaj
+Kheda	Kheda	GUJARAT	387540
+Gothaj
+Mahemdavad	Kheda	GUJARAT	387130
+Gutal
+Nadiad	Kheda	GUJARAT	387370
+Haldarvas
+Mahemdavad	Kheda	GUJARAT	387110
+Hariala
+Kheda	Kheda	GUJARAT	387570
+Hathaj
+Nadiad	Kheda	GUJARAT	387360
+Hathnoli
+Mahemdavad	Kheda	GUJARAT	387110
+Heranj
+Matar	Kheda	GUJARAT	387510
+Heranj
+Mahudha	Kheda	GUJARAT	387330
+Jalia
+Mahemdavad	Kheda	GUJARAT	387335
+Jamni
+Kathlal	Kheda	GUJARAT	387630
+Jaravat
+Mehmedabad	Kheda	GUJARAT	387110
+Jher
+Kapadwanj	Kheda	GUJARAT	387620
+Kachchhai
+Mahemdavad	Kheda	GUJARAT	387130
+Kakarkhad
+NA	Kheda	GUJARAT	387635
+Kalaji
+Kapadwanj	Kheda	GUJARAT	387620
+Kaloli
+Kheda	Kheda	GUJARAT	387550
+Kanera
+Kheda	Kheda	GUJARAT	387540
+Kaniel
+Kathlal	Kheda	GUJARAT	387365
+Kanij
+Mahemdavad	Kheda	GUJARAT	387120
+Kanjari
+Nadiad	Kheda	GUJARAT	387325
+Kanjoda
+Nadiad	Kheda	GUJARAT	387115
+Kapadwanj
+Kapadwanj	Kheda	GUJARAT	387620
+Kaparupur
+Mahudha	Kheda	GUJARAT	387305
+Karoli
+Nadiad	Kheda	GUJARAT	387710
+Karoli
+Mahudha	Kheda	GUJARAT	387335
+Kathana
+Kathlal	Kheda	GUJARAT	387640
+Kathlal
+Kathlal	Kheda	GUJARAT	387630
+Kavath
+Kapadwanj	Kheda	GUJARAT	387620
+Keriavi
+Nadiad	Kheda	GUJARAT	387355
+Kesara
+Mahemdavad	Kheda	GUJARAT	387430
+Khada
+Tarapur	Kheda	GUJARAT	387530
+Khadol
+Kathlal	Kheda	GUJARAT	387365
+Khandhli
+Matar	Kheda	GUJARAT	387510
+Kharanti
+Matar	Kheda	GUJARAT	387520
+Khatraj
+Mahemdavad	Kheda	GUJARAT	387130
+Kheda
+Kheda	Kheda	GUJARAT	387411
+Khumarwad
+Matar	Kheda	GUJARAT	387570
+Khuntaj
+Mahudha	Kheda	GUJARAT	387430
+Kosam
+Kapadwanj	Kheda	GUJARAT	387610
+Koshiyal
+Matar	Kheda	GUJARAT	387530
+Kuna
+Mahemdavad	Kheda	GUJARAT	387110
+Ladvel
+Kathlal	Kheda	GUJARAT	387640
+Lali
+Kheda	Kheda	GUJARAT	387120
+Lasundra
+Kathlal	Kheda	GUJARAT	387640
+Laval
+Matar	Kheda	GUJARAT	387380
+Letar
+Kapadwanj	Kheda	GUJARAT	387620
+Limbasi
+Matar	Kheda	GUJARAT	387520
+Machhiel
+Matar	Kheda	GUJARAT	387530
+Mahelaj
+Matar	Kheda	GUJARAT	387530
+Mahemdavad
+Mahemdavad	Kheda	GUJARAT	387130
+Mahij
+Kheda	Kheda	GUJARAT	387120
+Mahisa
+Mahudha	Kheda	GUJARAT	387340
+Mahudha
+Mahudha	Kheda	GUJARAT	387335
+Mal Itadi
+Kathlal	Kheda	GUJARAT	387640
+Malavada
+Matar	Kheda	GUJARAT	387520
+Maliataj
+Matar	Kheda	GUJARAT	387380
+Manghroli
+Nadiad	Kheda	GUJARAT	387115
+Manjipura
+Nadiad	Kheda	GUJARAT	387320
+Mankwa
+Mahemdavad	Kheda	GUJARAT	387130
+Marida
+Nadiad	Kheda	GUJARAT	387360
+Matar
+Matar	Kheda	GUJARAT	387530
+Methodist Hospital Tso Nad
+Nadiad	Kheda	GUJARAT	387002
+Minavada
+Mahemdabad	Kheda	GUJARAT	387630
+Mitral
+Nadiad	Kheda	GUJARAT	387710
+Modaj
+Mahemdavad	Kheda	GUJARAT	387110
+Mohlel
+Nadiad	Kheda	GUJARAT	387330
+Nadhanpur
+Matar	Kheda	GUJARAT	387530
+Nadiad
+Nadiad	Kheda	GUJARAT	387001
+Nani Khadol
+Mahudha	Kheda	GUJARAT	387335
+Narsanda
+Nadiad	Kheda	GUJARAT	387345
+Navagam
+Kapadvanj	Kheda	GUJARAT	387620
+Navagam
+Nadiad	Kheda	GUJARAT	387710
+Navagam
+Kheda	Kheda	GUJARAT	387540
+Nayka
+Kheda	Kheda	GUJARAT	387550
+Nenpur
+Mahemdavad	Kheda	GUJARAT	387130
+Nirmali Kheda
+Kapadwanj	Kheda	GUJARAT	387650
+Nizampura
+Mahudha	Kheda	GUJARAT	387340
+Palaiya
+Nadiad	Kheda	GUJARAT	387330
+Palana
+Nadiad	Kheda	GUJARAT	387350
+Palla
+Matar	Kheda	GUJARAT	387530
+Parsaantaj
+Mahemdavad	Kheda	GUJARAT	387130
+Patel Society Area Tso Nad
+Nadiad	Kheda	GUJARAT	387002
+Pij
+Nadiad	Kheda	GUJARAT	387230
+Piplag
+Nadiad	Kheda	GUJARAT	387355
+Piplata
+Nadiad	Kheda	GUJARAT	387355
+Pithai
+Kathlal	Kheda	GUJARAT	387630
+Porda Bhatera
+Kathlal	Kheda	GUJARAT	387630
+Porda Fagvel
+Kathlal	Kheda	GUJARAT	387640
+Punadra
+Kapadvanj	Kheda	GUJARAT	387610
+Radhu
+Kheda	Kheda	GUJARAT	387560
+Radhvanaj
+Matar	Kheda	GUJARAT	387570
+Rajnagar
+Nadiad	Kheda	GUJARAT	387345
+Rampur
+Nadiad	Kheda	GUJARAT	387710
+Rasikpura
+Kheda	Kheda	GUJARAT	387560
+Raska
+Mahemdabad	Kheda	GUJARAT	387120
+Ratanpur Kheda
+Matar	Kheda	GUJARAT	387570
+Ravdavat
+Kathlal	Kheda	GUJARAT	387610
+Ravli
+Petlad	Kheda	GUJARAT	387375
+Rinchhol
+Mahemdavad	Kheda	GUJARAT	387430
+Rudan
+Mehmedabad	Kheda	GUJARAT	387335
+Ruppura
+Mahudha	Kheda	GUJARAT	387335
+Salun
+Nadiad	Kheda	GUJARAT	387360
+Samadara
+Kheda	Kheda	GUJARAT	387120
+Sanali
+Mahudha	Kheda	GUJARAT	387330
+Sandesar
+Kathlal	Kheda	GUJARAT	387610
+Sandhana
+Nadiad	Kheda	GUJARAT	387350
+Sanjaya
+Petlad	Kheda	GUJARAT	387375
+Sankhej
+Kheda	Kheda	GUJARAT	387120
+Sansoli
+Mahemdavad	Kheda	GUJARAT	387130
+Sarali
+Kathlal	Kheda	GUJARAT	387630
+Saraswani
+Mahemdavad	Kheda	GUJARAT	387430
+Sarkhej
+Kathlal	Kheda	GUJARAT	387635
+Sastapur
+Mahudha	Kheda	GUJARAT	387335
+Savli
+Kapadwanj	Kheda	GUJARAT	387620
+Sayla
+Matar	Kheda	GUJARAT	387530
+Shatrunda
+Mahemdavad	Kheda	GUJARAT	387430
+Sheri
+Mahudha	Kheda	GUJARAT	387305
+Shetra
+Kheda	Kheda	GUJARAT	387560
+Shurasamal
+Nadiad	Kheda	GUJARAT	387115
+Silod
+Nadiad	Kheda	GUJARAT	387320
+Singhali
+Mahudha	Kheda	GUJARAT	387430
+Sinhuj
+Mehmedabad	Kheda	GUJARAT	387430
+Sinjivada
+Matar	Kheda	GUJARAT	388180
+Sodpur
+Nadiad	Kheda	GUJARAT	387330
+Sokhada
+Matar	Kheda	GUJARAT	387570
+Sorna
+Kapadwanj	Kheda	GUJARAT	387620
+SRP Group Area Nadiad
+Nadiad	Kheda	GUJARAT	387001
+Sunda
+Kapadwanj	Kheda	GUJARAT	387620
+Telnar
+Kapadwanj	Kheda	GUJARAT	387650
+Thavad
+Kapadwanj	Kheda	GUJARAT	387620
+Torania
+Mahudha	Kheda	GUJARAT	387335
+Torna
+Kapadwanj	Kheda	GUJARAT	387365
+Traj
+Matar	Kheda	GUJARAT	387530
+Tranja
+Matar	Kheda	GUJARAT	387530
+Tundel
+Nadiad	Kheda	GUJARAT	387230
+Ukardina Muvada
+Kapadwanj	Kheda	GUJARAT	387610
+Undhela
+Matar	Kheda	GUJARAT	387510
+Undra
+Mahudha	Kheda	GUJARAT	387335
+Uttarsanda
+Nadiad	Kheda	GUJARAT	387370
+Vadadla
+Mahemdavad	Kheda	GUJARAT	387130
+Vadali
+Kapadwanj	Kheda	GUJARAT	387620
+Vadol
+Kapadwanj	Kheda	GUJARAT	387640
+Vadtal
+Nadiad	Kheda	GUJARAT	387375
+Vadthal
+Mahudha	Kheda	GUJARAT	387335
+Vaghas
+Kapadwanj	Kheda	GUJARAT	387620
+Vaghjipur
+Kapadvanj	Kheda	GUJARAT	387610
+Valetva
+Nadiad	Kheda	GUJARAT	388440
+Vansol
+Mahemdavad	Kheda	GUJARAT	387335
+Vansol
+Umreth	Kheda	GUJARAT	387115
+Vansol Sundha
+Mahemdavad	Kheda	GUJARAT	387430
+Vanthavali
+Mahemdavad	Kheda	GUJARAT	387430
+Varsang
+Kheda	Kheda	GUJARAT	387560
+Varsola
+Mahemdavad	Kheda	GUJARAT	387130
+Vasna
+Mahudha	Kheda	GUJARAT	387340
+Vasna Buzarg
+Kheda	Kheda	GUJARAT	387560
+Vasna Margia
+Kheda	Kheda	GUJARAT	387120
+Vaso
+Nadiad	Kheda	GUJARAT	387380
+Vastana
+Matar	Kheda	GUJARAT	388180
+Vina
+Nadiad	Kheda	GUJARAT	387430
+Vishnupura
+Kapadvanj	Kheda	GUJARAT	387620
+Vyas Vasna
+Kapadwanj	Kheda	GUJARAT	387650
+

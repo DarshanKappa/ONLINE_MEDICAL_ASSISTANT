@@ -1,0 +1,1159 @@
+Abhapur
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Ada Hathrol
+Bhiloda	Sabarkantha	GUJARAT	383240
+Adhera
+Modasa	Sabarkantha	GUJARAT	383250
+Adpodra
+Himatnagar	Sabarkantha	GUJARAT	383276
+Agiol
+Himatnagar	Sabarkantha	GUJARAT	383001
+Agiya
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Ajavas
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Akrund
+Dhansura	Sabarkantha	GUJARAT	383260
+Alwa
+Bayad	Sabarkantha	GUJARAT	383325
+Ambabar
+Bhiloda	Sabarkantha	GUJARAT	383246
+Ambagam
+Bayad	Sabarkantha	GUJARAT	383325
+Ambaigadha
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Ambaliara
+Bayad	Sabarkantha	GUJARAT	383325
+Ambamahuda
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Ambasar
+Dhansura	Sabarkantha	GUJARAT	383307
+Ambawada
+Prantij	Sabarkantha	GUJARAT	383210
+Amiapura
+Bayad	Sabarkantha	GUJARAT	383325
+Amlai
+Modasa	Sabarkantha	GUJARAT	383315
+Amodara
+Bayad	Sabarkantha	GUJARAT	383330
+Amodara
+Dhansura	Sabarkantha	GUJARAT	383310
+Amrapur
+Prantij	Sabarkantha	GUJARAT	383215
+Androkha
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Aniod
+Talod	Sabarkantha	GUJARAT	383305
+Aniyor
+Malpur	Sabarkantha	GUJARAT	383345
+Aniyor Kampa
+Malpur	Sabarkantha	GUJARAT	383345
+Ankala
+Idar	Sabarkantha	GUJARAT	383410
+Ansol
+Bhiloda	Sabarkantha	GUJARAT	383251
+Antroli
+Talod	Sabarkantha	GUJARAT	383305
+Aroda
+Idar	Sabarkantha	GUJARAT	383110
+Arsodia
+Idar	Sabarkantha	GUJARAT	383225
+Asai
+Vadali	Sabarkantha	GUJARAT	383235
+Atarsumba
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Babsar
+Vadali	Sabarkantha	GUJARAT	383235
+Badarpura
+Bayad	Sabarkantha	GUJARAT	383335
+Badodara
+Modasa	Sabarkantha	GUJARAT	383315
+Badodara
+Talod	Sabarkantha	GUJARAT	383305
+Badol
+Idar	Sabarkantha	GUJARAT	383434
+Badoli
+Idar	Sabarkantha	GUJARAT	383410
+Bahediya
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Baleta
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Balisana
+Prantij	Sabarkantha	GUJARAT	383205
+Bamanvad
+Modasa	Sabarkantha	GUJARAT	383250
+Bamna
+Bhiloda	Sabarkantha	GUJARAT	383240
+Bandiyana Talav
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Bankhor
+Himatnagar	Sabarkantha	GUJARAT	383240
+Banthiwada
+Meghraj	Sabarkantha	GUJARAT	383350
+Barnoli
+Dhansura	Sabarkantha	GUJARAT	383335
+Barvav
+Idar	Sabarkantha	GUJARAT	383430
+Bavsar
+Himatnagar	Sabarkantha	GUJARAT	383001
+Bayad
+Bayad	Sabarkantha	GUJARAT	383325
+Bayal Dhankhrol
+Modasa	Sabarkantha	GUJARAT	383316
+Behdaj
+Meghraj	Sabarkantha	GUJARAT	383350
+Belyo
+Meghraj	Sabarkantha	GUJARAT	383350
+Berna
+Himatnagar	Sabarkantha	GUJARAT	383001
+Bhachediya
+Modasa	Sabarkantha	GUJARAT	383316
+Bhadresar
+Idar	Sabarkantha	GUJARAT	383110
+Bhandval
+Vadali	Sabarkantha	GUJARAT	383235
+Bhankhara
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Bhanmer
+Bhiloda	Sabarkantha	GUJARAT	383246
+Bhanpur
+Idar	Sabarkantha	GUJARAT	383410
+Bhatera
+Bhiloda	Sabarkantha	GUJARAT	383245
+Bhavangadh
+Vadali	Sabarkantha	GUJARAT	383430
+Bhavanpura Kampa
+Modasa	Sabarkantha	GUJARAT	383316
+Bhemapur
+Meghraj	Sabarkantha	GUJARAT	383350
+Bhempoda
+Malpur	Sabarkantha	GUJARAT	383335
+Bhensawada
+Dhansura	Sabarkantha	GUJARAT	383310
+Bherunda
+Modasa	Sabarkantha	GUJARAT	383315
+Bhetali
+Bhiloda	Sabarkantha	GUJARAT	383245
+Bhiloda Bazar
+Bhiloda	Sabarkantha	GUJARAT	383245
+Bhiloda
+Bhiloda	Sabarkantha	GUJARAT	383245
+Bhukhel
+Bayad	Sabarkantha	GUJARAT	383325
+Bhundasan
+Bayad	Sabarkantha	GUJARAT	383325
+Bhutavad
+Bhiloda	Sabarkantha	GUJARAT	383245
+Bhutiya
+Idar	Sabarkantha	GUJARAT	383440
+Bibinivav
+Bayad	Sabarkantha	GUJARAT	383325
+Biladia
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Bilwania
+Dhansura	Sabarkantha	GUJARAT	383310
+Bobha
+Prantij	Sabarkantha	GUJARAT	383205
+Bolundra S
+Idar	Sabarkantha	GUJARAT	383230
+Bolundra
+Modasa	Sabarkantha	GUJARAT	383250
+BolundraR
+Idar	Sabarkantha	GUJARAT	383421
+Boral
+Bayad	Sabarkantha	GUJARAT	383330
+Bordi
+Bayad	Sabarkantha	GUJARAT	383340
+Borditimba
+Dhansura	Sabarkantha	GUJARAT	383260
+Boria Bechraji
+Talod	Sabarkantha	GUJARAT	383215
+Boria Sabarkantha
+Himatnagar	Sabarkantha	GUJARAT	383006
+Budheli
+Idar	Sabarkantha	GUJARAT	383230
+Budheli
+Bhiloda	Sabarkantha	GUJARAT	383246
+Budhrasan
+Bhiloda	Sabarkantha	GUJARAT	383246
+Butal
+Dhansura	Sabarkantha	GUJARAT	383310
+Chadasana
+Idar	Sabarkantha	GUJARAT	383110
+Chamthan
+Vijaynagar	Sabarkantha	GUJARAT	383246
+Chandap
+Idar	Sabarkantha	GUJARAT	383434
+Chandarni
+Himatnagar	Sabarkantha	GUJARAT	383001
+Chandrana
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Chandrej
+Bayad	Sabarkantha	GUJARAT	383260
+Chandvasa
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Chhabhou
+Bayad	Sabarkantha	GUJARAT	383330
+Chhapi
+Idar	Sabarkantha	GUJARAT	383230
+Chiboda
+Bhiloda	Sabarkantha	GUJARAT	383245
+Chikhala
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Chitariya
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Chithoda
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Chitroda
+Idar	Sabarkantha	GUJARAT	383421
+Chitrodi
+Vijaynagar	Sabarkantha	GUJARAT	383246
+Choila
+Bayad	Sabarkantha	GUJARAT	383325
+Chorimala
+Bhiloda	Sabarkantha	GUJARAT	383246
+Choriwad
+Vadali	Sabarkantha	GUJARAT	383440
+Chulla
+Vadali	Sabarkantha	GUJARAT	383440
+Chunakhan
+Bhiloda	Sabarkantha	GUJARAT	383245
+Dabha
+Bayad	Sabarkantha	GUJARAT	383325
+Dadarda
+Talod	Sabarkantha	GUJARAT	383305
+Dadhalia
+Modasa	Sabarkantha	GUJARAT	383317
+Dadhvav
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Dahegamda
+Bhiloda	Sabarkantha	GUJARAT	383251
+Dakhneshwar
+Bayad	Sabarkantha	GUJARAT	383325
+Dalani Muvadi
+Prantij	Sabarkantha	GUJARAT	383205
+Dalpur
+Prantij	Sabarkantha	GUJARAT	383120
+Damavas
+Khedbrahma	Sabarkantha	GUJARAT	383275
+Dan Mahudi
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Dantod
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Dantral
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Dantroli
+Vadali	Sabarkantha	GUJARAT	383235
+Daramali
+Idar	Sabarkantha	GUJARAT	383110
+Davad
+Idar	Sabarkantha	GUJARAT	383225
+Davli
+Modasa	Sabarkantha	GUJARAT	383320
+Dedhrota
+Himatnagar	Sabarkantha	GUJARAT	383220
+Delwada
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Delwada
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Demai
+Bayad	Sabarkantha	GUJARAT	383330
+Demti
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Derol
+Himatnagar	Sabarkantha	GUJARAT	383220
+Deroli
+Bayad	Sabarkantha	GUJARAT	383330
+Desaipura
+Bayad	Sabarkantha	GUJARAT	383330
+Deshotar
+Idar	Sabarkantha	GUJARAT	383230
+Devnimori
+Bhiloda	Sabarkantha	GUJARAT	383355
+Dhamadi Gadu
+Vadali	Sabarkantha	GUJARAT	383235
+Dhamania
+Dhansura	Sabarkantha	GUJARAT	383310
+Dhambolia
+Bhiloda	Sabarkantha	GUJARAT	383355
+Dhandhasan
+Bhiloda	Sabarkantha	GUJARAT	383355
+Dhansor
+Bhiloda	Sabarkantha	GUJARAT	383246
+Dhansura
+Dhansura	Sabarkantha	GUJARAT	383310
+Dharapur
+Idar	Sabarkantha	GUJARAT	383421
+Dharoi
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Dholvani
+Bhiloda	Sabarkantha	GUJARAT	383245
+Dhundhar
+Himatnagar	Sabarkantha	GUJARAT	383030
+Didhiya
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Diyoli
+Idar	Sabarkantha	GUJARAT	383410
+Dobhada
+Vadali	Sabarkantha	GUJARAT	383235
+Dodisara
+Bhiloda	Sabarkantha	GUJARAT	383355
+Dolpur
+Dhansura	Sabarkantha	GUJARAT	383310
+Doltabad
+Talod	Sabarkantha	GUJARAT	383215
+Dotad
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Dugarvada
+Modasa	Sabarkantha	GUJARAT	383315
+Dungri
+Idar	Sabarkantha	GUJARAT	383110
+Eklara
+Idar	Sabarkantha	GUJARAT	383225
+Falasan
+Idar	Sabarkantha	GUJARAT	383230
+Faredi
+Modasa	Sabarkantha	GUJARAT	383345
+Fatepur Mota
+Prantij	Sabarkantha	GUJARAT	383210
+Finchod
+Idar	Sabarkantha	GUJARAT	383230
+Gabat
+Bayad	Sabarkantha	GUJARAT	383335
+Gadha
+Modasa	Sabarkantha	GUJARAT	383316
+Gadha
+Himatnagar	Sabarkantha	GUJARAT	383010
+Gadhada
+Modasa	Sabarkantha	GUJARAT	383320
+Gadhada Shamlaji
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Gadhoda
+Himatnagar	Sabarkantha	GUJARAT	383001
+Gadi
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Gadu
+Khedbrahma	Sabarkantha	GUJARAT	383235
+Gajan
+Modasa	Sabarkantha	GUJARAT	383315
+Gajipur
+Vadali	Sabarkantha	GUJARAT	383434
+Gali Semro
+Bhiloda	Sabarkantha	GUJARAT	383251
+Galodiya
+Khedbrahma	Sabarkantha	GUJARAT	383275
+Gambhirpura
+Idar	Sabarkantha	GUJARAT	383430
+Gambhoi
+Himatnagar	Sabarkantha	GUJARAT	383030
+Ganer
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Ganeshpur
+Modasa	Sabarkantha	GUJARAT	383315
+Ganeshpura
+Bayad	Sabarkantha	GUJARAT	383325
+Ganthiol
+Idar	Sabarkantha	GUJARAT	383410
+Ganva
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Ghadi
+Prantij	Sabarkantha	GUJARAT	383215
+Ghadkan
+Prantij	Sabarkantha	GUJARAT	383205
+Golwada
+Idar	Sabarkantha	GUJARAT	383434
+Gora Anjana
+Talod	Sabarkantha	GUJARAT	383215
+Goral
+Idar	Sabarkantha	GUJARAT	383410
+Gota
+Vadali	Sabarkantha	GUJARAT	383255
+Gotapur
+Bayad	Sabarkantha	GUJARAT	383335
+Gulabpura
+Idar	Sabarkantha	GUJARAT	383434
+Gundel
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Hadiol
+Himatnagar	Sabarkantha	GUJARAT	383001
+Hajipur
+Himatnagar	Sabarkantha	GUJARAT	383120
+Hajipura
+Himatnagar	Sabarkantha	GUJARAT	383001
+Hapa
+Himatnagar	Sabarkantha	GUJARAT	383001
+Harsol
+Talod	Sabarkantha	GUJARAT	383305
+Hatharva
+Vadali	Sabarkantha	GUJARAT	383235
+Hathipura
+Bayad	Sabarkantha	GUJARAT	383340
+Hathoj
+Vadali	Sabarkantha	GUJARAT	383235
+Hathrol
+Himatnagar	Sabarkantha	GUJARAT	383030
+Helodar
+Malpur	Sabarkantha	GUJARAT	383345
+Himatnagar
+Himatnagar	Sabarkantha	GUJARAT	383001
+Himatnagar Station Road
+Himatnagar	Sabarkantha	GUJARAT	383001
+Himatpur
+Idar	Sabarkantha	GUJARAT	383010
+Himmatpur
+Bhiloda	Sabarkantha	GUJARAT	383240
+Hirapur
+Dhansura	Sabarkantha	GUJARAT	383310
+Hunj
+Himatnagar	Sabarkantha	GUJARAT	383240
+Idar
+Idar	Sabarkantha	GUJARAT	383430
+Idar Town
+Idar	Sabarkantha	GUJARAT	383430
+Ilol
+Himatnagar	Sabarkantha	GUJARAT	383220
+Indran
+Bayad	Sabarkantha	GUJARAT	383340
+Intva
+Meghraj	Sabarkantha	GUJARAT	383251
+Iploda
+Meghraj	Sabarkantha	GUJARAT	383350
+Isari
+Meghraj	Sabarkantha	GUJARAT	383251
+Itadi
+Modasa	Sabarkantha	GUJARAT	383316
+Itavadi
+Vijaynagar	Sabarkantha	GUJARAT	383246
+Jab Chitaria
+Bhiloda	Sabarkantha	GUJARAT	383355
+Jadar
+Idar	Sabarkantha	GUJARAT	383110
+Jalampur
+Bayad	Sabarkantha	GUJARAT	383340
+Jaleti
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Jambudi
+Himatnagar	Sabarkantha	GUJARAT	383001
+Jamla
+Himatnagar	Sabarkantha	GUJARAT	383010
+Jasvantpura Kampa
+Dhansura	Sabarkantha	GUJARAT	383310
+Jayla
+Bhiloda	Sabarkantha	GUJARAT	383246
+Jenpur
+Prantij	Sabarkantha	GUJARAT	383205
+Jeshingpur
+Bhiloda	Sabarkantha	GUJARAT	383245
+Jhalodar
+Modasa	Sabarkantha	GUJARAT	383315
+Jinjudi
+Bhiloda	Sabarkantha	GUJARAT	383246
+Jitpur
+Bayad	Sabarkantha	GUJARAT	383325
+Jorajini Muvadi
+Talod	Sabarkantha	GUJARAT	383215
+Jumsar
+Bhiloda	Sabarkantha	GUJARAT	383450
+Juna Chamu
+Vadali	Sabarkantha	GUJARAT	383440
+Kabodara
+Talod	Sabarkantha	GUJARAT	383305
+Kabso
+Idar	Sabarkantha	GUJARAT	383225
+Kadiadra
+Idar	Sabarkantha	GUJARAT	383440
+Kadoli
+Himatnagar	Sabarkantha	GUJARAT	383220
+Kadvadi
+Meghraj	Sabarkantha	GUJARAT	383350
+Kagda Mahuda
+Bhiloda	Sabarkantha	GUJARAT	383251
+Kalikankar
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Kaliya Kuva
+Meghraj	Sabarkantha	GUJARAT	383350
+Kalol Kampa
+Khedbrahma	Sabarkantha	GUJARAT	383275
+Kalvan
+Vijaynagar	Sabarkantha	GUJARAT	383440
+Kamalpur
+Idar	Sabarkantha	GUJARAT	383434
+Kamalpur
+Prantij	Sabarkantha	GUJARAT	383205
+Kanadar
+Vijaynagar	Sabarkantha	GUJARAT	383246
+Kanai
+Himatnagar	Sabarkantha	GUJARAT	383220
+Kanda
+Himatnagar	Sabarkantha	GUJARAT	383220
+Kaniol
+Himatnagar.	Sabarkantha	GUJARAT	383010
+Kankrol
+Himatnagar	Sabarkantha	GUJARAT	383001
+Kanpur
+Idar	Sabarkantha	GUJARAT	383450
+Kapoda
+Idar	Sabarkantha	GUJARAT	383010
+Karanpur
+Himatnagar	Sabarkantha	GUJARAT	383030
+Karchha
+Bhiloda	Sabarkantha	GUJARAT	383355
+Karol
+Prantij	Sabarkantha	GUJARAT	383205
+Kasana
+Meghraj	Sabarkantha	GUJARAT	383350
+Kaswada
+Malpur	Sabarkantha	GUJARAT	383345
+Kathvavdi
+Vijaynagar	Sabarkantha	GUJARAT	383440
+Katwad
+Himatnagar	Sabarkantha	GUJARAT	383001
+Kau
+Modasa	Sabarkantha	GUJARAT	383315
+Kava
+Idar	Sabarkantha	GUJARAT	383434
+Kelava
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Kesharganj
+Vadali	Sabarkantha	GUJARAT	383235
+Kesharpura
+Idar	Sabarkantha	GUJARAT	383230
+Khadoda
+Dhansura	Sabarkantha	GUJARAT	383310
+Khadol
+Dhansura	Sabarkantha	GUJARAT	383310
+Khalikpur
+Malpur	Sabarkantha	GUJARAT	383335
+Khalvad
+Bhiloda	Sabarkantha	GUJARAT	383245
+Khambhisar
+Modasa	Sabarkantha	GUJARAT	383276
+Khed
+Himatnagar	Sabarkantha	GUJARAT	383001
+Khedavada
+Himatnagar	Sabarkantha	GUJARAT	383220
+Khedbrahma
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Khedva
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Kheradi
+Bhiloda	Sabarkantha	GUJARAT	383250
+Kherancha
+Bhiloda	Sabarkantha	GUJARAT	383355
+Khergadh
+Khedbrahma	Sabarkantha	GUJARAT	383275
+Kheroj
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Kherol
+Talod	Sabarkantha	GUJARAT	383215
+Khiloda
+Bhiloda	Sabarkantha	GUJARAT	383250
+Khilodia
+Dhansura	Sabarkantha	GUJARAT	383307
+Kidi
+Dhansura	Sabarkantha	GUJARAT	383310
+Kishangadh
+Bhiloda	Sabarkantha	GUJARAT	383450
+Kodiawada
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Kolikhad
+Modasa	Sabarkantha	GUJARAT	383315
+Kolundra
+Meghraj	Sabarkantha	GUJARAT	383350
+Kolvada
+Dhansura	Sabarkantha	GUJARAT	383310
+Kotda
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Kotda Nana
+Idar	Sabarkantha	GUJARAT	383110
+Kuba Dharol
+Vadali	Sabarkantha	GUJARAT	383235
+Kudol
+Modasa	Sabarkantha	GUJARAT	383250
+Kukadia
+Idar	Sabarkantha	GUJARAT	383410
+Kundol Pal
+Bhiloda	Sabarkantha	GUJARAT	383246
+Kunol
+Meghraj	Sabarkantha	GUJARAT	383350
+Kushki
+Bhiloda	Sabarkantha	GUJARAT	383250
+Lalinomath
+Dhansura	Sabarkantha	GUJARAT	383307
+Laloda
+Idar	Sabarkantha	GUJARAT	383430
+Lalpur
+Idar	Sabarkantha	GUJARAT	383410
+Lalpur
+Meghraj	Sabarkantha	GUJARAT	383350
+Lambadiya
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Lank
+Bayad	Sabarkantha	GUJARAT	383330
+Lavari
+Talod	Sabarkantha	GUJARAT	383305
+Laxmipura Sabarkantha
+Khedbrahma	Sabarkantha	GUJARAT	383275
+Lei
+Idar	Sabarkantha	GUJARAT	383430
+Likhi
+Himatnagar	Sabarkantha	GUJARAT	383010
+Lilchha
+Bhiloda	Sabarkantha	GUJARAT	383245
+Limb
+Bayad	Sabarkantha	GUJARAT	383325
+Limbhoi
+Idar	Sabarkantha	GUJARAT	383430
+Limbhoi
+Modasa	Sabarkantha	GUJARAT	383316
+Limbodara
+Meghraj	Sabarkantha	GUJARAT	383350
+Limda
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Lolasan
+Himatnagar	Sabarkantha	GUJARAT	383010
+Lusadia
+Bhiloda	Sabarkantha	GUJARAT	383251
+Madapur Kampa
+Modasa	Sabarkantha	GUJARAT	383315
+Madhavgadh
+Bayad	Sabarkantha	GUJARAT	383330
+Madhavgadh
+Talod	Sabarkantha	GUJARAT	383305
+Magodi
+Malpur	Sabarkantha	GUJARAT	383335
+Mahadevgram
+Modasa	Sabarkantha	GUJARAT	383317
+Mahadevpura
+Prantij	Sabarkantha	GUJARAT	383210
+Mahadevpura Kampa
+Modasa	Sabarkantha	GUJARAT	383315
+Mahiyal
+Talod	Sabarkantha	GUJARAT	383215
+Mahiyapur
+Malpur	Sabarkantha	GUJARAT	383345
+Mahor
+Vadali	Sabarkantha	GUJARAT	383235
+Majra
+Prantij	Sabarkantha	GUJARAT	383205
+Malasa
+Bhiloda	Sabarkantha	GUJARAT	383450
+Malpur
+Malpur	Sabarkantha	GUJARAT	383345
+Mangadh
+Idar	Sabarkantha	GUJARAT	383110
+Mangalpur
+Malpur	Sabarkantha	GUJARAT	383345
+Maniyor
+Idar	Sabarkantha	GUJARAT	383230
+Mankdi
+Bhiloda	Sabarkantha	GUJARAT	383240
+Manorpur
+Himatnagar	Sabarkantha	GUJARAT	383030
+Masal
+Idar	Sabarkantha	GUJARAT	383230
+Masota
+Vijaynagar	Sabarkantha	GUJARAT	383246
+Mathasulia
+Himatnagar	Sabarkantha	GUJARAT	383276
+Mathasur
+Idar	Sabarkantha	GUJARAT	383430
+Matoda
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Mau Bhavnath
+Bhiloda	Sabarkantha	GUJARAT	383245
+Mauchha
+Prantij	Sabarkantha	GUJARAT	383210
+Medh
+Vadali	Sabarkantha	GUJARAT	383235
+Medhasan
+Modasa	Sabarkantha	GUJARAT	383276
+Meditimba
+Bhiloda	Sabarkantha	GUJARAT	383240
+Meghraj
+Meghraj	Sabarkantha	GUJARAT	383350
+Mehru
+Bhiloda	Sabarkantha	GUJARAT	383245
+Mehtapura
+Himatnagar	Sabarkantha	GUJARAT	383001
+Mesan
+Idar	Sabarkantha	GUJARAT	383450
+Mevda
+Malpur	Sabarkantha	GUJARAT	383315
+Modasa Bazar
+Modasa	Sabarkantha	GUJARAT	383315
+Modasa
+Modasa	Sabarkantha	GUJARAT	383315
+Modhuka
+Talod	Sabarkantha	GUJARAT	383305
+Mohanpur
+Talod	Sabarkantha	GUJARAT	383305
+Mota Baval
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Mota Chekhla
+Talod	Sabarkantha	GUJARAT	383305
+Mota Kantharia
+Bhiloda	Sabarkantha	GUJARAT	383251
+Mota Kotda
+Idar	Sabarkantha	GUJARAT	383421
+Motesari
+Talod	Sabarkantha	GUJARAT	383305
+Moti Bebar
+Bhiloda	Sabarkantha	GUJARAT	383250
+Moti Chinchano
+Modasa	Sabarkantha	GUJARAT	383316
+Moti Isrol
+Modasa	Sabarkantha	GUJARAT	383317
+Moti Mori
+Meghraj	Sabarkantha	GUJARAT	383350
+Moti Moydi
+Meghraj	Sabarkantha	GUJARAT	383350
+Moti Panduri
+Meghraj	Sabarkantha	GUJARAT	383350
+Moyad
+Prantij	Sabarkantha	GUJARAT	383120
+Mudeti
+Idar	Sabarkantha	GUJARAT	383450
+Mudhasana
+Talod	Sabarkantha	GUJARAT	383215
+Muloj
+Modasa	Sabarkantha	GUJARAT	383315
+Munai
+Bhiloda	Sabarkantha	GUJARAT	383450
+Nada
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Nadri
+Vadali	Sabarkantha	GUJARAT	383235
+Nalseri
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Nana Chekhla
+Talod	Sabarkantha	GUJARAT	383305
+Nana Sembalia
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Nananpur
+Prantij	Sabarkantha	GUJARAT	383210
+Nanawada
+Malpur	Sabarkantha	GUJARAT	383345
+Nandisan
+Modasa	Sabarkantha	GUJARAT	383250
+Nandoj
+Bhiloda	Sabarkantha	GUJARAT	383245
+Nankhi
+Bhiloda	Sabarkantha	GUJARAT	383450
+Napda
+Bhiloda	Sabarkantha	GUJARAT	383355
+Naranpura Kampa
+Dhansura	Sabarkantha	GUJARAT	383310
+Narsoli
+Bhiloda	Sabarkantha	GUJARAT	383245
+Nathavas
+Malpur	Sabarkantha	GUJARAT	383315
+Nava
+Talod	Sabarkantha	GUJARAT	383305
+Nava
+Himatnagar	Sabarkantha	GUJARAT	383001
+Nava Bhavnath
+Bhiloda	Sabarkantha	GUJARAT	383245
+Nava Mota
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Nava Revas
+Idar	Sabarkantha	GUJARAT	383450
+Navagam Dhanela
+Vijaynagar	Sabarkantha	GUJARAT	383460
+NavagamIsri
+Meghraj	Sabarkantha	GUJARAT	383251
+Navalpur
+Himatnagar	Sabarkantha	GUJARAT	383001
+Navanagar
+Himatnagar	Sabarkantha	GUJARAT	383220
+Navi Metral
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Navi Shinol
+Dhansura	Sabarkantha	GUJARAT	383310
+Netramali
+Idar	Sabarkantha	GUJARAT	383430
+Nichi Dhanal
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Nikoda
+Himatnagar	Sabarkantha	GUJARAT	383210
+Oda
+Idar	Sabarkantha	GUJARAT	383230
+Ode
+Bhiloda	Sabarkantha	GUJARAT	383355
+Odha
+Bayad	Sabarkantha	GUJARAT	383340
+Oran
+Prantij	Sabarkantha	GUJARAT	383205
+Padardi
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Padela
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Padhara
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Padusan
+Talod	Sabarkantha	GUJARAT	383305
+Pahadpur
+Modasa	Sabarkantha	GUJARAT	383315
+Pal
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Palla
+Bhiloda	Sabarkantha	GUJARAT	383355
+Pallachar
+Prantij	Sabarkantha	GUJARAT	383205
+Panch Mahuda
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Panch Mahudi
+Bhiloda	Sabarkantha	GUJARAT	383355
+Panchal
+Meghraj	Sabarkantha	GUJARAT	383350
+Panibar
+Meghraj	Sabarkantha	GUJARAT	383251
+Panol
+Idar	Sabarkantha	GUJARAT	383430
+Parosada
+Vijaynagar.	Sabarkantha	GUJARAT	383460
+Paroya
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Patadiya
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Patelna Dhundha
+Meghraj	Sabarkantha	GUJARAT	383350
+Pedhmala
+Himatnagar	Sabarkantha	GUJARAT	383030
+Petachhapra
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Pethapur
+Himatnagar	Sabarkantha	GUJARAT	383225
+Piludra
+Prantij	Sabarkantha	GUJARAT	383120
+Pipliya
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Pipodara
+Bayad	Sabarkantha	GUJARAT	383325
+Piprana
+Malpur	Sabarkantha	GUJARAT	383345
+Poglu
+Prantij	Sabarkantha	GUJARAT	383205
+Poshina
+Idar	Sabarkantha	GUJARAT	383421
+Poshina
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Poyda
+Prantij	Sabarkantha	GUJARAT	383215
+Prantij
+Prantij	Sabarkantha	GUJARAT	383205
+Pratapgadh Kampa
+Vijaynagar	Sabarkantha	GUJARAT	383440
+Pratappura
+Idar	Sabarkantha	GUJARAT	383430
+Prempur
+Himatnagar	Sabarkantha	GUJARAT	383225
+Punasan
+Bhiloda	Sabarkantha	GUJARAT	383240
+Punsari
+Talod	Sabarkantha	GUJARAT	383307
+Pural
+Himatnagar	Sabarkantha	GUJARAT	383001
+Radhiwad
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Radodara
+Bayad	Sabarkantha	GUJARAT	383325
+Raheda
+Vadali	Sabarkantha	GUJARAT	383235
+Raigadh
+Himatnagar	Sabarkantha	GUJARAT	383276
+Raipur
+Bhiloda	Sabarkantha	GUJARAT	383245
+Raisingpur
+Bhiloda	Sabarkantha	GUJARAT	383246
+Rajendranagar
+Bhiloda	Sabarkantha	GUJARAT	383276
+Rajpur
+Dhansura	Sabarkantha	GUJARAT	383307
+Rajpur
+Himatnagar	Sabarkantha	GUJARAT	383010
+Rajpur
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Rakhiyal
+Modasa	Sabarkantha	GUJARAT	383276
+Ramana
+Modasa	Sabarkantha	GUJARAT	383315
+Rambhoda
+Malpur	Sabarkantha	GUJARAT	383345
+Ramgadhi
+Meghraj	Sabarkantha	GUJARAT	383350
+Ramos
+Dhansura	Sabarkantha	GUJARAT	383316
+Ramos
+Bayad	Sabarkantha	GUJARAT	383325
+Rampur A
+Himatnagar	Sabarkantha	GUJARAT	383210
+Rampur Fudeda
+Vadali	Sabarkantha	GUJARAT	383434
+Rampura Kampa
+Dhansura	Sabarkantha	GUJARAT	383260
+Rampura Kampa
+Dhansura	Sabarkantha	GUJARAT	383330
+Rampuri
+Bhiloda	Sabarkantha	GUJARAT	383246
+Ranasan
+Talod	Sabarkantha	GUJARAT	383305
+Ranechi
+Bayad	Sabarkantha	GUJARAT	383325
+Ranipura
+Talod	Sabarkantha	GUJARAT	383307
+Ratanpur
+Idar	Sabarkantha	GUJARAT	383430
+Ratanpur
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Ravol
+Idar	Sabarkantha	GUJARAT	383434
+Rayawada
+Meghraj	Sabarkantha	GUJARAT	383350
+Rellawada
+Meghraj	Sabarkantha	GUJARAT	383251
+Relyo
+Meghraj	Sabarkantha	GUJARAT	383350
+Rinchvad
+Modasa	Sabarkantha	GUJARAT	383315
+Rudardi
+Idar	Sabarkantha	GUJARAT	383110
+Rupal
+Himatnagar	Sabarkantha	GUJARAT	383030
+Sabalwad
+Idar	Sabarkantha	GUJARAT	383430
+Sabli
+Idar	Sabarkantha	GUJARAT	383421
+Sachodar
+Himatnagar	Sabarkantha	GUJARAT	383110
+Sadha
+Himatnagar	Sabarkantha	GUJARAT	383030
+Sagpur
+Talod	Sabarkantha	GUJARAT	383307
+Sahebapura
+Himatnagar	Sabarkantha	GUJARAT	383001
+Sakariya
+Modasa	Sabarkantha	GUJARAT	383315
+Salal
+Prantij	Sabarkantha	GUJARAT	383120
+Salatpur
+Talod	Sabarkantha	GUJARAT	383215
+Salera
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Sampad
+Prantij	Sabarkantha	GUJARAT	383120
+Sapawada
+Idar	Sabarkantha	GUJARAT	383430
+Sardoi
+Modasa	Sabarkantha	GUJARAT	383320
+Saroli
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Sarsav
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Sarsoli
+Bayad	Sabarkantha	GUJARAT	383335
+Sarvoday Kendra
+Bhiloda	Sabarkantha	GUJARAT	383355
+Satarda
+Malpur	Sabarkantha	GUJARAT	383345
+Sathamba
+Bayad	Sabarkantha	GUJARAT	383340
+Savela
+Bayad	Sabarkantha	GUJARAT	383340
+Savgadh
+Himatnagar	Sabarkantha	GUJARAT	383001
+Sayra
+Modasa	Sabarkantha	GUJARAT	383315
+Semalia
+Talod	Sabarkantha	GUJARAT	383215
+Sembalia Poshina
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Shamlaji
+Bhiloda	Sabarkantha	GUJARAT	383355
+Shampur
+Modasa	Sabarkantha	GUJARAT	383320
+Shangal
+Meghraj	Sabarkantha	GUJARAT	383350
+Shantipura
+Dhansura	Sabarkantha	GUJARAT	383310
+Sherpur
+Idar	Sabarkantha	GUJARAT	383410
+Shinavad
+Modasa	Sabarkantha	GUJARAT	383315
+Shinol
+Dhansura	Sabarkantha	GUJARAT	383310
+Shravana
+Himatanagar	Sabarkantha	GUJARAT	383030
+Sika
+Dhansura	Sabarkantha	GUJARAT	383310
+Singa
+Idar	Sabarkantha	GUJARAT	383225
+Sisodara A
+Meghraj	Sabarkantha	GUJARAT	383350
+Sitol
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Sitwada
+Prantij	Sabarkantha	GUJARAT	383205
+Siyasan
+Idar	Sabarkantha	GUJARAT	383450
+Sonasan
+Prantij	Sabarkantha	GUJARAT	383210
+Sunokh
+Bhiloda	Sabarkantha	GUJARAT	383250
+Sunsar
+Bhiloda	Sabarkantha	GUJARAT	383450
+Surpur
+Idar	Sabarkantha	GUJARAT	383430
+Tadhivedi
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Tajpur Camp
+Talod	Sabarkantha	GUJARAT	383305
+Tajpur
+Prantij	Sabarkantha	GUJARAT	383205
+Tajpuri
+Himatnagar	Sabarkantha	GUJARAT	383001
+Takatuka
+Bhiloda	Sabarkantha	GUJARAT	383246
+Takhatgadh
+Prantij	Sabarkantha	GUJARAT	383210
+Talod
+Bayad	Sabarkantha	GUJARAT	383340
+Talod M Y
+Talod	Sabarkantha	GUJARAT	383215
+Talod
+Talod	Sabarkantha	GUJARAT	383215
+Tandaliya
+Khedbrahma	Sabarkantha	GUJARAT	383275
+Tembada
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Tenpur
+Bayad	Sabarkantha	GUJARAT	383325
+Therasana
+Vadali	Sabarkantha	GUJARAT	383235
+Tintoi
+Modasa	Sabarkantha	GUJARAT	383250
+Torda
+Bhiloda	Sabarkantha	GUJARAT	383246
+Tunadar
+Malpur	Sabarkantha	GUJARAT	383335
+Ubharan
+Malpur	Sabarkantha	GUJARAT	383335
+Ubsal
+Bhiloda	Sabarkantha	GUJARAT	383246
+Ujedia
+Talod	Sabarkantha	GUJARAT	383215
+Ujleshvar
+Dhansura	Sabarkantha	GUJARAT	383310
+Ukhala Dungri
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Umedgadh
+Idar	Sabarkantha	GUJARAT	383230
+Umedpura
+Idar	Sabarkantha	GUJARAT	383430
+Unchha
+Prantij	Sabarkantha	GUJARAT	383205
+Unchi Dhanal
+Khedbrahma	Sabarkantha	GUJARAT	383270
+Undava
+Meghraj	Sabarkantha	GUJARAT	383350
+Untarda
+Bayad	Sabarkantha	GUJARAT	383325
+Vadagam
+Dhansura	Sabarkantha	GUJARAT	383307
+Vadali Sabarkantha
+Vadali	Sabarkantha	GUJARAT	383235
+Vadoth
+Vadali	Sabarkantha	GUJARAT	383235
+Vadrad
+Prantij	Sabarkantha	GUJARAT	383205
+Vadvasa
+Prantij	Sabarkantha	GUJARAT	383205
+Vagdi
+Himatnagar	Sabarkantha	GUJARAT	383276
+Vaghela Derol
+Khedbrahma	Sabarkantha	GUJARAT	383275
+Vagheswari
+Bhiloda	Sabarkantha	GUJARAT	383450
+Vaghpur
+Meghraj	Sabarkantha	GUJARAT	383251
+Vaghpur
+Prantij	Sabarkantha	GUJARAT	383205
+Vaghpur
+Meghraj	Sabarkantha	GUJARAT	383350
+Vaghrota
+Prantij	Sabarkantha	GUJARAT	383210
+Vaktapur
+Himatnagar	Sabarkantha	GUJARAT	383010
+Valaran
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Valiampura
+Talod	Sabarkantha	GUJARAT	383215
+Valuna
+Meghraj	Sabarkantha	GUJARAT	383350
+Vandhiyol
+Bhiloda	Sabarkantha	GUJARAT	383250
+Vandhol
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Vaniad Kokapur
+Modasa	Sabarkantha	GUJARAT	383315
+Vaniawada
+Meghraj	Sabarkantha	GUJARAT	383350
+Vankaneda
+Malpur	Sabarkantha	GUJARAT	383335
+Vankaner
+Bhiloda	Sabarkantha	GUJARAT	383245
+Vankda
+Vijaynagar	Sabarkantha	GUJARAT	383462
+Vantda Bayad
+Bayad	Sabarkantha	GUJARAT	383325
+Vanzar
+Bhiloda	Sabarkantha	GUJARAT	383250
+Varthu
+Modasa	Sabarkantha	GUJARAT	383317
+Vartol
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Varvada
+Talod	Sabarkantha	GUJARAT	383305
+Vasai
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Vasai
+Idar	Sabarkantha	GUJARAT	383450
+Vasan
+Vadali	Sabarkantha	GUJARAT	383235
+Vasana
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Vasna
+Meghraj	Sabarkantha	GUJARAT	383350
+Vasnirel
+Bayad	Sabarkantha	GUJARAT	383325
+Vatrakgadh
+Bayad	Sabarkantha	GUJARAT	383260
+Vavdi
+Malpur	Sabarkantha	GUJARAT	383345
+Vavdi
+Himatnagar	Sabarkantha	GUJARAT	383030
+Vejpur
+Bhiloda	Sabarkantha	GUJARAT	383245
+Verabar
+Idar	Sabarkantha	GUJARAT	383434
+Vijaynagar
+Vijaynagar	Sabarkantha	GUJARAT	383460
+Vinchhi
+Khedbrahma	Sabarkantha	GUJARAT	383422
+Viravada
+Himatnagar	Sabarkantha	GUJARAT	383001
+Virpur
+Idar	Sabarkantha	GUJARAT	383230
+Virpur
+Bhiloda	Sabarkantha	GUJARAT	383246
+Virpur
+Himatnagar	Sabarkantha	GUJARAT	383010
+Vishwamangalam
+Himatnagar	Sabarkantha	GUJARAT	383001
+Zanzva Panai
+Khedbrahma	Sabarkantha	GUJARAT	383255
+Zarda
+Meghraj	Sabarkantha	GUJARAT	383350
+Zinzva
+Prantij	Sabarkantha	GUJARAT	383210
+

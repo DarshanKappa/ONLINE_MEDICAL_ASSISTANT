@@ -1,0 +1,635 @@
+Chandrasan
+Kadi	Mahesana	GUJARAT	382170
+Charol
+Kadi	Mahesana	GUJARAT	382120
+Khanderaopura
+Kadi	Mahesana	GUJARAT	382115
+Rancharada
+Kalol	Mahesana	GUJARAT	382115
+Adraj Merda
+Kadi	Mahesana	GUJARAT	382728
+Adundra
+Kadi	Mahesana	GUJARAT	382715
+Aglod
+Vijapur	Mahesana	GUJARAT	382870
+Agol
+Kadi	Mahesana	GUJARAT	382165
+Aithor
+Unjha	Mahesana	GUJARAT	384170
+Akhaj
+Mahesana	Mahesana	GUJARAT	382710
+Aloda
+Mahesana	Mahesana	GUJARAT	384205
+Ambala
+Becharaji	Mahesana	GUJARAT	384210
+Ambaliasan
+Mahesana	Mahesana	GUJARAT	382732
+Ambasan
+Mahesana	Mahesana	GUJARAT	384435
+Ambavada
+Kheralu	Mahesana	GUJARAT	384335
+Amudh
+Unjha	Mahesana	GUJARAT	384170
+Ankaliyara
+Satlasana	Mahesana	GUJARAT	384330
+Asjol
+Becharaji	Mahesana	GUJARAT	384410
+Badarpur
+Vadnagar	Mahesana	GUJARAT	384355
+Balad
+Kheralu	Mahesana	GUJARAT	384325
+Balasar
+Kadi	Mahesana	GUJARAT	382715
+Balol
+Becharaji	Mahesana	GUJARAT	384410
+Bamanva
+Vijapur	Mahesana	GUJARAT	384355
+Bamosana
+Mahesana	Mahesana	GUJARAT	384120
+Basana
+Mahesana	Mahesana	GUJARAT	384001
+Bavlu
+Kadi	Mahesana	GUJARAT	382165
+Becharaji
+Becharaji	Mahesana	GUJARAT	384210
+Bedasma Mumanvas
+Satlasana	Mahesana	GUJARAT	384330
+Bhalak
+Visnagar	Mahesana	GUJARAT	384315
+Bhalusana
+Satlasana	Mahesana	GUJARAT	384330
+Bhandu
+Mahesana	Mahesana	GUJARAT	384120
+Bhankhar
+Unjha	Mahesana	GUJARAT	384170
+Bhasaria
+Mahesana	Mahesana	GUJARAT	382732
+Bhatasan
+Kadi	Mahesana	GUJARAT	382705
+Bhatvas
+Satalasana	Mahesana	GUJARAT	384330
+Bhavsor
+Vijapur	Mahesana	GUJARAT	382870
+Bhesana
+Mahesana	Mahesana	GUJARAT	384421
+Bhimpura
+Satlasana	Mahesana	GUJARAT	384330
+Bhunav
+Unjha	Mahesana	GUJARAT	384130
+Bilia
+Vijapur	Mahesana	GUJARAT	382870
+Bokarwada
+Visnagar	Mahesana	GUJARAT	384120
+Boriavi
+Mahesana	Mahesana	GUJARAT	384435
+Borisana Kadi
+Kadi	Mahesana	GUJARAT	382728
+Brahmanwada
+Unjha	Mahesana	GUJARAT	384215
+Budasan
+Kadi	Mahesana	GUJARAT	382715
+Butta Paldi
+Mahesana	Mahesana	GUJARAT	384120
+Chada
+Kheralu	Mahesana	GUJARAT	384325
+Chadasana
+Becharaji	Mahesana	GUJARAT	384210
+Chaluva
+Mahesana	Mahesana	GUJARAT	382732
+Chansol
+Kheralu	Mahesana	GUJARAT	384325
+Charadu
+Mahesana	Mahesana	GUJARAT	382730
+Chhabalia
+Vadnagar	Mahesana	GUJARAT	384355
+Chhathiarda
+Mahesana	Mahesana	GUJARAT	384205
+Chotia
+Kheralu	Mahesana	GUJARAT	384325
+Dabhad
+Kheralu	Mahesana	GUJARAT	384325
+Dabhala
+Vijapur	Mahesana	GUJARAT	382865
+Dabhi
+Unjha	Mahesana	GUJARAT	384170
+Dabhoda
+Kheralu	Mahesana	GUJARAT	384325
+Dadhial
+Visnagar	Mahesana	GUJARAT	384305
+Dagavadia
+Vijapur	Mahesana	GUJARAT	382830
+Dalisana
+Kheralu	Mahesana	GUJARAT	384325
+Dangarwa
+Mahesana	Mahesana	GUJARAT	382705
+Daran
+Kadi	Mahesana	GUJARAT	382165
+Dasaj
+Unjha	Mahesana	GUJARAT	384170
+Davada
+Mahesana	Mahesana	GUJARAT	384120
+Davol
+Kheralu	Mahesana	GUJARAT	384325
+Dedana
+Becharaji	Mahesana	GUJARAT	384210
+Dela
+Mahesana	Mahesana	GUJARAT	384001
+Deloli
+Mahesana	Mahesana	GUJARAT	384410
+Delvada Khant
+Becharaji	Mahesana	GUJARAT	384210
+Denap
+Visnagar	Mahesana	GUJARAT	384315
+Dethali
+Becharaji	Mahesana	GUJARAT	384210
+Deusana
+Kadi	Mahesana	GUJARAT	382715
+Devda
+Vijapur	Mahesana	GUJARAT	382830
+Devpura
+Vijapur	Mahesana	GUJARAT	382870
+Devrasan
+Mahesana	Mahesana	GUJARAT	382710
+Dhamanva
+Visnagar	Mahesana	GUJARAT	384001
+Dhanali
+Mahesana	Mahesana	GUJARAT	382732
+Dharampur
+Kadi	Mahesana	GUJARAT	382165
+Dharoi DSC
+Satlasana	Mahesana	GUJARAT	384360
+Dholasan
+Mahesana	Mahesana	GUJARAT	382732
+Diwanpura
+Mahesana	Mahesana	GUJARAT	384421
+Dodiwada
+Becharaji	Mahesana	GUJARAT	384210
+Falu
+Vijapur	Mahesana	GUJARAT	382870
+Fudeda
+Vijapur	Mahesana	GUJARAT	382860
+Fuletra
+Kadi	Mahesana	GUJARAT	382728
+Gadha
+Mahesana	Mahesana	GUJARAT	384001
+Gambhu
+Becharaji	Mahesana	GUJARAT	384212
+Ganeshpura
+Kadi	Mahesana	GUJARAT	382705
+Ganpat Vidyanagar
+Mahesana	Mahesana	GUJARAT	384012
+Gavada
+Vijapur	Mahesana	GUJARAT	382815
+Gerita Kolavda RS
+Vijapur	Mahesana	GUJARAT	382820
+Ghantu Dhanpura
+Vijapur	Mahesana	GUJARAT	382870
+Ghumasan
+Kadi	Mahesana	GUJARAT	382705
+Gorad
+Mahesana	Mahesana	GUJARAT	384001
+Gorisana
+Kheralu	Mahesana	GUJARAT	384335
+Gothada
+Satlasana	Mahesana	GUJARAT	384330
+Gothva
+Visnagar	Mahesana	GUJARAT	384315
+Gozaria
+Mahesana	Mahesana	GUJARAT	382825
+Gundrasan
+Vijapur	Mahesana	GUJARAT	384355
+Gunja
+Visnagar	Mahesana	GUJARAT	384315
+Hadol
+Satlasana	Mahesana	GUJARAT	384360
+Hajipur
+Vadnagar	Mahesana	GUJARAT	384170
+Hirpura
+Vijapur	Mahesana	GUJARAT	382870
+Indrad
+Kadi	Mahesana	GUJARAT	382715
+Jagnathpura
+Unjha	Mahesana	GUJARAT	384140
+Jagudan
+Mahesana	Mahesana	GUJARAT	382710
+Jakasana
+Mahesana	Mahesana	GUJARAT	384421
+Jantral
+Vijapur	Mahesana	GUJARAT	382860
+Jasalpur
+Kadi	Mahesana	GUJARAT	382715
+Jaska
+Visnagar	Mahesana	GUJARAT	384315
+Jepur
+Vijapur	Mahesana	GUJARAT	382870
+Jeshangpura
+Kadi	Mahesana	GUJARAT	382165
+Jetalvasana
+Visnagar	Mahesana	GUJARAT	384120
+Jhotana
+Mahesana	Mahesana	GUJARAT	384421
+Jhulasan
+Kadi	Mahesana	GUJARAT	382705
+Jornang
+Mahesana	Mahesana	GUJARAT	382732
+Juni Sedhavi
+Mahesana	Mahesana	GUJARAT	382705
+Kada Mahesana
+Visnagar	Mahesana	GUJARAT	384305
+Kadi Mkt Yard
+Kadi	Mahesana	GUJARAT	382715
+Kadi
+Kadi	Mahesana	GUJARAT	382715
+Kahipur
+Vadnagar	Mahesana	GUJARAT	384355
+Kahoda
+Unjha	Mahesana	GUJARAT	384130
+Kaiyal
+Kadi	Mahesana	GUJARAT	382705
+Kalri
+Becharaji	Mahesana	GUJARAT	384210
+Kalyanpura
+Kadi	Mahesana	GUJARAT	382165
+Kamana
+Visnagar	Mahesana	GUJARAT	384315
+Kamli
+Unjha	Mahesana	GUJARAT	384140
+Kanoda
+Becharaji	Mahesana	GUJARAT	384212
+Kansa
+Visnagar	Mahesana	GUJARAT	384315
+Kansarakui
+Visnagar	Mahesana	GUJARAT	384001
+Kanzari
+Kadi	Mahesana	GUJARAT	382165
+Karannagar
+Kadi	Mahesana	GUJARAT	382715
+Karbatia
+Vadnagar	Mahesana	GUJARAT	384355
+Karjisan
+Kadi	Mahesana	GUJARAT	382705
+Karli
+Unjha	Mahesana	GUJARAT	384170
+Karsanpura
+Kadi	Mahesana	GUJARAT	384335
+Kaswa
+Kadi	Mahesana	GUJARAT	382715
+Katosan
+Mahesana	Mahesana	GUJARAT	384430
+Kelisana
+Vijapur	Mahesana	GUJARAT	382830
+Keshimpa
+Vadnagar	Mahesana	GUJARAT	384325
+Khadalpur
+Mahesana	Mahesana	GUJARAT	384421
+Khambhei
+Becharaji	Mahesana	GUJARAT	384210
+Khandosan
+Visnagar	Mahesana	GUJARAT	384310
+Khanusa
+Vijapur	Mahesana	GUJARAT	382850
+Kharod
+Vijapur	Mahesana	GUJARAT	382840
+Kharvada
+Visnagar	Mahesana	GUJARAT	384305
+Khatoda
+Vadnagar	Mahesana	GUJARAT	384355
+Khavad
+Kadi	Mahesana	GUJARAT	382165
+Kheralu
+Kheralu	Mahesana	GUJARAT	384325
+Kherva
+Mahesana	Mahesana	GUJARAT	384001
+Khodamali
+Satlasana	Mahesana	GUJARAT	384360
+Kolad
+Kadi	Mahesana	GUJARAT	382165
+Kot
+Vijapur	Mahesana	GUJARAT	382870
+Kothasana
+Satlasana	Mahesana	GUJARAT	384330
+Kukarwada
+Vijapur	Mahesana	GUJARAT	382830
+Kundal
+Kadi	Mahesana	GUJARAT	382715
+Kuvasana
+Visnagar	Mahesana	GUJARAT	384315
+Lacjjadi
+Visnagar	Mahesana	GUJARAT	384305
+Ladol
+Vijapur	Mahesana	GUJARAT	382840
+Lakhvad
+Mahesana	Mahesana	GUJARAT	384001
+Langhnaj
+Mahesana	Mahesana	GUJARAT	382730
+Laxmipura
+Visnagar	Mahesana	GUJARAT	384315
+Lhor
+Kadi	Mahesana	GUJARAT	382165
+Linch
+Mahesana	Mahesana	GUJARAT	384435
+Lunasan
+Kadi	Mahesana	GUJARAT	382715
+Lunva
+Kheralu	Mahesana	GUJARAT	384130
+Machhava
+Kheralu	Mahesana	GUJARAT	384130
+Madhasana
+Kheralu	Mahesana	GUJARAT	384335
+Madhi
+Satlasana	Mahesana	GUJARAT	382860
+Magroda
+Visnagar	Mahesana	GUJARAT	384305
+Maguna
+Mahesana	Mahesana	GUJARAT	384410
+Mahervada
+Unjha	Mahesana	GUJARAT	384130
+Mahesana Bazar
+Mahesana	Mahesana	GUJARAT	384001
+Mahesana
+Mahesana	Mahesana	GUJARAT	384001
+Mahesana I E
+Mahesana	Mahesana	GUJARAT	384002
+Mahesana JSM
+Mahesana	Mahesana	GUJARAT	384001
+Mahesana Ongc Colony
+Mahesana	Mahesana	GUJARAT	384003
+Mahesana Railway Colony
+Mahesana	Mahesana	GUJARAT	384002
+Mahiyal
+Kheralu	Mahesana	GUJARAT	384325
+Maktupur
+Unjha	Mahesana	GUJARAT	384170
+Malekpur Vad
+Vadnabar	Mahesana	GUJARAT	384355
+Malosan
+Vijapur	Mahesana	GUJARAT	382815
+Mandali
+Vijapur	Mahesana	GUJARAT	382840
+Mandali
+Becharaji	Mahesana	GUJARAT	384130
+Mandropur
+Kheralu	Mahesana	GUJARAT	384325
+Manipur
+Kadi	Mahesana	GUJARAT	382728
+Manknaj
+Mahesana	Mahesana	GUJARAT	384421
+Martoli
+Mahesana	Mahesana	GUJARAT	384430
+Mathasul
+Kadi	Mahesana	GUJARAT	382705
+Medha
+Kadi	Mahesana	GUJARAT	382165
+Meghaliasana
+Visnagar	Mahesana	GUJARAT	384001
+Meu
+Mahesana	Mahesana	GUJARAT	382730
+Mevad
+Mahesana	Mahesana	GUJARAT	382710
+Mitha
+Mahesana	Mahesana	GUJARAT	384001
+Modhera
+Becharaji	Mahesana	GUJARAT	384212
+Molipur
+Vadnagar	Mahesana	GUJARAT	384355
+Motap
+Becharaji	Mahesana	GUJARAT	384212
+Moti Bhalu
+Satlasana	Mahesana	GUJARAT	384330
+Moti Dau
+Mahesana	Mahesana	GUJARAT	384120
+Moti Hirvani
+Kheralu	Mahesana	GUJARAT	384325
+Mudarda
+Mahesana	Mahesana	GUJARAT	384421
+Mulsan
+Mahesana	Mahesana	GUJARAT	382710
+Nadasa
+Mahesana	Mahesana	GUJARAT	384410
+Nagalpur
+Mahesana	Mahesana	GUJARAT	384001
+Nagrasan
+Kadi	Mahesana	GUJARAT	382715
+Nandasan
+Kadi	Mahesana	GUJARAT	382705
+Nani Kadi
+Kadi	Mahesana	GUJARAT	382715
+Nanivada
+Kheralu	Mahesana	GUJARAT	384325
+Navasangpur
+Vijapur	Mahesana	GUJARAT	382870
+Nugar
+Mahesana	Mahesana	GUJARAT	384205
+Padharia
+Mahesana	Mahesana	GUJARAT	382865
+Paladi
+Visnagar	Mahesana	GUJARAT	384315
+Palaj
+Mahesana	Mahesana	GUJARAT	384410
+Palodar
+Mahesana	Mahesana	GUJARAT	384205
+Pamol
+Vijapur	Mahesana	GUJARAT	382820
+Panchot
+Mahesana	Mahesana	GUJARAT	384205
+Pedhamali
+Vijapur	Mahesana	GUJARAT	382870
+Piludra
+Mahesana	Mahesana	GUJARAT	384001
+Pilvai
+Vijapur	Mahesana	GUJARAT	382850
+Pudgam
+Visnagar	Mahesana	GUJARAT	384310
+Punasan
+Mahesana	Mahesana	GUJARAT	382710
+Rajgadh
+Visnagar	Mahesana	GUJARAT	384315
+Rajpur
+Kadi	Mahesana	GUJARAT	382715
+Ralisana
+Visnagar	Mahesana	GUJARAT	384315
+Rampur Kot
+Visnagar	Mahesana	GUJARAT	382870
+Ranasan
+Vijapur	Mahesana	GUJARAT	382870
+Ranchhodpura
+Unjha	Mahesana	GUJARAT	384170
+Ranela
+Becharaji	Mahesana	GUJARAT	384212
+Rangakui
+Visnagar	Mahesana	GUJARAT	384315
+Ransipur
+Vijapur	Mahesana	GUJARAT	382870
+Rantej
+Becharaji	Mahesana	GUJARAT	384410
+Rasulpur
+Kheralu	Mahesana	GUJARAT	384325
+Sabalpur
+Vadnagar	Mahesana	GUJARAT	384355
+Sadra
+Kadi	Mahesana	GUJARAT	382715
+Saduthala
+Visnagar	Mahesana	GUJARAT	384315
+Sagthala
+Kheralu	Mahesana	GUJARAT	384325
+Saldi
+Mahesana	Mahesana	GUJARAT	382730
+Sametra
+Mahesana	Mahesana	GUJARAT	384001
+Sampawada
+Becharaji	Mahesana	GUJARAT	384210
+Sanganpur
+Mahesana	Mahesana	GUJARAT	382710
+Santhal
+Mahesana	Mahesana	GUJARAT	384430
+Sardarpur
+Vijapur	Mahesana	GUJARAT	384340
+Sardarpur Mahesana
+Vijapur	Mahesana	GUJARAT	382860
+Sarsav
+Kadi	Mahesana	GUJARAT	382715
+Sartanpur
+Satlasana	Mahesana	GUJARAT	384330
+Sarvoday Ashram
+Visnagar	Mahesana	GUJARAT	384310
+Satlasana
+Satlasana	Mahesana	GUJARAT	384330
+Savala
+Visnagar	Mahesana	GUJARAT	384001
+Shankhalpur
+Becharaji	Mahesana	GUJARAT	384210
+Sihi
+Unjha	Mahesana	GUJARAT	384170
+Sipor
+Vadnagar	Mahesana	GUJARAT	384335
+Sobhasan
+Vadnagar	Mahesana	GUJARAT	384335
+Sobhasan
+Mahesana	Mahesana	GUJARAT	384001
+Sokhda
+Vijapur	Mahesana	GUJARAT	382830
+Sudasana
+Satlasana	Mahesana	GUJARAT	384340
+Sujatpura
+Kadi	Mahesana	GUJARAT	382715
+Sultanpur
+Vadnagar	Mahesana	GUJARAT	384355
+Sundarpur
+Vijapur	Mahesana	GUJARAT	382860
+Sundhia
+Vadnagar	Mahesana	GUJARAT	384345
+Sunok
+Unjha	Mahesana	GUJARAT	384170
+Suraj
+Kadi	Mahesana	GUJARAT	382715
+Surpura
+Becharaji	Mahesana	GUJARAT	384210
+Tarabh
+Visnagar	Mahesana	GUJARAT	384310
+Tarangaji Temple
+Satlasana	Mahesana	GUJARAT	384330
+Tareti
+Mahesana	Mahesana	GUJARAT	384001
+Tatosan
+Vijapur	Mahesana	GUJARAT	382820
+Thol
+Kadi	Mahesana	GUJARAT	382728
+Thol I E
+Mahesana	Mahesana	GUJARAT	382728
+Timba
+Satlasana	Mahesana	GUJARAT	384330
+Titodan
+Vijapur	Mahesana	GUJARAT	382865
+Tundali
+Mahesana	Mahesana	GUJARAT	382732
+Tundav
+Unjha	Mahesana	GUJARAT	384170
+Udalpur
+Visnagar	Mahesana	GUJARAT	384001
+Umari
+Satlasana	Mahesana	GUJARAT	384340
+Umta
+Visnagar	Mahesana	GUJARAT	384320
+Unad
+Mahesana	Mahesana	GUJARAT	384335
+Unava
+Unjha	Mahesana	GUJARAT	384160
+Undani
+Vadnagar	Mahesana	GUJARAT	384355
+Undhai
+Vadnagar	Mahesana	GUJARAT	384335
+Unjha Kotkuva
+Unjha	Mahesana	GUJARAT	384170
+Unjha
+Unjha	Mahesana	GUJARAT	384170
+Unjha Umiya Mataji
+Unjha	Mahesana	GUJARAT	384170
+Untva
+Kadi	Mahesana	GUJARAT	382715
+Upera
+Unjha	Mahesana	GUJARAT	384170
+Vadasan
+Vijapur	Mahesana	GUJARAT	382830
+Vadasma
+Mahesana	Mahesana	GUJARAT	382705
+Vadharoda
+Kadi	Mahesana	GUJARAT	382165
+Vadnagar
+Vadnagar	Mahesana	GUJARAT	384355
+Vadosan
+Mahesana	Mahesana	GUJARAT	384001
+Vadu
+Kadi	Mahesana	GUJARAT	382705
+Vaghawadi
+Kheralu	Mahesana	GUJARAT	384335
+Valam
+Visnagar	Mahesana	GUJARAT	384310
+Valasana
+Vadnagar	Mahesana	GUJARAT	384335
+Vamaj
+Kadi	Mahesana	GUJARAT	382728
+Vanagala
+Unjha	Mahesana	GUJARAT	384170
+Varetha
+Kheralu	Mahesana	GUJARAT	384325
+Varvada
+Unjha	Mahesana	GUJARAT	384215
+Vasai
+Satlasana	Mahesana	GUJARAT	384340
+Vasai Dabhala
+Mahesana	Mahesana	GUJARAT	382865
+Vekra
+Kadi	Mahesana	GUJARAT	382165
+Venpura
+Becharaji	Mahesana	GUJARAT	384210
+Vidaj
+Kadi	Mahesana	GUJARAT	382715
+Vijapur Bazar
+Vijapur	Mahesana	GUJARAT	382870
+Vijapur
+Vijapur	Mahesana	GUJARAT	382870
+Vijapurda
+Becharaji	Mahesana	GUJARAT	384212
+Virsoda
+Mahesana	Mahesana	GUJARAT	384430
+Virta
+Mahesana	Mahesana	GUJARAT	384001
+Visatpur
+Kadi	Mahesana	GUJARAT	382715
+Vishol
+Unjha	Mahesana	GUJARAT	384215
+Visnagar CollageUrban
+Visnagar	Mahesana	GUJARAT	384315
+Visnagar Market Yard
+Visnagar	Mahesana	GUJARAT	384315
+Visnagar
+Visnagar	Mahesana	GUJARAT	384315
+Visnagar Station Road
+Visnagar	Mahesana	GUJARAT	384315
+Vithoda
+Kheralu	Mahesana	GUJARAT	384325
+Kanthravi
+Patan	Mahesana	GUJARAT	384260
+Pali
+Patan	Mahesana	GUJARAT	384260
+

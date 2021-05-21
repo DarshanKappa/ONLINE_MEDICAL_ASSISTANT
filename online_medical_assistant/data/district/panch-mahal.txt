@@ -1,0 +1,687 @@
+Adadra
+Kalol	Panch Mahals	GUJARAT	389341
+Agarwada
+Lunawada	Panch Mahals	GUJARAT	388270
+Agarwada
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Alwa
+Kalol	Panch Mahals	GUJARAT	389310
+Ambakhunt
+Devgadh Baria	Panch Mahals	GUJARAT	389380
+Ambali
+Godhra	Panch Mahals	GUJARAT	389001
+Amthani
+Kadana	Panch Mahals	GUJARAT	389240
+Aniyad
+Shehera	Panch Mahals	GUJARAT	389210
+Anjanwa
+Santrampur	Panch Mahals	GUJARAT	389110
+Ankalia
+Kadana	Panch Mahals	GUJARAT	389240
+Antalwada
+Kadana	Panch Mahals	GUJARAT	389240
+Arad
+Halol	Panch Mahals	GUJARAT	389350
+Bablia
+Khanpur	Panch Mahals	GUJARAT	389232
+Babrol
+Santrampur	Panch Mahals	GUJARAT	389260
+Bachkaria
+Kadana	Panch Mahals	GUJARAT	389240
+Bahi
+Shehera	Panch Mahals	GUJARAT	389001
+Bakkhar
+Godhra	Panch Mahals	GUJARAT	389120
+Bakor
+Khanpur	Panch Mahals	GUJARAT	389232
+Bakrol
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Bamroda
+Lunawada	Panch Mahals	GUJARAT	389230
+Bapotia
+Holol	Panch Mahals	GUJARAT	389370
+Baska
+Halol	Panch Mahals	GUJARAT	389350
+Bedhiya
+Kalol	Panch Mahals	GUJARAT	389310
+Bhadkhadabar
+Lunawada	Panch Mahals	GUJARAT	389180
+Bhadrala
+Shehera	Panch Mahals	GUJARAT	389210
+Bhadrod
+Lunawada	Panch Mahals	GUJARAT	389230
+Bhadroli Khurd
+Kalol	Panch Mahals	GUJARAT	389320
+Bhalada
+Lunawada	Panch Mahals	GUJARAT	388270
+Bhalania
+Godhra	Panch Mahals	GUJARAT	389340
+Bhamaiya
+Godhra	Panch Mahals	GUJARAT	389120
+Bhamaria
+Halol	Panch Mahals	GUJARAT	389360
+Bhandoi
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Bhilod
+Ghoghmba	Panch Mahals	GUJARAT	389341
+Bhuvar
+Santrampur	Panch Mahals	GUJARAT	389110
+Bodidra Buzarg
+Godhra	Panch Mahals	GUJARAT	389120
+Bodidra Khurd
+Shehera	Panch Mahals	GUJARAT	389210
+Bor
+Ghoghamba	Panch Mahals	GUJARAT	389380
+Boriavi
+Shehera	Panch Mahals	GUJARAT	389210
+Boriya
+Shehera	Panch Mahals	GUJARAT	389210
+Boru Bakorl
+Kalol	Panch Mahals	GUJARAT	389330
+Borvai
+Khanpur	Panch Mahals	GUJARAT	389232
+Chalali
+Kalol	Panch Mahals	GUJARAT	389341
+Champeli
+Lunawada	Panch Mahals	GUJARAT	388270
+Chandranagar
+Ghoghamba	Panch Mahals	GUJARAT	389360
+Chandrpura
+Halol	Panch Mahals	GUJARAT	389350
+Chapra
+Halol	Panch Mahals	GUJARAT	389360
+Charangam
+Lunawada	Panch Mahals	GUJARAT	388270
+Chatkabeli
+Lunawada	Panch Mahals	GUJARAT	389230
+Chelawada
+Ghoghamba	Panch Mahals	GUJARAT	389360
+Chhanip
+Shehera	Panch Mahals	GUJARAT	389210
+Chhavad
+Godhra	Panch Mahals	GUJARAT	389120
+Chhogala
+Shehera	Panch Mahals	GUJARAT	389210
+Chitwa
+Santrampur	Panch Mahals	GUJARAT	389260
+Chori
+Lunawada	Panch Mahals	GUJARAT	388270
+Dadhalia
+Kadana	Panch Mahals	GUJARAT	389250
+Dalwada
+Shehera	Panch Mahals	GUJARAT	389210
+Damavav
+Ghoghamba	Panch Mahals	GUJARAT	389380
+Dangaria
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Davadra
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Delol
+Kalol	Panch Mahals	GUJARAT	389310
+Derol Gam
+Kalol	Panch Mahals	GUJARAT	389320
+Derol R S
+Kalol	Panch Mahals	GUJARAT	389320
+Dhamnod
+Shehera	Panch Mahals	GUJARAT	389120
+Dhamod
+Lunawada	Panch Mahals	GUJARAT	388270
+Dhandhalpur
+Shehera	Panch Mahals	GUJARAT	389210
+Dhaneshawar
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Dhanitra
+Godhra	Panch Mahals	GUJARAT	389001
+Dhankuva
+Halol	Panch Mahals	GUJARAT	389360
+Dhanol
+Godhra	Panch Mahals	GUJARAT	388713
+Dharapur
+Shehera	Panch Mahals	GUJARAT	389220
+Dharola
+Shehera	Panch Mahals	GUJARAT	389001
+Dhesia
+Lunawada	Panch Mahals	GUJARAT	388270
+Dhingalwada
+Kadana	Panch Mahals	GUJARAT	389240
+Dhinkva
+Halol	Panch Mahals	GUJARAT	389360
+Ditwas
+Kadana	Panch Mahals	GUJARAT	389240
+Diwda Colony
+Kadana	Panch Mahals	GUJARAT	389250
+Doli
+Santrampur	Panch Mahals	GUJARAT	389110
+Duma
+Jambughoda	Panch Mahals	GUJARAT	389390
+Eral
+Kalol	Panch Mahals	GUJARAT	389340
+Erandi
+Godhra	Panch Mahals	GUJARAT	389120
+Farod
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Gada
+Santrampur	Panch Mahals	GUJARAT	389260
+Gadia
+Santrampur	Panch Mahals	GUJARAT	389110
+Gamani
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Gangadiya
+Shehera	Panch Mahals	GUJARAT	389210
+Gangta
+Lunawada	Panch Mahals	GUJARAT	389230
+Ghansar Muvadi
+Halol	Panch Mahals	GUJARAT	389350
+Ghaswada
+Kadana	Panch Mahals	GUJARAT	389240
+Ghoghmba
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Godhar
+Lunawada	Panch Mahals	GUJARAT	389230
+Godhar North
+Kadana	Panch Mahals	GUJARAT	389240
+Godhra Bhuravav
+Godhra	Panch Mahals	GUJARAT	389002
+Godhra City
+Godhra	Panch Mahals	GUJARAT	389001
+Godhra Civil Lines
+Godhra	Panch Mahals	GUJARAT	389001
+Godhra
+Godhra	Panch Mahals	GUJARAT	389001
+Godhra Shroff Bazar
+Godhra	Panch Mahals	GUJARAT	389001
+Godhra Vorwad
+Godhra	Panch Mahals	GUJARAT	389001
+Godli
+Ghoghamba	Panch Mahals	GUJARAT	389380
+Gollav
+Godhra	Panch Mahals	GUJARAT	389380
+Gothibada
+Lunawada	Panch Mahals	GUJARAT	389230
+Govindi
+Godhra	Panch Mahals	GUJARAT	389001
+Goya Sundal
+Ghoghmba	Panch Mahals	GUJARAT	389341
+Gundi
+Ghoghamba	Panch Mahals	GUJARAT	389380
+Guneli
+Shehera	Panch Mahals	GUJARAT	389220
+Gunesia
+Ghoghmba	Panch Mahals	GUJARAT	389341
+Halol Bazar
+Halol	Panch Mahals	GUJARAT	389350
+Halol
+Halol	Panch Mahals	GUJARAT	389350
+Hardaspur
+Lunawada	Panch Mahals	GUJARAT	389230
+Hareda
+Santrampur	Panch Mahals	GUJARAT	389110
+Harkundi
+Godhra	Panch Mahals	GUJARAT	389340
+Hathivan
+Lunawada	Panch Mahals	GUJARAT	389220
+Haveli
+Jambughoda	Panch Mahals	GUJARAT	389390
+Hirapur
+Santrampur	Panch Mahals	GUJARAT	389260
+Hirapur
+Jambughoda	Panch Mahals	GUJARAT	389390
+Indral
+Halol	Panch Mahals	GUJARAT	389350
+Jaban
+Jambughoda	Panch Mahals	GUJARAT	389390
+Jambughoda
+Jambughoda	Panch Mahals	GUJARAT	389390
+Jantral
+Kalol	Panch Mahals	GUJARAT	389320
+Janvad
+Santrampur	Panch Mahals	GUJARAT	389260
+Jepura
+Halol	Panch Mahals	GUJARAT	389360
+Jhara
+Lunawada	Panch Mahals	GUJARAT	389220
+Jitpura
+Godhra	Panch Mahals	GUJARAT	389340
+Jitpura
+Ghoghamba	Panch Mahals	GUJARAT	389360
+Juni Dhari
+Godhra	Panch Mahals	GUJARAT	388710
+Kadachhala
+Lunawada	Panch Mahals	GUJARAT	388270
+Kadadara
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Kadana
+Kadana	Panch Mahals	GUJARAT	389240
+Kajali
+Santrampur	Panch Mahals	GUJARAT	389265
+Kakachiya
+Lunawada	Panch Mahals	GUJARAT	389230
+Kakana Bhesavada
+Lunawada	Panch Mahals	GUJARAT	389230
+Kakanpur
+Godhra	Panch Mahals	GUJARAT	388713
+Kalibel
+Lunawada	Panch Mahals	GUJARAT	389235
+Kalol Panch Mahals
+Kalol	Panch Mahals	GUJARAT	389330
+Kalyana
+Godhra	Panch Mahals	GUJARAT	388710
+Kanajra
+Santrampur	Panch Mahals	GUJARAT	389260
+Kandach
+Kalol	Panch Mahals	GUJARAT	389310
+Kanesar
+Lunawada	Panch Mahals	GUJARAT	389230
+Kanjipani
+Jambughoda	Panch Mahals	GUJARAT	389390
+Kanjri
+Halol	Panch Mahals	GUJARAT	389350
+Kanod
+Kalol	Panch Mahals	GUJARAT	389320
+Kanpur
+Ghoghamba	Panch Mahals	GUJARAT	389365
+Kanteli
+Halol	Panch Mahals	GUJARAT	389370
+Kantu
+Ghoghamba	Panch Mahals	GUJARAT	389380
+Karada
+Kalol	Panch Mahals	GUJARAT	389320
+Karanta
+Lunawada	Panch Mahals	GUJARAT	389230
+Karoli
+Kalol	Panch Mahals	GUJARAT	389341
+Kavali
+Lunawada	Panch Mahals	GUJARAT	389210
+Kelamul
+Kadana	Panch Mahals	GUJARAT	389265
+Kenpur
+Santrampur	Panch Mahals	GUJARAT	389110
+Khadodi
+Khanpur	Panch Mahals	GUJARAT	389232
+Khandivav
+Jambughoda	Panch Mahals	GUJARAT	389390
+Khanpur
+Lunawada	Panch Mahals	GUJARAT	389230
+Kharkhadi
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Kharod
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Kharol
+Lunawada	Panch Mahals	GUJARAT	389220
+Khojalvasa
+Shehera	Panch Mahals	GUJARAT	389210
+Kidia
+Lunawada	Panch Mahals	GUJARAT	388270
+Kolvan
+Lunawada	Panch Mahals	GUJARAT	388270
+Kotha
+Shehera	Panch Mahals	GUJARAT	389210
+Kothamba
+Lunawada	Panch Mahals	GUJARAT	389220
+Kuwazar
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Labadadhara
+Ghoghamba	Panch Mahals	GUJARAT	389365
+Ladpur
+Santrampur	Panch Mahals	GUJARAT	389265
+Ladvel
+Lunawada	Panch Mahals	GUJARAT	389220
+Lakdi Poyada
+Lunawada	Panch Mahals	GUJARAT	388270
+Limadia
+Lunawada	Panch Mahals	GUJARAT	389230
+Limbhola
+Kadana	Panch Mahals	GUJARAT	389250
+Limbodara
+Lunawada	Panch Mahals	GUJARAT	389230
+Limdi Doli
+Santrampur	Panch Mahals	GUJARAT	389110
+Limdi Timba
+Khanpur	Panch Mahals	GUJARAT	389232
+Lunawada
+Lunawada	Panch Mahals	GUJARAT	389230
+Madar
+Halol	Panch Mahals	GUJARAT	389350
+Madhvas
+Kalol	Panch Mahals	GUJARAT	389330
+Madhvas
+Lunawada	Panch Mahals	GUJARAT	389230
+Maghasar
+Kalol	Panch Mahals	GUJARAT	389330
+Mahulia
+Godhra	Panch Mahals	GUJARAT	389001
+Makhalia
+Shehera	Panch Mahals	GUJARAT	389210
+Malav
+Kalol	Panch Mahals	GUJARAT	389310
+Malekpur
+NA	Panch Mahals	GUJARAT	389235
+Malu
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Malvan
+Santrampura	Panch Mahals	GUJARAT	389265
+Manchi Haveli
+Halol	Panch Mahals	GUJARAT	389360
+Mangliana
+Shehera	Panch Mahals	GUJARAT	389210
+Manipur C
+Godhra	Panch Mahals	GUJARAT	388713
+Masabar
+Jambughoda	Panch Mahals	GUJARAT	389390
+Mataria Vadi
+Morwa (Hadaf)	Panch Mahals	GUJARAT	389120
+Mataria Vejam
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Matariya Vyas
+Shehera	Panch Mahals	GUJARAT	389210
+Medapur
+Kalol	Panch Mahals	GUJARAT	389310
+Mehlol
+Godhra	Panch Mahals	GUJARAT	389340
+Mekhar
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Metral
+Morwa (Hadaf)	Panch Mahals	GUJARAT	389110
+Mirap
+Godhra	Panch Mahals	GUJARAT	389120
+Mithali
+Shehera	Panch Mahals	GUJARAT	389001
+Mojari
+Morva Hadaf	Panch Mahals	GUJARAT	389120
+Mol
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Mor
+Shehera	Panch Mahals	GUJARAT	389210
+Mora Panch Mahals
+Santrampur	Panch Mahals	GUJARAT	389110
+Morva Rena
+Shehera	Panch Mahals	GUJARAT	389001
+Morva Hadaf
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Mota Sonela
+Lunawada	Panch Mahals	GUJARAT	389230
+Motal
+Godhra	Panch Mahals	GUJARAT	389001
+Moti Ghoda
+Lunawada	Panch Mahals	GUJARAT	389230
+Moti Kantadi
+Godhra	Panch Mahals	GUJARAT	388710
+Moti Sarsan
+Lunawada	Panch Mahals	GUJARAT	389230
+Moti Umaravan
+Halol	Panch Mahals	GUJARAT	389370
+Motikayar
+Santrampur	Panch Mahals	GUJARAT	389260
+Motipura
+Halol	Panch Mahals	GUJARAT	389350
+Motirath
+Kadana	Panch Mahals	GUJARAT	389240
+MotirelW
+Santrampur	Panch Mahals	GUJARAT	389110
+Movasa
+Lunawada	Panch Mahals	GUJARAT	389235
+Mudavadekh
+Lunawada	Panch Mahals	GUJARAT	389230
+Munpur
+Kadana	Panch Mahals	GUJARAT	389240
+Nada
+Shehera	Panch Mahals	GUJARAT	389120
+Nadisar
+Godhra	Panch Mahals	GUJARAT	388710
+Namnar
+Lunawada	Panch Mahals	GUJARAT	388270
+Nana Rajanpur
+Kadana	Panch Mahals	GUJARAT	389250
+Nanavadadala
+Lunawada	Panch Mahals	GUJARAT	389235
+Nandarkha
+Godhra	Panch Mahals	GUJARAT	389340
+Nandarva
+Shehera	Panch Mahals	GUJARAT	389210
+Nani Bhugedi
+Santrampur	Panch Mahals	GUJARAT	389190
+Nani Kharsoli
+Kadana	Panch Mahals	GUJARAT	389265
+Nanidenavad
+Lunawada	Panch Mahals	GUJARAT	389230
+Naroda
+Lunawada	Panch Mahals	GUJARAT	389230
+Narukot
+Jambughoda	Panch Mahals	GUJARAT	389390
+Nasikpur
+Lunawada	Panch Mahals	GUJARAT	389230
+Natapur
+Morva Hadaf	Panch Mahals	GUJARAT	389120
+Nathkuwa
+Halol	Panch Mahals	GUJARAT	389360
+Nava Muvada
+Lunawada	Panch Mahals	GUJARAT	389230
+Navagam
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Navagam
+Morwa (Hadaf)	Panch Mahals	GUJARAT	389110
+Navakuwa
+Halol	Panch Mahals	GUJARAT	389360
+Nesda
+Kalol	Panch Mahals	GUJARAT	389320
+Orvada
+Godhra	Panch Mahals	GUJARAT	389120
+Padardi
+Shehera	Panch Mahals	GUJARAT	389210
+Padedi Ador
+Santrampur	Panch Mahals	GUJARAT	389260
+Padedi Rampur
+Lunawada	Panch Mahals	GUJARAT	389235
+Padhiyar
+Godhra	Panch Mahals	GUJARAT	388713
+Padhora
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Palikhanda
+Halol	Panch Mahals	GUJARAT	389370
+Palla
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Pandaravada
+Godhra	Panch Mahals	GUJARAT	389232
+Paroli
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Parvadi
+Godhra	Panch Mahals	GUJARAT	389120
+Pavagadh
+Halol	Panch Mahals	GUJARAT	389360
+Pingli
+Kalol	Panch Mahals	GUJARAT	389320
+Pratapgadh Khedapa
+Santrampur	Panch Mahals	GUJARAT	389172
+Rabadia
+Lunawada	Panch Mahals	GUJARAT	389220
+Rabod
+Kalol	Panch Mahals	GUJARAT	389310
+Rajayata
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Rambhem Na Muvada
+Lunawada	Panch Mahals	GUJARAT	389230
+Rameshra
+Halol	Panch Mahals	GUJARAT	389350
+Rampatel Na Muvada
+Lunawada	Panch Mahals	GUJARAT	389230
+Rampur Jodka
+Godhra	Panch Mahals	GUJARAT	389340
+Rampur Kasanpur
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Ranijini Padedi
+Lunawada	Panch Mahals	GUJARAT	389230
+Ranjitnagar
+Ghoghamba	Panch Mahals	GUJARAT	389360
+Rasulpur
+Morva Hadaf	Panch Mahals	GUJARAT	389120
+Ratanpur R
+Godhra	Panch Mahals	GUJARAT	388713
+Ratanpur Kantdi
+Godhra	Panch Mahals	GUJARAT	388710
+Ratanpura
+Kalol	Panch Mahals	GUJARAT	389330
+Ravalia
+Halol	Panch Mahals	GUJARAT	389350
+Rayan Muvada
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Rayanwadia
+Halol	Panch Mahals	GUJARAT	389360
+Rena
+Shehera	Panch Mahals	GUJARAT	389001
+Rinchhia
+Godhra	Panch Mahals	GUJARAT	389340
+Rinchhia
+Ghoghamba	Panch Mahals	GUJARAT	389360
+Rinchhvani
+Ghoghamba	Panch Mahals	GUJARAT	389380
+Sagawada
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Sajivav
+Shehera	Panch Mahals	GUJARAT	389210
+Sajora
+Ghoghmba	Panch Mahals	GUJARAT	389341
+Sama
+Kalol	Panch Mahals	GUJARAT	389320
+Samalkuva
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Samli
+Godhra	Panch Mahals	GUJARAT	389001
+Sampa
+Godhra	Panch Mahals	GUJARAT	389001
+Sangavada
+Santrampur	Panch Mahals	GUJARAT	389260
+Saniada
+Ghoghamba	Panch Mahals	GUJARAT	389380
+Sansoli
+Kalol	Panch Mahals	GUJARAT	389320
+Sant
+Santrampur	Panch Mahals	GUJARAT	389260
+Sant Road
+Morva Hadaf	Panch Mahals	GUJARAT	389120
+Santrampur
+Santrampur	Panch Mahals	GUJARAT	389260
+Saraswa
+Santrampur	Panch Mahals	GUJARAT	389110
+Saraswa
+Ghoghmba	Panch Mahals	GUJARAT	389365
+Saraswa North
+Kadana	Panch Mahals	GUJARAT	389240
+Sarsadi
+Kadana	Panch Mahals	GUJARAT	389240
+Sarsav
+Godhra	Panch Mahals	GUJARAT	389120
+Sat Talav
+Lunawada	Panch Mahals	GUJARAT	389230
+Sathrota
+Halol	Panch Mahals	GUJARAT	389350
+Satmana
+Kalol	Panch Mahals	GUJARAT	389320
+Shamna
+Lunawada	Panch Mahals	GUJARAT	389230
+Shehera
+Shehera	Panch Mahals	GUJARAT	389210
+Shekhpur
+Shehera	Panch Mahals	GUJARAT	389210
+Sherpura
+Ghoghamba	Panch Mahals	GUJARAT	389341
+Shivrajpur
+Halol	Panch Mahals	GUJARAT	389370
+Simalia
+Ghoghamba	Panch Mahals	GUJARAT	389341
+Siyal
+Santrampur	Panch Mahals	GUJARAT	389265
+Suliyat
+Santrampur	Panch Mahals	GUJARAT	389110
+Sureli
+Shehera	Panch Mahals	GUJARAT	389210
+Sureli
+Godhra	Panch Mahals	GUJARAT	389340
+Surpur
+Santrampur	Panch Mahals	GUJARAT	389260
+Tadva
+Shehera	Panch Mahals	GUJARAT	389210
+Tajpura
+Halol	Panch Mahals	GUJARAT	389350
+Talavdi
+Halol	Panch Mahals	GUJARAT	389370
+Tarkhanda
+Halol	Panch Mahals	GUJARAT	389350
+Thanasavli
+Lunawada	Panch Mahals	GUJARAT	389220
+Timba Gam
+Godhra	Panch Mahals	GUJARAT	388710
+Timba Road
+Godhra	Panch Mahals	GUJARAT	388710
+Timbla
+Santrampur	Panch Mahals	GUJARAT	389260
+Tuwa
+Godhra	Panch Mahals	GUJARAT	388713
+Ucharpi
+NA	Panch Mahals	GUJARAT	388270
+Uchet
+Jambughoda	Panch Mahals	GUJARAT	389390
+Ujeti
+Halol	Panch Mahals	GUJARAT	389350
+Ukhreli
+Santrampur	Panch Mahals	GUJARAT	389260
+Umber
+Santrampur	Panch Mahals	GUJARAT	389110
+Undra
+NA	Panch Mahals	GUJARAT	388270
+Vada Talav
+Halol	Panch Mahals	GUJARAT	389360
+Vadagam
+Lunawada	Panch Mahals	GUJARAT	389230
+Vadelav
+Godhra	Panch Mahals	GUJARAT	389120
+Vadi
+Godhra	Panch Mahals	GUJARAT	389001
+Vadina Gorda
+Lunawada	Panch Mahals	GUJARAT	389235
+Vadodar
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Vagadia Ni Andhari
+Kadana	Panch Mahals	GUJARAT	389240
+Vaghbod
+Halol	Panch Mahals	GUJARAT	389370
+Vaghjipur
+Shehera	Panch Mahals	GUJARAT	389120
+Vallavpur
+Shehera	Panch Mahals	GUJARAT	389001
+Vandeli
+Morva Hadaf	Panch Mahals	GUJARAT	389115
+Vania Vada Gorada
+Lunawada	Panch Mahals	GUJARAT	389235
+Vanjiakhut
+Santrampur	Panch Mahals	GUJARAT	389260
+Vankadi
+Santrampur	Panch Mahals	GUJARAT	389110
+Vardhari
+Lunawada	Panch Mahals	GUJARAT	388270
+Varsda
+Halol	Panch Mahals	GUJARAT	389350
+Vav
+Jambughoda	Panch Mahals	GUJARAT	389390
+Vavdi Buzarg
+Godhra	Panch Mahals	GUJARAT	389001
+Vavkulli
+Ghoghamba	Panch Mahals	GUJARAT	389341
+Veganpur
+Godhra	Panch Mahals	GUJARAT	388713
+Vejalpur
+Kalol	Panch Mahals	GUJARAT	389340
+Velanvada
+Kadana	Panch Mahals	GUJARAT	389240
+Vintoz
+Halol	Panch Mahals	GUJARAT	389350
+Viraniya
+Lunawada	Panch Mahals	GUJARAT	389230
+Vyasda
+Godhra	Panch Mahals	GUJARAT	389340
+Zankharia
+Halol	Panch Mahals	GUJARAT	389360
+Zinzari
+Ghoghamba	Panch Mahals	GUJARAT	389365
+Zinzwa
+Kadana	Panch Mahals	GUJARAT	389265
+

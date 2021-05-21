@@ -1,0 +1,819 @@
+Vadal moti
+Savarkundla	Bhavnagar	GUJARAT	364530
+Adhewada
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Adtala
+Gadhada	Bhavnagar	GUJARAT	364765
+Agiyali
+Sihor	Bhavnagar	GUJARAT	364260
+Akwada
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Alampar
+Umrala	Bhavnagar	GUJARAT	364320
+Alang SBY
+Talaja	Bhavnagar	GUJARAT	364081
+Amargadh
+Sihor	Bhavnagar	GUJARAT	364210
+Ambla
+Sihor	Bhavnagar	GUJARAT	364210
+Anandpur
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Anida
+Palitana	Bhavnagar	GUJARAT	364270
+Anida
+Gadhada Sn	Bhavnagar	GUJARAT	364740
+Ankolali
+NA	Bhavnagar	GUJARAT	364760
+Awaniya
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Ayavej
+NA	Bhavnagar	GUJARAT	364510
+Bagdana
+Talaja	Bhavnagar	GUJARAT	364145
+Bahadurpur
+NA	Bhavnagar	GUJARAT	364760
+Bajud
+Sihor	Bhavnagar	GUJARAT	364210
+Bambhan
+Botad	Bhavnagar	GUJARAT	364710
+Bambhania
+Mahuva	Bhavnagar	GUJARAT	364280
+Bapada
+Talaja	Bhavnagar	GUJARAT	364150
+Bela
+Talaja	Bhavnagar	GUJARAT	364150
+Belampur
+Mahuva	Bhavnagar	GUJARAT	364290
+Bhadbhid
+Vallbhipur	Bhavnagar	GUJARAT	364313
+Bhadla Nana
+Botad	Bhavnagar	GUJARAT	364720
+Bhadli
+Sihor	Bhavnagar	GUJARAT	364240
+Bhadra
+Mahuva	Bhavnagar	GUJARAT	364290
+Bhadravadi
+Botad	Bhavnagar	GUJARAT	364710
+Bhadraval
+Talaja	Bhavnagar	GUJARAT	364150
+Bhadrod
+Mahuva	Bhavnagar	GUJARAT	364295
+Bhadvav
+Palitana	Bhavnagar	GUJARAT	364270
+Bhandariya
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Bhandariya
+Palitana	Bhavnagar	GUJARAT	364270
+Bhandariya
+Bhavnagar	Bhavnagar	GUJARAT	364050
+Bhankhal
+Gogha	Bhavnagar	GUJARAT	364120
+Bharoli
+Gogha	Bhavnagar	GUJARAT	364120
+Bhavnagar Anandnagar
+Bhavnagar	Bhavnagar	GUJARAT	364005
+Bhavnagar Bharatnagar
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Bhavnagar BPTI
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Bhavnagar Chitra
+Bhavnagar	Bhavnagar	GUJARAT	364004
+Bhavnagar Collectorate
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar Gogha Circle
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar K Nagar
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar Khargate
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar Kumbharwada
+Bhavnagar	Bhavnagar	GUJARAT	364006
+Bhavnagar M K Road
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar Nirmalnagar
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar Para
+Bhavnagar	Bhavnagar	GUJARAT	364003
+Bhavnagar Shivaji Circle Area
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar Station Road
+Bhavnagar	Bhavnagar	GUJARAT	364006
+Bhavnagar Takhteshwar
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Bhavnagar Vora Bazar
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhavnagar Wadva
+Bhavnagar	Bhavnagar	GUJARAT	364001
+Bhikda
+Bhavnagar	Bhavnagar	GUJARAT	364060
+Bhimdad
+Botad	Bhavnagar	GUJARAT	364710
+Bhojavadar
+Umrala	Bhavnagar	GUJARAT	364320
+Bhojpara
+Bhavnagar	Bhavnagar	GUJARAT	364060
+Bhumbhli
+Gogha	Bhavnagar	GUJARAT	364110
+Bhutiya
+Palitana	Bhavnagar	GUJARAT	364270
+Bhutiya
+Sihor	Bhavnagar	GUJARAT	364230
+Bila
+Mahuva	Bhavnagar	GUJARAT	364280
+Boda
+Mahuva	Bhavnagar	GUJARAT	364295
+Bodi
+Botad	Bhavnagar	GUJARAT	364720
+Bodki
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Borda
+Talaja	Bhavnagar	GUJARAT	364130
+Bordi
+Mahuva	Bhavnagar	GUJARAT	364280
+Botad
+Botad	Bhavnagar	GUJARAT	364710
+Botad Statoin Road
+Botad	Bhavnagar	GUJARAT	364710
+Botad Town
+Botad	Bhavnagar	GUJARAT	364710
+Budhana
+Sihor	Bhavnagar	GUJARAT	364240
+Budhel
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Chabhadia
+Gadhada Sn	Bhavnagar	GUJARAT	364320
+Chamardi
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Chhapariyali
+Jesar	Bhavnagar	GUJARAT	364510
+Chhapri Juni
+Talaja	Bhavnagar	GUJARAT	364145
+Chogath
+Umrala	Bhavnagar	GUJARAT	364330
+Chok
+NA	Bhavnagar	GUJARAT	364510
+Concret Jetty
+Bhavnagar	Bhavnagar	GUJARAT	364005
+Dadva
+Umrala	Bhavnagar	GUJARAT	364320
+Dakana
+Talaja	Bhavnagar	GUJARAT	364140
+Damrala
+Palitana	Bhavnagar	GUJARAT	364265
+Dared
+Gadhada	Bhavnagar	GUJARAT	364760
+Datha
+Mahuva	Bhavnagar	GUJARAT	364130
+Dayal
+Mahuva	Bhavnagar	GUJARAT	364130
+Dedarda
+Palitana	Bhavnagar	GUJARAT	364265
+Degvada
+Mahuva	Bhavnagar	GUJARAT	364295
+Depla
+Jesar	Bhavnagar	GUJARAT	364510
+Devaliya
+Talaja	Bhavnagar	GUJARAT	364140
+Devgana
+Sihor	Bhavnagar	GUJARAT	364260
+Devli
+Talaja	Bhavnagar	GUJARAT	364140
+Dhakania
+Botad	Bhavnagar	GUJARAT	364710
+Dhankankunda
+Sihor	Bhavnagar	GUJARAT	364230
+Dharai
+Talaja	Bhavnagar	GUJARAT	364145
+Dharuka
+Umrala	Bhavnagar	GUJARAT	364330
+Dharwala
+Gadhada Sn	Bhavnagar	GUJARAT	364740
+Dhasa Gam
+Gadhada	Bhavnagar	GUJARAT	364730
+Dhasa Jn
+Gadhada Sn	Bhavnagar	GUJARAT	364740
+Dhola
+Umrala	Bhavnagar	GUJARAT	364320
+Dhrufania
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Dhundsar
+Sihor	Bhavnagar	GUJARAT	364260
+Dihor
+Talaja	Bhavnagar	GUJARAT	364150
+Dudhala
+Palitana	Bhavnagar	GUJARAT	364265
+Dudhala No. 2
+Mahuva	Bhavnagar	GUJARAT	364280
+Dudheri
+Mahuva	Bhavnagar	GUJARAT	364290
+Dundas
+Mahuva	Bhavnagar	GUJARAT	364290
+Fariyadka
+Bhavnagar	Bhavnagar	GUJARAT	364060
+Fulsar
+Talaja	Bhavnagar	GUJARAT	364140
+Gadhada Sn
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Gadhadiya
+Botad	Bhavnagar	GUJARAT	364720
+Gadhali
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Gadhesar
+Bhavnagar	Bhavnagar	GUJARAT	364130
+Galthar
+Mahuva	Bhavnagar	GUJARAT	364295
+Ganeshgadh
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Gariyadhar
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Ghanghli
+Sihor	Bhavnagar	GUJARAT	364240
+Gheti
+Palitana	Bhavnagar	GUJARAT	364265
+Gogha
+NA	Bhavnagar	GUJARAT	364110
+Goradka
+Gadhada	Bhavnagar	GUJARAT	364765
+Goras
+Mahuva	Bhavnagar	GUJARAT	364280
+Gorkhi
+Talaja	Bhavnagar	GUJARAT	364140
+Gujarda
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Gundala
+Gadhada Sn	Bhavnagar	GUJARAT	364730
+Gundala
+Sihor	Bhavnagar	GUJARAT	364260
+Gundarna
+Mahuva	Bhavnagar	GUJARAT	364295
+Gundarni
+Mahuva	Bhavnagar	GUJARAT	364290
+Habukvad
+Talaja	Bhavnagar	GUJARAT	364150
+Haddad
+Botad	Bhavnagar	GUJARAT	364710
+Hadmatiya
+Sihor	Bhavnagar	GUJARAT	364230
+Hajipur
+NA	Bhavnagar	GUJARAT	364250
+Haliyad
+Umrala	Bhavnagar	GUJARAT	364330
+Hanol
+NA	Bhavnagar	GUJARAT	364760
+Haripar
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Hathab
+Bhavnagar	Bhavnagar	GUJARAT	364070
+Hathasani
+Palitana	Bhavnagar	GUJARAT	364270
+Hoidad
+Bhavnagar	Bhavnagar	GUJARAT	364070
+Ingorala
+Umrala	Bhavnagar	GUJARAT	364320
+Ingorala
+Bhavnagar	Bhavnagar	GUJARAT	364730
+Ishwariya
+Sihor	Bhavnagar	GUJARAT	364230
+Itaria
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Jalalpur
+Gadhada Sn	Bhavnagar	GUJARAT	364740
+Jaliya Amraji
+Palitana	Bhavnagar	GUJARAT	364270
+Jaliya
+Gariyadhar	Bhavnagar	GUJARAT	364740
+JaliyaP
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Jamanvav
+Palitana	Bhavnagar	GUJARAT	364270
+Jambala
+Sihor	Bhavnagar	GUJARAT	364260
+Jaspara
+Talaja	Bhavnagar	GUJARAT	364120
+Jesar
+Jesar	Bhavnagar	GUJARAT	364510
+Junarampar
+Umrala	Bhavnagar	GUJARAT	364330
+Junvadar
+Gadhada Sn	Bhavnagar	GUJARAT	364730
+Kalsar
+Mahuva	Bhavnagar	GUJARAT	364130
+Kalyanpur
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Kamlej
+Bhavnagar	Bhavnagar	GUJARAT	364060
+Kamlol Nani
+Talaja	Bhavnagar	GUJARAT	364140
+Kanad
+Sihor	Bhavnagar	GUJARAT	364240
+Kanjarda
+Palitana	Bhavnagar	GUJARAT	364265
+Kanpar
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Kantasar
+Mahuva	Bhavnagar	GUJARAT	364295
+Kanthariya
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Kardej
+Bhavnagar	Bhavnagar	GUJARAT	364060
+Kariyani
+Botad	Bhavnagar	GUJARAT	364710
+Karla
+Mahuva	Bhavnagar	GUJARAT	364280
+Karmadiya
+Talaja	Bhavnagar	GUJARAT	364145
+Katpar
+Mahuva	Bhavnagar	GUJARAT	364290
+Kerala
+Talaja	Bhavnagar	GUJARAT	364135
+Kerala
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Khadarpar
+Talaja	Bhavnagar	GUJARAT	364120
+Khadsaliya
+Bhavnagar	Bhavnagar	GUJARAT	364070
+Khandhera
+Talaja	Bhavnagar	GUJARAT	364140
+Kharakadi
+Sihor	Bhavnagar	GUJARAT	364260
+Khared
+Mahuva	Bhavnagar	GUJARAT	364290
+Kharedi
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Khari
+Mahuva	Bhavnagar	GUJARAT	364295
+Khari
+Sihor	Bhavnagar	GUJARAT	364240
+Khijadiya
+Gadhada Sn	Bhavnagar	GUJARAT	364730
+Khopala
+Umrala	Bhavnagar	GUJARAT	364320
+Kinkariya
+Mahuva	Bhavnagar	GUJARAT	364280
+Koliyak
+Bhavnagar	Bhavnagar	GUJARAT	364070
+Konjli
+Mahuva	Bhavnagar	GUJARAT	364290
+Kukad
+Gogha	Bhavnagar	GUJARAT	364120
+Kumbhan
+Sihor	Bhavnagar	GUJARAT	364250
+Kumbhan
+Mahuva	Bhavnagar	GUJARAT	364290
+Kumbhara
+Botad	Bhavnagar	GUJARAT	364720
+Kumbhariya
+Talaja	Bhavnagar	GUJARAT	364145
+Kundhada
+Talaja	Bhavnagar	GUJARAT	364145
+Kundheli
+Talaja	Bhavnagar	GUJARAT	364140
+Lakadiya
+Gogha	Bhavnagar	GUJARAT	364150
+Lakhanka
+Bhavnagar	Bhavnagar	GUJARAT	364070
+Lakhanka
+Gadhada	Bhavnagar	GUJARAT	364765
+Lakheni
+Gadhada	Bhavnagar	GUJARAT	364760
+Langala
+Umrala	Bhavnagar	GUJARAT	364320
+Lathidad
+Botad	Bhavnagar	GUJARAT	364710
+Limbdiya
+Gadhada Sn	Bhavnagar	GUJARAT	364730
+Limda H
+Gadhada Sn	Bhavnagar	GUJARAT	364740
+Loinga
+Mahuva	Bhavnagar	GUJARAT	364295
+Lokshala
+Talaja	Bhavnagar	GUJARAT	364150
+Loliyana
+Umrala	Bhavnagar	GUJARAT	364330
+Longdi
+Mahuva	Bhavnagar	GUJARAT	364295
+Lundhara
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Lusdi
+Mahuva	Bhavnagar	GUJARAT	364290
+Luvara
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Luvarvav
+Palitana	Bhavnagar	GUJARAT	364270
+Madhada
+Sihor	Bhavnagar	GUJARAT	364240
+Madhiya
+Mahuva	Bhavnagar	GUJARAT	364290
+Mahuva Bazar
+Mahuva	Bhavnagar	GUJARAT	364290
+Mahuva Gandhibaug
+Mahuva	Bhavnagar	GUJARAT	364290
+Mahuva Bhavnagar
+Mahuva	Bhavnagar	GUJARAT	364290
+Makhania
+Talaja	Bhavnagar	GUJARAT	364140
+Malanka
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Malpara
+Bhavnagar	Bhavnagar	GUJARAT	364002
+Malpara
+Gadhada Sn	Bhavnagar	GUJARAT	364730
+Malvav
+Mahuva	Bhavnagar	GUJARAT	364130
+Manar
+Talaja	Bhavnagar	GUJARAT	364150
+Mandavdhar
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Mandva
+Gadhada Sn	Bhavnagar	GUJARAT	364740
+Mandvi
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Mangadh
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Melana
+Gadhada	Bhavnagar	GUJARAT	364760
+Mendha
+Talaja	Bhavnagar	GUJARAT	364140
+Mevasa
+Vallbhipur	Bhavnagar	GUJARAT	364313
+Mokhada
+Palitana	Bhavnagar	GUJARAT	364270
+Monpar
+Vallabhipur	Bhavnagar	GUJARAT	364313
+Monpar
+Talaja	Bhavnagar	GUJARAT	364145
+Morba
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Morchand
+Gogha	Bhavnagar	GUJARAT	364050
+Morchupna
+NA	Bhavnagar	GUJARAT	364510
+Mota Asrana
+Mahuva	Bhavnagar	GUJARAT	364280
+Mota Charodiya
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Mota Khokhra
+Gogha	Bhavnagar	GUJARAT	364050
+Mota Surka
+Sihor	Bhavnagar	GUJARAT	364240
+Mota Umarda
+Gadhada Sn	Bhavnagar	GUJARAT	364740
+Mota Zadra
+Mahuva	Bhavnagar	GUJARAT	364290
+Motakhuntavada
+Mahuva	Bhavnagar	GUJARAT	364280
+Moti Dharai
+Vallbhipur	Bhavnagar	GUJARAT	364313
+Moti Jagdhar
+Mahuva	Bhavnagar	GUJARAT	364295
+Moti Kundal
+Gadhada	Bhavnagar	GUJARAT	364730
+Moti Rajasthali
+Palitana	Bhavnagar	GUJARAT	364270
+Moti Vavdi
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Muldharai
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Nagalpar
+Botad	Bhavnagar	GUJARAT	364710
+Nagdhaniba
+Gogha	Bhavnagar	GUJARAT	364050
+Naip
+Mahuva	Bhavnagar	GUJARAT	364290
+Nana Asrana
+Mahuva	Bhavnagar	GUJARAT	364280
+Nana Jadra
+Mahuva	Bhavnagar	GUJARAT	364290
+Nana Khuntavada
+Mahuva	Bhavnagar	GUJARAT	364295
+Nana Surka
+Sihor	Bhavnagar	GUJARAT	364250
+Nani Rajashtali
+Palitana	Bhavnagar	GUJARAT	364270
+Nani Vavdi
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Nanimal
+Palitana	Bhavnagar	GUJARAT	364265
+Nari
+Bhavnagar	Bhavnagar	GUJARAT	364004
+Nava Ratanpar
+Bhavnagar	Bhavnagar	GUJARAT	364070
+Nava Sangana
+Talaja	Bhavnagar	GUJARAT	364140
+Nava Sarod
+Palitana	Bhavnagar	GUJARAT	364270
+Navagam
+Sihor	Bhavnagar	GUJARAT	364250
+Navagam
+Vallabhipur	Bhavnagar	GUJARAT	364313
+Navagam
+Gogha	Bhavnagar	GUJARAT	364120
+Navania
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Nesda
+Sihor	Bhavnagar	GUJARAT	364240
+Nesvad
+Mahuva	Bhavnagar	GUJARAT	364290
+Nincha Kotda
+Mahuva	Bhavnagar	GUJARAT	364130
+Ningala
+Botad	Bhavnagar	GUJARAT	364760
+Nonghanvadar
+Palitana	Bhavnagar	GUJARAT	364230
+Otha
+Mahuva	Bhavnagar	GUJARAT	364295
+Pachhegam
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Pachhegam
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Padapan
+Sihor	Bhavnagar	GUJARAT	364230
+Padri G
+Talaja	Bhavnagar	GUJARAT	364150
+Padva
+Gogha	Bhavnagar	GUJARAT	364050
+Padvadar
+Gadhada	Bhavnagar	GUJARAT	364730
+Paldi
+Sihor	Bhavnagar	GUJARAT	364250
+Palitana Dc
+Palitana	Bhavnagar	GUJARAT	364270
+Palitana
+Palitana	Bhavnagar	GUJARAT	364270
+Palitana SR
+Palitana	Bhavnagar	GUJARAT	364270
+Paliyad
+Botad	Bhavnagar	GUJARAT	364720
+Panchpipla
+Palitana	Bhavnagar	GUJARAT	364265
+Panchtobra
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Panchvada
+Sihor	Bhavnagar	GUJARAT	364250
+Panvi
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Parvadi
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Parvala
+Umrala	Bhavnagar	GUJARAT	364320
+Pasvi
+Talaja	Bhavnagar	GUJARAT	364140
+Pati
+Gadhada	Bhavnagar	GUJARAT	364760
+Patna Malji
+Gadhada Sn	Bhavnagar	GUJARAT	364730
+Patna Bhal
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Pavthi
+Talaja	Bhavnagar	GUJARAT	364140
+Pingli
+Sihor	Bhavnagar	GUJARAT	364260
+Pipaliya
+Sihor	Bhavnagar	GUJARAT	364240
+Pipaliya
+Gadhada	Bhavnagar	GUJARAT	364765
+Pipardi
+Gadhada Sn	Bhavnagar	GUJARAT	364730
+Pipardi
+Sihor	Bhavnagar	GUJARAT	364230
+Pipardi
+Umrala	Bhavnagar	GUJARAT	364320
+Pithalpur
+Talaja	Bhavnagar	GUJARAT	364135
+Pratappara
+Talaja	Bhavnagar	GUJARAT	364135
+Rajavadar
+Mahuva	Bhavnagar	GUJARAT	364290
+Rajgadh
+Vallbhipur	Bhavnagar	GUJARAT	364313
+Rajpara
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Rajpara No. 2
+Talaja	Bhavnagar	GUJARAT	364120
+Rajpipla
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Ralgon
+Talaja	Bhavnagar	GUJARAT	364145
+Ramanka
+Umrala	Bhavnagar	GUJARAT	364320
+Ramdhari
+Sihor	Bhavnagar	GUJARAT	364210
+Randola
+Sihor	Bhavnagar	GUJARAT	364240
+Ranghola
+Umrala	Bhavnagar	GUJARAT	364230
+Rangpur
+Botad	Bhavnagar	GUJARAT	364710
+Ranigam
+Jesar	Bhavnagar	GUJARAT	364510
+Raniwada
+Mahuva	Bhavnagar	GUJARAT	364130
+Ranparda
+Palitana	Bhavnagar	GUJARAT	364265
+Rasnal
+Gadhada Sn	Bhavnagar	GUJARAT	364730
+Ratanpar
+Palitana	Bhavnagar	GUJARAT	364270
+Ratanpur Bhal
+Vallabhipur	Bhavnagar	GUJARAT	364313
+Ratanvav
+Vallabhipur	Bhavnagar	GUJARAT	364310
+Ratol
+Mahuva	Bhavnagar	GUJARAT	364290
+Reliya
+Talaja	Bhavnagar	GUJARAT	364135
+Reliyana
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Reva
+Sihor	Bhavnagar	GUJARAT	364230
+Rohishala
+Gadhada	Bhavnagar	GUJARAT	364760
+Rohishala
+Palitana	Bhavnagar	GUJARAT	364270
+Rojiya
+Mahuva	Bhavnagar	GUJARAT	364130
+Royal
+Talaja	Bhavnagar	GUJARAT	364150
+Rupavati
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Sakhdasar No.2
+Talaja	Bhavnagar	GUJARAT	364120
+Sakhpar Mota
+Gadhada	Bhavnagar	GUJARAT	364750
+Sakhvadar
+Talaja	Bhavnagar	GUJARAT	364140
+Salaiya
+Botad	Bhavnagar	GUJARAT	364710
+Salangpur
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Samadhiyala Mulani
+Palitana	Bhavnagar	GUJARAT	364230
+Samadhiyala
+Umrala	Bhavnagar	GUJARAT	364320
+Samadhiyala No. 1
+Botad	Bhavnagar	GUJARAT	364710
+Samadhiyala No. 2
+Botad	Bhavnagar	GUJARAT	364710
+Sanala
+Jesar	Bhavnagar	GUJARAT	364510
+Sandhkhakhara
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Sanesh
+Vallbhipur	Bhavnagar	GUJARAT	364313
+Sangvadar
+Botad	Bhavnagar	GUJARAT	364710
+Sankhadasar No.1
+Talaja	Bhavnagar	GUJARAT	364140
+Sanodar
+Gogha	Bhavnagar	GUJARAT	364050
+Sanosara
+Sihor	Bhavnagar	GUJARAT	364230
+Sarera
+Mahuva	Bhavnagar	GUJARAT	364280
+Sartanpar
+Gogha	Bhavnagar	GUJARAT	364050
+Sartanpar
+Talaja	Bhavnagar	GUJARAT	364140
+Sarva
+Botad	Bhavnagar	GUJARAT	364720
+Sathra
+Mahuva	Bhavnagar	GUJARAT	364290
+Sathra
+Talaja	Bhavnagar	GUJARAT	364150
+Satpada
+Palitana	Bhavnagar	GUJARAT	364265
+Sedarda
+Mahuva	Bhavnagar	GUJARAT	364280
+Senjaliya
+Palitana	Bhavnagar	GUJARAT	364270
+Shantinagar
+Mahuva	Bhavnagar	GUJARAT	364280
+Sherthali
+Botad	Bhavnagar	GUJARAT	364710
+Shetruji Dam
+Palitana	Bhavnagar	GUJARAT	364270
+Shivendra Nagar
+Gariyadhar	Bhavnagar	GUJARAT	364265
+Shiyanagar
+Gadhada	Bhavnagar	GUJARAT	364760
+Shobhavad
+Talaja	Bhavnagar	GUJARAT	364140
+Sidsar
+Bhavnagar	Bhavnagar	GUJARAT	364060
+Sihor
+Sihor	Bhavnagar	GUJARAT	364240
+Songadh
+Sihor	Bhavnagar	GUJARAT	364250
+Sosiya
+Talaja	Bhavnagar	GUJARAT	364081
+Surka
+Gadhada	Bhavnagar	GUJARAT	364765
+Surnagar
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Surnivas
+NA	Bhavnagar	GUJARAT	364505
+Tajpar
+Bhavnagar	Bhavnagar	GUJARAT	364710
+Talaja
+Talaja	Bhavnagar	GUJARAT	364140
+Talgajarda
+Mahuva	Bhavnagar	GUJARAT	364290
+Tana
+Bhavnagar	Bhavnagar	GUJARAT	364260
+Tansa
+Gogha	Bhavnagar	GUJARAT	364120
+Tared
+Mahuva	Bhavnagar	GUJARAT	364290
+Targhara
+Botad	Bhavnagar	GUJARAT	364710
+Tarsara
+Talaja	Bhavnagar	GUJARAT	364140
+Tatam
+Gadhada	Bhavnagar	GUJARAT	364765
+Tatania
+Mahuva	Bhavnagar	GUJARAT	364280
+Thadach
+Talaja	Bhavnagar	GUJARAT	364140
+Thaliya
+Talaja	Bhavnagar	GUJARAT	364145
+Thansa
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Thordi
+Gogha	Bhavnagar	GUJARAT	364110
+Timana
+Talaja	Bhavnagar	GUJARAT	364150
+Timba
+Gariyadhar	Bhavnagar	GUJARAT	364275
+Timbi
+Umrala	Bhavnagar	GUJARAT	364320
+Trapaj
+Talaja	Bhavnagar	GUJARAT	364150
+Turkha
+Botad	Bhavnagar	GUJARAT	364710
+Ugalvan
+Mahuva	Bhavnagar	GUJARAT	364280
+Ugamedi
+Gadhada	Bhavnagar	GUJARAT	364765
+Ujalvav
+Umrala	Bhavnagar	GUJARAT	364320
+Ukharla
+Gogha	Bhavnagar	GUJARAT	364050
+Umrala
+Umrala	Bhavnagar	GUJARAT	364330
+Unchadi
+Talaja	Bhavnagar	GUJARAT	364140
+Usrad
+Sihor	Bhavnagar	GUJARAT	364240
+Vadiya
+Palitana	Bhavnagar	GUJARAT	364270
+Vadod
+Umrala	Bhavnagar	GUJARAT	364320
+Vaghnagar
+Mahuva	Bhavnagar	GUJARAT	364290
+Valar
+Mahuva	Bhavnagar	GUJARAT	364130
+Vallabhipur
+Vallabhiopur	Bhavnagar	GUJARAT	364310
+Valukad
+NA	Bhavnagar	GUJARAT	364270
+Valukad
+Bhavnagar	Bhavnagar	GUJARAT	364060
+Varal
+Sihor	Bhavnagar	GUJARAT	364260
+Vartej
+Bhavnagar	Bhavnagar	GUJARAT	364060
+Vav
+Sihor	Bhavnagar	GUJARAT	364210
+Vavdi
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+Vavdi
+Sihor	Bhavnagar	GUJARAT	364230
+Vavdi
+Gogha	Bhavnagar	GUJARAT	364120
+Vavdi
+Umrala	Bhavnagar	GUJARAT	364330
+Vejodari
+Mahuva	Bhavnagar	GUJARAT	364130
+Velavadar
+Vallbhiopur	Bhavnagar	GUJARAT	364313
+Velavadar
+Gariyadhar	Bhavnagar	GUJARAT	364505
+Vikaliya
+Gadhada Sn	Bhavnagar	GUJARAT	364740
+Zadakla
+Jesar	Bhavnagar	GUJARAT	364510
+Zamrala
+Botad	Bhavnagar	GUJARAT	364710
+Zanjmer
+Talaja	Bhavnagar	GUJARAT	364135
+Zinza Vadar Mota
+Gadhada	Bhavnagar	GUJARAT	364760
+Zinzavadar Nana
+Gadhada	Bhavnagar	GUJARAT	364760
+Ambardi
+Gadhada	Bhavnagar	GUJARAT	364750
+Bhadli
+Gadhada Sn	Bhavnagar	GUJARAT	364750
+
